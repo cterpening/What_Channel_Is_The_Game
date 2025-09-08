@@ -1,6 +1,6 @@
 # Football Schedules
 
-_Last updated: 2025-09-08 17:57 UTC_
+_Last updated: 2025-09-08 18:30 UTC_
 
 ## College Football — Upcoming Week
 2025-09-08 to 2025-09-14  
@@ -12,10 +12,10 @@ _All times ET_
 | 9/12/2025 | Indiana State | Indiana | 6:30 PM | BTN | Memorial Stadium (Bloomington, IN), Bloomington, IN | Home 195 |  |  |
 | 9/12/2025 | Colgate | Syracuse | 7:00 PM | ACC Network | JMA Wireless Dome, Syracuse, NY | Home 81 |  |  |
 | 9/12/2025 | Colorado | Houston | 7:30 PM | ESPN | TDECU Stadium, Houston, TX | Home 84 | HOU -5.5 | 43.5 |
-| 9/12/2025 | Kansas State | Arizona | 9:00 PM | FOX | Arizona Stadium, Tucson, AZ | Home 83 | ARIZ -2.5 | 54.5 |
-| 9/12/2025 | New Mexico | UCLA | 10:00 PM | BTN | Rose Bowl, Pasadena, CA | Home 195 | UCLA -15.5 | 53.5 |
+| 9/12/2025 | Kansas State | Arizona | 9:00 PM | FOX | Arizona Stadium, Tucson, AZ | Home 83 | ARIZ -1.5 | 54.5 |
+| 9/12/2025 | New Mexico | UCLA | 10:00 PM | BTN | Rose Bowl, Pasadena, CA | Home 195 | UCLA -15.5 | 52.5 |
 | 9/13/2025 | Oregon | Northwestern | 12:00 PM | FOX | Northwestern Medicine Field at Martin Stadium, Evanston, IL |  | ORE -27.5 | 50.5 |
-| 9/13/2025 | Clemson | Georgia Tech | 12:00 PM | ESPN | Bobby Dodd Stadium, Atlanta, GA |  | CLEM -4.5 | 58.5 |
+| 9/13/2025 | Clemson | Georgia Tech | 12:00 PM | ESPN | Bobby Dodd Stadium, Atlanta, GA |  | CLEM -9.5 | 58.5 |
 | 9/13/2025 | Oklahoma | Temple | 12:00 PM | ESPN2 | Lincoln Financial Field, Philadelphia, PA |  | OU -24.5 | 51.5 |
 | 9/13/2025 | Wisconsin | Alabama | 12:00 PM | ABC | Bryant-Denny Stadium, Tuscaloosa, AL |  | ALA -20.5 | 47.5 |
 | 9/13/2025 | Central Michigan | Michigan | 12:00 PM | BTN | Michigan Stadium, Ann Arbor, MI | Home 195 | MICH -27.5 | 42.5 |
@@ -30,13 +30,13 @@ _All times ET_
 | 9/13/2025 | UConn | Delaware | 3:00 PM | ESPN+ | Delaware Stadium, Newark, DE |  | CONN -10.5 | 52.5 |
 | 9/13/2025 | Villanova | Penn State | 3:30 PM | FS1 | Beaver Stadium, University Park, PA |  |  |  |
 | 9/13/2025 | Georgia | Tennessee | 3:30 PM | ABC | Neyland Stadium, Knoxville, TN | Home 380 | UGA -3.5 | 50.5 |
-| 9/13/2025 | Oregon State | Texas Tech | 3:30 PM | FOX | Jones AT&T Stadium, Lubbock, TX |  | TTU -23.5 | 61.5 |
+| 9/13/2025 | Oregon State | Texas Tech | 3:30 PM | FOX | Jones AT&T Stadium, Lubbock, TX |  | TTU -23.5 | 60.5 |
 | 9/13/2025 | USC | Purdue | 3:30 PM | CBS, Paramount+ | Ross-Ade Stadium, West Lafayette, IN |  | USC -21.5 | 58.5 |
 | 9/13/2025 | Norfolk State | Rutgers | 3:30 PM | BTN | SHI Stadium, Piscataway, NJ |  |  |  |
 | 9/13/2025 | Youngstown State | Michigan State | 3:30 PM | BTN | Spartan Stadium, East Lansing, MI |  |  |  |
 | 9/13/2025 | Washington State | North Texas | 3:30 PM | ESPNU | DATCU Stadium, Denton, TX |  | UNT -4.5 | 58.5 |
 | 9/13/2025 | SMU | Missouri State | 3:30 PM | CBSSN | Robert W. Plaster Stadium, Springfield, MO |  | SMU -27.5 | 60.5 |
-| 9/13/2025 | Pittsburgh | West Virginia | 3:30 PM | ESPN | Milan Puskar Stadium, Morgantown, WV |  | PITT -5.5 | 57.5 |
+| 9/13/2025 | Pittsburgh | West Virginia | 3:30 PM | ESPN | Milan Puskar Stadium, Morgantown, WV |  | PITT -6.5 | 57.5 |
 | 9/13/2025 | Richmond | North Carolina | 3:30 PM | ACC Network | Kenan Stadium, Chapel Hill, NC |  |  |  |
 | 9/13/2025 | Northwestern State | Cincinnati | 3:30 PM | ESPN+ | Nippert Stadium, Cincinnati, OH |  |  |  |
 | 9/13/2025 | Incarnate Word | UTSA | 3:30 PM | ESPN+ | Alamodome, San Antonio, TX |  |  |  |
@@ -46,7 +46,7 @@ _All times ET_
 | 9/13/2025 | UTEP | Texas | 4:15 PM | SEC Network | DKR-Texas Memorial Stadium, Austin, TX | Home 190 | TEX -41.5 | 51.5 |
 | 9/13/2025 | South Florida | Miami | 4:30 PM | The CW Network | Hard Rock Stadium, Miami Gardens, FL |  | MIA -17.5 | 55.5 |
 | 9/13/2025 | Liberty | Bowling Green | 5:00 PM | ESPN+ | Doyt L. Perry Stadium, Bowling Green, OH | Home 966 | LIB -6.5 | 51.5 |
-| 9/13/2025 | Middle Tennessee | Nevada | 5:00 PM | MWN, NSN | Mackay Stadium, Reno, NV |  | NEV -9.5 | 47.5 |
+| 9/13/2025 | Middle Tennessee | Nevada | 5:00 PM | MWN, NSN | Mackay Stadium, Reno, NV |  | NEV -9.5 | 46.5 |
 | 9/13/2025 | Alcorn State | Mississippi State | 6:00 PM | ESPN+, SECN+ | Davis Wade Stadium, Starkville, MS | Away 994 |  |  |
 | 9/13/2025 | Florida Atlantic | Florida International | 6:00 PM | ESPN+ | Pitbull Stadium, Miami, FL |  | FIU -2.5 | 57.5 |
 | 9/13/2025 | Merrimack | Kennesaw State | 6:00 PM | ESPN+ | Fifth Third Stadium, Kennesaw, GA |  |  |  |
@@ -58,12 +58,12 @@ _All times ET_
 | 9/13/2025 | Old Dominion | Virginia Tech | 7:00 PM | ACC Network | Lane Stadium, Blacksburg, VA |  | VT -7.5 | 51.5 |
 | 9/13/2025 | Jacksonville State | Georgia Southern | 7:00 PM | ESPN+ | Allen E. Paulson Stadium, Statesboro, GA |  | GASO -3.5 | 57.5 |
 | 9/13/2025 | Murray State | Georgia State | 7:00 PM | ESPN+ | Center Parc Stadium, Atlanta, GA |  |  |  |
-| 9/13/2025 | App State | Southern Miss | 7:00 PM | ESPN+ | M. M. Roberts Stadium, Hattiesburg, MS | Home 996 | APP -1.5 | 54.5 |
+| 9/13/2025 | App State | Southern Miss | 7:00 PM | ESPN+ | M. M. Roberts Stadium, Hattiesburg, MS | Home 996 | USM -1.5 | 54.5 |
 | 9/13/2025 | Prairie View A&M | Rice | 7:00 PM | ESPN+ | Rice Stadium, Houston, TX |  |  |  |
 | 9/13/2025 | Florida | LSU | 7:30 PM | ABC | Tiger Stadium (LA), Baton Rouge, LA |  | LSU -9.5 | 50.5 |
 | 9/13/2025 | Texas A&M | Notre Dame | 7:30 PM | NBC, Peacock | Notre Dame Stadium, Notre Dame, IN |  | ND -6.5 | 49.5 |
-| 9/13/2025 | Eastern Michigan | Kentucky | 7:30 PM | ESPNU | Kroger Field, Lexington, KY |  | UK -24.5 | 45.5 |
-| 9/13/2025 | Massachusetts | Iowa | 7:30 PM | BTN | Kinnick Stadium, Iowa City, IA |  | IOWA -33.5 | 44.5 |
+| 9/13/2025 | Eastern Michigan | Kentucky | 7:30 PM | ESPNU | Kroger Field, Lexington, KY |  | UK -24.5 | 44.5 |
+| 9/13/2025 | Massachusetts | Iowa | 7:30 PM | BTN | Kinnick Stadium, Iowa City, IA |  | IOWA -35.5 | 44.5 |
 | 9/13/2025 | New Mexico State | Louisiana Tech | 7:30 PM | ESPN+ | Joe Aillet Stadium, Ruston, LA |  | LT -9.5 | 43.5 |
 | 9/13/2025 | East Carolina | Coastal Carolina | 7:30 PM | ESPN+ | Brooks Stadium (SC), Conway, SC | Home 985; Away 82 | ECU -7.5 | 54.5 |
 | 9/13/2025 | Vanderbilt | South Carolina | 7:45 PM | SEC Network | Williams-Brice Stadium, Columbia, SC |  | SC -5.5 | 47.5 |
