@@ -1,6 +1,6 @@
 # Football Schedules
 
-_Last updated: 2025-09-08 18:30 UTC_
+_Last updated: 2025-09-08 21:12 UTC_
 
 ## College Football — Upcoming Week
 2025-09-08 to 2025-09-14  
@@ -23,7 +23,7 @@ _All times ET_
 | 9/13/2025 | Towson | Maryland | 12:00 PM | Peacock | SECU Stadium, College Park, MD |  |  |  |
 | 9/13/2025 | William & Mary | Virginia | 12:00 PM | ACC Network | Scott Stadium, Charlottesville, VA |  |  |  |
 | 9/13/2025 | Samford | Baylor | 12:00 PM | ESPN+ | McLane Stadium, Waco, TX |  |  |  |
-| 9/13/2025 | Memphis | Troy | 12:00 PM | ESPNU | Veterans Memorial Stadium (AL), Troy, AL |  | MEM -4.5 | 51.5 |
+| 9/13/2025 | Memphis | Troy | 12:00 PM | ESPNU | Veterans Memorial Stadium (AL), Troy, AL |  | MEM -5.5 | 51.5 |
 | 9/13/2025 | Buffalo | Kent State | 12:00 PM | CBSSN | Dix Stadium, Kent, OH |  | BUF -21.5 | 48.5 |
 | 9/13/2025 | South Alabama | Auburn | 12:45 PM | SEC Network | Jordan-Hare Stadium, Auburn, AL | Home 190 | AUB -24.5 | 53.5 |
 | 9/13/2025 | New Hampshire | Ball State | 2:00 PM | ESPN+ | Scheumann Stadium, Muncie, IN |  |  |  |
@@ -63,8 +63,8 @@ _All times ET_
 | 9/13/2025 | Florida | LSU | 7:30 PM | ABC | Tiger Stadium (LA), Baton Rouge, LA |  | LSU -9.5 | 50.5 |
 | 9/13/2025 | Texas A&M | Notre Dame | 7:30 PM | NBC, Peacock | Notre Dame Stadium, Notre Dame, IN |  | ND -6.5 | 49.5 |
 | 9/13/2025 | Eastern Michigan | Kentucky | 7:30 PM | ESPNU | Kroger Field, Lexington, KY |  | UK -24.5 | 44.5 |
-| 9/13/2025 | Massachusetts | Iowa | 7:30 PM | BTN | Kinnick Stadium, Iowa City, IA |  | IOWA -35.5 | 44.5 |
-| 9/13/2025 | New Mexico State | Louisiana Tech | 7:30 PM | ESPN+ | Joe Aillet Stadium, Ruston, LA |  | LT -9.5 | 43.5 |
+| 9/13/2025 | Massachusetts | Iowa | 7:30 PM | BTN | Kinnick Stadium, Iowa City, IA |  | IOWA -35.5 | 43.5 |
+| 9/13/2025 | New Mexico State | Louisiana Tech | 7:30 PM | ESPN+ | Joe Aillet Stadium, Ruston, LA |  | LT -9.5 | 42.5 |
 | 9/13/2025 | East Carolina | Coastal Carolina | 7:30 PM | ESPN+ | Brooks Stadium (SC), Conway, SC | Home 985; Away 82 | ECU -7.5 | 54.5 |
 | 9/13/2025 | Vanderbilt | South Carolina | 7:45 PM | SEC Network | Williams-Brice Stadium, Columbia, SC |  | SC -5.5 | 47.5 |
 | 9/13/2025 | Utah | Wyoming | 8:00 PM | CBSSN | War Memorial Stadium, Laramie, WY |  | UTAH -23.5 | 48.5 |
