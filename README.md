@@ -1,6 +1,6 @@
 # Football Schedules
 
-_Last updated: 2025-09-08 16:58 UTC_
+_Last updated: 2025-09-08 17:57 UTC_
 
 ## College Football — Upcoming Week
 2025-09-08 to 2025-09-14  
@@ -63,7 +63,7 @@ _All times ET_
 | 9/13/2025 | Florida | LSU | 7:30 PM | ABC | Tiger Stadium (LA), Baton Rouge, LA |  | LSU -9.5 | 50.5 |
 | 9/13/2025 | Texas A&M | Notre Dame | 7:30 PM | NBC, Peacock | Notre Dame Stadium, Notre Dame, IN |  | ND -6.5 | 49.5 |
 | 9/13/2025 | Eastern Michigan | Kentucky | 7:30 PM | ESPNU | Kroger Field, Lexington, KY |  | UK -24.5 | 45.5 |
-| 9/13/2025 | Massachusetts | Iowa | 7:30 PM | BTN | Kinnick Stadium, Iowa City, IA |  | IOWA -35.5 | 44.5 |
+| 9/13/2025 | Massachusetts | Iowa | 7:30 PM | BTN | Kinnick Stadium, Iowa City, IA |  | IOWA -33.5 | 44.5 |
 | 9/13/2025 | New Mexico State | Louisiana Tech | 7:30 PM | ESPN+ | Joe Aillet Stadium, Ruston, LA |  | LT -9.5 | 43.5 |
 | 9/13/2025 | East Carolina | Coastal Carolina | 7:30 PM | ESPN+ | Brooks Stadium (SC), Conway, SC | Home 985; Away 82 | ECU -7.5 | 54.5 |
 | 9/13/2025 | Vanderbilt | South Carolina | 7:45 PM | SEC Network | Williams-Brice Stadium, Columbia, SC |  | SC -5.5 | 47.5 |
