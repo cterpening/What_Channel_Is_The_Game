@@ -1,6 +1,6 @@
 # Football Schedules
 
-_Last updated: 2025-09-08 21:12 UTC_
+_Last updated: 2025-09-08 21:50 UTC_
 
 ## College Football — Upcoming Week
 2025-09-08 to 2025-09-14  
@@ -48,7 +48,7 @@ _All times ET_
 | 9/13/2025 | Liberty | Bowling Green | 5:00 PM | ESPN+ | Doyt L. Perry Stadium, Bowling Green, OH | Home 966 | LIB -6.5 | 51.5 |
 | 9/13/2025 | Middle Tennessee | Nevada | 5:00 PM | MWN, NSN | Mackay Stadium, Reno, NV |  | NEV -9.5 | 46.5 |
 | 9/13/2025 | Alcorn State | Mississippi State | 6:00 PM | ESPN+, SECN+ | Davis Wade Stadium, Starkville, MS | Away 994 |  |  |
-| 9/13/2025 | Florida Atlantic | Florida International | 6:00 PM | ESPN+ | Pitbull Stadium, Miami, FL |  | FIU -2.5 | 57.5 |
+| 9/13/2025 | Florida Atlantic | Florida International | 6:00 PM | ESPN+ | Pitbull Stadium, Miami, FL |  | FIU -2.5 | 58.5 |
 | 9/13/2025 | Merrimack | Kennesaw State | 6:00 PM | ESPN+ | Fifth Third Stadium, Kennesaw, GA |  |  |  |
 | 9/13/2025 | Eastern Kentucky | Marshall | 6:00 PM | ESPN+ | Joan C. Edwards Stadium, Huntington, WV | Home 993; Away 384 |  |  |
 | 9/13/2025 | Monmouth | Charlotte | 6:00 PM | ESPN+ | Jerry Richardson Stadium, Charlotte, NC |  |  |  |
@@ -62,13 +62,13 @@ _All times ET_
 | 9/13/2025 | Prairie View A&M | Rice | 7:00 PM | ESPN+ | Rice Stadium, Houston, TX |  |  |  |
 | 9/13/2025 | Florida | LSU | 7:30 PM | ABC | Tiger Stadium (LA), Baton Rouge, LA |  | LSU -9.5 | 50.5 |
 | 9/13/2025 | Texas A&M | Notre Dame | 7:30 PM | NBC, Peacock | Notre Dame Stadium, Notre Dame, IN |  | ND -6.5 | 49.5 |
-| 9/13/2025 | Eastern Michigan | Kentucky | 7:30 PM | ESPNU | Kroger Field, Lexington, KY |  | UK -24.5 | 44.5 |
+| 9/13/2025 | Eastern Michigan | Kentucky | 7:30 PM | ESPNU | Kroger Field, Lexington, KY |  | UK -24.5 | 45.5 |
 | 9/13/2025 | Massachusetts | Iowa | 7:30 PM | BTN | Kinnick Stadium, Iowa City, IA |  | IOWA -35.5 | 43.5 |
 | 9/13/2025 | New Mexico State | Louisiana Tech | 7:30 PM | ESPN+ | Joe Aillet Stadium, Ruston, LA |  | LT -9.5 | 42.5 |
 | 9/13/2025 | East Carolina | Coastal Carolina | 7:30 PM | ESPN+ | Brooks Stadium (SC), Conway, SC | Home 985; Away 82 | ECU -7.5 | 54.5 |
 | 9/13/2025 | Vanderbilt | South Carolina | 7:45 PM | SEC Network | Williams-Brice Stadium, Columbia, SC |  | SC -5.5 | 47.5 |
 | 9/13/2025 | Utah | Wyoming | 8:00 PM | CBSSN | War Memorial Stadium, Laramie, WY |  | UTAH -23.5 | 48.5 |
-| 9/13/2025 | Duke | Tulane | 8:00 PM | ESPN2 | Yulman Stadium, New Orleans, LA | Home 388 | TULN -2.5 | 53.5 |
+| 9/13/2025 | Duke | Tulane | 8:00 PM | ESPN2 | Yulman Stadium, New Orleans, LA | Home 388 | TULN -2.5 | 54.5 |
 | 9/13/2025 | Abilene Christian | TCU | 8:00 PM | ESPN+ | Amon G. Carter Stadium, Fort Worth, TX | Away 386 |  |  |
 | 9/13/2025 | Navy | Tulsa | 8:00 PM | ESPN+ | Chapman Stadium, Tulsa, OK |  | NAVY -13.5 | 53.5 |
 | 9/13/2025 | Akron | UAB | 8:30 PM | ESPN+ | Protective Stadium, Birmingham, AL | Home 389 | UAB -11.5 | 53.5 |
@@ -85,4 +85,4 @@ _All times ET_
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9/8/2025 | Minnesota | Chicago | 8:15 PM | ABC, ESPN | Soldier Field, Chicago, IL |  | MIN -1.5 | 43.5 |
+| 9/8/2025 | Minnesota | Chicago | 8:15 PM | ABC, ESPN | Soldier Field, Chicago, IL |  | MIN -1.5 | 42.5 |
