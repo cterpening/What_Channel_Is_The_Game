@@ -1,6 +1,6 @@
 # Football Schedules
 
-_Last updated: 2025-09-11 10:23 UTC_
+_Last updated: 2025-09-11 13:50 UTC_
 
 ## College Football — Upcoming Week
 2025-09-08 to 2025-09-14  
@@ -43,7 +43,7 @@ _All times ET_
 | 9/13/2025 | Morgan State | Toledo | 3:30 PM | ESPN+ | Glass Bowl, Toledo, OH |  |  |  |
 | 9/13/2025 | Iowa State | Arkansas State | 4:00 PM | ESPN2 | Centennial Bank Stadium, Jonesboro, AR |  | ISU -20.5 | 55.5 |
 | 9/13/2025 | Louisiana | Missouri | 4:00 PM | ESPN+, SECN+ | Memorial Stadium, Columbia, MO | Home 191; Away 391 | MIZ -27.5 | 47.5 |
-| 9/13/2025 | UTEP | Texas | 4:15 PM | SEC Network | DKR-Texas Memorial Stadium, Austin, TX | Home 190 | TEX -41.5 | 51.5 |
+| 9/13/2025 | UTEP | Texas | 4:15 PM | SEC Network | DKR-Texas Memorial Stadium, Austin, TX | Home 190 | TEX -40.5 | 50.5 |
 | 9/13/2025 | South Florida | Miami | 4:30 PM | The CW Network | Hard Rock Stadium, Miami Gardens, FL | Home 145 | MIA -17.5 | 57.5 |
 | 9/13/2025 | Liberty | Bowling Green | 5:00 PM | ESPN+ | Doyt L. Perry Stadium, Bowling Green, OH |  | LIB -6.5 | 51.5 |
 | 9/13/2025 | Middle Tennessee | Nevada | 5:00 PM | MWN, NSN | Mackay Stadium, Reno, NV | Home 383 | NEV -9.5 | 48.5 |
@@ -88,7 +88,7 @@ _All times ET_
 | 9/11/2025 | Washington | Green Bay | 8:15 PM | Prime Video | Lambeau Field, Green Bay, WI | Home 225 | GB -3.5 | 48.5 |
 | 9/14/2025 | Jacksonville | Cincinnati | 1:00 PM | CBS | Paycor Stadium, Cincinnati, OH |  | CIN -3.5 | 48.5 |
 | 9/14/2025 | New York | Dallas | 1:00 PM | FOX | AT&T Stadium, Arlington, TX |  | DAL -5.5 | 44.5 |
-| 9/14/2025 | Chicago | Detroit | 1:00 PM | FOX | Ford Field, Detroit, MI |  | DET -5.5 | 46.5 |
+| 9/14/2025 | Chicago | Detroit | 1:00 PM | FOX | Ford Field, Detroit, MI |  | DET -6.5 | 46.5 |
 | 9/14/2025 | Los Angeles | Tennessee | 1:00 PM | CBS | Nissan Stadium, Nashville, TN |  | LAR -5.5 | 41.5 |
 | 9/14/2025 | New England | Miami | 1:00 PM | CBS | Hard Rock Stadium, Miami Gardens, FL |  | MIA -1.5 | 42.5 |
 | 9/14/2025 | San Francisco | New Orleans | 1:00 PM | FOX | Caesars Superdome, New Orleans, LA |  | SF -3.5 | 40.5 |
@@ -100,4 +100,4 @@ _All times ET_
 | 9/14/2025 | Philadelphia | Kansas City | 4:25 PM | FOX | GEHA Field at Arrowhead Stadium, Kansas City, MO | Home 227 | PHI -1.5 | 46.5 |
 | 9/14/2025 | Atlanta | Minnesota | 8:20 PM | NBC | U.S. Bank Stadium, Minneapolis, MN | Home 225 | MIN -3.5 | 44.5 |
 | 9/15/2025 | Tampa Bay | Houston | 7:00 PM | ABC, ESPN | NRG Stadium, Houston, TX | Home 225 | HOU -2.5 | 42.5 |
-| 9/15/2025 | Los Angeles | Las Vegas | 10:00 PM | ESPN | Allegiant Stadium, Las Vegas, NV |  | LAC -3.5 | 46.5 |
+| 9/15/2025 | Los Angeles | Las Vegas | 10:00 PM | ESPN | Allegiant Stadium, Las Vegas, NV |  | LAC -3.5 | 45.5 |
