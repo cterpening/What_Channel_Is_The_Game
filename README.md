@@ -1,22 +1,34 @@
-# Football Schedules
+# Sports Schedules
 
-_Last updated: 2025-09-11 18:33 UTC_
+_Last updated: 2025-09-11 18:51 UTC_
 
 ## College Football — Upcoming Week
 2025-09-08 to 2025-09-14  
 _All times ET_  
 
+### Thursday September 11th
+
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/11/2025 | NC State | Wake Forest | 7:30 PM | ESPN | Allegacy Federal Credit Union Stadium, Winston-Salem, NC | Home 84; Away 193 | NCSU -7.5 | 52.5 |
+
+### Friday September 12th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/12/2025 | Indiana State | Indiana | 6:30 PM | BTN | Memorial Stadium (Bloomington, IN), Bloomington, IN | Home 195 | IU -48.5 | 59.5 |
 | 9/12/2025 | Colgate | Syracuse | 7:00 PM | ACC Network | JMA Wireless Dome, Syracuse, NY | Home 81 | SYR -37.5 | 66.5 |
 | 9/12/2025 | Colorado | Houston | 7:30 PM | ESPN | TDECU Stadium, Houston, TX | Home 84; Away 380 | HOU -4.5 | 45.5 |
 | 9/12/2025 | Kansas State | Arizona | 9:00 PM | FOX | Arizona Stadium, Tucson, AZ | Home 83; Away 381 | KSU -1.5 | 54.5 |
 | 9/12/2025 | New Mexico | UCLA | 10:00 PM | BTN | Rose Bowl, Pasadena, CA | Home 195; Away 382 | UCLA -15.5 | 52.5 |
+
+### Saturday September 13th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/13/2025 | Oregon | Northwestern | 12:00 PM | FOX | Northwestern Medicine Field at Martin Stadium, Evanston, IL | Home 83; Away 383 | ORE -28.5 | 48.5 |
 | 9/13/2025 | Clemson | Georgia Tech | 12:00 PM | ESPN | Bobby Dodd Stadium, Atlanta, GA | Home 371; Away 381 | CLEM -3.5 | 51.5 |
-| 9/13/2025 | Oklahoma | Temple | 12:00 PM | ESPN2 | Lincoln Financial Field, Philadelphia, PA | Home 380; Away 81 | OU -21.5 | 51.5 |
+| 9/13/2025 | Oklahoma | Temple | 12:00 PM | ESPN2 | Lincoln Financial Field, Philadelphia, PA | Home 380; Away 81 | OU -23.5 | 52.5 |
 | 9/13/2025 | Wisconsin | Alabama | 12:00 PM | ABC | Bryant-Denny Stadium, Tuscaloosa, AL | Home 84; Away 197 | ALA -21.5 | 46.5 |
 | 9/13/2025 | Central Michigan | Michigan | 12:00 PM | BTN | Michigan Stadium, Ann Arbor, MI | Home 195; Away ONLINE | MICH -27.5 | 42.5 |
 | 9/13/2025 | Houston Christian | Nebraska | 12:00 PM | FS1 | Memorial Stadium (Lincoln, NE), Lincoln, NE | Home 196 |  |  |
@@ -45,7 +57,7 @@ _All times ET_
 | 9/13/2025 | Louisiana | Missouri | 4:00 PM | ESPN+, SECN+ | Memorial Stadium, Columbia, MO | Home 191 | MIZ -27.5 | 47.5 |
 | 9/13/2025 | UTEP | Texas | 4:15 PM | SEC Network | DKR-Texas Memorial Stadium, Austin, TX | Home 190; Away ONLINE | TEX -40.5 | 52.5 |
 | 9/13/2025 | South Florida | Miami | 4:30 PM | The CW Network | Hard Rock Stadium, Miami Gardens, FL | Home 145 | MIA -17.5 | 57.5 |
-| 9/13/2025 | Liberty | Bowling Green | 5:00 PM | ESPN+ | Doyt L. Perry Stadium, Bowling Green, OH | Home 966; Away ONLINE | LIB -5.5 | 51.5 |
+| 9/13/2025 | Liberty | Bowling Green | 5:00 PM | ESPN+ | Doyt L. Perry Stadium, Bowling Green, OH | Home 966; Away ONLINE | LIB -4.5 | 51.5 |
 | 9/13/2025 | Middle Tennessee | Nevada | 5:00 PM | MWN, NSN | Mackay Stadium, Reno, NV | Home 383; Away ONLINE | NEV -9.5 | 48.5 |
 | 9/13/2025 | Alcorn State | Mississippi State | 6:00 PM | ESPN+, SECN+ | Davis Wade Stadium, Starkville, MS | Home 201; Away 384 |  |  |
 | 9/13/2025 | Florida Atlantic | Florida International | 6:00 PM | ESPN+ | Pitbull Stadium, Miami, FL |  | FIU -2.5 | 58.5 |
@@ -83,9 +95,16 @@ _All times ET_
 2025-09-10 to 2025-09-16  
 _All times ET_  
 
+### Thursday September 11th
+
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/11/2025 | Washington | Green Bay | 8:15 PM | Prime Video | Lambeau Field, Green Bay, WI | Home 225; Away 226 | GB -3.5 | 48.5 |
+
+### Sunday September 14th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/14/2025 | Jacksonville | Cincinnati | 1:00 PM | CBS | Paycor Stadium, Cincinnati, OH | Home 226; Away 381 | CIN -3.5 | 48.5 |
 | 9/14/2025 | New York | Dallas | 1:00 PM | FOX | AT&T Stadium, Arlington, TX | Home 228; Away 383 / 386 | DAL -5.5 | 44.5 |
 | 9/14/2025 | Chicago | Detroit | 1:00 PM | FOX | Ford Field, Detroit, MI | Home 227; Away 382 | DET -6.5 | 46.5 |
@@ -99,6 +118,11 @@ _All times ET_
 | 9/14/2025 | Carolina | Arizona | 4:05 PM | CBS | State Farm Stadium, Glendale, AZ | Home 225; Away 380 | ARI -6.5 | 43.5 |
 | 9/14/2025 | Philadelphia | Kansas City | 4:25 PM | FOX | GEHA Field at Arrowhead Stadium, Kansas City, MO | Home 227; Away 382 | PHI -1.5 | 46.5 |
 | 9/14/2025 | Atlanta | Minnesota | 8:20 PM | NBC | U.S. Bank Stadium, Minneapolis, MN | Home 225; Away 226 | MIN -3.5 | 44.5 |
+
+### Monday September 15th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/15/2025 | Tampa Bay | Houston | 7:00 PM | ABC, ESPN | NRG Stadium, Houston, TX | Home 225; Away 226 | HOU -2.5 | 42.5 |
 | 9/15/2025 | Los Angeles | Las Vegas | 10:00 PM | ESPN | Allegiant Stadium, Las Vegas, NV | Home 229; Away 228 | LAC -3.5 | 45.5 |
 
