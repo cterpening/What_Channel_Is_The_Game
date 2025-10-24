@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-10-24 14:27 UTC_
+_Last updated: 2025-10-24 14:35 UTC_
 
 ## College Football — Upcoming Week
 2025-10-20 to 2025-10-26  
