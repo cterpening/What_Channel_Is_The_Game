@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-10-24 14:09 UTC_
+_Last updated: 2025-10-24 14:17 UTC_
 
 ## College Football — Upcoming Week
 2025-10-20 to 2025-10-26  
@@ -53,7 +53,7 @@ _All times ET_
 | 10/25/2025 | Texas | Mississippi State | 4:15 PM | SEC Network | Davis Wade Stadium, Starkville, MS | Home 201; Away 190 | TEX -6.5 | 46.5 |
 | 10/25/2025 | TCU | West Virginia | 6:00 PM | ESPN+ | Milan Puskar Stadium, Morgantown, WV | Home 200; Away 383 | TCU -17.5 | 55.5 |
 | 10/25/2025 | Wisconsin | Oregon | 7:00 PM | FS1 | Autzen Stadium, Eugene, OR | Home 83; Away 391 | ORE -31.5 | 44.5 |
-| 10/25/2025 | Stanford | Miami | 7:00 PM | ESPN | Hard Rock Stadium, Miami Gardens, FL | Home 194; Away 384 | MIA -29.5 | 45.5 |
+| 10/25/2025 | Stanford | Miami | 7:00 PM | ESPN | Hard Rock Stadium, Miami Gardens, FL | Home 194; Away 384 | MIA -28.5 | 45.5 |
 | 10/25/2025 | Georgia Southern | Arkansas State | 7:00 PM | ESPN+ | Centennial Bank Stadium, Jonesboro, AR | Away ONLINE | ARST -1.5 | 59.5 |
 | 10/25/2025 | Louisiana | Troy | 7:00 PM | ESPN+ | Veterans Memorial Stadium (AL), Troy, AL |  | TROY -9.5 | 48.5 |
 | 10/25/2025 | Texas A&M | LSU | 7:30 PM | ABC | Tiger Stadium (LA), Baton Rouge, LA | Home 84; Away 82 | TA&M -2.5 | 49.5 |
@@ -104,89 +104,89 @@ _All times ET_
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/24/2025 | Milwaukee | Toronto | 6:30 PM | NBA League Pass, TSN | Scotiabank Arena, Toronto, ON | Home 83; Away ONLINE | TOR -1.5 | 234.5 |
-| 10/24/2025 | Atlanta | Orlando | 7:00 PM | FanDuel SN FL, FanDuel SN SE, NBA League Pass | Kia Center, Orlando, FL | Home 212; Away ONLINE | ORL -4.5 | 235.5 |
-| 10/24/2025 | Cleveland | Brooklyn | 7:30 PM | FanDuel SN OH, NBA League Pass, YES | Barclays Center, Brooklyn, NY | Home 213; Away ONLINE | CLE -11.5 | 229.5 |
-| 10/24/2025 | Boston | New York | 7:30 PM | Prime Video | Madison Square Garden, New York, NY | Home 86; Away ONLINE | NY -3.5 | 229.5 |
-| 10/24/2025 | Detroit | Houston | 8:00 PM | FanDuel SN DET, NBA League Pass, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 214; Away ONLINE | HOU -6.5 | 225.5 |
-| 10/24/2025 | Miami | Memphis | 8:00 PM | FanDuel SN SE, FanDuel SN Sun, NBA League Pass | FedExForum, Memphis, TN | Home 215; Away ONLINE | MEM -2.5 | 233.5 |
-| 10/24/2025 | San Antonio | New Orleans | 8:00 PM | GCSEN, KENS 5, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 216; Away ONLINE | SA -3.5 | 232.5 |
-| 10/24/2025 | Washington | Dallas | 8:30 PM | KFAA-TV, MNMT, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX | Home 217; Away ONLINE | DAL -9.5 | 227.5 |
-| 10/24/2025 | Minnesota | Los Angeles | 10:00 PM | Prime Video | crypto.com Arena, Los Angeles, CA | Home 86 / 213; Away ONLINE | MIN -2.5 | 225.5 |
-| 10/24/2025 | Golden State | Portland | 10:00 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports BA | Moda Center, Portland, OR | Home 81; Away ONLINE | GS -1.5 | 226.5 |
-| 10/24/2025 | Utah | Sacramento | 10:00 PM | Jazz+, KJZZ-TV, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 212; Away ONLINE | SAC -5.5 | 232.5 |
-| 10/24/2025 | Phoenix | LA | 10:30 PM | Arizona's Family 3TV, FanDuel SN SoCal, NBA League Pass, Suns Live | Intuit Dome, Inglewood, CA | Away ONLINE | LAC -9.5 | 223.5 |
+| 10/24/2025 | Milwaukee Bucks | Toronto Raptors | 6:30 PM | NBA League Pass, TSN | Scotiabank Arena, Toronto, ON | Home 83; Away ONLINE | TOR -1.5 | 234.5 |
+| 10/24/2025 | Atlanta Hawks | Orlando Magic | 7:00 PM | FanDuel SN FL, FanDuel SN SE, NBA League Pass | Kia Center, Orlando, FL | Home 212; Away ONLINE | ORL -4.5 | 235.5 |
+| 10/24/2025 | Cleveland Cavaliers | Brooklyn Nets | 7:30 PM | FanDuel SN OH, NBA League Pass, YES | Barclays Center, Brooklyn, NY | Home 213; Away ONLINE | CLE -11.5 | 229.5 |
+| 10/24/2025 | Boston Celtics | New York Knicks | 7:30 PM | Prime Video | Madison Square Garden, New York, NY | Home 86; Away ONLINE | NY -3.5 | 229.5 |
+| 10/24/2025 | Detroit Pistons | Houston Rockets | 8:00 PM | FanDuel SN DET, NBA League Pass, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 214; Away ONLINE | HOU -6.5 | 225.5 |
+| 10/24/2025 | Miami Heat | Memphis Grizzlies | 8:00 PM | FanDuel SN SE, FanDuel SN Sun, NBA League Pass | FedExForum, Memphis, TN | Home 215; Away ONLINE | MEM -2.5 | 233.5 |
+| 10/24/2025 | San Antonio Spurs | New Orleans Pelicans | 8:00 PM | GCSEN, KENS 5, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 216; Away ONLINE | SA -3.5 | 233.5 |
+| 10/24/2025 | Washington Wizards | Dallas Mavericks | 8:30 PM | KFAA-TV, MNMT, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX | Home 217; Away ONLINE | DAL -10.5 | 227.5 |
+| 10/24/2025 | Minnesota Timberwolves | Los Angeles Lakers | 10:00 PM | Prime Video | crypto.com Arena, Los Angeles, CA | Home 86 / 213; Away ONLINE | MIN -2.5 | 225.5 |
+| 10/24/2025 | Golden State Warriors | Portland Trail Blazers | 10:00 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports BA | Moda Center, Portland, OR | Home 81; Away ONLINE | GS -1.5 | 226.5 |
+| 10/24/2025 | Utah Jazz | Sacramento Kings | 10:00 PM | Jazz+, KJZZ-TV, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 212; Away ONLINE | SAC -5.5 | 232.5 |
+| 10/24/2025 | Phoenix Suns | LA Clippers | 10:30 PM | Arizona's Family 3TV, FanDuel SN SoCal, NBA League Pass, Suns Live | Intuit Dome, Inglewood, CA | Away ONLINE | LAC -9.5 | 223.5 |
 
 ### Saturday October 25th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/25/2025 | Chicago | Orlando | 7:00 PM | CHSN, FanDuel SN FL, NBA League Pass | Kia Center, Orlando, FL |  |  |  |
-| 10/25/2025 | Oklahoma City | Atlanta | 7:30 PM | FanDuel SN OK, FanDuel SN SE, NBA League Pass, NBA TV | State Farm Arena, Atlanta, GA |  |  |  |
-| 10/25/2025 | Charlotte | Philadelphia | 7:30 PM | FanDuel SN SE, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
-| 10/25/2025 | Indiana | Memphis | 8:00 PM | FanDuel SN IN, FanDuel SN SE, NBA League Pass | FedExForum, Memphis, TN |  |  |  |
-| 10/25/2025 | Phoenix | Denver | 9:00 PM | Altitude Sports, Arizona's Family CBS5, NBA League Pass, Suns Live | Ball Arena, Denver, CO |  |  |  |
+| 10/25/2025 | Chicago Bulls | Orlando Magic | 7:00 PM | CHSN, FanDuel SN FL, NBA League Pass | Kia Center, Orlando, FL |  |  |  |
+| 10/25/2025 | Oklahoma City Thunder | Atlanta Hawks | 7:30 PM | FanDuel SN OK, FanDuel SN SE, NBA League Pass, NBA TV | State Farm Arena, Atlanta, GA |  |  |  |
+| 10/25/2025 | Charlotte Hornets | Philadelphia 76ers | 7:30 PM | FanDuel SN SE, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
+| 10/25/2025 | Indiana Pacers | Memphis Grizzlies | 8:00 PM | FanDuel SN IN, FanDuel SN SE, NBA League Pass | FedExForum, Memphis, TN |  |  |  |
+| 10/25/2025 | Phoenix Suns | Denver Nuggets | 9:00 PM | Altitude Sports, Arizona's Family CBS5, NBA League Pass, Suns Live | Ball Arena, Denver, CO |  |  |  |
 
 ### Sunday October 26th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/26/2025 | Brooklyn | San Antonio | 2:00 PM | FanDuel SN SW, NBA League Pass, YES | Frost Bank Center, San Antonio, TX |  |  |  |
-| 10/26/2025 | Boston | Detroit | 3:30 PM | NBA League Pass, NBC Sports BO | Little Caesars Arena, Detroit, MI |  |  |  |
-| 10/26/2025 | Milwaukee | Cleveland | 6:00 PM | FanDuel SN OH, FanDuel SN WI, NBA League Pass | Rocket Arena, Cleveland, OH |  |  |  |
-| 10/26/2025 | New York | Miami | 6:00 PM | MSG, NBA League Pass | Kaseya Center, Miami, FL |  |  |  |
-| 10/26/2025 | Charlotte | Washington | 6:00 PM | FanDuel SN SE, MNMT, NBA League Pass | Capital One Arena, Washington, DC |  |  |  |
-| 10/26/2025 | Indiana | Minnesota | 7:00 PM | FanDuel SN IN, FanDuel SN North, NBA League Pass | Target Center, Minneapolis, MN |  |  |  |
-| 10/26/2025 | Toronto | Dallas | 7:30 PM | KFAA-TV, Mavs.com, NBA League Pass, Sportsnet | American Airlines Center, Dallas, TX |  |  |  |
-| 10/26/2025 | Portland | LA | 9:00 PM | BlazerVision, FanDuel SN SoCal, KUNP 16, NBA League Pass | Intuit Dome, Inglewood, CA |  |  |  |
-| 10/26/2025 | Los Angeles | Sacramento | 9:00 PM | NBA League Pass, NBC Sports CA, Spectrum Sports Net, Spectrum Sports Net + | Golden 1 Center, Sacramento, CA |  |  |  |
+| 10/26/2025 | Brooklyn Nets | San Antonio Spurs | 2:00 PM | FanDuel SN SW, NBA League Pass, YES | Frost Bank Center, San Antonio, TX |  |  |  |
+| 10/26/2025 | Boston Celtics | Detroit Pistons | 3:30 PM | NBA League Pass, NBC Sports BO | Little Caesars Arena, Detroit, MI |  |  |  |
+| 10/26/2025 | Milwaukee Bucks | Cleveland Cavaliers | 6:00 PM | FanDuel SN OH, FanDuel SN WI, NBA League Pass | Rocket Arena, Cleveland, OH |  |  |  |
+| 10/26/2025 | New York Knicks | Miami Heat | 6:00 PM | MSG, NBA League Pass | Kaseya Center, Miami, FL |  |  |  |
+| 10/26/2025 | Charlotte Hornets | Washington Wizards | 6:00 PM | FanDuel SN SE, MNMT, NBA League Pass | Capital One Arena, Washington, DC |  |  |  |
+| 10/26/2025 | Indiana Pacers | Minnesota Timberwolves | 7:00 PM | FanDuel SN IN, FanDuel SN North, NBA League Pass | Target Center, Minneapolis, MN |  |  |  |
+| 10/26/2025 | Toronto Raptors | Dallas Mavericks | 7:30 PM | KFAA-TV, Mavs.com, NBA League Pass, Sportsnet | American Airlines Center, Dallas, TX |  |  |  |
+| 10/26/2025 | Portland Trail Blazers | LA Clippers | 9:00 PM | BlazerVision, FanDuel SN SoCal, KUNP 16, NBA League Pass | Intuit Dome, Inglewood, CA |  |  |  |
+| 10/26/2025 | Los Angeles Lakers | Sacramento Kings | 9:00 PM | NBA League Pass, NBC Sports CA, Spectrum Sports Net, Spectrum Sports Net + | Golden 1 Center, Sacramento, CA |  |  |  |
 
 ### Monday October 27th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/27/2025 | Cleveland | Detroit | 7:00 PM | Peacock | Little Caesars Arena, Detroit, MI |  |  |  |
-| 10/27/2025 | Orlando | Philadelphia | 7:00 PM | FanDuel SN FL, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
-| 10/27/2025 | Atlanta | Chicago | 8:00 PM | CHSN, FanDuel SN SE, NBA League Pass | United Center, Chicago, IL |  |  |  |
-| 10/27/2025 | Brooklyn | Houston | 8:00 PM | NBA League Pass, Space City Home Network, YES | Toyota Center (Houston), Houston, TX |  |  |  |
-| 10/27/2025 | Boston | New Orleans | 8:00 PM | GCSEN, NBA League Pass, NBC Sports BO, Pelicans.com | Smoothie King Center, New Orleans, LA |  |  |  |
-| 10/27/2025 | Toronto | San Antonio | 8:00 PM | FanDuel SN SW, NBA League Pass, Sportsnet | Frost Bank Center, San Antonio, TX |  |  |  |
-| 10/27/2025 | Oklahoma City | Dallas | 8:30 PM | FanDuel SN OK, KFAA-TV, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX |  |  |  |
-| 10/27/2025 | Phoenix | Utah | 9:00 PM | Arizona's Family 3TV, Jazz+, KJZZ-TV, NBA League Pass, Suns Live | Delta Center, Salt Lake City, UT |  |  |  |
-| 10/27/2025 | Denver | Minnesota | 9:30 PM | Peacock | Target Center, Minneapolis, MN |  |  |  |
-| 10/27/2025 | Memphis | Golden State | 10:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports BA | Chase Center, San Francisco, CA |  |  |  |
-| 10/27/2025 | Portland | Los Angeles | 10:30 PM | BlazerVision, KUNP 16, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA |  |  |  |
+| 10/27/2025 | Cleveland Cavaliers | Detroit Pistons | 7:00 PM | Peacock | Little Caesars Arena, Detroit, MI |  |  |  |
+| 10/27/2025 | Orlando Magic | Philadelphia 76ers | 7:00 PM | FanDuel SN FL, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
+| 10/27/2025 | Atlanta Hawks | Chicago Bulls | 8:00 PM | CHSN, FanDuel SN SE, NBA League Pass | United Center, Chicago, IL |  |  |  |
+| 10/27/2025 | Brooklyn Nets | Houston Rockets | 8:00 PM | NBA League Pass, Space City Home Network, YES | Toyota Center (Houston), Houston, TX |  |  |  |
+| 10/27/2025 | Boston Celtics | New Orleans Pelicans | 8:00 PM | GCSEN, NBA League Pass, NBC Sports BO, Pelicans.com | Smoothie King Center, New Orleans, LA |  |  |  |
+| 10/27/2025 | Toronto Raptors | San Antonio Spurs | 8:00 PM | FanDuel SN SW, NBA League Pass, Sportsnet | Frost Bank Center, San Antonio, TX |  |  |  |
+| 10/27/2025 | Oklahoma City Thunder | Dallas Mavericks | 8:30 PM | FanDuel SN OK, KFAA-TV, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX |  |  |  |
+| 10/27/2025 | Phoenix Suns | Utah Jazz | 9:00 PM | Arizona's Family 3TV, Jazz+, KJZZ-TV, NBA League Pass, Suns Live | Delta Center, Salt Lake City, UT |  |  |  |
+| 10/27/2025 | Denver Nuggets | Minnesota Timberwolves | 9:30 PM | Peacock | Target Center, Minneapolis, MN |  |  |  |
+| 10/27/2025 | Memphis Grizzlies | Golden State Warriors | 10:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports BA | Chase Center, San Francisco, CA |  |  |  |
+| 10/27/2025 | Portland Trail Blazers | Los Angeles Lakers | 10:30 PM | BlazerVision, KUNP 16, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA |  |  |  |
 
 ### Tuesday October 28th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/28/2025 | Philadelphia | Washington | 7:00 PM | MNMT, NBA League Pass, NBC Sports Phil | Capital One Arena, Washington, DC |  |  |  |
-| 10/28/2025 | Charlotte | Miami | 7:30 PM | FanDuel SN SE, FanDuel SN Sun, NBA League Pass | Kaseya Center, Miami, FL |  |  |  |
-| 10/28/2025 | New York | Milwaukee | 8:00 PM | NBC, Peacock | Fiserv Forum, Milwaukee, WI |  |  |  |
-| 10/28/2025 | Sacramento | Oklahoma City | 8:00 PM | FanDuel SN OK, NBA League Pass, NBC Sports CA | Paycom Center, Oklahoma City, OK |  |  |  |
-| 10/28/2025 | LA | Golden State | 11:00 PM | NBC, NBC Sports BA, Peacock | Chase Center, San Francisco, CA |  |  |  |
+| 10/28/2025 | Philadelphia 76ers | Washington Wizards | 7:00 PM | MNMT, NBA League Pass, NBC Sports Phil | Capital One Arena, Washington, DC |  |  |  |
+| 10/28/2025 | Charlotte Hornets | Miami Heat | 7:30 PM | FanDuel SN SE, FanDuel SN Sun, NBA League Pass | Kaseya Center, Miami, FL |  |  |  |
+| 10/28/2025 | New York Knicks | Milwaukee Bucks | 8:00 PM | NBC, Peacock | Fiserv Forum, Milwaukee, WI |  |  |  |
+| 10/28/2025 | Sacramento Kings | Oklahoma City Thunder | 8:00 PM | FanDuel SN OK, NBA League Pass, NBC Sports CA | Paycom Center, Oklahoma City, OK |  |  |  |
+| 10/28/2025 | LA Clippers | Golden State Warriors | 11:00 PM | NBC, NBC Sports BA, Peacock | Chase Center, San Francisco, CA |  |  |  |
 
 ### Wednesday October 29th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/29/2025 | Houston | Toronto | 6:30 PM | NBA League Pass, Space City Home Network, TSN | Scotiabank Arena, Toronto, ON |  |  |  |
-| 10/29/2025 | Cleveland | Boston | 7:00 PM | ESPN, FanDuel SN OH, NBC Sports BO | TD Garden, Boston, MA |  |  |  |
-| 10/29/2025 | Orlando | Detroit | 7:00 PM | FanDuel SN DET, FanDuel SN FL, NBA League Pass | Little Caesars Arena, Detroit, MI |  |  |  |
-| 10/29/2025 | Atlanta | Brooklyn | 7:30 PM | FanDuel SN SE, NBA League Pass, YES | Barclays Center, Brooklyn, NY |  |  |  |
-| 10/29/2025 | Sacramento | Chicago | 8:00 PM | CHSN, NBA League Pass, NBC Sports CA | United Center, Chicago, IL |  |  |  |
-| 10/29/2025 | Indiana | Dallas | 8:30 PM | FanDuel SN IN, KFAA-TV, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX |  |  |  |
-| 10/29/2025 | New Orleans | Denver | 9:00 PM | GCSEN, KTVD-TV (My20), NBA League Pass, Pelicans.com | Ball Arena, Denver, CO |  |  |  |
-| 10/29/2025 | Portland | Utah | 9:00 PM | BlazerVision, Jazz+, KJZZ-TV, KUNP 16, NBA League Pass | Delta Center, Salt Lake City, UT |  |  |  |
-| 10/29/2025 | Los Angeles | Minnesota | 9:30 PM | ESPN, FanDuel SN North, Spectrum Sports Net, Spectrum Sports Net + | Target Center, Minneapolis, MN |  |  |  |
-| 10/29/2025 | Memphis | Phoenix | 10:00 PM | Arizona's Family 3TV, FanDuel SN SE, NBA League Pass, Suns Live | Mortgage Matchup Center, Phoenix, AZ |  |  |  |
+| 10/29/2025 | Houston Rockets | Toronto Raptors | 6:30 PM | NBA League Pass, Space City Home Network, TSN | Scotiabank Arena, Toronto, ON |  |  |  |
+| 10/29/2025 | Cleveland Cavaliers | Boston Celtics | 7:00 PM | ESPN, FanDuel SN OH, NBC Sports BO | TD Garden, Boston, MA |  |  |  |
+| 10/29/2025 | Orlando Magic | Detroit Pistons | 7:00 PM | FanDuel SN DET, FanDuel SN FL, NBA League Pass | Little Caesars Arena, Detroit, MI |  |  |  |
+| 10/29/2025 | Atlanta Hawks | Brooklyn Nets | 7:30 PM | FanDuel SN SE, NBA League Pass, YES | Barclays Center, Brooklyn, NY |  |  |  |
+| 10/29/2025 | Sacramento Kings | Chicago Bulls | 8:00 PM | CHSN, NBA League Pass, NBC Sports CA | United Center, Chicago, IL |  |  |  |
+| 10/29/2025 | Indiana Pacers | Dallas Mavericks | 8:30 PM | FanDuel SN IN, KFAA-TV, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX |  |  |  |
+| 10/29/2025 | New Orleans Pelicans | Denver Nuggets | 9:00 PM | GCSEN, KTVD-TV (My20), NBA League Pass, Pelicans.com | Ball Arena, Denver, CO |  |  |  |
+| 10/29/2025 | Portland Trail Blazers | Utah Jazz | 9:00 PM | BlazerVision, Jazz+, KJZZ-TV, KUNP 16, NBA League Pass | Delta Center, Salt Lake City, UT |  |  |  |
+| 10/29/2025 | Los Angeles Lakers | Minnesota Timberwolves | 9:30 PM | ESPN, FanDuel SN North, Spectrum Sports Net, Spectrum Sports Net + | Target Center, Minneapolis, MN |  |  |  |
+| 10/29/2025 | Memphis Grizzlies | Phoenix Suns | 10:00 PM | Arizona's Family 3TV, FanDuel SN SE, NBA League Pass, Suns Live | Mortgage Matchup Center, Phoenix, AZ |  |  |  |
 
 ### Thursday October 30th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/30/2025 | Orlando | Charlotte | 7:00 PM | FanDuel SN FL, FanDuel SN SE, NBA League Pass | Spectrum Center, Charlotte, NC |  |  |  |
-| 10/30/2025 | Golden State | Milwaukee | 8:00 PM | FanDuel SN WI, NBA TV, NBC Sports BA | Fiserv Forum, Milwaukee, WI |  |  |  |
-| 10/30/2025 | Washington | Oklahoma City | 8:00 PM | FanDuel SN OK, MNMT, NBA League Pass | Paycom Center, Oklahoma City, OK |  |  |  |
-| 10/30/2025 | Miami | San Antonio | 8:30 PM | FanDuel SN SW, FanDuel SN Sun, NBA League Pass | Frost Bank Center, San Antonio, TX |  |  |  |
+| 10/30/2025 | Orlando Magic | Charlotte Hornets | 7:00 PM | FanDuel SN FL, FanDuel SN SE, NBA League Pass | Spectrum Center, Charlotte, NC |  |  |  |
+| 10/30/2025 | Golden State Warriors | Milwaukee Bucks | 8:00 PM | FanDuel SN WI, NBA TV, NBC Sports BA | Fiserv Forum, Milwaukee, WI |  |  |  |
+| 10/30/2025 | Washington Wizards | Oklahoma City Thunder | 8:00 PM | FanDuel SN OK, MNMT, NBA League Pass | Paycom Center, Oklahoma City, OK |  |  |  |
+| 10/30/2025 | Miami Heat | San Antonio Spurs | 8:30 PM | FanDuel SN SW, FanDuel SN Sun, NBA League Pass | Frost Bank Center, San Antonio, TX |  |  |  |
