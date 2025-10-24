@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-10-24 14:01 UTC_
+_Last updated: 2025-10-24 14:09 UTC_
 
 ## College Football — Upcoming Week
 2025-10-20 to 2025-10-26  
@@ -33,7 +33,7 @@ _All times ET_
 | 10/25/2025 | Auburn | Arkansas | 12:45 PM | SEC Network | Razorback Stadium, Fayetteville, AR | Home 190; Away 374 | ARK -3.5 | 55.5 |
 | 10/25/2025 | Akron | Buffalo | 1:00 PM | ESPN+ | UB Stadium, Buffalo, NY |  | BUF -10.5 | 49.5 |
 | 10/25/2025 | UConn | Rice | 3:00 PM | ESPN+ | Rice Stadium, Houston, TX | Home 385; Away 384 | CONN -10.5 | 49.5 |
-| 10/25/2025 | Utah State | New Mexico | 3:00 PM | Altitude Sports, MWN | University Stadium (NM), Albuquerque, NM | Home 386; Away ONLINE | UNM -2.5 | 61.5 |
+| 10/25/2025 | Utah State | New Mexico | 3:00 PM | Altitude Sports, MWN | University Stadium (NM), Albuquerque, NM | Home 386; Away ONLINE | UNM -3.5 | 61.5 |
 | 10/25/2025 | Alabama | South Carolina | 3:30 PM | ABC | Williams-Brice Stadium, Columbia, SC | Home 84; Away 191 | ALA -11.5 | 46.5 |
 | 10/25/2025 | Missouri | Vanderbilt | 3:30 PM | ESPN | FirstBank Stadium, Nashville, TN | Home 192; Away 202 | VAN -3.5 | 53.5 |
 | 10/25/2025 | BYU | Iowa State | 3:30 PM | FOX | Jack Trice Stadium, Ames, IA | Home 387; Away 143 | ISU -2.5 | 49.5 |
@@ -72,23 +72,23 @@ _All times ET_
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/26/2025 | Miami | Atlanta | 1:00 PM | CBS | Mercedes-Benz Stadium, Atlanta, GA | Home 227; Away 381 | ATL -7.5 | 44.5 |
-| 10/26/2025 | New York | Cincinnati | 1:00 PM | CBS | Paycor Stadium, Cincinnati, OH | Home 226; Away 384 / 380 | CIN -6.5 | 44.5 |
-| 10/26/2025 | Cleveland | New England | 1:00 PM | FOX | Gillette Stadium, Foxborough, MA | Home 230; Away 386 | NE -7.5 | 40.5 |
-| 10/26/2025 | New York | Philadelphia | 1:00 PM | FOX | Lincoln Financial Field, Philadelphia, PA | Home 225; Away 384 / 380 | PHI -7.5 | 43.5 |
-| 10/26/2025 | Buffalo | Carolina | 1:00 PM | FOX | Bank of America Stadium, Charlotte, NC | Home 231; Away 382 | BUF -7.5 | 45.5 |
-| 10/26/2025 | Chicago | Baltimore | 1:00 PM | CBS | M&T Bank Stadium, Baltimore, MD | Home 228; Away 383 | BAL -6.5 | 49.5 |
-| 10/26/2025 | San Francisco | Houston | 1:00 PM | FOX | NRG Stadium, Houston, TX | Home 229; Away 385 | HOU -2.5 | 41.5 |
-| 10/26/2025 | Tampa Bay | New Orleans | 4:05 PM | FOX | Caesars Superdome, New Orleans, LA | Home 227; Away 382 | TB -4.5 | 46.5 |
-| 10/26/2025 | Dallas | Denver | 4:25 PM | CBS | Empower Field at Mile High, Denver, CO | Home 225; Away 380 | DEN -3.5 | 50.5 |
-| 10/26/2025 | Tennessee | Indianapolis | 4:25 PM | CBS | Lucas Oil Stadium, Indianapolis, IN | Home 226; Away 381 | IND -14.5 | 47.5 |
-| 10/26/2025 | Green Bay | Pittsburgh | 8:20 PM | NBC | Acrisure Stadium, Pittsburgh, PA | Home 225; Away 226 | GB -2.5 | 45.5 |
+| 10/26/2025 | Miami Dolphins | Atlanta Falcons | 1:00 PM | CBS | Mercedes-Benz Stadium, Atlanta, GA | Home 227; Away 381 | ATL -7.5 | 44.5 |
+| 10/26/2025 | New York Jets | Cincinnati Bengals | 1:00 PM | CBS | Paycor Stadium, Cincinnati, OH | Home 226; Away 384 | CIN -6.5 | 44.5 |
+| 10/26/2025 | Cleveland Browns | New England Patriots | 1:00 PM | FOX | Gillette Stadium, Foxborough, MA | Home 230; Away 386 | NE -7.5 | 40.5 |
+| 10/26/2025 | New York Giants | Philadelphia Eagles | 1:00 PM | FOX | Lincoln Financial Field, Philadelphia, PA | Home 225; Away 380 | PHI -7.5 | 43.5 |
+| 10/26/2025 | Buffalo Bills | Carolina Panthers | 1:00 PM | FOX | Bank of America Stadium, Charlotte, NC | Home 231; Away 382 | BUF -7.5 | 45.5 |
+| 10/26/2025 | Chicago Bears | Baltimore Ravens | 1:00 PM | CBS | M&T Bank Stadium, Baltimore, MD | Home 228; Away 383 | BAL -6.5 | 49.5 |
+| 10/26/2025 | San Francisco 49ers | Houston Texans | 1:00 PM | FOX | NRG Stadium, Houston, TX | Home 229; Away 385 | HOU -2.5 | 41.5 |
+| 10/26/2025 | Tampa Bay Buccaneers | New Orleans Saints | 4:05 PM | FOX | Caesars Superdome, New Orleans, LA | Home 227; Away 382 | TB -4.5 | 46.5 |
+| 10/26/2025 | Dallas Cowboys | Denver Broncos | 4:25 PM | CBS | Empower Field at Mile High, Denver, CO | Home 225; Away 380 | DEN -3.5 | 50.5 |
+| 10/26/2025 | Tennessee Titans | Indianapolis Colts | 4:25 PM | CBS | Lucas Oil Stadium, Indianapolis, IN | Home 226; Away 381 | IND -14.5 | 47.5 |
+| 10/26/2025 | Green Bay Packers | Pittsburgh Steelers | 8:20 PM | NBC | Acrisure Stadium, Pittsburgh, PA | Home 225; Away 226 | GB -2.5 | 45.5 |
 
 ### Monday October 27th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/27/2025 | Washington | Kansas City | 8:15 PM | ABC, ESPN | GEHA Field at Arrowhead Stadium, Kansas City, MO | Home 225; Away 226 | KC -11.5 | 47.5 |
+| 10/27/2025 | Washington Commanders | Kansas City Chiefs | 8:15 PM | ABC, ESPN | GEHA Field at Arrowhead Stadium, Kansas City, MO | Home 225; Away 226 | KC -11.5 | 47.5 |
 
 ## College Basketball — Upcoming Week
 2025-10-24 to 2025-10-30  
