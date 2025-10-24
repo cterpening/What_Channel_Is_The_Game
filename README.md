@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-10-24 14:17 UTC_
+_Last updated: 2025-10-24 14:27 UTC_
 
 ## College Football — Upcoming Week
 2025-10-20 to 2025-10-26  
@@ -46,7 +46,7 @@ _All times ET_
 | 10/25/2025 | Florida Atlantic | Navy | 3:30 PM | CBSSN | Navy-Marine Corps Memorial Stadium, Annapolis, MD | Home 145 | NAVY -14.5 | 62.5 |
 | 10/25/2025 | Temple | Tulsa | 3:30 PM | ESPN+ | Chapman Stadium, Tulsa, OK | Home 381; Away ONLINE | TEM -5.5 | 55.5 |
 | 10/25/2025 | Ball State | Northern Illinois | 3:30 PM | ESPN+ | Huskie Stadium, Dekalb, IL | Home 996 | NIU -6.5 | 42.5 |
-| 10/25/2025 | Massachusetts | Central Michigan | 3:30 PM | ESPN+ | Kelly/Shorts Stadium, Mount Pleasant, MI | Home 993 | CMU -15.5 | 45.5 |
+| 10/25/2025 | Massachusetts | Central Michigan | 3:30 PM | ESPN+ | Kelly/Shorts Stadium, Mount Pleasant, MI | Home 993 | CMU -16.5 | 46.5 |
 | 10/25/2025 | Western Michigan | Miami (OH) | 3:30 PM | ESPN+ | Yager Stadium, Oxford, OH | Away ONLINE | M-OH -1.5 | 41.5 |
 | 10/25/2025 | Oklahoma State | Texas Tech | 4:00 PM | ESPNU | Jones AT&T Stadium, Lubbock, TX | Home 198; Away 389 | TTU -36.5 | 54.5 |
 | 10/25/2025 | Baylor | Cincinnati | 4:00 PM | ESPN2 | Nippert Stadium, Cincinnati, OH | Home 199; Away 388 | CIN -3.5 | 66.5 |
@@ -113,8 +113,8 @@ _All times ET_
 | 10/24/2025 | San Antonio Spurs | New Orleans Pelicans | 8:00 PM | GCSEN, KENS 5, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 216; Away ONLINE | SA -3.5 | 233.5 |
 | 10/24/2025 | Washington Wizards | Dallas Mavericks | 8:30 PM | KFAA-TV, MNMT, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX | Home 217; Away ONLINE | DAL -10.5 | 227.5 |
 | 10/24/2025 | Minnesota Timberwolves | Los Angeles Lakers | 10:00 PM | Prime Video | crypto.com Arena, Los Angeles, CA | Home 86 / 213; Away ONLINE | MIN -2.5 | 225.5 |
-| 10/24/2025 | Golden State Warriors | Portland Trail Blazers | 10:00 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports BA | Moda Center, Portland, OR | Home 81; Away ONLINE | GS -1.5 | 226.5 |
-| 10/24/2025 | Utah Jazz | Sacramento Kings | 10:00 PM | Jazz+, KJZZ-TV, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 212; Away ONLINE | SAC -5.5 | 232.5 |
+| 10/24/2025 | Golden State Warriors | Portland Trail Blazers | 10:00 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports BA | Moda Center, Portland, OR | Home 81; Away ONLINE | GS -1.5 | 227.5 |
+| 10/24/2025 | Utah Jazz | Sacramento Kings | 10:00 PM | Jazz+, KJZZ-TV, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 212; Away ONLINE | SAC -5.5 | 233.5 |
 | 10/24/2025 | Phoenix Suns | LA Clippers | 10:30 PM | Arizona's Family 3TV, FanDuel SN SoCal, NBA League Pass, Suns Live | Intuit Dome, Inglewood, CA | Away ONLINE | LAC -9.5 | 223.5 |
 
 ### Saturday October 25th
