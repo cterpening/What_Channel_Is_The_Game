@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-11-04 22:46 UTC_
+_Last updated: 2025-11-04 23:05 UTC_
 
 ## College Football — Upcoming Week
 2025-11-03 to 2025-11-09  
@@ -10,8 +10,8 @@ _All times ET_
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/4/2025 | Massachusetts | Akron | 7:00 PM | CBSSN | InfoCision Stadium, Akron, OH |  | AKR -12.5 | 51.5 |
-| 11/4/2025 | Miami (OH) | Ohio | 7:00 PM | ESPN2 | Peden Stadium, Athens, OH | Home 983 | OHIO -2.5 | 49.5 |
+| 11/4/2025 | Massachusetts | Akron | 7:00 PM | CBSSN | InfoCision Stadium, Akron, OH |  | AKR -13.5 | 51.5 |
+| 11/4/2025 | Miami (OH) | Ohio | 7:00 PM | ESPN2 | Peden Stadium, Athens, OH | Home 983 | OHIO -2.5 | 50.5 |
 
 ### Wednesday November 5th
 
@@ -72,7 +72,7 @@ _All times ET_
 | 11/8/2025 | Texas State | Louisiana | 5:00 PM | ESPN+ | Cajun Field, Lafayette, LA |  | TXST -2.5 | 64.5 |
 | 11/8/2025 | Air Force | San José State | 6:00 PM | FS1 | CEFCU Stadium, San Jose, CA |  | SJSU -5.5 | 66.5 |
 | 11/8/2025 | Wake Forest | Virginia | 7:00 PM | ESPN | Scott Stadium, Charlottesville, VA |  | UVA -6.5 | 47.5 |
-| 11/8/2025 | California | Louisville | 7:00 PM | ESPN2 | L&N Federal Credit Union Stadium, Louisville, KY |  | LOU -19.5 | 50.5 |
+| 11/8/2025 | California | Louisville | 7:00 PM | ESPN2 | L&N Federal Credit Union Stadium, Louisville, KY |  | LOU -20.5 | 50.5 |
 | 11/8/2025 | Florida State | Clemson | 7:00 PM | ACC Network | Memorial Stadium (Clemson, SC), Clemson, SC |  | CLEM -2.5 | 56.5 |
 | 11/8/2025 | LSU | Alabama | 7:30 PM | ABC | Bryant-Denny Stadium, Tuscaloosa, AL |  | ALA -10.5 | 49.5 |
 | 11/8/2025 | Navy | Notre Dame | 7:30 PM | NBC, Peacock | Notre Dame Stadium, Notre Dame, IN |  | ND -26.5 | 57.5 |
@@ -125,8 +125,8 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/4/2025 | Evansville | Purdue | 6:30 PM | BTN | Mackey Arena, West Lafayette, IN | Home 195 | PUR -35.5 | 150.5 |
-| 11/4/2025 | Nicholls | Kentucky | 7:00 PM | SECN+ | Rupp Arena, Lexington, KY | Home 81 | UK -31.5 | 156.5 |
-| 11/4/2025 | Lindenwood | Texas Tech | 8:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX | Home 83 | TTU -34.5 | 148.5 |
+| 11/4/2025 | Nicholls | Kentucky | 7:00 PM | SECN+ | Rupp Arena, Lexington, KY | Home 81 | UK -32.5 | 156.5 |
+| 11/4/2025 | Lindenwood | Texas Tech | 8:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX | Home 83 | TTU -35.5 | 148.5 |
 | 11/4/2025 | Texas | Duke | 8:45 PM | ESPN | Spectrum Center, Charlotte, NC | Home 193; Away 191 | DUKE -10.5 | 153.5 |
 
 ### Wednesday November 5th
@@ -225,7 +225,7 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/4/2025 | Milwaukee Bucks | Toronto Raptors | 7:30 PM | FanDuel SN WI, NBA League Pass, TSN | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE | TOR -2.5 | 237.5 |
+| 11/4/2025 | Milwaukee Bucks | Toronto Raptors | 7:30 PM | FanDuel SN WI, NBA League Pass, TSN | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE | TOR -3.5 | 237.5 |
 | 11/4/2025 | Orlando Magic | Atlanta Hawks | 8:00 PM | NBC, Peacock | State Farm Arena, Atlanta, GA | Home 86; Away ONLINE | ORL -3.5 | 229.5 |
 | 11/4/2025 | Philadelphia 76ers | Chicago Bulls | 8:00 PM | CHSN, NBA League Pass, NBC Sports Phil + | United Center, Chicago, IL | Home 213; Away ONLINE | CHI -1.5 | 240.5 |
 | 11/4/2025 | Charlotte Hornets | New Orleans Pelicans | 8:00 PM | FanDuel SN SE, GCSEN, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 212; Away ONLINE | NO -2.5 | 229.5 |
