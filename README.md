@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-11-04 22:16 UTC_
+_Last updated: 2025-11-04 22:26 UTC_
 
 ## College Football — Upcoming Week
 2025-11-03 to 2025-11-09  
@@ -19,7 +19,6 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/5/2025 | Kent State | Ball State | 7:00 PM | ESPNU | Scheumann Stadium, Muncie, IN | Home 388 | BALL -1.5 | 47.5 |
 | 11/5/2025 | Northern Illinois | Toledo | 7:00 PM | ESPN2 | Glass Bowl, Toledo, OH | Home 387; Away 386 | TOL -14.5 | 42.5 |
-| 11/5/2025 | Toledo | Toledo |  |  |  | Home 387; Away 386 |  |  |
 
 ### Thursday November 6th
 
@@ -117,36 +116,6 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/3/2025 | Arizona Cardinals | Dallas Cowboys | 8:15 PM | ABC, ESPN | AT&T Stadium, Arlington, TX |  |  |  |
 
-### Thursday November 6th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/6/2025 | Denver Broncos | Denver Broncos |  |  |  | Home 225; Away 226 |  |  |
-
-### Sunday November 9th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/9/2025 | Indianapolis Colts | Indianapolis Colts |  |  |  | Home 227; Away 380 |  |  |
-| 11/9/2025 | Green Bay Packers | Green Bay Packers |  |  |  | Home 228; Away 387 |  |  |
-| 11/9/2025 | Chicago Bears | Chicago Bears |  |  |  | Home 233; Away 382 |  |  |
-| 11/9/2025 | Houston Texans | Houston Texans |  |  |  | Home 229; Away 383 |  |  |
-| 11/9/2025 | Miami Dolphins | Miami Dolphins |  |  |  | Home 230; Away 384 |  |  |
-| 11/9/2025 | Carolina Panthers | Carolina Panthers |  |  |  | Home 225; Away 381 |  |  |
-| 11/9/2025 | Minnesota Vikings | Minnesota Vikings |  |  |  | Home 231; Away 385 |  |  |
-| 11/9/2025 | New York Giants | New York Giants |  |  |  | Home 232; Away 386 |  |  |
-| 11/9/2025 | Seattle Seahawks | Seattle Seahawks |  |  |  | Home 227; Away 380 |  |  |
-| 11/9/2025 | San Francisco 49ers | San Francisco 49ers |  |  |  | Home 226; Away 382 |  |  |
-| 11/9/2025 | Washington Commanders | Washington Commanders |  |  |  | Home 225; Away 381 |  |  |
-| 11/9/2025 | Los Angeles Chargers | Los Angeles Chargers |  |  |  | Home 225; Away 226 |  |  |
-
-### Monday November 10th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/10/2025 | Green Bay Packers | Green Bay Packers |  |  |  | Home 225; Away 226 |  |  |
-| 11/10/2025 | Arizona Cardinals | Arizona Cardinals |  |  |  | Away ONLINE |  |  |
-
 ## College Basketball — Upcoming Week
 2025-11-04 to 2025-11-10  
 _All times ET_  
@@ -159,7 +128,6 @@ _All times ET_
 | 11/4/2025 | Nicholls | Kentucky | 7:00 PM | SECN+ | Rupp Arena, Lexington, KY | Home 81 | UK -31.5 | 156.5 |
 | 11/4/2025 | Lindenwood | Texas Tech | 8:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX | Home 83 | TTU -34.5 | 148.5 |
 | 11/4/2025 | Texas | Duke | 8:45 PM | ESPN | Spectrum Center, Charlotte, NC | Home 193; Away 191 | DUKE -10.5 | 153.5 |
-| 11/4/2025 | Duke | Duke |  |  |  | Home 193; Away 191 |  |  |
 
 ### Wednesday November 5th
 
@@ -260,15 +228,9 @@ _All times ET_
 | 11/4/2025 | Milwaukee Bucks | Toronto Raptors | 7:30 PM | FanDuel SN WI, NBA League Pass, TSN | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE | TOR -2.5 | 237.5 |
 | 11/4/2025 | Orlando Magic | Atlanta Hawks | 8:00 PM | NBC, Peacock | State Farm Arena, Atlanta, GA | Home 86; Away ONLINE | ORL -3.5 | 228.5 |
 | 11/4/2025 | Philadelphia 76ers | Chicago Bulls | 8:00 PM | CHSN, NBA League Pass, NBC Sports Phil + | United Center, Chicago, IL | Home 213; Away ONLINE | CHI -1.5 | 240.5 |
-| 11/4/2025 | Charlotte Hornets | New Orleans Pelicans | 8:00 PM | FanDuel SN SE, GCSEN, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 212; Away ONLINE | NO -2.5 | 232.5 |
+| 11/4/2025 | Charlotte Hornets | New Orleans Pelicans | 8:00 PM | FanDuel SN SE, GCSEN, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 212; Away ONLINE | NO -2.5 | 229.5 |
 | 11/4/2025 | Phoenix Suns | Golden State Warriors | 10:00 PM | Arizona's Family 3TV, NBA League Pass, NBC Sports BA, Suns Live | Chase Center, San Francisco, CA | Home 214; Away ONLINE | GS -9.5 | 232.5 |
 | 11/4/2025 | Oklahoma City Thunder | LA Clippers | 11:00 PM | FanDuel SN OK, NBC, Peacock | Intuit Dome, Inglewood, CA | Away ONLINE | OKC -8.5 | 218.5 |
-| 11/4/2025 | Toronto Raptors | Toronto Raptors |  |  |  | Home 167; Away 896 |  |  |
-| 11/4/2025 | Atlanta Hawks | Atlanta Hawks |  |  |  | Home 86; Away 901 |  |  |
-| 11/4/2025 | New Orleans Pelicans | New Orleans Pelicans |  |  |  | Home 212; Away 883 |  |  |
-| 11/4/2025 | Chicago Bulls | Chicago Bulls |  |  |  | Home 213; Away 902 |  |  |
-| 11/4/2025 | Golden State Warriors | Golden State Warriors |  |  |  | Home 214; Away 903 |  |  |
-| 11/4/2025 | Los Angeles Lakers | Los Angeles Lakers |  |  |  | Home 86; Away 900 |  |  |
 
 ### Wednesday November 5th
 
