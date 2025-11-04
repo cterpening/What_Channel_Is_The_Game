@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-11-04 20:23 UTC_
+_Last updated: 2025-11-04 20:42 UTC_
 
 ## College Football — Upcoming Week
 2025-11-03 to 2025-11-09  
@@ -124,10 +124,10 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/4/2025 | Evansville | Purdue | 6:30 PM | BTN | Mackey Arena, West Lafayette, IN |  | PUR -35.5 | 150.5 |
-| 11/4/2025 | Nicholls | Kentucky | 7:00 PM | SECN+ | Rupp Arena, Lexington, KY |  | UK -31.5 | 155.5 |
-| 11/4/2025 | Lindenwood | Texas Tech | 8:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX |  | TTU -34.5 | 148.5 |
-| 11/4/2025 | Texas | Duke | 8:45 PM | ESPN | Spectrum Center, Charlotte, NC |  | DUKE -10.5 | 152.5 |
+| 11/4/2025 | Evansville | Purdue | 6:30 PM | BTN | Mackey Arena, West Lafayette, IN | Home 195 | PUR -35.5 | 150.5 |
+| 11/4/2025 | Nicholls | Kentucky | 7:00 PM | SECN+ | Rupp Arena, Lexington, KY | Home 81 | UK -31.5 | 155.5 |
+| 11/4/2025 | Lindenwood | Texas Tech | 8:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX | Home 83 | TTU -34.5 | 148.5 |
+| 11/4/2025 | Texas | Duke | 8:45 PM | ESPN | Spectrum Center, Charlotte, NC | Home 193; Away 191 | DUKE -10.5 | 153.5 |
 
 ### Wednesday November 5th
 
