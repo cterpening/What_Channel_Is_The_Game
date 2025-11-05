@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-11-05 20:39 UTC_
+_Last updated: 2025-11-05 21:27 UTC_
 
 ## College Football — Upcoming Week
 2025-11-03 to 2025-11-09  
@@ -67,7 +67,7 @@ _All times ET_
 | 11/8/2025 | Wake Forest | Virginia | 7:00 PM | ESPN | Scott Stadium, Charlottesville, VA | Home 81; Away 383 | UVA -6.5 | 47.5 |
 | 11/8/2025 | California | Louisville | 7:00 PM | ESPN2 | L&N Federal Credit Union Stadium, Louisville, KY | Home 194; Away 382 | LOU -20.5 | 50.5 |
 | 11/8/2025 | Florida State | Clemson | 7:00 PM | ACC Network | Memorial Stadium (Clemson, SC), Clemson, SC | Home 193; Away 371 | CLEM -2.5 | 56.5 |
-| 11/8/2025 | LSU | Alabama | 7:30 PM | ABC | Bryant-Denny Stadium, Tuscaloosa, AL | Home 84; Away 82 | ALA -9.5 | 49.5 |
+| 11/8/2025 | LSU | Alabama | 7:30 PM | ABC | Bryant-Denny Stadium, Tuscaloosa, AL | Home 84; Away 82 | ALA -10.5 | 49.5 |
 | 11/8/2025 | Navy | Notre Dame | 7:30 PM | NBC, Peacock | Notre Dame Stadium, Notre Dame, IN | Home 129; Away 145 | ND -25.5 | 55.5 |
 | 11/8/2025 | Florida | Kentucky | 7:30 PM | SEC Network | Kroger Field, Lexington, KY | Home 190; Away 374 | FLA -3.5 | 44.5 |
 | 11/8/2025 | Nevada | Utah State | 7:30 PM | CBSSN | Maverik Stadium, Logan, UT | Home 384; Away 385 | USU -9.5 | 52.5 |
@@ -97,7 +97,7 @@ _All times ET_
 | 11/9/2025 | Cleveland Browns | New York Jets | 1:00 PM | CBS | MetLife Stadium, East Rutherford, NJ | Home 232; Away 386 | CLE -2.5 | 37.5 |
 | 11/9/2025 | New England Patriots | Tampa Bay Buccaneers | 1:00 PM | CBS | Raymond James Stadium, Tampa, FL | Home 228; Away 387 | TB -2.5 | 48.5 |
 | 11/9/2025 | New Orleans Saints | Carolina Panthers | 1:00 PM | FOX | Bank of America Stadium, Charlotte, NC | Home 225; Away 381 | CAR -5.5 | 39.5 |
-| 11/9/2025 | Jacksonville Jaguars | Houston Texans | 1:00 PM | CBS | NRG Stadium, Houston, TX | Home 229; Away 383 | JAX -1.5 | 37.5 |
+| 11/9/2025 | Jacksonville Jaguars | Houston Texans | 1:00 PM | CBS | NRG Stadium, Houston, TX | Home 229; Away 383 | HOU -1.5 | 37.5 |
 | 11/9/2025 | Arizona Cardinals | Seattle Seahawks | 4:05 PM | CBS | Lumen Field, Seattle, WA | Home 227; Away 380 | SEA -6.5 | 44.5 |
 | 11/9/2025 | Los Angeles Rams | San Francisco 49ers | 4:25 PM | FOX | Levi's Stadium, Santa Clara, CA | Home 226; Away 382 | LAR -4.5 | 49.5 |
 | 11/9/2025 | Detroit Lions | Washington Commanders | 4:25 PM | FOX | Northwest Stadium, Landover, MD | Home 225; Away 381 | DET -8.5 | 49.5 |
@@ -123,36 +123,36 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/6/2025 | Jackson State | Louisville | 7:00 PM | ACC Extra | KFC Yum! Center, Louisville, KY |  |  |  |
-| 11/6/2025 | North Florida | Florida | 8:00 PM | SECN+ | Stephen C. O'Connell Center, Gainesville, FL |  |  |  |
-| 11/6/2025 | Grambling | Iowa State | 8:00 PM | ESPN+ | Hilton Coliseum, Ames, IA |  |  |  |
-| 11/6/2025 | Merrimack | Auburn | 8:00 PM | SECN+ | Neville Arena, Auburn, AL |  |  |  |
+| 11/6/2025 | Jackson State | Louisville | 7:00 PM | ACC Extra | KFC Yum! Center, Louisville, KY | Home 81 |  |  |
+| 11/6/2025 | North Florida | Florida | 8:00 PM | SECN+ | Stephen C. O'Connell Center, Gainesville, FL | Home 84 |  |  |
+| 11/6/2025 | Grambling | Iowa State | 8:00 PM | ESPN+ | Hilton Coliseum, Ames, IA | Home 199 |  |  |
+| 11/6/2025 | Merrimack | Auburn | 8:00 PM | SECN+ | Neville Arena, Auburn, AL | Home 192 |  |  |
 
 ### Friday November 7th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/7/2025 | Oakland | Purdue | 7:00 PM | Peacock | Mackey Arena, West Lafayette, IN |  |  |  |
-| 11/7/2025 | Valparaiso | Kentucky | 7:00 PM | SECN+ | Rupp Arena, Lexington, KY |  |  |  |
-| 11/7/2025 | Kansas | North Carolina | 7:00 PM | ESPN | Dean E. Smith Center, Chapel Hill, NC |  | UNC -1.5 | 153.5 |
-| 11/7/2025 | UMass Lowell | UConn | 7:30 PM | Peacock | PeoplesBank Arena, Hartford, CT |  |  |  |
-| 11/7/2025 | Sam Houston | Texas Tech | 8:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX |  |  |  |
-| 11/7/2025 | Florida Gulf Coast | Illinois | 8:30 PM | Peacock | State Farm Center, Champaign, IL |  |  |  |
-| 11/7/2025 | Northern Illinois | Wisconsin | 8:30 PM | BTN | Kohl Center, Madison, WI |  |  |  |
-| 11/7/2025 | Utah Tech | Arizona | 9:00 PM | TNT, truTV | McKale Memorial Center, Tucson, AZ |  |  |  |
-| 11/7/2025 | Pepperdine | UCLA | 10:30 PM | BTN | Pauley Pavilion, Los Angeles, CA |  |  |  |
+| 11/7/2025 | Oakland | Purdue | 7:00 PM | Peacock | Mackey Arena, West Lafayette, IN | Home 85 |  |  |
+| 11/7/2025 | Valparaiso | Kentucky | 7:00 PM | SECN+ | Rupp Arena, Lexington, KY | Home 201 |  |  |
+| 11/7/2025 | Kansas | North Carolina | 7:00 PM | ESPN | Dean E. Smith Center, Chapel Hill, NC | Home 193; Away 198 | UNC -1.5 | 153.5 |
+| 11/7/2025 | UMass Lowell | UConn | 7:30 PM | Peacock | PeoplesBank Arena, Hartford, CT | Home 202 |  |  |
+| 11/7/2025 | Sam Houston | Texas Tech | 8:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX | Home 199 |  |  |
+| 11/7/2025 | Florida Gulf Coast | Illinois | 8:30 PM | Peacock | State Farm Center, Champaign, IL | Home 195 |  |  |
+| 11/7/2025 | Northern Illinois | Wisconsin | 8:30 PM | BTN | Kohl Center, Madison, WI | Home 196 |  |  |
+| 11/7/2025 | Utah Tech | Arizona | 9:00 PM | TNT, truTV | McKale Memorial Center, Tucson, AZ | Home 198 |  |  |
+| 11/7/2025 | Pepperdine | UCLA | 10:30 PM | BTN | Pauley Pavilion, Los Angeles, CA | Home 85 |  |  |
 
 ### Saturday November 8th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/8/2025 | Alabama | St. John's | 12:00 PM | FS1 | Madison Square Garden, New York, NY |  |  |  |
-| 11/8/2025 | Western Carolina | Duke | 1:30 PM | The CW Network | Cameron Indoor Stadium, Durham, NC |  |  |  |
-| 11/8/2025 | Towson | Houston | 3:00 PM | ESPN+ | Fertitta Center, Houston, TX |  |  |  |
-| 11/8/2025 | Northern Kentucky | Tennessee | 3:00 PM | SECN+ | Food City Center, Knoxville, TN |  |  |  |
-| 11/8/2025 | Arkansas | Michigan State | 7:00 PM | FOX | Breslin Center, East Lansing, MI |  |  |  |
-| 11/8/2025 | Holy Cross | BYU | 9:00 PM | ESPN+ | Marriott Center, Provo, UT |  |  |  |
-| 11/8/2025 | Oklahoma | Gonzaga | 10:30 PM | ESPN+, ESPN2 | Spokane Arena, Spokane, WA |  |  |  |
+| 11/8/2025 | Alabama | St. John's | 12:00 PM | FS1 | Madison Square Garden, New York, NY | Home 201; Away 384 |  |  |
+| 11/8/2025 | Western Carolina | Duke | 1:30 PM | The CW Network | Cameron Indoor Stadium, Durham, NC | Home ONLINE |  |  |
+| 11/8/2025 | Towson | Houston | 3:00 PM | ESPN+ | Fertitta Center, Houston, TX | Home ONLINE |  |  |
+| 11/8/2025 | Northern Kentucky | Tennessee | 3:00 PM | SECN+ | Food City Center, Knoxville, TN | Home ONLINE |  |  |
+| 11/8/2025 | Arkansas | Michigan State | 7:00 PM | FOX | Breslin Center, East Lansing, MI | Home 196; Away 191 |  |  |
+| 11/8/2025 | Holy Cross | BYU | 9:00 PM | ESPN+ | Marriott Center, Provo, UT | Home 143 |  |  |
+| 11/8/2025 | Oklahoma | Gonzaga | 10:30 PM | ESPN+, ESPN2 | Spokane Arena, Spokane, WA | Home 201; Away ONLINE |  |  |
 
 ### Sunday November 9th
 
@@ -160,11 +160,11 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/9/2025 | New Hampshire | Harvard | 12:00 PM | ESPN+ | Lavietes Pavilion, Cambridge, MA |  |  |  |
 | 11/9/2025 | Western Michigan | Campbell | 12:30 PM | FloSports | John W. Pope Jr. Convocation Center, Buies Creek, NC |  |  |  |
-| 11/9/2025 | North Carolina Central | App State | 1:00 PM | ESPN+ | Holmes Convocation Center, Boone, NC | Home 385 |  |  |
-| 11/9/2025 | Indiana | Marquette | 1:00 PM | ESPN | United Center, Chicago, IL | Home 384 |  |  |
+| 11/9/2025 | North Carolina Central | App State | 1:00 PM | ESPN+ | Holmes Convocation Center, Boone, NC | Home 385 / 381 |  |  |
+| 11/9/2025 | Indiana | Marquette | 1:00 PM | ESPN | United Center, Chicago, IL | Home ONLINE; Away ONLINE |  |  |
 | 11/9/2025 | Coppin State | James Madison | 1:00 PM | ESPN+ | Atlantic Union Bank Center, Harrisonburg, VA |  |  |  |
 | 11/9/2025 | Pennsylvania | American University | 1:00 PM | ESPN+ | Bender Arena, Washington, DC |  |  |  |
-| 11/9/2025 | Morehead State | Georgia | 2:00 PM | SECN+ | Stegeman Coliseum, Athens, GA | Home 374 |  |  |
+| 11/9/2025 | Morehead State | Georgia | 2:00 PM | SECN+ | Stegeman Coliseum, Athens, GA | Home ONLINE |  |  |
 | 11/9/2025 | Lipscomb | Mercer | 2:00 PM | ESPN+ | Hawkins Arena, Macon, GA |  |  |  |
 | 11/9/2025 | Le Moyne | Bowling Green | 2:00 PM | ESPN+ | Stroh Center, Bowling Green, OH |  |  |  |
 | 11/9/2025 | Dominican (IL) | Purdue Fort Wayne | 2:00 PM | ESPN+ | Memorial Coliseum (IN), Fort Wayne, IN |  |  |  |
@@ -172,52 +172,52 @@ _All times ET_
 | 11/9/2025 | South Dakota State | Northern Iowa | 2:00 PM | ESPN+ | McLeod Center, Cedar Falls, IA |  |  |  |
 | 11/9/2025 | Vermont | Brown | 2:00 PM | ESPN+ | Pizzitola Sports Center, Providence, RI |  |  |  |
 | 11/9/2025 | Marist | Dartmouth | 2:00 PM | ESPN+ | Leede Arena, Hanover, NH |  |  |  |
-| 11/9/2025 | Texas A&M | Oklahoma State | 2:00 PM | ESPN2 | Gallagher-Iba Arena, Stillwater, OK |  |  |  |
+| 11/9/2025 | Texas A&M | Oklahoma State | 2:00 PM | ESPN2 | Gallagher-Iba Arena, Stillwater, OK | Home ONLINE; Away ONLINE |  |  |
 | 11/9/2025 | Cornell | Illinois State | 2:00 PM | ESPN+ | CEFCU Arena, Normal, IL |  |  |  |
 | 11/9/2025 | Ozark Christian | South Dakota | 2:00 PM | Midco Sports Plus, Summit League Network | Sanford Coyote Sports Center, Vermillion, SD |  |  |  |
-| 11/9/2025 | Lyon | Louisiana Tech | 3:00 PM | ESPN+ | Thomas Assembly Center, Ruston, LA |  |  |  |
+| 11/9/2025 | Lyon | Louisiana Tech | 3:00 PM | ESPN+ | Thomas Assembly Center, Ruston, LA | Home ONLINE |  |  |
 | 11/9/2025 | Denver | Montana State | 3:00 PM | ESPN+ | Worthington Arena, Bozeman, MT |  |  |  |
-| 11/9/2025 | Lehigh | West Virginia | 3:00 PM | ESPN+ | WVU Coliseum, Morgantown, WV |  |  |  |
-| 11/9/2025 | Utah Tech | Arizona State | 3:00 PM | ESPN+ | Desert Financial Arena, Tempe, AZ |  |  |  |
+| 11/9/2025 | Lehigh | West Virginia | 3:00 PM | ESPN+ | WVU Coliseum, Morgantown, WV | Home ONLINE |  |  |
+| 11/9/2025 | Utah Tech | Arizona State | 3:00 PM | ESPN+ | Desert Financial Arena, Tempe, AZ | Home ONLINE |  |  |
 | 11/9/2025 | Oakland City | Evansville | 4:00 PM | ESPN+ | Ford Center, Evansville, IN |  |  |  |
-| 11/9/2025 | VMI | Missouri | 4:30 PM | SEC Network | Mizzou Arena, Columbia, MO |  |  |  |
+| 11/9/2025 | VMI | Missouri | 4:30 PM | SEC Network | Mizzou Arena, Columbia, MO | Home ONLINE |  |  |
 | 11/9/2025 | North Texas | Loyola Chicago | 5:00 PM | Marquee Sports Net | Now Arena, Hoffman Estates, IL |  |  |  |
 | 11/9/2025 | UC Davis | Portland | 5:00 PM | ESPN+ | Chiles Center, Portland, OR |  |  |  |
 | 11/9/2025 | Idaho State | San Diego State | 5:00 PM | MWN | Viejas Arena, San Diego, CA |  |  |  |
 | 11/9/2025 | Grambling | Howard | 6:00 PM | ESPN+ | Burr Gymnasium, Washington, DC |  |  |  |
 | 11/9/2025 | Florida Atlantic | Liberty | 6:00 PM | YouTube | Liberty Arena (VA), Lynchburg, VA |  |  |  |
-| 11/9/2025 | Manhattan | USC | 6:00 PM | B1G+ | Galen Center, Los Angeles, CA |  |  |  |
-| 11/9/2025 | Omaha | Colorado State | 6:00 PM | MWN | Moby Arena, Fort Collins, CO |  |  |  |
-| 11/9/2025 | Southern Miss | South Carolina | 6:30 PM | SEC Network | Colonial Life Arena, Columbia, SC |  |  |  |
+| 11/9/2025 | Manhattan | USC | 6:00 PM | B1G+ | Galen Center, Los Angeles, CA | Home 372 |  |  |
+| 11/9/2025 | Omaha | Colorado State | 6:00 PM | MWN | Moby Arena, Fort Collins, CO | Home 389 |  |  |
+| 11/9/2025 | Southern Miss | South Carolina | 6:30 PM | SEC Network | Colonial Life Arena, Columbia, SC | Home 374 |  |  |
 | 11/9/2025 | Kentucky Christian | UT Martin | 7:30 PM | ESPN+ | Kathleen and Tom Elam Center, Martin, TN |  |  |  |
-| 11/9/2025 | Washington | Baylor | 8:30 PM | ESPN | Foster Pavilion, Waco, TX |  |  |  |
+| 11/9/2025 | Washington | Baylor | 8:30 PM | ESPN | Foster Pavilion, Waco, TX | Home 391; Away 372 |  |  |
 
 ### Monday November 10th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/10/2025 | East Texas A&M | Hawai'i | 1:00 AM | ESPN+, Spectrum Sports Net | Stan Sheriff Center, Honolulu, HI |  |  |  |
-| 11/10/2025 | Columbia | UConn | 6:30 PM | FS1 | Gampel Pavilion, Storrs, CT |  |  |  |
-| 11/10/2025 | Mississippi State | Iowa State | 8:00 PM | ESPNU | Sanford Pentagon, Sioux Falls, SD |  |  |  |
-| 11/10/2025 | West Georgia | UCLA | 10:00 PM | B1G+ | Pauley Pavilion, Los Angeles, CA |  |  |  |
+| 11/10/2025 | Columbia | UConn | 6:30 PM | FS1 | Gampel Pavilion, Storrs, CT | Home 201 |  |  |
+| 11/10/2025 | Mississippi State | Iowa State | 8:00 PM | ESPNU | Sanford Pentagon, Sioux Falls, SD | Home 84; Away 389 |  |  |
+| 11/10/2025 | West Georgia | UCLA | 10:00 PM | B1G+ | Pauley Pavilion, Los Angeles, CA | Home 84 |  |  |
 
 ### Tuesday November 11th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/11/2025 | Wake Forest | Michigan | 6:30 PM | FS1 | Little Caesars Arena, Detroit, MI |  |  |  |
-| 11/11/2025 | Florida State | Florida | 7:00 PM | SEC Network | Stephen C. O'Connell Center, Gainesville, FL |  |  |  |
+| 11/11/2025 | Florida State | Florida | 7:00 PM | SEC Network | Stephen C. O'Connell Center, Gainesville, FL | Home 84 |  |  |
 | 11/11/2025 | Duke | Army | 7:00 PM | CBSSN | Christl Arena, West Point, NY |  |  |  |
-| 11/11/2025 | Radford | North Carolina | 7:00 PM | ACC Network | Dean E. Smith Center, Chapel Hill, NC |  |  |  |
-| 11/11/2025 | Kentucky | Louisville | 8:00 PM | ESPN | KFC Yum! Center, Louisville, KY |  |  |  |
+| 11/11/2025 | Radford | North Carolina | 7:00 PM | ACC Network | Dean E. Smith Center, Chapel Hill, NC | Home 193 |  |  |
+| 11/11/2025 | Kentucky | Louisville | 8:00 PM | ESPN | KFC Yum! Center, Louisville, KY | Home 81 |  |  |
 | 11/11/2025 | Central Arkansas | Arkansas | 8:00 PM | SECN+ | Bud Walton Arena, Fayetteville, AR |  |  |  |
-| 11/11/2025 | Texas A&M-Corpus Christi | Kansas | 8:00 PM | ESPN+ | Allen Fieldhouse, Lawrence, KS |  |  |  |
-| 11/11/2025 | Wofford | Auburn | 8:00 PM | SECN+ | Neville Arena, Auburn, AL |  |  |  |
-| 11/11/2025 | Texas Tech | Illinois | 8:30 PM | FS1 | State Farm Center, Champaign, IL |  |  |  |
-| 11/11/2025 | Ball State | Wisconsin | 8:30 PM | BTN | Kohl Center, Madison, WI |  |  |  |
-| 11/11/2025 | Delaware | BYU | 9:00 PM | CBSSN | Marriott Center, Provo, UT |  |  |  |
-| 11/11/2025 | Northern Arizona | Arizona | 9:00 PM | ESPN+ | McKale Memorial Center, Tucson, AZ |  |  |  |
-| 11/11/2025 | Creighton | Gonzaga | 10:00 PM | ESPN, ESPN+ | McCarthey Athletic Center, Spokane, WA |  |  |  |
+| 11/11/2025 | Texas A&M-Corpus Christi | Kansas | 8:00 PM | ESPN+ | Allen Fieldhouse, Lawrence, KS | Home ONLINE |  |  |
+| 11/11/2025 | Wofford | Auburn | 8:00 PM | SECN+ | Neville Arena, Auburn, AL | Home 192 |  |  |
+| 11/11/2025 | Texas Tech | Illinois | 8:30 PM | FS1 | State Farm Center, Champaign, IL | Home 195 |  |  |
+| 11/11/2025 | Ball State | Wisconsin | 8:30 PM | BTN | Kohl Center, Madison, WI | Home 196 |  |  |
+| 11/11/2025 | Delaware | BYU | 9:00 PM | CBSSN | Marriott Center, Provo, UT | Home 143 |  |  |
+| 11/11/2025 | Northern Arizona | Arizona | 9:00 PM | ESPN+ | McKale Memorial Center, Tucson, AZ | Home 198 |  |  |
+| 11/11/2025 | Creighton | Gonzaga | 10:00 PM | ESPN, ESPN+ | McCarthey Athletic Center, Spokane, WA | Home 201 |  |  |
 
 ## NBA — Upcoming Week
 2025-11-05 to 2025-11-11  
@@ -228,7 +228,7 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/5/2025 | Philadelphia 76ers | Cleveland Cavaliers | 7:00 PM | FanDuel SN OH, NBA League Pass, NBC Sports Phil, RESN | Rocket Arena, Cleveland, OH | Home 213; Away ONLINE | CLE -10.5 | 235.5 |
-| 11/5/2025 | Utah Jazz | Detroit Pistons | 7:00 PM | FanDuel SN DET, Jazz+, KJZZ-TV, NBA League Pass | Little Caesars Arena, Detroit, MI | Home 214; Away ONLINE | DET -9.5 | 232.5 |
+| 11/5/2025 | Utah Jazz | Detroit Pistons | 7:00 PM | FanDuel SN DET, Jazz+, KJZZ-TV, NBA League Pass | Little Caesars Arena, Detroit, MI | Home 214; Away ONLINE | DET -9.5 | 233.5 |
 | 11/5/2025 | Brooklyn Nets | Indiana Pacers | 7:00 PM | FanDuel SN IN, NBA League Pass, YES | Gainbridge Fieldhouse, Indianapolis, IN | Home 212; Away ONLINE | IND -6.5 | 231.5 |
 | 11/5/2025 | Washington Wizards | Boston Celtics | 7:30 PM | MNMT, MNMT2, NBA League Pass, NBC Sports BO | TD Garden, Boston, MA | Home 215; Away ONLINE | BOS -12.5 | 233.5 |
 | 11/5/2025 | Minnesota Timberwolves | New York Knicks | 7:30 PM | ESPN, FanDuel SN North, MSG | Madison Square Garden, New York, NY | Home 86; Away ONLINE | NY -3.5 | 227.5 |
@@ -237,7 +237,7 @@ _All times ET_
 | 11/5/2025 | Miami Heat | Denver Nuggets | 9:00 PM | FanDuel SN Sun, KTVD-TV (My20), NBA League Pass | Ball Arena, Denver, CO | Home 81; Away ONLINE | DEN -9.5 | 241.5 |
 | 11/5/2025 | San Antonio Spurs | Los Angeles Lakers | 10:00 PM | ESPN, FanDuel SN SW, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 86; Away ONLINE | LAL -1.5 | 226.5 |
 | 11/5/2025 | Oklahoma City Thunder | Portland Trail Blazers | 10:00 PM | BlazerVision, FanDuel SN OK, KUNP 16, NBA League Pass | Moda Center, Portland, OR | Home 212; Away ONLINE | OKC -4.5 | 228.5 |
-| 11/5/2025 | Golden State Warriors | Sacramento Kings | 10:00 PM | NBA League Pass, NBC Sports BA, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 213; Away ONLINE | SAC -3.5 | 227.5 |
+| 11/5/2025 | Golden State Warriors | Sacramento Kings | 10:00 PM | NBA League Pass, NBC Sports BA, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 213; Away ONLINE | SAC -3.5 | 226.5 |
 
 ### Thursday November 6th
 
