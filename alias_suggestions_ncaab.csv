@@ -1,28 +1,4 @@
 ﻿sport,from,suggested_to,score
-ncaab,Rutgers,Akron,0.000
-ncaab,Maine,Akron,0.000
-ncaab,Columbia,Columbia,1.000
-ncaab,Miami,Miami,1.000
-ncaab,Pittsburgh,Akron,0.000
-ncaab,Eastern Michigan,Michigan,0.500
-ncaab,Seton Hall,Akron,0.000
-ncaab,Fairfield,Akron,0.000
-ncaab,TCU,TCU,1.000
-ncaab,Lamar,Akron,0.000
-ncaab,Iowa State,Iowa State,1.000
-ncaab,Mississippi State,Mississippi State,1.000
-ncaab,New Orleans,Akron,0.000
-ncaab,Xavier,Akron,0.000
-ncaab,Santa Clara,Akron,0.000
-ncaab,Northwestern,Akron,0.000
-ncaab,Cleveland State,Arizona State,0.333
-ncaab,Utah,Akron,0.000
-ncaab,Holy Cross,Akron,0.000
-ncaab,Georgia Tech,Texas Tech,0.333
-ncaab,Washington State,Arizona State,0.333
-ncaab,California,Akron,0.000
-ncaab,Cal State Fullerton,Arizona State,0.250
-ncaab,West Georgia,West Georgia,1.000
 ncaab,Air Force,Akron,0.000
 ncaab,LIU,Akron,0.000
 ncaab,Michigan,Michigan,1.000
@@ -118,26 +94,35 @@ ncaab,Stanford,Akron,0.000
 ncaab,Montana State,Arizona State,0.333
 ncaab,Nevada,Akron,0.000
 ncaab,Southern Illinois,Illinois,0.500
-ncaab,West Virginia,West Georgia,0.333
+ncaab,West Virginia,Akron,0.000
+ncaab,Pittsburgh,Akron,0.000
 ncaab,Michigan State,Michigan State,1.000
+ncaab,Seton Hall,Akron,0.000
 ncaab,Monmouth,Akron,0.000
 ncaab,Alabama,Alabama,1.000
 ncaab,Purdue,Purdue,1.000
 ncaab,Kansas State,Kansas,0.500
+ncaab,California,Akron,0.000
+ncaab,Rutgers,Akron,0.000
 ncaab,Lehigh,Akron,0.000
 ncaab,Indiana State,Indiana State,1.000
 ncaab,Cal State Bakersfield,Arizona State,0.250
 ncaab,Illinois State,Illinois,0.500
-ncaab,Iowa,Iowa State,0.500
 ncaab,Samford,Samford,1.000
-ncaab,Georgia,West Georgia,0.500
+ncaab,Iowa,Iowa State,0.500
+ncaab,Xavier,Akron,0.000
+ncaab,Northwestern,Akron,0.000
 ncaab,Colgate,Colgate,1.000
+ncaab,Georgia,Akron,0.000
+ncaab,Georgia Tech,Texas Tech,0.333
+ncaab,North Carolina Central,North Carolina Central,1.000
 ncaab,Baylor,Akron,0.000
 ncaab,Tarleton State,Arizona State,0.333
-ncaab,North Carolina Central,North Carolina Central,1.000
+ncaab,TCU,TCU,1.000
 ncaab,Colorado,Akron,0.000
-ncaab,Washington,Akron,0.000
 ncaab,Arizona State,Arizona State,1.000
+ncaab,Washington State,Arizona State,0.333
+ncaab,Washington,Akron,0.000
 ncaab,Ohio,Ohio,1.000
 ncaab,La Salle,Akron,0.000
 ncaab,Kansas City,Kansas,0.500
@@ -145,42 +130,69 @@ ncaab,Virginia,Akron,0.000
 ncaab,Marshall,Akron,0.000
 ncaab,Princeton,Princeton,1.000
 ncaab,Temple,Akron,0.000
+ncaab,Mississippi State,Arizona State,0.333
 ncaab,St. John's,St. John's,1.000
 ncaab,William & Mary,William & Mary,1.000
+ncaab,Utah,Southern Utah,0.500
 ncaab,Sam Houston State,Houston,0.333
 ncaab,UMass Lowell,Akron,0.000
 ncaab,Charlotte,Akron,0.000
 ncaab,Incarnate Word,Akron,0.000
 ncaab,Mount St. Mary's,St. John's,0.400
 ncaab,Akron,Akron,1.000
+ncaab,Miami,Miami,1.000
 ncaab,Lafayette,Akron,0.000
 ncaab,Bucknell,Akron,0.000
-ncaab,Stonehill,Akron,0.000
+ncaab,Iowa State,Iowa State,1.000
+ncaab,Stonehill,Stonehill,1.000
 ncaab,Tulsa,Akron,0.000
-ncaab,Rice,Akron,0.000
+ncaab,Rice,Rice,1.000
 ncaab,Alabama State,Alabama,0.500
 ncaab,Georgia State,Arizona State,0.333
-ncaab,Southern Utah,Akron,0.000
+ncaab,Southern Utah,Southern Utah,1.000
 ncaab,North Alabama,Alabama,0.500
-ncaab,Maine Black Bears,Akron,0.000
-ncaab,Rutgers Scarlet Knights,Akron,0.000
-ncaab,Columbia Lions,Columbia,0.500
-ncaab,UConn Huskies,UConn,0.500
-ncaab,Miami Hurricanes,Miami,0.500
-ncaab,Eastern Michigan Eagles,Michigan,0.333
-ncaab,Pittsburgh Panthers,Akron,0.000
-ncaab,Seton Hall Pirates,Akron,0.000
-ncaab,TCU Horned Frogs,TCU,0.333
-ncaab,Mississippi State Bulldogs,Mississippi State,0.667
-ncaab,Iowa State Cyclones,Iowa State,0.667
-ncaab,LSU Tigers,Akron,0.000
-ncaab,Xavier Musketeers,Akron,0.000
-ncaab,Cleveland State Vikings,Arizona State,0.250
-ncaab,Utah Utes,Akron,0.000
-ncaab,Georgia Tech Yellow Jackets,Texas Tech,0.200
-ncaab,St. Thomas Tommies,St. John's,0.200
-ncaab,Washington State Cougars,Arizona State,0.250
-ncaab,California Golden Bears,Akron,0.000
-ncaab,West Georgia Wolves,West Georgia,0.667
-ncaab,UCLA Bruins,UCLA,0.500
-ncaab,Your,Akron,0.000
+ncaab,LIU Sharks,Akron,0.000
+ncaab,Air Force Falcons,Akron,0.000
+ncaab,Wake Forest Demon Decons,Wake Forest,0.500
+ncaab,Michigan Wolverines,Michigan,0.500
+ncaab,Appalachian State Mountaineers,Arizona State,0.250
+ncaab,Ohio State Buckeyes,Ohio,0.333
+ncaab,Penn State Nittany Lions,Arizona State,0.200
+ncaab,Clemson Tigers,Akron,0.000
+ncaab,Florida State Seminoles,Florida State,0.667
+ncaab,Florida Gators,Florida,0.500
+ncaab,Maryland Terrapins,Maryland Eastern Shore,0.250
+ncaab,Radford Highlanders,Radford,0.500
+ncaab,North Carolina Tar Heels,North Carolina,0.500
+ncaab,Providence Friars,Akron,0.000
+ncaab,Villanova Wildcats,Akron,0.000
+ncaab,Duke Blue Devils,Duke,0.333
+ncaab,Army Black Knights,Army,0.333
+ncaab,Boston College Eagles,Akron,0.000
+ncaab,Cincinnati Bearcats,Akron,0.000
+ncaab,Florida A&M Rattlers,Texas A&M-Corpus Christi,0.286
+ncaab,Eastern Illinois Panthers,Eastern Illinois,0.667
+ncaab,Notre Dame Fighting Irish,Akron,0.000
+ncaab,Central Arkansas Bears,Central Arkansas,0.667
+ncaab,Arkansas Razorbacks,Arkansas,0.500
+ncaab,SMU Mustangs,Akron,0.000
+ncaab,Wofford Terriers,Wofford,0.500
+ncaab,Auburn Tigers,Auburn,0.500
+ncaab,Maryland Eastern Shore Hawks,Maryland Eastern Shore,0.750
+ncaab,DePaul Blue Demons,Akron,0.000
+ncaab,Kansas Jayhawks,Kansas,0.500
+ncaab,Kentucky Wildcats,Kentucky,0.500
+ncaab,Louisville Cardinals,Louisville,0.500
+ncaab,Oklahoma Sooners,Akron,0.000
+ncaab,Texas Tech Red Raiders,Texas Tech,0.500
+ncaab,Illinois Fighting Illini,Illinois,0.333
+ncaab,Ball State Cardinals,Ball State,0.667
+ncaab,Wisconsin Badgers,Wisconsin,0.500
+ncaab,Ole Miss Rebels,Akron,0.000
+ncaab,Boise State Broncos,Arizona State,0.250
+ncaab,Delaware Fightin' Blue Hens,Delaware,0.250
+ncaab,BYU Cougars,BYU,0.500
+ncaab,Northern Arizona Lumberjacks,Northern Arizona,0.667
+ncaab,Arizona Wildcats,Arizona,0.500
+ncaab,Creighton Bluejays,Creighton,0.500
+ncaab,Gonzaga Bulldogs,Gonzaga,0.500
