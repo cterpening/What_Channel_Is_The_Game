@@ -1,33 +1,38 @@
 ﻿sport,from,suggested_to,score
-ncaab,Air Force,Alabama,0.000
-ncaab,Alabama State,Alabama,0.500
-ncaab,Penn State,Iowa State,0.333
-ncaab,Harvard,Alabama,0.000
-ncaab,Michigan,Michigan,1.000
-ncaab,Middle Tennessee,Middle Tennessee,1.000
-ncaab,Virginia Tech,Texas Tech,0.333
-ncaab,Bryant,Bryant,1.000
-ncaab,La Salle,Alabama,0.000
-ncaab,Villanova,Alabama,0.000
-ncaab,Maryland,Maryland,1.000
-ncaab,Mount St. Mary's,St. John's,0.400
-ncaab,Notre Dame,Notre Dame,1.000
-ncaab,Bellarmine,Alabama,0.000
-ncaab,Arizona,Arizona,1.000
-ncaab,Sam Houston State,Houston,0.333
-ncaab,Wyoming,Alabama,0.000
-ncaab,Marquette,Alabama,0.000
-ncaab,Dayton,Alabama,0.000
-ncaab,Oklahoma State,Iowa State,0.333
-ncaab,South Florida,Florida,0.500
-ncaab,Creighton,Creighton,1.000
-ncaab,North Dakota,North Carolina,0.333
-ncaab,TCU,Alabama,0.000
-ncaab,Kansas City,Kansas,0.500
-ncaab,Auburn,Auburn,1.000
-ncaab,Jackson State,Jackson State,1.000
-ncaab,Illinois,Illinois,1.000
-ncaab,Alabama,Alabama,1.000
+ncaab,Memphis Tigers,Memphis,0.500
+ncaab,Purdue Boilermakers,Purdue,0.500
+ncaab,Lindenwood Lions,Alabama,0.000
+ncaab,Indiana Hoosiers,Alabama,0.000
+ncaab,Bucknell Bison,Bucknell,0.500
+ncaab,St. John's Red Storm,St. John's,0.600
+ncaab,Chicago State Cougars,Iowa State,0.250
+ncaab,Iowa Hawkeyes,Iowa State,0.333
+ncaab,Pittsburgh Panthers,Alabama,0.000
+ncaab,UCF Knights,Alabama,0.000
+ncaab,Tennessee State Tigers,Tennessee State,0.667
+ncaab,Tennessee Volunteers,Tennessee,0.500
+ncaab,Miami Hurricanes,Alabama,0.000
+ncaab,New Mexico Lobos,New Orleans,0.250
+ncaab,Nebraska Cornhuskers,Alabama,0.000
+ncaab,Texas Southern Tigers,Texas Tech,0.250
+ncaab,Vanderbilt Commodores,Alabama,0.000
+ncaab,Western Michigan Broncos,Michigan,0.333
+ncaab,Ohio State Buckeyes,Iowa State,0.250
+ncaab,Missouri Tigers,Alabama,0.000
+ncaab,Oklahoma Sooners,Alabama,0.000
+ncaab,Wake Forest Demon Decons,Wake Forest,0.500
+ncaab,Texas Tech Red Raiders,Texas Tech,0.500
+ncaab,Rider Broncs,Rider,0.500
+ncaab,Houston Cougars,Houston,0.500
+ncaab,Utah Utes,Alabama,0.000
+ncaab,Mississippi State Bulldogs,Iowa State,0.250
+ncaab,Kansas State Wildcats,Kansas,0.333
+ncaab,Saint Joseph&#39;s Hawks,St. John's,0.143
+ncaab,UNLV Runnin' Rebels,UNLV,0.333
+ncaab,USC Trojans,Alabama,0.000
+ncaab,Arizona State Sun Devils,Arizona,0.250
+ncaab,Hawaii Rainbow Warriors,Alabama,0.000
+ncaab,Your,Alabama,0.000
 ncaab,Purdue,Purdue,1.000
 ncaab,Memphis,Memphis,1.000
 ncaab,Indiana,Alabama,0.000
@@ -42,7 +47,7 @@ ncaab,Tennessee State,Tennessee State,1.000
 ncaab,Miami,Alabama,0.000
 ncaab,Elon,Alabama,0.000
 ncaab,Nebraska,Alabama,0.000
-ncaab,New Mexico,Alabama,0.000
+ncaab,New Mexico,New Orleans,0.333
 ncaab,Vanderbilt,Alabama,0.000
 ncaab,Texas Southern,Texas Tech,0.333
 ncaab,Ohio State,Iowa State,0.333
@@ -72,6 +77,7 @@ ncaab,Davidson,Alabama,0.000
 ncaab,Wisconsin,Wisconsin,1.000
 ncaab,Virginia,Alabama,0.000
 ncaab,Northwestern,Alabama,0.000
+ncaab,Air Force,Alabama,0.000
 ncaab,Florida State,Florida,0.500
 ncaab,Georgia Southern,Alabama,0.000
 ncaab,Cincinnati,Cincinnati,1.000
@@ -89,12 +95,13 @@ ncaab,Loyola Maryland,Loyola Maryland,1.000
 ncaab,Florida,Florida,1.000
 ncaab,Merrimack,Merrimack,1.000
 ncaab,Arkansas,Arkansas,1.000
+ncaab,Jackson State,Jackson State,1.000
 ncaab,Oregon State,Oregon,0.500
 ncaab,Evansville,Alabama,0.000
 ncaab,Manhattan,Alabama,0.000
 ncaab,Omaha,Alabama,0.000
 ncaab,Fresno State,Iowa State,0.333
-ncaab,New Orleans,Alabama,0.000
+ncaab,New Orleans,New Orleans,1.000
 ncaab,SMU,Alabama,0.000
 ncaab,Arkansas State,Arkansas,0.500
 ncaab,Colorado State,Iowa State,0.333
@@ -109,36 +116,50 @@ ncaab,Seattle,Alabama,0.000
 ncaab,Presbyterian,Presbyterian,1.000
 ncaab,Georgetown,Alabama,0.000
 ncaab,Wagner,Alabama,0.000
+ncaab,Marquette,Alabama,0.000
 ncaab,Central Michigan,Michigan,0.500
+ncaab,Illinois,Illinois,1.000
 ncaab,LIU,Alabama,0.000
+ncaab,Oklahoma State,Iowa State,0.333
 ncaab,Nicholls,Alabama,0.000
+ncaab,Penn State,Iowa State,0.333
 ncaab,Providence,Alabama,0.000
 ncaab,Minnesota,Alabama,0.000
 ncaab,San Francisco,San Diego State,0.250
 ncaab,Delaware State,Iowa State,0.333
-ncaab,Georgia Tech,Texas Tech,0.333
+ncaab,Georgia Tech,Tennessee Tech,0.333
 ncaab,West Georgia,Alabama,0.000
 ncaab,Alcorn State,Iowa State,0.333
 ncaab,Howard,Howard,1.000
 ncaab,IUPUI,Alabama,0.000
 ncaab,DePaul,Alabama,0.000
+ncaab,Bryant,Bryant,1.000
 ncaab,Baylor,Baylor,1.000
+ncaab,Creighton,Creighton,1.000
 ncaab,Seton Hall,Seton Hall,1.000
+ncaab,Notre Dame,Notre Dame,1.000
 ncaab,Kansas,Kansas,1.000
 ncaab,Iowa State,Iowa State,1.000
 ncaab,Boise State,Iowa State,0.333
 ncaab,Syracuse,Syracuse,1.000
-ncaab,NJIT,Alabama,0.000
+ncaab,NJIT,NJIT,1.000
 ncaab,Eastern Michigan,Eastern Michigan,1.000
 ncaab,Radford,Alabama,0.000
 ncaab,Oregon,Oregon,1.000
+ncaab,Auburn,Auburn,1.000
 ncaab,Chaminade,Alabama,0.000
 ncaab,Washington State,Iowa State,0.333
+ncaab,Alabama,Alabama,1.000
 ncaab,Gonzaga,Gonzaga,1.000
 ncaab,San Diego State,San Diego State,1.000
+ncaab,Michigan,Michigan,1.000
+ncaab,Arizona,Arizona,1.000
 ncaab,Texas,Texas Tech,0.500
+ncaab,Maryland,Maryland,1.000
 ncaab,East Carolina,East Carolina,1.000
 ncaab,North Carolina,North Carolina,1.000
+ncaab,Mount St. Mary's,St. John's,0.400
+ncaab,Villanova,Alabama,0.000
 ncaab,Old Dominion,Alabama,0.000
 ncaab,Quinnipiac,Alabama,0.000
 ncaab,Campbell,Alabama,0.000
@@ -149,11 +170,17 @@ ncaab,Mississippi Valley State,Iowa State,0.250
 ncaab,Winthrop,Alabama,0.000
 ncaab,Grand Canyon,Alabama,0.000
 ncaab,Western Kentucky,Kentucky,0.500
+ncaab,Harvard,Alabama,0.000
+ncaab,Virginia Tech,Tennessee Tech,0.333
 ncaab,Northern Colorado,Alabama,0.000
 ncaab,Pepperdine,Alabama,0.000
-ncaab,Tennessee Tech,Tennessee,0.500
+ncaab,Tennessee Tech,Tennessee Tech,1.000
+ncaab,Wyoming,Alabama,0.000
+ncaab,Alabama State,Alabama,0.500
+ncaab,TCU,Alabama,0.000
 ncaab,Washington,Alabama,0.000
 ncaab,Nevada,Alabama,0.000
+ncaab,Dayton,Alabama,0.000
 ncaab,Eastern Illinois,Illinois,0.500
 ncaab,Northeastern,Alabama,0.000
 ncaab,Cleveland State,Iowa State,0.333
@@ -170,30 +197,3 @@ ncaab,Saint Francis,Alabama,0.000
 ncaab,Bowling Green,Alabama,0.000
 ncaab,California Baptist,California,0.500
 ncaab,Portland,Alabama,0.000
-ncaab,Alabama State Hornets,Alabama,0.333
-ncaab,Air Force Falcons,Alabama,0.000
-ncaab,Penn State Nittany Lions,Iowa State,0.200
-ncaab,Middle Tennessee Blue Raiders,Middle Tennessee,0.500
-ncaab,Michigan Wolverines,Michigan,0.500
-ncaab,Bryant Bulldogs,Bryant,0.500
-ncaab,Virginia Tech Hokies,Texas Tech,0.250
-ncaab,Villanova Wildcats,Alabama,0.000
-ncaab,Mount St. Mary's Mountaineers,St. John's,0.333
-ncaab,Maryland Terrapins,Maryland,0.500
-ncaab,Notre Dame Fighting Irish,Notre Dame,0.500
-ncaab,Arizona Wildcats,Arizona,0.500
-ncaab,UConn Huskies,UConn,0.500
-ncaab,Wyoming Cowboys,Alabama,0.000
-ncaab,Sam Houston State Bearkats,Houston,0.250
-ncaab,Marquette Golden Eagles,Alabama,0.000
-ncaab,South Florida Bulls,Florida,0.333
-ncaab,Oklahoma State Cowboys,Iowa State,0.250
-ncaab,North Dakota Fighting Hawks,North Carolina,0.200
-ncaab,Creighton Bluejays,Creighton,0.500
-ncaab,Kansas City Roos,Kansas,0.333
-ncaab,TCU Horned Frogs,Alabama,0.000
-ncaab,Jackson State Tigers,Jackson State,0.667
-ncaab,Auburn Tigers,Auburn,0.500
-ncaab,Alabama Crimson Tide,Alabama,0.333
-ncaab,Illinois Fighting Illini,Illinois,0.333
-ncaab,Your,Alabama,0.000
