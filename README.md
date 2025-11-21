@@ -1,102 +1,90 @@
 # Sports Schedules
 
-_Last updated: 2025-11-20 10:27 UTC_
+_Last updated: 2025-11-21 10:26 UTC_
 
 ## College Football — Upcoming Week
 2025-11-17 to 2025-11-23  
 _All times ET_  
 
-### Thursday November 20th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/20/2025 | Louisiana | Arkansas State | 7:30 PM | ESPN | Centennial Bank Stadium, Jonesboro, AR |  | ARST -2.5 | 54.5 |
-
 ### Friday November 21st
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/21/2025 | Florida State | NC State | 8:00 PM | ESPN | Carter-Finley Stadium, Raleigh, NC | Home 84; Away 371 | FSU -4.5 | 61.5 |
-| 11/21/2025 | Hawai'i | UNLV | 10:30 PM | FS1 | Allegiant Stadium, Las Vegas, NV | Home ONLINE | UNLV -2.5 | 64.5 |
+| 11/21/2025 | Florida State | NC State | 8:00 PM | ESPN | Carter-Finley Stadium, Raleigh, NC | Home 84; Away 371 | FSU -6.5 | 59.5 |
+| 11/21/2025 | Hawai'i | UNLV | 10:30 PM | FS1 | Allegiant Stadium, Las Vegas, NV | Home ONLINE | UNLV -2.5 | 63.5 |
 
 ### Saturday November 22nd
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/22/2025 | Rutgers | Ohio State | 12:00 PM | FOX | Ohio Stadium, Columbus, OH | Home 83; Away 383 | OSU -31.5 | 54.5 |
+| 11/22/2025 | Rutgers | Ohio State | 12:00 PM | FOX | Ohio Stadium, Columbus, OH | Home 83; Away 383 | OSU -32.5 | 55.5 |
 | 11/22/2025 | Samford | Texas A&M | 12:00 PM | SECN+ | Kyle Field, College Station, TX | Home 191 |  |  |
-| 11/22/2025 | Missouri | Oklahoma | 12:00 PM | ABC | Memorial Stadium (Norman, OK), Norman, OK | Home 84; Away 82 | OU -7.5 | 41.5 |
-| 11/22/2025 | Miami | Virginia Tech | 12:00 PM | ESPN | Lane Stadium, Blacksburg, VA | Home 194; Away 145 |  | 48.5 |
-| 11/22/2025 | **Minnesota** | Northwestern | 12:00 PM | BTN | Wrigley Field, Chicago, IL | Home 195; Away 372 | NU -3.5 | 40.5 |
-| 11/22/2025 | Louisville | SMU | 12:00 PM | ESPN2 | Gerald J. Ford Stadium, Dallas, TX | Home 193; Away 81 | SMU -2.5 | 52.5 |
-| 11/22/2025 | Delaware | Wake Forest | 12:00 PM | ACC Network | Allegacy Federal Credit Union Stadium, Winston-Salem, NC | Home 381; Away ONLINE |  | 52.5 |
-| 11/22/2025 | Kansas | Iowa State | 12:00 PM | FS1 | Jack Trice Stadium, Ames, IA | Home 198; Away 380 | ISU -4.5 | 55.5 |
-| 11/22/2025 | Tulsa | Army | 12:00 PM | CBSSN | Michie Stadium, West Point, NY | Home 85; Away 382 | ARMY -10.5 | 45.5 |
-| 11/22/2025 | Charlotte | Georgia | 12:45 PM | SEC Network | Sanford Stadium, Athens, GA | Home 190 | UGA -43.5 | 53.5 |
+| 11/22/2025 | Missouri | Oklahoma | 12:00 PM | ABC | Memorial Stadium (Norman, OK), Norman, OK | Home 84; Away 82 | OU -6.5 | 42.5 |
+| 11/22/2025 | Miami | Virginia Tech | 12:00 PM | ESPN | Lane Stadium, Blacksburg, VA | Home 194; Away 145 | MIA -18.5 | 48.5 |
+| 11/22/2025 | **Minnesota** | Northwestern | 12:00 PM | BTN | Wrigley Field, Chicago, IL | Home 195; Away 372 | NU -3.5 | 39.5 |
+| 11/22/2025 | Louisville | SMU | 12:00 PM | ESPN2 | Gerald J. Ford Stadium, Dallas, TX | Home 193; Away 81 | SMU -2.5 | 51.5 |
+| 11/22/2025 | Delaware | Wake Forest | 12:00 PM | ACC Network | Allegacy Federal Credit Union Stadium, Winston-Salem, NC | Home 381; Away ONLINE | WAKE -17.5 | 50.5 |
+| 11/22/2025 | Kansas | Iowa State | 12:00 PM | FS1 | Jack Trice Stadium, Ames, IA | Home 198; Away 380 | ISU -3.5 | 55.5 |
+| 11/22/2025 | Tulsa | Army | 12:00 PM | CBSSN | Michie Stadium, West Point, NY | Home 85; Away 382 | ARMY -9.5 | 45.5 |
+| 11/22/2025 | Charlotte | Georgia | 12:45 PM | SEC Network | Sanford Stadium, Athens, GA | Home 190 | UGA -44.5 | 53.5 |
 | 11/22/2025 | Washington State | James Madison | 1:00 PM | ESPN+ | Bridgeforth Stadium, Harrisonburg, VA | Home 203; Away 385 | JMU -13.5 | 42.5 |
-| 11/22/2025 | Baylor | Arizona | 1:00 PM | TNT | Arizona Stadium, Tucson, AZ | Home 199; Away 384 | ARIZ -6.5 | 61.5 |
-| 11/22/2025 | Old Dominion | Georgia Southern | 1:00 PM | ESPN+ | Allen E. Paulson Stadium, Statesboro, GA | Home ONLINE | ODU -11.5 | 62.5 |
+| 11/22/2025 | Baylor | Arizona | 1:00 PM | TNT | Arizona Stadium, Tucson, AZ | Home 199; Away 384 | ARIZ -6.5 | 62.5 |
+| 11/22/2025 | Old Dominion | Georgia Southern | 1:00 PM | ESPN+ | Allen E. Paulson Stadium, Statesboro, GA | Home ONLINE | ODU -9.5 | 62.5 |
 | 11/22/2025 | Eastern Illinois | Alabama | 2:00 PM | SECN+ | Bryant-Denny Stadium, Tuscaloosa, AL | Home 192 |  |  |
 | 11/22/2025 | Mercer | Auburn | 2:00 PM | SECN+ | Jordan-Hare Stadium, Auburn, AL | Home 201 |  |  |
-| 11/22/2025 | Missouri State | Kennesaw State | 2:00 PM | ESPN+ | Fifth Third Stadium, Kennesaw, GA | Home ONLINE | KENN -6.5 | 56.5 |
+| 11/22/2025 | Missouri State | Kennesaw State | 2:00 PM | ESPN+ | Fifth Third Stadium, Kennesaw, GA | Home ONLINE | KENN -6.5 | 55.5 |
 | 11/22/2025 | Nevada | Wyoming | 2:00 PM | MWN | War Memorial Stadium, Laramie, WY | Home 386; Away ONLINE | WYO -6.5 | 40.5 |
-| 11/22/2025 | **Ball State** | Toledo | 2:00 PM | ESPN+ | Glass Bowl, Toledo, OH | Home ONLINE | TOL -27.5 | 47.5 |
-| 11/22/2025 | Marshall | App State | 2:30 PM | ESPN+ | Kidd Brewer Stadium, Boone, NC | Home 380; Away ONLINE | MRSH -4.5 | 54.5 |
-| 11/22/2025 | UConn | Florida Atlantic | 3:00 PM | ESPN+ | Flagler Credit Union Stadium, Boca Raton, FL | Away 388 | CONN -7.5 | 65.5 |
-| 11/22/2025 | Liberty | Louisiana Tech | 3:00 PM | ESPN+ | Joe Aillet Stadium, Ruston, LA | Home ONLINE | LIB -1.5 | 44.5 |
-| 11/22/2025 | Sam Houston | Middle Tennessee | 3:00 PM | ESPN+ | Johnny "Red" Floyd Stadium, Murfreesboro, TN | Home ONLINE | MTSU -6.5 | 54.5 |
+| 11/22/2025 | **Ball State** | Toledo | 2:00 PM | ESPN+ | Glass Bowl, Toledo, OH | Home ONLINE | TOL -27.5 | 46.5 |
+| 11/22/2025 | Marshall | App State | 2:30 PM | ESPN+ | Kidd Brewer Stadium, Boone, NC | Home 380; Away ONLINE | MRSH -5.5 | 57.5 |
+| 11/22/2025 | UConn | Florida Atlantic | 3:00 PM | ESPN+ | Flagler Credit Union Stadium, Boca Raton, FL | Away 388 | CONN -7.5 | 64.5 |
+| 11/22/2025 | Liberty | Louisiana Tech | 3:00 PM | ESPN+ | Joe Aillet Stadium, Ruston, LA | Home ONLINE | LT -1.5 | 45.5 |
+| 11/22/2025 | Sam Houston | Middle Tennessee | 3:00 PM | ESPN+ | Johnny "Red" Floyd Stadium, Murfreesboro, TN | Home ONLINE | MTSU -6.5 | 53.5 |
 | 11/22/2025 | New Mexico State | UTEP | 3:00 PM | ESPN+ | Sun Bowl, El Paso, TX | Home ONLINE | UTEP -3.5 | 44.5 |
-| 11/22/2025 | South Florida | UAB | 3:00 PM | ESPN+ | Protective Stadium, Birmingham, AL | Home 387 | USF -21.5 | 69.5 |
-| 11/22/2025 | USC | Oregon | 3:30 PM | CBS | Autzen Stadium, Eugene, OR | Home 84; Away 196 | ORE -9.5 | 59.5 |
+| 11/22/2025 | South Florida | UAB | 3:00 PM | ESPN+ | Protective Stadium, Birmingham, AL | Home 387 | USF -21.5 | 68.5 |
+| 11/22/2025 | USC | Oregon | 3:30 PM | CBS | Autzen Stadium, Eugene, OR | Home 84; Away 196 | ORE -10.5 | 59.5 |
 | 11/22/2025 | Syracuse | **Notre Dame** | 3:30 PM | NBC, Peacock | Notre Dame Stadium, Notre Dame, IN | Home 129; Away 85 | ND -35.5 | 50.5 |
-| 11/22/2025 | Kentucky | Vanderbilt | 3:30 PM | ESPN | FirstBank Stadium, Nashville, TN | Home 81; Away 390 | VAN -9.5 | 52.5 |
-| 11/22/2025 | Arkansas | Texas | 3:30 PM | ABC | DKR-Texas Memorial Stadium, Austin, TX | Home 191 / 80; Away 389 / 80 | TEX -8.5 | 57.5 |
+| 11/22/2025 | Kentucky | Vanderbilt | 3:30 PM | ESPN | FirstBank Stadium, Nashville, TN | Home 81; Away 390 | VAN -8.5 | 54.5 |
+| 11/22/2025 | Arkansas | Texas | 3:30 PM | ABC | DKR-Texas Memorial Stadium, Austin, TX | Home 191 / 80; Away 389 / 80 | TEX -8.5 | 58.5 |
 | 11/22/2025 | Michigan State | Iowa | 3:30 PM | FS1 | Kinnick Stadium, Iowa City, IA | Home 195; Away 392 | IOWA -16.5 | 42.5 |
 | 11/22/2025 | Duke | North Carolina | 3:30 PM | ACC Network | Kenan Stadium, Chapel Hill, NC | Home 193; Away 391 | DUKE -6.5 | 51.5 |
 | 11/22/2025 | Jacksonville State | Florida International | 3:30 PM | CBSSN | Pitbull Stadium, Miami, FL |  | JXST -1.5 | 55.5 |
-| 11/22/2025 | Southern Miss | South Alabama | 3:30 PM | ESPN+ | Hancock Whitney Stadium, Mobile, AL | Home ONLINE | USM -1.5 | 54.5 |
+| 11/22/2025 | Southern Miss | South Alabama | 3:30 PM | ESPN+ | Hancock Whitney Stadium, Mobile, AL | Home ONLINE | USM -1.5 | 53.5 |
 | 11/22/2025 | East Carolina | UTSA | 3:30 PM | ESPN+ | Alamodome, San Antonio, TX |  | ECU -2.5 | 62.5 |
-| 11/22/2025 | Tulane | Temple | 3:45 PM | ESPNU | Lincoln Financial Field, Philadelphia, PA | Home 381; Away 204 | TULN -7.5 | 56.5 |
+| 11/22/2025 | Tulane | Temple | 3:45 PM | ESPNU | Lincoln Financial Field, Philadelphia, PA | Home 381; Away 204 | TULN -9.5 | 54.5 |
 | 11/22/2025 | Kansas State | Utah | 4:00 PM | ESPN2 | Rice-Eccles Stadium, Salt Lake City, UT | Home 83; Away 384 | UTAH -17.5 | 51.5 |
-| 11/22/2025 | Michigan | Maryland | 4:00 PM | BTN | SECU Stadium, College Park, MD | Home 145; Away 197 | MICH -13.5 | 45.5 |
+| 11/22/2025 | Michigan | Maryland | 4:00 PM | BTN | SECU Stadium, College Park, MD | Home 145; Away 197 | MICH -13.5 | 46.5 |
 | 11/22/2025 | TCU | Houston | 4:00 PM | FOX | TDECU Stadium, Houston, TX | Home 199; Away 383 | HOU -1.5 | 54.5 |
-| 11/22/2025 | Oklahoma State | UCF | 4:00 PM | ESPN+ | FBC Mortgage Stadium, Orlando, FL | Home 198; Away 382 | UCF -14.5 | 48.5 |
-| 11/22/2025 | Georgia State | Troy | 4:00 PM | ESPN+ | Veterans Memorial Stadium (AL), Troy, AL | Away ONLINE | TROY -11.5 | 51.5 |
-| 11/22/2025 | Coastal Carolina | South Carolina | 4:15 PM | SEC Network | Williams-Brice Stadium, Columbia, SC | Home 190; Away ONLINE | SC -23.5 | 49.5 |
+| 11/22/2025 | Oklahoma State | UCF | 4:00 PM | ESPN+ | FBC Mortgage Stadium, Orlando, FL | Home 198; Away 382 | UCF -12.5 | 47.5 |
+| 11/22/2025 | Georgia State | Troy | 4:00 PM | ESPN+ | Veterans Memorial Stadium (AL), Troy, AL | Away ONLINE | TROY -10.5 | 50.5 |
+| 11/22/2025 | Coastal Carolina | South Carolina | 4:15 PM | SEC Network | Williams-Brice Stadium, Columbia, SC | Home 190; Away ONLINE | SC -24.5 | 50.5 |
 | 11/22/2025 | Furman | Clemson | 4:30 PM | The CW Network | Memorial Stadium (Clemson, SC), Clemson, SC | Home 385 |  |  |
-| 11/22/2025 | UL Monroe | Texas State | 5:00 PM | ESPN+ | UFCU Stadium, San Marcos, TX | Home ONLINE | TXST -17.5 | 58.5 |
-| 11/22/2025 | Pittsburgh | Georgia Tech | 7:00 PM | ESPN | Bobby Dodd Stadium, Atlanta, GA | Home 193 / 82; Away 194 / 82 | GT -2.5 | 62.5 |
-| 11/22/2025 | Nebraska | Penn State | 7:00 PM | NBC | Beaver Stadium, University Park, PA | Home 85; Away 386 | PSU -8.5 | 44.5 |
-| 11/22/2025 | New Mexico | Air Force | 7:00 PM | CBSSN | Falcon Stadium, USAF Academy, CO | Home 387; Away ONLINE | UNM -3.5 | 55.5 |
-| 11/22/2025 | Colorado State | Boise State | 7:00 PM | FS1 | Albertsons Stadium, Boise, ID | Home 388; Away ONLINE | BOIS -15.5 | 44.5 |
+| 11/22/2025 | UL Monroe | Texas State | 5:00 PM | ESPN+ | UFCU Stadium, San Marcos, TX | Home ONLINE | TXST -19.5 | 58.5 |
+| 11/22/2025 | Pittsburgh | Georgia Tech | 7:00 PM | ESPN | Bobby Dodd Stadium, Atlanta, GA | Home 193 / 82; Away 194 / 82 | GT -2.5 | 61.5 |
+| 11/22/2025 | Nebraska | Penn State | 7:00 PM | NBC | Beaver Stadium, University Park, PA | Home 85; Away 386 | PSU -7.5 | 45.5 |
+| 11/22/2025 | New Mexico | Air Force | 7:00 PM | CBSSN | Falcon Stadium, USAF Academy, CO | Home 387; Away ONLINE | UNM -3.5 | 54.5 |
+| 11/22/2025 | Colorado State | Boise State | 7:00 PM | FS1 | Albertsons Stadium, Boise, ID | Home 388; Away ONLINE | BOIS -16.5 | 46.5 |
 | 11/22/2025 | Tennessee | Florida | 7:30 PM | ABC | Ben Hill Griffin Stadium, Gainesville, FL | Home 84 / 80; Away 191 / 80 | TENN -4.5 | 57.5 |
-| 11/22/2025 | **Illinois** | Wisconsin | 7:30 PM | BTN | Camp Randall Stadium, Madison, WI | Home 195; Away 372 | ILL -7.5 | 40.5 |
-| 11/22/2025 | California | Stanford | 7:30 PM | ACC Network | Stanford Stadium, Stanford, CA | Home 145; Away 371 | CAL -2.5 | 46.5 |
+| 11/22/2025 | **Illinois** | Wisconsin | 7:30 PM | BTN | Camp Randall Stadium, Madison, WI | Home 195; Away 372 | ILL -8.5 | 41.5 |
+| 11/22/2025 | California | Stanford | 7:30 PM | ACC Network | Stanford Stadium, Stanford, CA | Home 145; Away 371 | CAL -3.5 | 47.5 |
 | 11/22/2025 | North Texas | Rice | 7:30 PM | ESPNU | Rice Stadium, Houston, TX | Home 390; Away 203 | UNT -18.5 | 55.5 |
-| 11/22/2025 | Western Kentucky | LSU | 7:45 PM | SEC Network | Tiger Stadium (LA), Baton Rouge, LA | Home 190; Away ONLINE | LSU -21.5 | 48.5 |
-| 11/22/2025 | BYU | Cincinnati | 8:00 PM | FOX | Nippert Stadium, Cincinnati, OH | Home 83; Away 143 | BYU -2.5 | 54.5 |
-| 11/22/2025 | Arizona State | Colorado | 8:00 PM | ESPN2 | Folsom Field, Boulder, CO | Home 198; Away 391 | ASU -7.5 | 48.5 |
+| 11/22/2025 | Western Kentucky | LSU | 7:45 PM | SEC Network | Tiger Stadium (LA), Baton Rouge, LA | Home 190; Away ONLINE | LSU -21.5 | 50.5 |
+| 11/22/2025 | BYU | Cincinnati | 8:00 PM | FOX | Nippert Stadium, Cincinnati, OH | Home 83; Away 143 | BYU -2.5 | 55.5 |
+| 11/22/2025 | Arizona State | Colorado | 8:00 PM | ESPN2 | Folsom Field, Boulder, CO | Home 198; Away 391 | ASU -7.5 | 46.5 |
 | 11/22/2025 | Washington | UCLA | 10:30 PM | NBC | Rose Bowl, Pasadena, CA | Home 85; Away 392 | WASH -10.5 | 51.5 |
 | 11/22/2025 | Utah State | Fresno State | 10:30 PM | CBSSN | Valley Children's Stadium, Fresno, CA | Home 380; Away 381 | FRES -2.5 | 50.5 |
-| 11/22/2025 | San José State | San Diego State | 10:30 PM | FS1 | Snapdragon Stadium, San Diego, CA | Home 382 | SDSU -12.5 | 49.5 |
+| 11/22/2025 | San José State | San Diego State | 10:30 PM | FS1 | Snapdragon Stadium, San Diego, CA | Home 382 | SDSU -12.5 | 50.5 |
 
 ## NFL — Upcoming Week
 2025-11-19 to 2025-11-25  
 _All times ET_  
-
-### Thursday November 20th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/20/2025 | Buffalo Bills | Houston Texans | 8:15 PM | Prime Video | NRG Stadium, Houston, TX | Home 225 / 88; Away 226 / 88 | BUF -6 | 43.5 |
 
 ### Sunday November 23rd
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/23/2025 | Pittsburgh Steelers | Chicago Bears | 1:00 PM | CBS | Soldier Field, Chicago, IL | Home 229; Away 383 | CHI -2.5 | 45.5 |
-| 11/23/2025 | New England Patriots | Cincinnati Bengals | 1:00 PM | CBS | Paycor Stadium, Cincinnati, OH | Home 225; Away 380 | NE -7 | 49.5 |
-| 11/23/2025 | New York Giants | Detroit Lions | 1:00 PM | FOX | Ford Field, Detroit, MI | Home 230; Away 382 / 384 | DET -10 | 50.5 |
+| 11/23/2025 | New England Patriots | Cincinnati Bengals | 1:00 PM | CBS | Paycor Stadium, Cincinnati, OH | Home 225; Away 380 | NE -6 | 51.5 |
+| 11/23/2025 | New York Giants | Detroit Lions | 1:00 PM | FOX | Ford Field, Detroit, MI | Home 230; Away 384 / 382 | DET -10 | 49.5 |
 | 11/23/2025 | Minnesota Vikings | Green Bay Packers | 1:00 PM | FOX | Lambeau Field, Green Bay, WI | Home 228; Away 385 | GB -6 | 41.5 |
 | 11/23/2025 | Seattle Seahawks | Tennessee Titans | 1:00 PM | FOX | Nissan Stadium, Nashville, TN | Home 226; Away 381 | SEA -12.5 | 40.5 |
 | 11/23/2025 | **Indianapolis Colts** | Kansas City Chiefs | 1:00 PM | CBS | GEHA Field at Arrowhead Stadium, Kansas City, MO | Home 231; Away 386 | KC -3.5 | 49.5 |
@@ -104,41 +92,32 @@ _All times ET_
 | 11/23/2025 | Cleveland Browns | Las Vegas Raiders | 4:05 PM | CBS | Allegiant Stadium, Las Vegas, NV | Home 233; Away 388 | LV -4 | 36.5 |
 | 11/23/2025 | Jacksonville Jaguars | Arizona Cardinals | 4:05 PM | CBS | State Farm Stadium, Glendale, AZ | Home 232; Away 387 | JAX -3 | 47.5 |
 | 11/23/2025 | Philadelphia Eagles | Dallas Cowboys | 4:25 PM | FOX | AT&T Stadium, Arlington, TX | Home 225; Away 380 | PHI -3.5 | 47.5 |
-| 11/23/2025 | Atlanta Falcons | New Orleans Saints | 4:25 PM | FOX | Caesars Superdome, New Orleans, LA | Home 226; Away 381 | NO -1.5 | 39.5 |
+| 11/23/2025 | Atlanta Falcons | New Orleans Saints | 4:25 PM | FOX | Caesars Superdome, New Orleans, LA | Home 226; Away 381 | NO -2.5 | 39.5 |
 | 11/23/2025 | Tampa Bay Buccaneers | Los Angeles Rams | 8:20 PM | NBC, Peacock | SoFi Stadium, Inglewood, CA | Home 225 / 88; Away 226 / 88 | LAR -7 | 49.5 |
 
 ### Monday November 24th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/24/2025 | Carolina Panthers | San Francisco 49ers | 8:15 PM | ESPN | Levi's Stadium, Santa Clara, CA | Home 225 / 88; Away 226 / 88 | SF -7 | 48.5 |
+| 11/24/2025 | Carolina Panthers | San Francisco 49ers | 8:15 PM | ESPN | Levi's Stadium, Santa Clara, CA | Home 225 / 88; Away 226 / 88 | SF -7 | 49.5 |
 
 ## College Basketball — Upcoming Week
-2025-11-20 to 2025-11-26  
+2025-11-21 to 2025-11-27  
 _All times ET_  
-
-### Thursday November 20th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/20/2025 | Memphis | **Purdue** | 6:00 PM | CBSSN | Baha Mar Convention Center, Nassau, Bahamas | Home 195 | PUR -16.5 | 158.5 |
-| 11/20/2025 | Bucknell | St. John's | 7:00 PM | TNT, truTV | Carnesecca Arena, Queens, NY | Home 81 | SJU -30.5 | 156.5 |
-| 11/20/2025 | Tennessee State | Tennessee | 7:00 PM | SECN+ | Food City Center, Knoxville, TN | Home 190 | TENN -32.5 | 151.5 |
-| 11/20/2025 | Wake Forest | Texas Tech | 8:30 PM | CBSSN | Baha Mar Convention Center, Nassau, Bahamas | Home 199; Away 371 | TTU -8.5 | 158.5 |
-| 11/20/2025 | Rider | Houston | 9:00 PM | TNT, truTV | Fertitta Center, Houston, TX | Home 84 | HOU -39.5 | 132.5 |
 
 ### Friday November 21st
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/21/2025 | Wisconsin | BYU | 4:00 PM | Peacock | Delta Center, Salt Lake City, UT | Home 143; Away 195 |  |  |
-| 11/21/2025 | Louisville | Cincinnati | 6:30 PM | ESPN2 | Heritage Bank Center, Cincinnati, OH | Home 389; Away 201 |  |  |
-| 11/21/2025 | Detroit Mercy | Michigan State | 6:30 PM | BTN | Breslin Center, East Lansing, MI | Home 196 |  |  |
+| 11/21/2025 | Wisconsin | BYU | 4:00 PM | Peacock | Delta Center, Salt Lake City, UT | Home 143; Away 195 | BYU -5.5 | 161.5 |
+| 11/21/2025 | Louisville | Cincinnati | 6:30 PM | ESPN2 | Heritage Bank Center, Cincinnati, OH | Home 389; Away 201 | LOU -8.5 | 162.5 |
+| 11/21/2025 | Detroit Mercy | Michigan State | 6:30 PM | BTN | Breslin Center, East Lansing, MI | Home 196 | MSU -30.5 | 148.5 |
 | 11/21/2025 | Niagara | Duke | 7:00 PM | ACC Network | Cameron Indoor Stadium, Durham, NC | Home 194 |  |  |
-| 11/21/2025 | Merrimack | Florida | 7:00 PM | SECN+ | Stephen C. O'Connell Center, Gainesville, FL | Home 387 / 145 |  |  |
+| 11/21/2025 | Merrimack | Florida | 7:00 PM | SECN+ | Stephen C. O'Connell Center, Gainesville, FL | Home 387 / 145 | FLA -36.5 | 160.5 |
 | 11/21/2025 | Loyola Maryland | Kentucky | 7:00 PM | SECN+ | Rupp Arena, Lexington, KY | Home 81 |  |  |
 | 11/21/2025 | Jackson State | Arkansas | 8:00 PM | SECN+ | Bud Walton Arena, Fayetteville, AR | Home 392 |  |  |
-| 11/21/2025 | Presbyterian | UCLA | 10:30 PM | BTN | Pauley Pavilion, Los Angeles, CA | Home 83 |  |  |
+| 11/21/2025 | Texas Tech | **Purdue** | 9:30 PM | CBSSN | Baha Mar Convention Center, Nassau, Bahamas | Home 390 |  |  |
+| 11/21/2025 | Presbyterian | UCLA | 10:30 PM | BTN | Pauley Pavilion, Los Angeles, CA | Home 83 | UCLA -26.5 | 129.5 |
 
 ### Saturday November 22nd
 
@@ -159,9 +138,9 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/24/2025 | Tennessee | Rutgers | 1:00 PM | TNT | MGM Grand Garden Arena, Las Vegas, NV | Home 390 / 380; Away 190 |  |  |
 | 11/24/2025 | Seton Hall | NC State | 2:30 PM | ESPN2 | Lahaina Civic Center, Maui, HI | Home 371; Away 383 |  |  |
-| 11/24/2025 | **Notre Dame** | Kansas | 3:30 PM | TNT | MGM Grand Garden Arena, Las Vegas, NV | Home 385 / 198 / 384; Away 371 |  |  |
+| 11/24/2025 | **Notre Dame** | Kansas | 3:30 PM | TNT | MGM Grand Garden Arena, Las Vegas, NV | Home 198 / 384; Away 371 |  |  |
 | 11/24/2025 | St. John's | Iowa State | 4:30 PM | truTV | Michelob ULTRA Arena, Las Vegas, NV | Home 199 / 384 / 374; Away 201 |  |  |
-| 11/24/2025 | Syracuse | Houston | 6:00 PM | TNT | MGM Grand Garden Arena, Las Vegas, NV | Home 84 / 198; Away 371 |  |  |
+| 11/24/2025 | Syracuse | Houston | 6:00 PM | TNT | MGM Grand Garden Arena, Las Vegas, NV | Home 198; Away 371 |  |  |
 | 11/24/2025 | Eastern Michigan | Louisville | 7:00 PM | ACC Network | KFC Yum! Center, Louisville, KY | Home 84 |  |  |
 | 11/24/2025 | UT Rio Grande Valley | **Illinois** | 8:00 PM | BTN | State Farm Center, Champaign, IL | Home 381 |  |  |
 | 11/24/2025 | Oregon | Auburn | 8:00 PM | truTV | Michelob ULTRA Arena, Las Vegas, NV | Home 190; Away 382 |  |  |
@@ -182,42 +161,43 @@ _All times ET_
 | 11/25/2025 | Michigan | Auburn | 8:30 PM | TNT | Michelob ULTRA Arena, Las Vegas, NV | Home 190; Away 83 |  |  |
 | 11/25/2025 | Maryland | Gonzaga | 9:30 PM | truTV | MGM Grand Garden Arena, Las Vegas, NV | Home 84; Away 380 |  |  |
 | 11/25/2025 | UCLA | California | 10:00 PM | ESPN | Chase Center, San Francisco, CA | Home 371; Away 85 |  |  |
-| 11/25/2025 | UNLV | Alabama | 11:59 PM | truTV | MGM Grand Garden Arena, Las Vegas, NV | Home 390 / 372 / 391; Away 380 |  |  |
+| 11/25/2025 | UNLV | Alabama | 11:59 PM | truTV | MGM Grand Garden Arena, Las Vegas, NV | Home 390 / 389 / 391 / 372; Away 380 |  |  |
 
 ### Wednesday November 26th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/26/2025 | New Orleans | Texas Tech | 1:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX | Home 198; Away ONLINE |  |  |
+| 11/26/2025 | New Orleans | Texas Tech | 1:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX | Home 198 |  |  |
 | 11/26/2025 | Tennessee Tech | Kentucky | 7:00 PM | SEC Network | Rupp Arena, Lexington, KY | Home 84 |  |  |
 | 11/26/2025 | NJIT | Louisville | 9:00 PM | ACC Network | KFC Yum! Center, Louisville, KY | Home 84 |  |  |
 
-## NBA — Upcoming Week
-2025-11-20 to 2025-11-26  
-_All times ET_  
-
-### Thursday November 20th
+### Thursday November 27th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/20/2025 | LA Clippers | Orlando Magic | 7:00 PM | FanDuel SN FL, FanDuel SN SoCal, NBA League Pass | Kia Center, Orlando, FL | Home 213 | ORL -5.5 | 218.5 |
-| 11/20/2025 | Sacramento Kings | Memphis Grizzlies | 8:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports CA | FedExForum, Memphis, TN | Home 214; Away ONLINE | MEM -2.5 | 234.5 |
-| 11/20/2025 | Philadelphia 76ers | Milwaukee Bucks | 8:00 PM | FanDuel SN WI, NBA League Pass, NBC Sports Phil + | Fiserv Forum, Milwaukee, WI | Home 86; Away ONLINE | PHI -2.5 | 226.5 |
-| 11/20/2025 | Atlanta Hawks | San Antonio Spurs | 8:00 PM | FanDuel SN SE, FanDuel SN SW, NBA TV | Frost Bank Center, San Antonio, TX | Home 212; Away ONLINE | SA -1.5 | 230.5 |
+| 11/27/2025 | TCU | Florida | 3:00 PM | FS1 | Jenny Craig Pavilion, San Diego, CA | Home 145; Away 388 |  |  |
+| 11/27/2025 | North Carolina | Michigan State | 4:30 PM | FOX | Suncoast Credit Union Arena, Fort Myers, FL | Home 195; Away 84 |  |  |
+| 11/27/2025 | BYU | Miami | 5:00 PM | ESPN | State Farm Field House, Kissimmee, FL | Home 384; Away 143 |  |  |
+| 11/27/2025 | Wisconsin | Providence | 5:30 PM | FS1 | Jenny Craig Pavilion, San Diego, CA | Away 195 |  |  |
+| 11/27/2025 | Duke | Arkansas | 8:00 PM | CBS | United Center, Chicago, IL | Home 392 |  |  |
+
+## NBA — Upcoming Week
+2025-11-21 to 2025-11-27  
+_All times ET_  
 
 ### Friday November 21st
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/21/2025 | **Indiana Pacers** | Cleveland Cavaliers | 7:00 PM | Prime Video | Rocket Arena, Cleveland, OH | Home 86; Away ONLINE |  |  |
-| 11/21/2025 | Brooklyn Nets | Boston Celtics | 7:30 PM | NBA League Pass, NBC Sports BO, YES | TD Garden, Boston, MA | Home 212; Away ONLINE |  |  |
-| 11/21/2025 | Washington Wizards | Toronto Raptors | 7:30 PM | MNMT, NBA League Pass, Sportsnet | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE |  |  |
-| 11/21/2025 | Miami Heat | Chicago Bulls | 8:00 PM | CHSN+, FanDuel SN Sun, NBA League Pass | United Center, Chicago, IL | Home 213; Away ONLINE |  |  |
-| 11/21/2025 | New Orleans Pelicans | Dallas Mavericks | 8:30 PM | GCSEN, KFAA-TV, Mavs.com, NBA League Pass, Pelicans.com | American Airlines Center, Dallas, TX | Home 214; Away ONLINE |  |  |
-| 11/21/2025 | Minnesota Timberwolves | Phoenix Suns | 9:00 PM | Arizona's Family CBS5, FanDuel SN North Extra, NBA League Pass, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 215; Away ONLINE |  |  |
-| 11/21/2025 | Denver Nuggets | Houston Rockets | 9:30 PM | Prime Video | Toyota Center (Houston), Houston, TX | Home 86; Away ONLINE |  |  |
-| 11/21/2025 | Oklahoma City Thunder | Utah Jazz | 10:00 PM | FanDuel SN OK, Jazz+, KJZZ-TV, NBA League Pass | Delta Center, Salt Lake City, UT | Home 212; Away ONLINE |  |  |
-| 11/21/2025 | Portland Trail Blazers | Golden State Warriors | 10:00 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports BA | Chase Center, San Francisco, CA | Home 216; Away ONLINE |  |  |
+| 11/21/2025 | **Indiana Pacers** | Cleveland Cavaliers | 7:00 PM | Prime Video | Rocket Arena, Cleveland, OH | Home 86; Away ONLINE | CLE -13.5 | 238.5 |
+| 11/21/2025 | Brooklyn Nets | Boston Celtics | 7:30 PM | NBA League Pass, NBC Sports BO, YES | TD Garden, Boston, MA | Home 212; Away ONLINE | BOS -14.5 | 222.5 |
+| 11/21/2025 | Washington Wizards | Toronto Raptors | 7:30 PM | MNMT, NBA League Pass, Sportsnet | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE | TOR -13.5 | 240.5 |
+| 11/21/2025 | Miami Heat | Chicago Bulls | 8:00 PM | CHSN+, FanDuel SN Sun, NBA League Pass | United Center, Chicago, IL | Home 213; Away ONLINE | CHI -1.5 | 249.5 |
+| 11/21/2025 | New Orleans Pelicans | Dallas Mavericks | 8:30 PM | GCSEN, KFAA-TV, Mavs.com, NBA League Pass, Pelicans.com | American Airlines Center, Dallas, TX | Home 214; Away ONLINE | DAL -3.5 | 232.5 |
+| 11/21/2025 | Minnesota Timberwolves | Phoenix Suns | 9:00 PM | Arizona's Family CBS5, FanDuel SN North Extra, NBA League Pass, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 215; Away ONLINE | MIN -3.5 | 234.5 |
+| 11/21/2025 | Denver Nuggets | Houston Rockets | 9:30 PM | Prime Video | Toyota Center (Houston), Houston, TX | Home 86; Away ONLINE | HOU -2.5 | 234.5 |
+| 11/21/2025 | Oklahoma City Thunder | Utah Jazz | 10:00 PM | FanDuel SN OK, Jazz+, KJZZ-TV, NBA League Pass | Delta Center, Salt Lake City, UT | Home 212; Away ONLINE | OKC -15.5 | 237.5 |
+| 11/21/2025 | Portland Trail Blazers | Golden State Warriors | 10:00 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports BA | Chase Center, San Francisco, CA | Home 216; Away ONLINE | GS -7.5 | 237.5 |
 
 ### Saturday November 22nd
 
