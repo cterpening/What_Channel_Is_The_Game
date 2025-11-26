@@ -1,8 +1,4 @@
 ﻿sport,from,suggested_to,score
-nfl,Los Angeles,Los Angeles Rams,0.667
-nfl,Miami,Arizona Cardinals,0.000
-nfl,New York,New York Giants,0.667
-nfl,Minnesota,Minnesota Vikings,0.500
 nfl,Green Bay Packers,Green Bay Packers,1.000
 nfl,Detroit Lions,Detroit Lions,1.000
 nfl,Kansas City Chiefs,Kansas City Chiefs,1.000
@@ -16,7 +12,7 @@ nfl,Carolina Panthers,Carolina Panthers,1.000
 nfl,San Francisco 49ers,San Francisco 49ers,1.000
 nfl,Cleveland Browns,Cleveland Browns,1.000
 nfl,New Orleans Saints,New Orleans Saints,1.000
-nfl,Miami Dolphins,Arizona Cardinals,0.000
+nfl,Miami Dolphins,Miami Dolphins,1.000
 nfl,Atlanta Falcons,Atlanta Falcons,1.000
 nfl,New York Jets,New York Jets,1.000
 nfl,Arizona Cardinals,Arizona Cardinals,1.000
@@ -28,11 +24,15 @@ nfl,Indianapolis Colts,Indianapolis Colts,1.000
 nfl,Minnesota Vikings,Minnesota Vikings,1.000
 nfl,Seattle Seahawks,Seattle Seahawks,1.000
 nfl,Las Vegas Raiders,Las Vegas Raiders,1.000
-nfl,Los Angeles Chargers,Los Angeles Rams,0.500
+nfl,Los Angeles Chargers,Los Angeles Chargers,1.000
 nfl,Buffalo Bills,Buffalo Bills,1.000
 nfl,Pittsburgh Steelers,Pittsburgh Steelers,1.000
-nfl,Denver Broncos,Arizona Cardinals,0.000
-nfl,Washington Commanders,Arizona Cardinals,0.000
+nfl,Denver Broncos,Denver Broncos,1.000
+nfl,Washington Commanders,Washington Commanders,1.000
 nfl,New York Giants,New York Giants,1.000
 nfl,New England Patriots,New England Patriots,1.000
 nfl,Choose from the,Arizona Cardinals,0.000
+nfl,Los Angeles,Los Angeles Chargers,0.667
+nfl,Miami,Miami Dolphins,0.500
+nfl,New York,New York Giants,0.667
+nfl,Minnesota,Minnesota Vikings,0.500
