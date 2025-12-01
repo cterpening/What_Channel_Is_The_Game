@@ -1,17 +1,17 @@
 ﻿sport,from,suggested_to,score
-ncaab,Wyoming Cowboys,Wyoming,0.500
-ncaab,Texas Tech Red Raiders,Texas Tech,0.500
-ncaab,Mercyhurst Lakers,Alabama,0.000
-ncaab,West Virginia Mountaineers,West Georgia,0.250
-ncaab,Cal State Bakersfield Roadrunners,Cal State Bakersfield,0.750
-ncaab,Fresno State Bulldogs,Fresno State,0.667
+ncaab,Temple Owls,Temple,0.500
+ncaab,Villanova Wildcats,Villanova,0.500
+ncaab,Tarleton State Texans,Tarleton State,0.667
+ncaab,Cincinnati Bearcats,Cincinnati,0.500
+ncaab,Saint Francis Red Flash,Saint Francis,0.500
+ncaab,Xavier Musketeers,Xavier,0.500
+ncaab,Bowling Green Falcons,Bowling Green,0.667
+ncaab,Kansas State Wildcats,Kansas State,0.667
+ncaab,California Baptist Lancers,California Baptist,0.667
+ncaab,Colorado Buffaloes,Colorado,0.500
+ncaab,Portland Pilots,Portland,0.500
+ncaab,Stanford Cardinal,Stanford,0.500
 ncaab,Your,Alabama,0.000
-ncaab,Texas Tech,Texas Tech,1.000
-ncaab,Wyoming,Wyoming,1.000
-ncaab,West Virginia,West Georgia,0.333
-ncaab,Mercyhurst,Alabama,0.000
-ncaab,Fresno State,Fresno State,1.000
-ncaab,Cal State Bakersfield,Cal State Bakersfield,1.000
 ncaab,Villanova,Villanova,1.000
 ncaab,Temple,Temple,1.000
 ncaab,Cincinnati,Cincinnati,1.000
@@ -28,6 +28,10 @@ ncaab,Penn State,Alcorn State,0.333
 ncaab,Campbell,Alabama,0.000
 ncaab,Butler,Alabama,0.000
 ncaab,Eastern Michigan,Michigan,0.500
+ncaab,Michigan State,Michigan State,1.000
+ncaab,Iowa,Iowa,1.000
+ncaab,Syracuse,Syracuse,1.000
+ncaab,Tennessee,Tennessee,1.000
 ncaab,Pittsburgh,Alabama,0.000
 ncaab,Providence,Alabama,0.000
 ncaab,Fairleigh Dickinson,Fairleigh Dickinson,1.000
@@ -35,49 +39,46 @@ ncaab,Wake Forest,Alabama,0.000
 ncaab,Oklahoma,Alabama,0.000
 ncaab,South Carolina,South Carolina State,0.667
 ncaab,Virginia Tech,Texas Tech,0.333
-ncaab,Michigan State,Michigan State,1.000
-ncaab,Iowa,Iowa,1.000
-ncaab,Syracuse,Syracuse,1.000
-ncaab,Tennessee,Tennessee,1.000
 ncaab,Duke,Duke,1.000
 ncaab,Florida,Florida,1.000
-ncaab,Rutgers,Rutgers,1.000
-ncaab,Purdue,Purdue,1.000
-ncaab,Baylor,Alabama,0.000
-ncaab,Sacramento State,Alcorn State,0.333
+ncaab,Maryland,Alabama,0.000
+ncaab,Wagner,Alabama,0.000
 ncaab,Oklahoma State,Alcorn State,0.333
 ncaab,Sam Houston State,Houston,0.333
 ncaab,Marquette,Alabama,0.000
 ncaab,Valparaiso,Alabama,0.000
-ncaab,Maryland,Alabama,0.000
-ncaab,Wagner,Alabama,0.000
+ncaab,Rutgers,Rutgers,1.000
+ncaab,Purdue,Purdue,1.000
+ncaab,Baylor,Alabama,0.000
+ncaab,Sacramento State,Alcorn State,0.333
 ncaab,Bradley,Alabama,0.000
 ncaab,Washington State,Washington,0.500
-ncaab,Florida State,Florida State,1.000
-ncaab,Georgia,West Georgia,0.500
+ncaab,Miami,Alabama,0.000
 ncaab,Creighton,Alabama,0.000
 ncaab,Nicholls,Alabama,0.000
-ncaab,Kansas,Kansas,1.000
-ncaab,Miami,Alabama,0.000
 ncaab,Notre Dame,Alabama,0.000
 ncaab,Missouri,Alabama,0.000
+ncaab,Florida State,Florida State,1.000
+ncaab,Georgia,West Georgia,0.500
+ncaab,Kansas,Kansas,1.000
 ncaab,Kentucky,Kentucky,1.000
 ncaab,North Carolina,North Carolina,1.000
 ncaab,Nevada,Alabama,0.000
 ncaab,California,California Baptist,0.500
 ncaab,Utah,Southern Utah,0.500
 ncaab,Oregon,Oregon,1.000
+ncaab,Seton Hall,Alabama,0.000
+ncaab,Central Connecticut State,Central State (OH),0.500
+ncaab,West Virginia,West Georgia,0.333
 ncaab,Coppin State,Alcorn State,0.333
 ncaab,Minnesota,Minnesota,1.000
 ncaab,Indiana,Indiana,1.000
-ncaab,Seton Hall,Alabama,0.000
-ncaab,Central Connecticut State,Central State (OH),0.500
+ncaab,Boston College,Manor College,0.333
 ncaab,Arkansas,Arkansas,1.000
 ncaab,Louisville,Louisville,1.000
 ncaab,Alabama,Alabama,1.000
 ncaab,Clemson,Clemson,1.000
-ncaab,Boston College,Manor College,0.333
-ncaab,Georgetown,Alabama,0.000
+ncaab,Georgetown,Georgetown,1.000
 ncaab,UMBC,Alabama,0.000
 ncaab,Iowa State,Iowa State,1.000
 ncaab,Alcorn State,Alcorn State,1.000
@@ -109,7 +110,9 @@ ncaab,Dayton,Alabama,0.000
 ncaab,Boise State,Alcorn State,0.333
 ncaab,Ohio State,Alcorn State,0.333
 ncaab,George Mason,Alabama,0.000
+ncaab,Fresno State,Fresno State,1.000
 ncaab,Michigan,Michigan,1.000
+ncaab,Wyoming,Alabama,0.000
 ncaab,Dartmouth,Alabama,0.000
 ncaab,Memphis,Alabama,0.000
 ncaab,Southern Utah,Southern Utah,1.000
@@ -124,11 +127,12 @@ ncaab,Arizona,Arizona,1.000
 ncaab,Arizona State,Arizona,0.500
 ncaab,Navy,Alabama,0.000
 ncaab,Charlotte,Alabama,0.000
+ncaab,Texas Tech,Texas Tech,1.000
 ncaab,Hofstra,Alabama,0.000
 ncaab,Towson,Alabama,0.000
 ncaab,San Francisco,Alabama,0.000
 ncaab,Nebraska,Alabama,0.000
 ncaab,North Texas,North Alabama,0.333
-ncaab,North Florida,Florida,0.500
+ncaab,North Florida,North Florida,1.000
 ncaab,Southern,Southern,1.000
 ncaab,Mississippi Valley State,Alcorn State,0.250
