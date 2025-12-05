@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-12-04 10:30 UTC_
+_Last updated: 2025-12-05 10:27 UTC_
 
 ## College Football — Upcoming Week
 2025-12-01 to 2025-12-07  
@@ -29,12 +29,6 @@ _All times ET_
 2025-12-03 to 2025-12-09  
 _All times ET_  
 
-### Thursday December 4th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/4/2025 | Dallas Cowboys | Detroit Lions | 8:15 PM | Prime Video | Ford Field, Detroit, MI | Home 225 / 88; Away 226 / 88 |  |  |
-
 ### Sunday December 7th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
@@ -59,24 +53,8 @@ _All times ET_
 | 12/8/2025 | Philadelphia Eagles | Los Angeles Chargers | 8:15 PM | ABC, ESPN | SoFi Stadium, Inglewood, CA | Home 225 / 88; Away 226 / 88 |  |  |
 
 ## College Basketball — Upcoming Week
-2025-12-04 to 2025-12-10  
+2025-12-05 to 2025-12-11  
 _All times ET_  
-
-### Thursday December 4th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/4/2025 | Manor College | Fairleigh Dickinson | 4:00 PM |  | Bogota Savings Bank Center, Hackensack, NJ |  |  |  |
-| 12/4/2025 | The Citadel | Davidson | 7:00 PM | ESPN+ | John M. Belk Arena, Davidson, NC |  |  |  |
-| 12/4/2025 | Utah State | South Florida | 7:00 PM | ESPN+ | Yuengling Center, Tampa, FL | Away 386 |  |  |
-| 12/4/2025 | Rider | Merrimack | 7:00 PM | ESPN+ | Hammel Court, North Andover, MA |  |  |  |
-| 12/4/2025 | Warren Wilson | Charleston Southern | 7:00 PM | ESPN+ | Buccaneer Fieldhouse, Charleston, SC |  |  |  |
-| 12/4/2025 | Robert Morris | Green Bay | 7:00 PM | ESPN+ | Resch Center, Ashwaubenon, WI |  |  |  |
-| 12/4/2025 | Long Beach State | UC Santa Barbara | 9:00 PM | ESPN+ | The Thunderdome, Santa Barbara, CA |  |  |  |
-| 12/4/2025 | Cal State Bakersfield | Cal State Northridge | 10:00 PM | ESPN+ | Premier America Credit Union Arena, Northridge, CA |  |  |  |
-| 12/4/2025 | Cal Poly | Cal State Fullerton | 10:00 PM | ESPN+ | Titan Gym, Fullerton, CA |  |  |  |
-| 12/4/2025 | UC Riverside | UC Irvine | 10:00 PM | ESPN+ | Bren Events Center, Irvine, CA |  |  |  |
-| 12/4/2025 | UC Davis | Hawai'i | 11:59 PM | ESPN+, Spectrum Sports Net | Stan Sheriff Center, Honolulu, HI |  |  |  |
 
 ### Friday December 5th
 
@@ -91,7 +69,7 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/6/2025 | Iowa State | **Purdue** | 12:00 PM | CBS | Mackey Arena, West Lafayette, IN | Home 83; Away 198 |  |  |
 | 12/6/2025 | Duke | Michigan State | 12:00 PM | FOX | Breslin Center, East Lansing, MI | Home 85; Away 193 |  |  |
-| 12/6/2025 | Louisville | **Indiana** | 2:00 PM | CBS | Gainbridge Fieldhouse, Indianapolis, IN | Home 384; Away 193 |  |  |
+| 12/6/2025 | Louisville | **Indiana** | 2:15 PM | CBS | Gainbridge Fieldhouse, Indianapolis, IN | Home 384; Away 193 |  |  |
 | 12/6/2025 | Rutgers | Michigan | 4:00 PM | BTN | Crisler Center, Ann Arbor, MI | Home 83; Away 384 |  |  |
 | 12/6/2025 | Fresno State | Arkansas | 4:00 PM | SECN+ | Simmons Bank Arena, North Little Rock, AR | Home 192; Away ONLINE |  |  |
 | 12/6/2025 | Washington | USC | 6:00 PM | BTN | Galen Center, Los Angeles, CA | Home 392; Away 391 |  |  |
@@ -141,19 +119,15 @@ _All times ET_
 | 12/10/2025 | Minnesota | **Purdue** | 7:00 PM | BTN | Mackey Arena, West Lafayette, IN | Home 83 |  |  |
 | 12/10/2025 | Jackson State | Houston | 8:00 PM | ESPN+ | Fertitta Center, Houston, TX | Home 198 |  |  |
 
-## NBA — Upcoming Week
-2025-12-04 to 2025-12-10  
-_All times ET_  
-
-### Thursday December 4th
+### Thursday December 11th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/4/2025 | Golden State Warriors | Philadelphia 76ers | 7:00 PM | NBA TV, NBC Sports BA, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA | Home 86; Away ONLINE |  |  |
-| 12/4/2025 | Boston Celtics | Washington Wizards | 7:00 PM | MNMT, NBA League Pass, NBC Sports BO | Capital One Arena, Washington, DC | Home 212; Away ONLINE |  |  |
-| 12/4/2025 | Utah Jazz | Brooklyn Nets | 7:30 PM | Jazz+, KJZZ-TV, NBA League Pass, YES | Barclays Center, Brooklyn, NY | Home 213; Away ONLINE |  |  |
-| 12/4/2025 | Los Angeles Lakers | Toronto Raptors | 7:30 PM | NBA League Pass, Spectrum Sports Net, Spectrum Sports Net +, Sportsnet | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE |  |  |
-| 12/4/2025 | Minnesota Timberwolves | New Orleans Pelicans | 8:00 PM | FanDuel SN North, GCSEN, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 214; Away ONLINE |  |  |
+| 12/11/2025 | Iowa | Iowa State | 8:00 PM | FS1 | Hilton Coliseum, Ames, IA |  |  |  |
+
+## NBA — Upcoming Week
+2025-12-05 to 2025-12-11  
+_All times ET_  
 
 ### Friday December 5th
 
@@ -209,7 +183,7 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/9/2025 | Miami Heat | Orlando Magic | 6:00 PM | Prime Video | Kia Center, Orlando, FL | Home 212; Away ONLINE |  |  |
-| 12/9/2025 | New York Knicks | Toronto Raptors | 8:30 PM | MSG, Prime Video, Sportsnet | Scotiabank Arena, Toronto, ON | Home 167 |  |  |
+| 12/9/2025 | New York Knicks | Toronto Raptors | 8:30 PM | MSG, Prime Video, Sportsnet | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE |  |  |
 
 ### Wednesday December 10th
 
@@ -217,3 +191,12 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/10/2025 | Phoenix Suns | Oklahoma City Thunder | 7:30 PM | FanDuel SN OK, Prime Video | Paycom Center, Oklahoma City, OK | Home 86; Away ONLINE |  |  |
 | 12/10/2025 | San Antonio Spurs | Los Angeles Lakers | 10:00 PM | Prime Video, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Away ONLINE |  |  |
+
+### Thursday December 11th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12/11/2025 | LA Clippers | Houston Rockets | 8:00 PM | FanDuel SN SoCal, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 85 |  |  |
+| 12/11/2025 | Boston Celtics | Milwaukee Bucks | 8:00 PM | FanDuel SN WI, NBC Sports BO | Fiserv Forum, Milwaukee, WI | Home 206; Away 86 |  |  |
+| 12/11/2025 | Portland Trail Blazers | New Orleans Pelicans | 8:00 PM | BlazerVision, GCSEN, KUNP 16, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 86; Away ONLINE |  |  |
+| 12/11/2025 | Denver Nuggets | Sacramento Kings | 10:00 PM | Altitude Sports, NBC Sports CA | Golden 1 Center, Sacramento, CA | Away ONLINE |  |  |
