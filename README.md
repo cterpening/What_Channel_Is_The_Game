@@ -1,20 +1,12 @@
 # Sports Schedules
 
-_Last updated: 2025-12-06 10:25 UTC_
+_Last updated: 2025-12-07 10:23 UTC_
 
 ## College Football — Upcoming Week
 2025-12-01 to 2025-12-07  
 _All times ET_  
 
-### Saturday December 6th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/6/2025 | BYU | Texas Tech | 12:00 PM | ABC | AT&T Stadium, Arlington, TX | Home 84 / 80; Away 82 / 80 |  |  |
-| 12/6/2025 | Miami (OH) | Western Michigan | 12:00 PM | ESPN | Ford Field, Detroit, MI | Home 201 |  |  |
-| 12/6/2025 | Georgia | Alabama | 4:00 PM | ABC | Mercedes-Benz Stadium, Atlanta, GA | Home 190 / 84; Away 191 / 84 |  |  |
-| 12/6/2025 | **Indiana** | Ohio State | 8:00 PM | FOX | Lucas Oil Stadium, Indianapolis, IN | Home 83 / 84; Away 82 / 84 |  |  |
-| 12/6/2025 | Duke | Virginia | 8:00 PM | ABC | Bank of America Stadium, Charlotte, NC | Home 81 / 80; Away 193 / 80 |  |  |
+> No upcoming games.
 
 ## NFL — Upcoming Week
 2025-12-03 to 2025-12-09  
@@ -44,23 +36,8 @@ _All times ET_
 | 12/8/2025 | Philadelphia Eagles | Los Angeles Chargers | 8:15 PM | ABC, ESPN | SoFi Stadium, Inglewood, CA | Home 225 / 88; Away 226 / 88 |  |  |
 
 ## College Basketball — Upcoming Week
-2025-12-06 to 2025-12-12  
+2025-12-07 to 2025-12-13  
 _All times ET_  
-
-### Saturday December 6th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/6/2025 | Iowa State | **Purdue** | 12:00 PM | CBS | Mackey Arena, West Lafayette, IN | Home 83; Away 198 |  |  |
-| 12/6/2025 | Duke | Michigan State | 12:00 PM | FOX | Breslin Center, East Lansing, MI | Home 85; Away 193 |  |  |
-| 12/6/2025 | Louisville | **Indiana** | 2:15 PM | CBS | Gainbridge Fieldhouse, Indianapolis, IN | Home 384; Away 193 |  |  |
-| 12/6/2025 | Rutgers | Michigan | 4:00 PM | BTN | Crisler Center, Ann Arbor, MI | Home 83; Away 384 |  |  |
-| 12/6/2025 | Fresno State | Arkansas | 4:00 PM | SECN+ | Simmons Bank Arena, North Little Rock, AR | Home 192; Away ONLINE |  |  |
-| 12/6/2025 | Washington | USC | 6:00 PM | BTN | Galen Center, Los Angeles, CA | Home 392; Away 391 |  |  |
-| 12/6/2025 | Florida State | Houston | 8:00 PM | Peacock | Toyota Center (Houston), Houston, TX | Home 198; Away 381 / 382 / 387 |  |  |
-| 12/6/2025 | **Illinois** | Tennessee | 8:00 PM | ESPN | Bridgestone Arena, Nashville, TN | Home 190; Away 196 |  |  |
-| 12/6/2025 | Ole Miss | St. John's | 8:00 PM | Peacock | Madison Square Garden, New York, NY | Home 85; Away 383 |  |  |
-| 12/6/2025 | Auburn | Arizona | 10:00 PM | ESPN | McKale Memorial Center, Tucson, AZ | Home 198 / 386; Away 190 |  |  |
 
 ### Sunday December 7th
 
@@ -68,7 +45,7 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/7/2025 | Missouri | Kansas | 1:00 PM | ESPN2 | T-Mobile Center, Kansas City, MO | Home 198; Away ONLINE |  |  |
 | 12/7/2025 | UTSA | Alabama | 2:00 PM | SEC Network | Coleman Coliseum, Tuscaloosa, AL | Home 190 |  |  |
-| 12/7/2025 | Texas Tech | LSU | 3:00 PM | ESPN2 | Dickies Arena, Fort Worth, TX | Home 382 |  |  |
+| 12/7/2025 | Texas Tech | LSU | 3:00 PM | ESPN2 | Dickies Arena, Fort Worth, TX | Home 382; Away ONLINE |  |  |
 | 12/7/2025 | Georgetown | North Carolina | 5:00 PM | ESPN | Dean E. Smith Center, Chapel Hill, NC | Home 371; Away ONLINE |  |  |
 | 12/7/2025 | North Florida | Gonzaga | 9:00 PM | ESPN+ | McCarthey Athletic Center, Spokane, WA | Home 83 |  |  |
 
@@ -115,21 +92,31 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/12/2025 | Texas | UConn | 8:00 PM | FOX | PeoplesBank Arena, Hartford, CT | Home 84; Away 374 |  |  |
 
-## NBA — Upcoming Week
-2025-12-06 to 2025-12-12  
-_All times ET_  
-
-### Saturday December 6th
+### Saturday December 13th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/6/2025 | New Orleans Pelicans | Brooklyn Nets | 5:00 PM | GCSEN, NBA League Pass, Pelicans.com, YES | Barclays Center, Brooklyn, NY | Home 86; Away ONLINE |  |  |
-| 12/6/2025 | Atlanta Hawks | Washington Wizards | 7:00 PM | FanDuel SN SE, MNMT, NBA League Pass | Capital One Arena, Washington, DC | Home 212; Away ONLINE |  |  |
-| 12/6/2025 | Golden State Warriors | Cleveland Cavaliers | 7:30 PM | FanDuel SN OH, NBA TV, NBC Sports BA | Rocket Arena, Cleveland, OH | Home 86; Away ONLINE |  |  |
-| 12/6/2025 | Milwaukee Bucks | Detroit Pistons | 7:30 PM | FanDuel SN DET, FanDuel SN WI, NBA League Pass | Little Caesars Arena, Detroit, MI | Home 214; Away ONLINE |  |  |
-| 12/6/2025 | Sacramento Kings | Miami Heat | 8:00 PM | NBA League Pass, NBC Sports CA | Kaseya Center, Miami, FL | Home 216; Away ONLINE |  |  |
-| 12/6/2025 | LA Clippers | Minnesota Timberwolves | 8:00 PM | FanDuel SN North, FanDuel SN SoCal, NBA League Pass | Target Center, Minneapolis, MN | Home 215 |  |  |
-| 12/6/2025 | Houston Rockets | Dallas Mavericks | 8:30 PM | KFAA-TV, Mavs.com, NBA League Pass, Space City Home Network | American Airlines Center, Dallas, TX | Home 213; Away ONLINE |  |  |
+| 12/13/2025 | Michigan State | Penn State | 12:00 PM | BTN | Bryce Jordan Center, University Park, PA | Home 372; Away 195 |  |  |
+| 12/13/2025 | Arkansas | Texas Tech | 12:00 PM | ESPN2 | American Airlines Center, Dallas, TX | Home 198; Away 190 |  |  |
+| 12/13/2025 | Iona | St. John's | 12:00 PM | TNT | Madison Square Garden, New York, NY | Home 85 |  |  |
+| 12/13/2025 | Marquette | **Purdue** | 2:00 PM | Peacock | Mackey Arena, West Lafayette, IN | Home 85; Away 382 |  |  |
+| 12/13/2025 | South Carolina Upstate | North Carolina | 2:00 PM | The CW Network | Dean E. Smith Center, Chapel Hill, NC | Home 193 |  |  |
+| 12/13/2025 | George Washington | Florida | 2:30 PM | ESPN2 | Amerant Bank Arena, Sunrise, FL | Home 371 / 190; Away ONLINE |  |  |
+| 12/13/2025 | New Orleans | Houston | 3:00 PM | ESPN+ | Fertitta Center, Houston, TX | Home 198; Away 387 |  |  |
+| 12/13/2025 | Memphis | Louisville | 3:30 PM | ESPN | KFC Yum! Center, Louisville, KY | Home 194 |  |  |
+| 12/13/2025 | Nebraska | **Illinois** | 4:00 PM | Peacock | State Farm Center, Champaign, IL | Home 85; Away 372 |  |  |
+| 12/13/2025 | Chattanooga | Auburn | 4:30 PM | SEC Network | State Farm Arena, Atlanta, GA | Home 190 |  |  |
+| 12/13/2025 | Kansas | NC State | 5:30 PM | ESPN | Lenovo Center, Raleigh, NC | Home 371; Away 198 |  |  |
+| 12/13/2025 | Central Arkansas | Vanderbilt | 6:30 PM | SEC Network | Memorial Gymnasium (TN), Nashville, TN | Home 386 |  |  |
+| 12/13/2025 | **Indiana** | Kentucky | 7:30 PM | ESPN | Rupp Arena, Lexington, KY | Home 190; Away 390 |  |  |
+| 12/13/2025 | Michigan | Maryland | 8:00 PM | FOX | XFINITY Center, College Park, MD | Home 372; Away 85 |  |  |
+| 12/13/2025 | UC Riverside | BYU | 9:00 PM | ESPN+ | Marriott Center, Provo, UT | Home 143 |  |  |
+| 12/13/2025 | Arizona | Alabama | 9:30 PM | ESPN | Legacy Arena at BJCC, Birmingham, AL | Home 145 / 191 / 384 / 386 / 372 / 388 / 203 / 392 / 391 / 380 / 383 / 381 / 190 / 385; Away 198 |  |  |
+| 12/13/2025 | UCLA | Gonzaga | 11:30 PM | ESPN | Climate Pledge Arena, Seattle, WA | Home 85; Away 195 |  |  |
+
+## NBA — Upcoming Week
+2025-12-07 to 2025-12-13  
+_All times ET_  
 
 ### Sunday December 7th
 
@@ -185,3 +172,10 @@ _All times ET_
 | 12/12/2025 | Utah Jazz | Memphis Grizzlies | 8:00 PM | FanDuel SN SE, Jazz+, KJZZ-TV | FedExForum, Memphis, TN | Home 215; Away ONLINE |  |  |
 | 12/12/2025 | Brooklyn Nets | Dallas Mavericks | 8:30 PM | KFAA-TV, Mavs.com, YES | American Airlines Center, Dallas, TX | Home 216; Away ONLINE |  |  |
 | 12/12/2025 | Minnesota Timberwolves | Golden State Warriors | 10:00 PM | FanDuel SN North, NBA TV, NBC Sports BA | Chase Center, San Francisco, CA | Home 86; Away ONLINE |  |  |
+
+### Saturday December 13th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12/13/2025 | TBD | TBD | 5:30 PM | Prime Video | T-Mobile Arena, Las Vegas, NV |  |  |  |
+| 12/13/2025 | TBD | TBD | 9:00 PM | Prime Video | T-Mobile Arena, Las Vegas, NV |  |  |  |
