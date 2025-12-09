@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-12-08 10:31 UTC_
+_Last updated: 2025-12-09 10:32 UTC_
 
 ## College Football — Upcoming Week
 2025-12-08 to 2026-12-13  
@@ -11,124 +11,124 @@ _All times ET_
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/13/2025 | Army | Navy | 3:00 PM | CBS | M&T Bank Stadium, Baltimore, MD | Home 83 / 84; Away 82 / 84 |  |  |
-| 12/13/2025 | Boise State | Washington | 8:00 PM | ABC | SoFi Stadium, Inglewood, CA |  |  |  |
+| 12/13/2025 | Boise State | Washington | 8:00 PM | ABC | SoFi Stadium, Inglewood, CA | Home 384 / 81; Away 385 / 81 |  |  |
 
 ### Tuesday December 16th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/16/2025 | Troy | Jacksonville State | 9:00 PM | ESPN | Cramton Bowl, Montgomery, AL |  |  |  |
+| 12/16/2025 | Troy | Jacksonville State | 9:00 PM | ESPN | Cramton Bowl, Montgomery, AL | Home 203; Away 203 |  |  |
 
 ### Wednesday December 17th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/17/2025 | Old Dominion | South Florida | 5:00 PM | ESPN | Camping World Stadium, Orlando, FL |  |  |  |
-| 12/17/2025 | Louisiana | Delaware | 8:30 PM | ESPN | Hancock Whitney Stadium, Mobile, AL |  |  |  |
+| 12/17/2025 | Old Dominion | South Florida | 5:00 PM | ESPN | Camping World Stadium, Orlando, FL | Home 84; Away 84 |  |  |
+| 12/17/2025 | Louisiana | Delaware | 8:30 PM | ESPN | Hancock Whitney Stadium, Mobile, AL | Home 84; Away 84 |  |  |
 
 ### Thursday December 18th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/18/2025 | Missouri State | Arkansas State | 9:00 PM | ESPN2 | Ford Center At The Star, Frisco, TX |  |  |  |
+| 12/18/2025 | Missouri State | Arkansas State | 9:00 PM | ESPN2 | Ford Center At The Star, Frisco, TX | Home 84; Away 84 |  |  |
 
 ### Friday December 19th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/19/2025 | Kennesaw State | Western Michigan | 11:00 AM | ESPN | Brooks Stadium (SC), Conway, SC |  |  |  |
-| 12/19/2025 | Memphis | NC State | 2:30 PM | ESPN | Raymond James Stadium, Tampa, FL |  |  |  |
-| 12/19/2025 | Alabama | Oklahoma | 8:00 PM | ABC, ESPN | Memorial Stadium (Norman, OK), Norman, OK |  |  |  |
+| 12/19/2025 | Kennesaw State | Western Michigan | 11:00 AM | ESPN | Brooks Stadium (SC), Conway, SC | Home 201; Away 201 |  |  |
+| 12/19/2025 | Memphis | NC State | 2:30 PM | ESPN | Raymond James Stadium, Tampa, FL | Home 371 / 201; Away 201 |  |  |
+| 12/19/2025 | Alabama | Oklahoma | 8:00 PM | ABC, ESPN | Memorial Stadium (Norman, OK), Norman, OK | Home 84 / 80; Away 81 / 80 |  |  |
 
 ### Saturday December 20th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/20/2025 | Miami | Texas A&M | 12:00 PM | ABC, ESPN | Kyle Field, College Station, TX |  |  |  |
-| 12/20/2025 | Tulane | Ole Miss | 3:30 PM | HBO Max, TNT | Vaught-Hemingway Stadium, Oxford, MS |  |  |  |
-| 12/20/2025 | James Madison | Oregon | 7:30 PM | HBO Max, TNT | Autzen Stadium, Eugene, OR |  |  |  |
+| 12/20/2025 | Miami | Texas A&M | 12:00 PM | ABC, ESPN | Kyle Field, College Station, TX | Home 84 / 80; Away 82 / 80 |  |  |
+| 12/20/2025 | Tulane | Ole Miss | 3:30 PM | HBO Max, TNT, truTV | Vaught-Hemingway Stadium, Oxford, MS | Home 84 / 80; Away 81 / 80 |  |  |
+| 12/20/2025 | James Madison | Oregon | 7:30 PM | HBO Max, TNT, truTV | Autzen Stadium, Eugene, OR | Home 84 / 80; Away 82 / 80 |  |  |
 
 ### Monday December 22nd
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/22/2025 | Washington State | Utah State | 2:00 PM | ESPN | Albertsons Stadium, Boise, ID |  |  |  |
+| 12/22/2025 | Washington State | Utah State | 2:00 PM | ESPN | Albertsons Stadium, Boise, ID | Home 201; Away 201 |  |  |
 
 ### Tuesday December 23rd
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/23/2025 | Toledo | Louisville | 2:00 PM | ESPN | Flagler Credit Union Stadium, Boca Raton, FL |  |  |  |
-| 12/23/2025 | Western Kentucky | Southern Miss | 5:30 PM | ESPN | Caesars Superdome, New Orleans, LA |  |  |  |
-| 12/23/2025 | UNLV | Ohio | 9:00 PM | ESPN | Ford Center At The Star, Frisco, TX |  |  |  |
+| 12/23/2025 | Toledo | Louisville | 2:00 PM | ESPN | Flagler Credit Union Stadium, Boca Raton, FL | Home 84 / 80; Away 381 / 80 |  |  |
+| 12/23/2025 | Western Kentucky | Southern Miss | 5:30 PM | ESPN | Caesars Superdome, New Orleans, LA | Home 382 / 80; Away 84 / 80 |  |  |
+| 12/23/2025 | UNLV | Ohio | 9:00 PM | ESPN | Ford Center At The Star, Frisco, TX | Home 84; Away 84 |  |  |
 
 ### Wednesday December 24th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/24/2025 | California | Hawai'i | 8:00 PM | ESPN | Clarence T.C. Ching Athletics Complex, Honolulu, HI |  |  |  |
+| 12/24/2025 | California | Hawai'i | 8:00 PM | ESPN | Clarence T.C. Ching Athletics Complex, Honolulu, HI | Home 80; Away 84 / 80 |  |  |
 
 ### Friday December 26th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/26/2025 | Central Michigan | Northwestern | 1:00 PM | ESPN | Ford Field, Detroit, MI |  |  |  |
-| 12/26/2025 | New Mexico | **Minnesota** | 4:30 PM | ESPN | Chase Field, Phoenix, AZ |  |  |  |
-| 12/26/2025 | Florida International | UTSA | 8:00 PM | ESPN | Gerald J. Ford Stadium, Dallas, TX |  |  |  |
+| 12/26/2025 | Central Michigan | Northwestern | 1:00 PM | ESPN | Ford Field, Detroit, MI | Home 372 / 84; Away 84 |  |  |
+| 12/26/2025 | New Mexico | **Minnesota** | 4:30 PM | ESPN | Chase Field, Phoenix, AZ | Home 84 / 80; Away 380 / 80 |  |  |
+| 12/26/2025 | Florida International | UTSA | 8:00 PM | ESPN | Gerald J. Ford Stadium, Dallas, TX | Home 84 |  |  |
 
 ### Saturday December 27th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/27/2025 | Pittsburgh | East Carolina | 11:00 AM | ESPN | Navy-Marine Corps Memorial Stadium, Annapolis, MD |  |  |  |
-| 12/27/2025 | Penn State | Clemson | 12:00 PM | ABC | Yankee Stadium, Bronx, NY |  |  |  |
-| 12/27/2025 | UConn | Army | 2:15 PM | ESPN | Fenway Park, Boston, MA |  |  |  |
-| 12/27/2025 | Georgia Tech | BYU | 3:30 PM | ABC | Camping World Stadium, Orlando, FL |  |  |  |
-| 12/27/2025 | Miami (OH) | Fresno State | 4:30 PM | The CW Network | Arizona Stadium, Tucson, AZ |  |  |  |
-| 12/27/2025 | North Texas | San Diego State | 5:45 PM | ESPN | University Stadium (NM), Albuquerque, NM |  |  |  |
-| 12/27/2025 | Virginia | Missouri | 7:30 PM | ABC | EverBank Stadium, Jacksonville, FL |  |  |  |
-| 12/27/2025 | LSU | Houston | 9:15 PM | ESPN | NRG Stadium, Houston, TX |  |  |  |
+| 12/27/2025 | Pittsburgh | East Carolina | 11:00 AM | ESPN | Navy-Marine Corps Memorial Stadium, Annapolis, MD | Home 201; Away 201 |  |  |
+| 12/27/2025 | Penn State | Clemson | 12:00 PM | ABC | Yankee Stadium, Bronx, NY | Home 84 / 80; Away 372 / 80 |  |  |
+| 12/27/2025 | UConn | Army | 2:15 PM | ESPN | Fenway Park, Boston, MA | Home 380 / 81; Away 81 |  |  |
+| 12/27/2025 | Georgia Tech | BYU | 3:30 PM | ABC | Camping World Stadium, Orlando, FL | Home 143 / 80; Away 84 / 80 |  |  |
+| 12/27/2025 | Miami (OH) | Fresno State | 4:30 PM | The CW Network | Arizona Stadium, Tucson, AZ | Home 201 |  |  |
+| 12/27/2025 | North Texas | San Diego State | 5:45 PM | ESPN | University Stadium (NM), Albuquerque, NM | Home 81; Away 81 |  |  |
+| 12/27/2025 | Virginia | Missouri | 7:30 PM | ABC | EverBank Stadium, Jacksonville, FL | Home 381 / 84; Away 371 / 84 |  |  |
+| 12/27/2025 | LSU | Houston | 9:15 PM | ESPN | NRG Stadium, Houston, TX | Home 201; Away 374 / 201 |  |  |
 
 ### Monday December 29th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/29/2025 | Georgia Southern | App State | 2:00 PM | ESPN | Protective Stadium, Birmingham, AL |  |  |  |
+| 12/29/2025 | Georgia Southern | App State | 2:00 PM | ESPN | Protective Stadium, Birmingham, AL | Home 84; Away 84 |  |  |
 
 ### Tuesday December 30th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/30/2025 | Coastal Carolina | Louisiana Tech | 2:00 PM | ESPN | Independence Stadium, Shreveport, LA |  |  |  |
-| 12/30/2025 | Tennessee | **Illinois** | 5:30 PM | ESPN | Nissan Stadium, Nashville, TN |  |  |  |
-| 12/30/2025 | USC | TCU | 9:00 PM | ESPN | Alamodome, San Antonio, TX |  |  |  |
+| 12/30/2025 | Coastal Carolina | Louisiana Tech | 2:00 PM | ESPN | Independence Stadium, Shreveport, LA | Home 201; Away 201 |  |  |
+| 12/30/2025 | Tennessee | **Illinois** | 5:30 PM | ESPN | Nissan Stadium, Nashville, TN | Home 84 / 80; Away 374 / 80 |  |  |
+| 12/30/2025 | USC | TCU | 9:00 PM | ESPN | Alamodome, San Antonio, TX | Home 84 / 80; Away 195 / 80 |  |  |
 
 ### Wednesday December 31st
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/31/2025 | Iowa | Vanderbilt | 12:00 PM | ESPN | Raymond James Stadium, Tampa, FL |  |  |  |
-| 12/31/2025 | Arizona State | Duke | 2:00 PM | CBS | Sun Bowl, El Paso, TX |  |  |  |
-| 12/31/2025 | Michigan | Texas | 3:00 PM | ABC | Camping World Stadium, Orlando, FL |  |  |  |
-| 12/31/2025 | Nebraska | Utah | 3:30 PM | ESPN | Allegiant Stadium, Las Vegas, NV |  |  |  |
-| 12/31/2025 | TBD | Ohio State | 7:30 PM | ESPN | AT&T Stadium, Arlington, TX |  |  |  |
+| 12/31/2025 | Iowa | Vanderbilt | 12:00 PM | ESPN | Raymond James Stadium, Tampa, FL | Home 190 / 80; Away 195 / 80 |  |  |
+| 12/31/2025 | Arizona State | Duke | 2:00 PM | CBS | Sun Bowl, El Paso, TX | Home 371 / 201; Away 201 |  |  |
+| 12/31/2025 | Michigan | Texas | 3:00 PM | ABC | Camping World Stadium, Orlando, FL | Home 191 / 80; Away 82 / 80 |  |  |
+| 12/31/2025 | Nebraska | Utah | 3:30 PM | ESPN | Allegiant Stadium, Las Vegas, NV | Home 202; Away 372 / 202 |  |  |
+| 12/31/2025 | TBD | Ohio State | 7:30 PM | ESPN | AT&T Stadium, Arlington, TX | Home 84 / 80 |  |  |
 
 ### Thursday January 1st
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/1/2026 | TBD | Texas Tech | 12:00 PM | ESPN | Hard Rock Stadium, Miami Gardens, FL |  |  |  |
-| 1/1/2026 | TBD | **Indiana** | 4:00 PM | ESPN | Rose Bowl, Pasadena, CA |  |  |  |
-| 1/1/2026 | TBD | Georgia | 8:00 PM | ESPN | Caesars Superdome, New Orleans, LA |  |  |  |
+| 1/1/2026 | TBD | Texas Tech | 12:00 PM | ESPN | Hard Rock Stadium, Miami Gardens, FL | Home 84 / 80 |  |  |
+| 1/1/2026 | TBD | **Indiana** | 4:00 PM | ESPN | Rose Bowl, Pasadena, CA | Home 84 / 80 |  |  |
+| 1/1/2026 | TBD | Georgia | 8:00 PM | ESPN | Caesars Superdome, New Orleans, LA | Home 84 / 80 |  |  |
 
 ### Friday January 2nd
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/2/2026 | Rice | Texas State | 1:00 PM | ESPN | Amon G. Carter Stadium, Fort Worth, TX |  |  |  |
-| 1/2/2026 | Navy | Cincinnati | 4:30 PM | ESPN | Simmons Bank Liberty Stadium, Memphis, TN | Away 82 |  |  |
-| 1/2/2026 | Arizona | SMU | 8:00 PM | FOX | Snapdragon Stadium, San Diego, CA |  |  |  |
-| 1/2/2026 | Wake Forest | Mississippi State | 8:00 PM | ESPN | Bank of America Stadium, Charlotte, NC |  |  |  |
+| 1/2/2026 | Rice | Texas State | 1:00 PM | ESPN | Amon G. Carter Stadium, Fort Worth, TX | Home 201; Away 201 |  |  |
+| 1/2/2026 | Navy | Cincinnati | 4:30 PM | ESPN | Simmons Bank Liberty Stadium, Memphis, TN | Home 381 / 80; Away 202 / 80 |  |  |
+| 1/2/2026 | Arizona | SMU | 8:00 PM | FOX | Snapdragon Stadium, San Diego, CA | Home 371; Away 83 |  |  |
+| 1/2/2026 | Wake Forest | Mississippi State | 8:00 PM | ESPN | Bank of America Stadium, Charlotte, NC | Home 84 / 80; Away 382 / 80 |  |  |
 
 ### Thursday January 8th
 
@@ -149,30 +149,43 @@ _All times ET_
 | 1/19/2026 | TBD | TBD | 7:30 PM | ESPN | Hard Rock Stadium, Miami Gardens, FL |  |  |  |
 
 ## NFL — Upcoming Week
-2025-12-03 to 2025-12-09  
+2025-12-10 to 2025-12-16  
 _All times ET_  
 
-### Monday December 8th
+### Thursday December 11th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/8/2025 | Philadelphia Eagles | Los Angeles Chargers | 8:15 PM | ABC, ESPN | SoFi Stadium, Inglewood, CA | Home 225 / 88; Away 226 / 88 |  |  |
+| 12/11/2025 | Atlanta | Tampa Bay | 8:15 PM | Prime Video | Raymond James Stadium, Tampa, FL |  |  |  |
+
+### Sunday December 14th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12/14/2025 | Cleveland | Chicago | 1:00 PM | FOX | Soldier Field, Chicago, IL |  |  |  |
+| 12/14/2025 | Baltimore | Cincinnati | 1:00 PM | CBS | Paycor Stadium, Cincinnati, OH |  |  |  |
+| 12/14/2025 | Los Angeles | Kansas City | 1:00 PM | CBS | GEHA Field at Arrowhead Stadium, Kansas City, MO |  |  |  |
+| 12/14/2025 | Buffalo | New England | 1:00 PM | CBS | Gillette Stadium, Foxborough, MA |  |  |  |
+| 12/14/2025 | Washington | New York | 1:00 PM | FOX | MetLife Stadium, East Rutherford, NJ |  |  |  |
+| 12/14/2025 | Las Vegas | Philadelphia | 1:00 PM | FOX | Lincoln Financial Field, Philadelphia, PA |  |  |  |
+| 12/14/2025 | New York | Jacksonville | 1:00 PM | CBS | EverBank Stadium, Jacksonville, FL |  |  |  |
+| 12/14/2025 | Arizona | Houston | 1:00 PM | FOX | NRG Stadium, Houston, TX |  |  |  |
+| 12/14/2025 | Green Bay | Denver | 4:25 PM | CBS | Empower Field at Mile High, Denver, CO |  |  |  |
+| 12/14/2025 | Detroit | Los Angeles | 4:25 PM | FOX | SoFi Stadium, Inglewood, CA |  |  |  |
+| 12/14/2025 | Carolina | New Orleans | 4:25 PM | FOX | Caesars Superdome, New Orleans, LA |  |  |  |
+| 12/14/2025 | Tennessee | San Francisco | 4:25 PM | FOX | Levi's Stadium, Santa Clara, CA |  |  |  |
+| 12/14/2025 | Indianapolis | Seattle | 4:25 PM | CBS | Lumen Field, Seattle, WA |  |  |  |
+| 12/14/2025 | Minnesota | Dallas | 8:20 PM | NBC, Peacock | AT&T Stadium, Arlington, TX |  |  |  |
+
+### Monday December 15th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12/15/2025 | Miami | Pittsburgh | 8:15 PM | ESPN | Acrisure Stadium, Pittsburgh, PA |  |  |  |
 
 ## College Basketball — Upcoming Week
-2025-12-08 to 2025-12-14  
+2025-12-09 to 2025-12-15  
 _All times ET_  
-
-### Monday December 8th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/8/2025 | Southern Wesleyan | Kennesaw State | 12:00 PM | ESPN+ | KSU Convocation Center, Kennesaw, GA |  |  |  |
-| 12/8/2025 | Lafayette | Pennsylvania | 6:00 PM | ESPN+ | The Palestra, Philadelphia, PA |  |  |  |
-| 12/8/2025 | South Carolina State | Charleston Southern | 7:00 PM | ESPN+ | Buccaneer Fieldhouse, Charleston, SC |  |  |  |
-| 12/8/2025 | Grambling | Southern Miss | 8:00 PM | ESPN+ | Reed Green Coliseum, Hattiesburg, MS |  |  |  |
-| 12/8/2025 | Southern | Texas | 8:00 PM | SEC Network | Moody Center, Austin, TX | Home 84 |  |  |
-| 12/8/2025 | Mississippi Valley State | Kansas State | 8:00 PM | ESPN+ | Bramlage Coliseum, Manhattan, KS | Home 380; Away 384 |  |  |
-| 12/8/2025 | Incarnate Word | New Orleans | 8:00 PM | ESPN+ | Lakefront Arena, New Orleans, LA | Home ONLINE |  |  |
 
 ### Tuesday December 9th
 
@@ -180,11 +193,9 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/9/2025 | Villanova | Michigan | 6:30 PM | FS1 | Crisler Center, Ann Arbor, MI | Home 195; Away 380 |  |  |
 | 12/9/2025 | Clemson | BYU | 6:30 PM | ESPN | Madison Square Garden, New York, NY | Home 143 / 80; Away 84 / 80 |  |  |
-| 12/9/2025 | North Carolina Central | Kentucky | 7:00 PM | SEC Network | Rupp Arena, Lexington, KY | Home 81 |  |  |
+| 12/9/2025 | Maryland Eastern Shore | Virginia | 7:00 PM | ACC Extra | John Paul Jones Arena, Charlottesville, VA | Home 381 / 382 |  |  |
 | 12/9/2025 | **Illinois** | Ohio State | 7:30 PM | Peacock | Value City Arena, Columbus, OH | Home 383; Away 85 |  |  |
-| 12/9/2025 | Penn State | **Indiana** | 8:30 PM | FS1 | Simon Skjodt Assembly Hall, Bloomington, IN | Home 372; Away 386 |  |  |
-| 12/9/2025 | Florida | UConn | 9:00 PM | ESPN | Madison Square Garden, New York, NY | Home 84 / 80; Away 81 / 80 |  |  |
-| 12/9/2025 | USC | San Diego | 9:00 PM | ESPN2 | Jenny Craig Pavilion, San Diego, CA | Home 381; Away 389 |  |  |
+| 12/9/2025 | Florida | UConn | 9:00 PM | ESPN | Madison Square Garden, New York, NY | Home 84; Away 81 / 80 |  |  |
 
 ### Wednesday December 10th
 
@@ -192,6 +203,7 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/10/2025 | Minnesota | **Purdue** | 7:00 PM | BTN | Mackey Arena, West Lafayette, IN | Home 84; Away 386 |  |  |
 | 12/10/2025 | Jackson State | Houston | 8:00 PM | ESPN+ | Fertitta Center, Houston, TX | Home 198 |  |  |
+| 12/10/2025 | Wisconsin | Nebraska | 9:00 PM | BTN | Pinnacle Bank Arena, Lincoln, NE | Home 372; Away 84 |  |  |
 
 ### Thursday December 11th
 
@@ -214,14 +226,13 @@ _All times ET_
 | 12/13/2025 | Iona | St. John's | 12:00 PM | TNT | Madison Square Garden, New York, NY | Home 85 |  |  |
 | 12/13/2025 | Marquette | **Purdue** | 2:00 PM | Peacock | Mackey Arena, West Lafayette, IN | Home 85; Away 382 |  |  |
 | 12/13/2025 | South Carolina Upstate | North Carolina | 2:00 PM | The CW Network | Dean E. Smith Center, Chapel Hill, NC | Home 193 |  |  |
-| 12/13/2025 | George Washington | Florida | 2:30 PM | ESPN2 | Amerant Bank Arena, Sunrise, FL | Home 371 / 190 |  |  |
+| 12/13/2025 | George Washington | Florida | 2:30 PM | ESPN2 | Amerant Bank Arena, Sunrise, FL | Home 371 / 190; Away ONLINE |  |  |
 | 12/13/2025 | New Orleans | Houston | 3:00 PM | ESPN+ | Fertitta Center, Houston, TX | Home 198; Away 387 |  |  |
 | 12/13/2025 | Memphis | Louisville | 3:30 PM | ESPN | KFC Yum! Center, Louisville, KY | Home 194 |  |  |
 | 12/13/2025 | Nebraska | **Illinois** | 4:00 PM | Peacock | State Farm Center, Champaign, IL | Home 85; Away 372 |  |  |
 | 12/13/2025 | Chattanooga | Auburn | 4:30 PM | SEC Network | State Farm Arena, Atlanta, GA | Home 190 |  |  |
-| 12/13/2025 | Kansas | NC State | 5:30 PM | ESPN | Lenovo Center, Raleigh, NC | Home 371; Away 198 |  |  |
+| 12/13/2025 | Kansas | NC State | 5:30 PM | ESPN | Lenovo Center, Raleigh, NC | Home 371; Away 390 / 198 |  |  |
 | 12/13/2025 | Central Arkansas | Vanderbilt | 6:30 PM | SEC Network | Memorial Gymnasium (TN), Nashville, TN | Home 386 |  |  |
-| 12/13/2025 | **Indiana** | Kentucky | 7:30 PM | ESPN | Rupp Arena, Lexington, KY | Home 190; Away 390 |  |  |
 | 12/13/2025 | Michigan | Maryland | 8:00 PM | FOX | XFINITY Center, College Park, MD | Home 372; Away 85 |  |  |
 | 12/13/2025 | UC Riverside | BYU | 9:00 PM | ESPN+ | Marriott Center, Provo, UT | Home 143 |  |  |
 | 12/13/2025 | Arizona | Alabama | 9:30 PM | ESPN | Legacy Arena at BJCC, Birmingham, AL | Home 145 / 191 / 384 / 386 / 372 / 388 / 389 / 203 / 392 / 391 / 380 / 383 / 381 / 190 / 385; Away 198 |  |  |
@@ -232,19 +243,28 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/14/2025 | Eastern Illinois | Iowa State | 1:00 PM | ESPN+ | Hilton Coliseum, Ames, IA | Home 198 / 389 |  |  |
-| 12/14/2025 | Washington State | USC | 7:30 PM | FS1 | Galen Center, Los Angeles, CA | Home 372; Away ONLINE |  |  |
 
-## NBA — Upcoming Week
-2025-12-08 to 2025-12-14  
-_All times ET_  
-
-### Monday December 8th
+### Monday December 15th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/8/2025 | Sacramento Kings | **Indiana Pacers** | 7:00 PM | FanDuel SN IN, NBC Sports CA | Gainbridge Fieldhouse, Indianapolis, IN | Home 213; Away ONLINE |  |  |
-| 12/8/2025 | Phoenix Suns | Minnesota Timberwolves | 7:30 PM | Arizona's Family 3TV, FanDuel SN North, NBA League Pass, Peacock, Suns Live | Target Center, Minneapolis, MN | Home 212; Away 86 |  |  |
-| 12/8/2025 | San Antonio Spurs | New Orleans Pelicans | 8:00 PM | FanDuel SN SW, GCSEN, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 214; Away ONLINE |  |  |
+| 12/15/2025 | Bryan (TN) | Samford | 1:00 PM | ESPN+ | Pete Hanna Center, Homewood, AL |  |  |  |
+| 12/15/2025 | Ecclesia | Arkansas-Pine Bluff | 7:00 PM |  | H.O. Clemmons Arena, Pine Bluff, AR |  |  |  |
+| 12/15/2025 | Wofford | Gardner-Webb | 7:00 PM | ESPN+ | Paul Porter Arena, Boiling Springs, NC |  |  |  |
+| 12/15/2025 | Rhodes | Stetson | 7:00 PM | ESPN+ | Edmunds Center, DeLand, FL |  |  |  |
+| 12/15/2025 | Niagara | VCU | 7:00 PM | ESPN+, MASN | Siegel Center, Richmond, VA |  |  |  |
+| 12/15/2025 | East Texas A&M | SE Louisiana | 7:00 PM | ESPN+ | University Center, Hammond, LA |  |  |  |
+| 12/15/2025 | Campbellsville | Western Kentucky | 7:30 PM | ESPN+ | E.A. Diddle Arena, Bowling Green, KY | Home 81 / 190 |  |  |
+| 12/15/2025 | Minnesota Crookston | North Dakota State | 8:00 PM | Midco Sports Plus, Summit League Network, WDAY | Scheels Center, Fargo, ND |  |  |  |
+| 12/15/2025 | East-West University | Southern Indiana | 8:00 PM | ESPN+ | Liberty Arena (IN), Evansville, IN | Home 372 |  |  |
+| 12/15/2025 | Wyoming | South Dakota State | 8:00 PM | Midco Sports Plus | Sanford Pentagon, Sioux Falls, SD | Away 380 |  |  |
+| 12/15/2025 | North Alabama | Alabama A&M | 8:00 PM |  | Event Center, Huntsville, AL |  |  |  |
+| 12/15/2025 | McNeese | Houston Christian | 8:00 PM | ESPN+ | Sharp Gymnasium, Houston, TX |  |  |  |
+| 12/15/2025 | Incarnate Word | TCU | 8:00 PM | ESPN+ | Schollmaier Arena, Fort Worth, TX | Home 84 |  |  |
+
+## NBA — Upcoming Week
+2025-12-09 to 2025-12-15  
+_All times ET_  
 
 ### Tuesday December 9th
 
@@ -299,3 +319,12 @@ _All times ET_
 | 12/14/2025 | Sacramento Kings | Minnesota Timberwolves | 7:00 PM | FanDuel SN North Extra, NBC Sports CA | Target Center, Minneapolis, MN | Home 212; Away ONLINE |  |  |
 | 12/14/2025 | New Orleans Pelicans | Chicago Bulls | 7:00 PM | CHSN, GCSEN, Pelicans.com | United Center, Chicago, IL | Home 214; Away ONLINE |  |  |
 | 12/14/2025 | Golden State Warriors | Portland Trail Blazers | 9:00 PM | BlazerVision, KUNP 16, NBC Sports BA | Moda Center, Portland, OR | Home 86; Away ONLINE |  |  |
+
+### Monday December 15th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12/15/2025 | Detroit Pistons | Boston Celtics | 7:00 PM | FanDuel SN DET, NBC Sports BO, Peacock | TD Garden, Boston, MA | Home 86; Away ONLINE |  |  |
+| 12/15/2025 | Dallas Mavericks | Utah Jazz | 9:00 PM | Jazz+, KFAA-TV, KJZZ-TV, Mavs.com | Delta Center, Salt Lake City, UT | Home 213; Away ONLINE |  |  |
+| 12/15/2025 | Houston Rockets | Denver Nuggets | 9:30 PM | Altitude Sports, Peacock, Space City Home Network | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
+| 12/15/2025 | Memphis Grizzlies | LA Clippers | 10:30 PM | FanDuel SN SE, FanDuel SN SoCal | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
