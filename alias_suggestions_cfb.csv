@@ -1,22 +1,4 @@
 ﻿sport,from,suggested_to,score
-cfb,South Carolina State Bulldogs,App State,0.200
-cfb,Prairie View A&M Prairie View A&M,Texas A&M,0.400
-cfb,Army Black Knights,Army,0.333
-cfb,Navy Midshipmen,Navy,0.500
-cfb,Boise State Broncos,Boise State,0.667
-cfb,Washington Huskies,Washington,0.500
-cfb,Troy Trojans,Troy,0.500
-cfb,Jacksonville State Gamecocks,Jacksonville State,0.667
-cfb,Old Dominion Monarchs,Old Dominion,0.667
-cfb,South Florida Bulls,South Florida,0.667
-cfb,Louisiana Ragin' Cajuns,Louisiana,0.333
-cfb,Delaware Blue Hens,Delaware,0.333
-cfb,Your,Alabama,0.000
-cfb,Prairie View A&M,Texas A&M,0.400
-cfb,South Carolina State,App State,0.250
-cfb,Army,Army,1.000
-cfb,Washington,Washington,1.000
-cfb,Boise State,Boise State,1.000
 cfb,Jacksonville State,Jacksonville State,1.000
 cfb,South Florida,South Florida,1.000
 cfb,Old Dominion,Old Dominion,1.000
@@ -37,6 +19,7 @@ cfb,Minnesota,Minnesota,1.000
 cfb,Pittsburgh,Pittsburgh,1.000
 cfb,Clemson,Clemson,1.000
 cfb,Penn State,Penn State,1.000
+cfb,Army,Army,1.000
 cfb,UConn,UConn,1.000
 cfb,Fresno State,Fresno State,1.000
 cfb,Miami of Ohio,Miami,0.333
@@ -54,7 +37,14 @@ cfb,Nebraska,Nebraska,1.000
 cfb,To Be Determined,Alabama,0.000
 cfb,Georgia,Georgia,1.000
 cfb,Rice,Rice,1.000
-cfb,Arizona,Arizona,1.000
 cfb,Mississippi State,Mississippi State,1.000
+cfb,Arizona,Arizona,1.000
 cfb,West All-Stars,Alabama,0.000
 cfb,East All-Stars,East Carolina,0.250
+cfb,Troy Trojans,Troy,0.500
+cfb,Jacksonville State Gamecocks,Jacksonville State,0.667
+cfb,Old Dominion Monarchs,Old Dominion,0.667
+cfb,South Florida Bulls,South Florida,0.667
+cfb,Louisiana Ragin' Cajuns,Louisiana,0.333
+cfb,Delaware Blue Hens,Delaware,0.333
+cfb,Your,Alabama,0.000
