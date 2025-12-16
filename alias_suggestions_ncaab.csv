@@ -1,8 +1,38 @@
 ﻿sport,from,suggested_to,score
-ncaab,South Dakota State,South Dakota State,1.000
-ncaab,Wyoming,Wyoming,1.000
-ncaab,TCU,TCU,1.000
-ncaab,Incarnate Word,Incarnate Word,1.000
+ncaab,Lipscomb Bisons,Lipscomb,0.500
+ncaab,Duke Blue Devils,Duke,0.333
+ncaab,Toledo Rockets,Toledo,0.500
+ncaab,Michigan State Spartans,Michigan State,0.667
+ncaab,Louisville Cardinals,Louisville,0.500
+ncaab,Tennessee Volunteers,Tennessee,0.500
+ncaab,DePaul Blue Demons,DePaul,0.333
+ncaab,St. John's Red Storm,St. John's,0.600
+ncaab,FIU Panthers,Abilene Christian,0.000
+ncaab,Miami Hurricanes,Abilene Christian,0.000
+ncaab,Florida State Seminoles,Florida,0.333
+ncaab,Dayton Flyers,Abilene Christian,0.000
+ncaab,Kansas City Roos,Kansas,0.333
+ncaab,Oklahoma Sooners,Abilene Christian,0.000
+ncaab,South Carolina Gamecocks,East Carolina,0.250
+ncaab,Clemson Tigers,Abilene Christian,0.000
+ncaab,Georgia Tech Yellow Jackets,Georgia,0.250
+ncaab,Mississippi State Bulldogs,Iowa State,0.250
+ncaab,Texas Longhorns,Texas Tech,0.333
+ncaab,East Tennessee State Buccaneers,East Tennessee State,0.750
+ncaab,North Carolina Tar Heels,North Carolina,0.500
+ncaab,Northern Colorado Bears,Northern Colorado,0.667
+ncaab,Texas Tech Red Raiders,Texas Tech,0.500
+ncaab,Northwestern Wildcats,Abilene Christian,0.000
+ncaab,Butler Bulldogs,Butler,0.500
+ncaab,UConn Huskies,UConn,0.500
+ncaab,Pacific Tigers,Pacific,0.500
+ncaab,BYU Cougars,BYU,0.500
+ncaab,Towson Tigers,Towson,0.500
+ncaab,Kansas Jayhawks,Kansas,0.500
+ncaab,Arizona Wildcats,Arizona,0.500
+ncaab,Queens Royals,Queens University,0.333
+ncaab,Arkansas Razorbacks,Arkansas,0.500
+ncaab,Your,Abilene Christian,0.000
 ncaab,Duke,Duke,1.000
 ncaab,Lipscomb,Lipscomb,1.000
 ncaab,Michigan State,Michigan State,1.000
@@ -14,13 +44,13 @@ ncaab,DePaul,DePaul,1.000
 ncaab,Miami,Abilene Christian,0.000
 ncaab,Dayton,Abilene Christian,0.000
 ncaab,Florida State,Florida,0.500
-ncaab,Oklahoma,Oklahoma State,0.500
-ncaab,Kansas City,Kansas City,1.000
+ncaab,Oklahoma,Abilene Christian,0.000
+ncaab,Kansas City,Kansas,0.500
 ncaab,Clemson,Abilene Christian,0.000
-ncaab,South Carolina,Coastal Carolina,0.333
+ncaab,South Carolina,East Carolina,0.333
 ncaab,Georgia Tech,Georgia,0.500
 ncaab,Marist,Abilene Christian,0.000
-ncaab,Mississippi State,App State,0.333
+ncaab,Mississippi State,Iowa State,0.333
 ncaab,LIU,Abilene Christian,0.000
 ncaab,Texas,Texas Tech,0.500
 ncaab,Le Moyne,Abilene Christian,0.000
@@ -48,58 +78,60 @@ ncaab,Cincinnati,Abilene Christian,0.000
 ncaab,Alabama State,Alabama,0.500
 ncaab,Memphis,Memphis,1.000
 ncaab,Vanderbilt,Vanderbilt,1.000
-ncaab,Texas Southern,Charleston Southern,0.333
+ncaab,Texas Southern,Texas Tech,0.333
 ncaab,Pittsburgh,Abilene Christian,0.000
 ncaab,Binghamton,Abilene Christian,0.000
 ncaab,Syracuse,Abilene Christian,0.000
 ncaab,Mercyhurst,Abilene Christian,0.000
 ncaab,Mercer,Abilene Christian,0.000
-ncaab,Alabama A&M,Alabama A&M,1.000
+ncaab,Alabama A&M,Alabama,0.333
 ncaab,Alabama,Alabama,1.000
 ncaab,South Florida,South Florida,1.000
 ncaab,Gonzaga,Gonzaga,1.000
 ncaab,Campbell,Campbell,1.000
 ncaab,Colorado,Northern Colorado,0.500
-ncaab,Portland State,App State,0.333
+ncaab,Portland State,Iowa State,0.333
 ncaab,Oregon State,Oregon,0.500
 ncaab,Sam Houston State,Houston,0.333
 ncaab,San Diego State,San Diego State,1.000
 ncaab,Air Force,Abilene Christian,0.000
-ncaab,Washington State,App State,0.333
-ncaab,Eastern Washington,Eastern Illinois,0.333
+ncaab,Washington State,Eastern Washington,0.333
+ncaab,Eastern Washington,Eastern Washington,1.000
 ncaab,Stanford,Abilene Christian,0.000
-ncaab,Arizona State,Arizona State,1.000
+ncaab,Arizona State,Arizona,0.500
 ncaab,Oregon,Oregon,1.000
 ncaab,Portland,Abilene Christian,0.000
 ncaab,Georgia,Georgia,1.000
 ncaab,Western Carolina,Western Carolina,1.000
-ncaab,Oral Roberts,Oral Roberts,1.000
-ncaab,Oklahoma State,Oklahoma State,1.000
+ncaab,TCU,Abilene Christian,0.000
+ncaab,Oral Roberts,Abilene Christian,0.000
+ncaab,Oklahoma State,Iowa State,0.333
 ncaab,Providence,Abilene Christian,0.000
 ncaab,Seton Hall,Abilene Christian,0.000
-ncaab,Mississippi Valley State,App State,0.250
+ncaab,Mississippi Valley State,Iowa State,0.250
 ncaab,Wisconsin,Abilene Christian,0.000
 ncaab,Villanova,Abilene Christian,0.000
 ncaab,Baylor,Abilene Christian,0.000
-ncaab,Alcorn State,App State,0.333
+ncaab,Alcorn State,Iowa State,0.333
 ncaab,California,Abilene Christian,0.000
-ncaab,Morgan State,App State,0.333
-ncaab,Cal Poly,Cal Poly,1.000
+ncaab,Morgan State,Iowa State,0.333
+ncaab,Cal Poly,Abilene Christian,0.000
 ncaab,Seattle,Abilene Christian,0.000
-ncaab,Washington,Abilene Christian,0.000
+ncaab,Washington,Eastern Washington,0.500
 ncaab,Montana,Montana,1.000
 ncaab,Oakland,Oakland,1.000
 ncaab,Kansas State,Kansas,0.500
-ncaab,South Dakota,South Dakota State,0.667
+ncaab,South Dakota,North Dakota,0.333
 ncaab,Kentucky,Kentucky,1.000
-ncaab,Indiana,Indiana State,0.500
-ncaab,Chicago State,App State,0.333
-ncaab,Utah State,App State,0.333
-ncaab,Colorado State,App State,0.333
-ncaab,Lafayette,Lafayette,1.000
+ncaab,Indiana,Abilene Christian,0.000
+ncaab,Chicago State,Iowa State,0.333
+ncaab,Utah State,Iowa State,0.333
+ncaab,Colorado State,Iowa State,0.333
+ncaab,Lafayette,Abilene Christian,0.000
 ncaab,Virginia Tech,Virginia,0.500
 ncaab,Elon,Abilene Christian,0.000
 ncaab,Ohio State,Ohio State,1.000
+ncaab,Wyoming,Abilene Christian,0.000
 ncaab,Grand Canyon,Abilene Christian,0.000
 ncaab,Northeastern,Abilene Christian,0.000
 ncaab,FGCU,Abilene Christian,0.000
@@ -110,60 +142,55 @@ ncaab,Iowa,Iowa State,0.500
 ncaab,Bucknell,Abilene Christian,0.000
 ncaab,Purdue,Purdue,1.000
 ncaab,Auburn,Auburn,1.000
-ncaab,Utah,Southern Utah,0.500
-ncaab,Fresno State,App State,0.333
+ncaab,Utah,Abilene Christian,0.000
+ncaab,Fresno State,Iowa State,0.333
 ncaab,Georgetown,Abilene Christian,0.000
 ncaab,Rutgers,Abilene Christian,0.000
-ncaab,Penn,Penn State Hazleton,0.333
+ncaab,Penn,Abilene Christian,0.000
 ncaab,Marquette,Abilene Christian,0.000
 ncaab,New Mexico,Abilene Christian,0.000
 ncaab,Nevada,Abilene Christian,0.000
-ncaab,Boise State,App State,0.333
+ncaab,Boise State,Iowa State,0.333
 ncaab,Notre Dame,Abilene Christian,0.000
 ncaab,Purdue Fort Wayne,Purdue,0.333
-ncaab,Penn State,Penn State Hazleton,0.667
+ncaab,Penn State,Iowa State,0.333
 ncaab,Colgate,Colgate,1.000
-ncaab,Southern,Charleston Southern,0.500
+ncaab,Southern,Abilene Christian,0.000
 ncaab,Kennesaw State,Kennesaw State,1.000
-ncaab,Cal State Fullerton,Cal State Bakersfield,0.500
+ncaab,Cal State Fullerton,Iowa State,0.250
 ncaab,SMU,Abilene Christian,0.000
 ncaab,Central Arkansas,Arkansas,0.500
 ncaab,Gardner-Webb,Gardner-Webb,1.000
 ncaab,Michigan,Michigan,1.000
 ncaab,La Salle,La Salle,1.000
-ncaab,Florida A&M,Alabama A&M,0.500
-ncaab,North Florida,North Florida,1.000
+ncaab,Florida A&M,Florida,0.333
+ncaab,North Florida,Florida,0.500
 ncaab,Brown,Abilene Christian,0.000
-ncaab,East Texas A&M,East Texas A&M,1.000
+ncaab,East Texas A&M,East Carolina,0.200
 ncaab,Columbia,Abilene Christian,0.000
-ncaab,Minnesota,Minnesota Crookston,0.500
+ncaab,Minnesota,Abilene Christian,0.000
 ncaab,Iowa State,Iowa State,1.000
 ncaab,Long Beach State,Long Beach State,1.000
 ncaab,Nebraska,Nebraska,1.000
 ncaab,North Dakota,North Dakota,1.000
-ncaab,West Georgia,Georgia,0.500
+ncaab,West Georgia,West Georgia,1.000
 ncaab,NJIT,Abilene Christian,0.000
-ncaab,South Carolina State,South Dakota State,0.500
+ncaab,South Carolina State,East Carolina,0.250
 ncaab,American University,American University,1.000
 ncaab,Siena,Abilene Christian,0.000
-ncaab,Coppin State,App State,0.333
+ncaab,Coppin State,Iowa State,0.333
 ncaab,Stonehill,Abilene Christian,0.000
-ncaab,Prairie View A&M,Alabama A&M,0.400
+ncaab,Prairie View A&M,Abilene Christian,0.000
 ncaab,West Virginia,Virginia,0.500
-ncaab,Boston College,Morris College,0.333
+ncaab,Boston College,Abilene Christian,0.000
 ncaab,Fairleigh Dickinson,Abilene Christian,0.000
 ncaab,Jacksonville,Abilene Christian,0.000
 ncaab,Central Michigan,Michigan,0.500
-ncaab,Utah Tech,Southern Utah,0.333
+ncaab,Utah Tech,Texas Tech,0.333
 ncaab,Davidson,Davidson,1.000
-ncaab,Missouri,Southeast Missouri State,0.333
-ncaab,Illinois,Eastern Illinois,0.500
-ncaab,East Carolina,Coastal Carolina,0.333
+ncaab,Missouri,Missouri,1.000
+ncaab,Illinois,Illinois,1.000
+ncaab,East Carolina,East Carolina,1.000
 ncaab,Maryland Eastern Shore,Maryland,0.333
-ncaab,Bethune-Cookman,Abilene Christian,0.000
+ncaab,Bethune-Cookman,Bethune-Cookman,1.000
 ncaab,San Diego,San Diego State,0.667
-ncaab,Wyoming Cowboys,Wyoming,0.500
-ncaab,South Dakota State Jackrabbits,South Dakota State,0.750
-ncaab,Incarnate Word Cardinals,Incarnate Word,0.667
-ncaab,TCU Horned Frogs,TCU,0.333
-ncaab,Your,Abilene Christian,0.000
