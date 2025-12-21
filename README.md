@@ -1,18 +1,10 @@
 # Sports Schedules
 
-_Last updated: 2025-12-20 10:26 UTC_
+_Last updated: 2025-12-21 10:25 UTC_
 
 ## College Football — Upcoming Week
 2025-12-13 to 2026-01-20  
 _All times ET_  
-
-### Saturday December 20th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/20/2025 | Miami | Texas A&M | 12:00 PM | ABC, ESPN | Kyle Field, College Station, TX | Home 84 / 80; Away 82 / 80 |  |  |
-| 12/20/2025 | Tulane | Ole Miss | 3:30 PM | HBO Max, TNT, truTV | Vaught-Hemingway Stadium, Oxford, MS | Home 84 / 80; Away 81 / 80 |  |  |
-| 12/20/2025 | James Madison | Oregon | 7:30 PM | HBO Max, TNT, truTV | Autzen Stadium, Eugene, OR | Home 84 / 80; Away 82 / 80 |  |  |
 
 ### Monday December 22nd
 
@@ -77,15 +69,15 @@ _All times ET_
 | 12/31/2025 | Arizona State | Duke | 2:00 PM | CBS | Sun Bowl, El Paso, TX | Home 371 / 201; Away 201 |  |  |
 | 12/31/2025 | Michigan | Texas | 3:00 PM | ABC | Camping World Stadium, Orlando, FL | Home 191 / 80; Away 82 / 80 |  |  |
 | 12/31/2025 | Nebraska | Utah | 3:30 PM | ESPN | Allegiant Stadium, Las Vegas, NV | Home 202; Away 372 / 202 |  |  |
-| 12/31/2025 | TBD | Ohio State | 7:30 PM | ESPN | AT&T Stadium, Arlington, TX | Home 84 / 80 |  |  |
+| 12/31/2025 | Miami | Ohio State | 7:30 PM | ESPN | AT&T Stadium, Arlington, TX | Home 84 / 80; Away 201 |  |  |
 
 ### Thursday January 1st
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/1/2026 | TBD | Texas Tech | 12:00 PM | ESPN | Hard Rock Stadium, Miami Gardens, FL | Home 84 / 80 |  |  |
+| 1/1/2026 | Oregon | Texas Tech | 12:00 PM | ESPN | Hard Rock Stadium, Miami Gardens, FL | Home 84 / 80 |  |  |
 | 1/1/2026 | Alabama | **Indiana** | 4:00 PM | ESPN | Rose Bowl, Pasadena, CA | Home 84 / 80; Away 82 / 80 |  |  |
-| 1/1/2026 | TBD | Georgia | 8:00 PM | ESPN | Caesars Superdome, New Orleans, LA | Home 84 / 80 |  |  |
+| 1/1/2026 | Ole Miss | Georgia | 8:00 PM | ESPN | Caesars Superdome, New Orleans, LA | Home 84 / 80 |  |  |
 
 ### Friday January 2nd
 
@@ -118,13 +110,6 @@ _All times ET_
 2025-12-17 to 2025-12-23  
 _All times ET_  
 
-### Saturday December 20th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/20/2025 | Philadelphia Eagles | Washington Commanders | 5:00 PM | FOX | Northwest Stadium, Landover, MD | Home 225 / 88; Away 226 / 88 |  |  |
-| 12/20/2025 | Green Bay Packers | Chicago Bears | 8:20 PM | FOX | Soldier Field, Chicago, IL | Home 225 / 88; Away 226 / 88 |  |  |
-
 ### Sunday December 21st
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
@@ -149,22 +134,8 @@ _All times ET_
 | 12/22/2025 | San Francisco 49ers | **Indianapolis Colts** | 8:15 PM | ABC, ESPN | Lucas Oil Stadium, Indianapolis, IN | Home 225 / 88; Away 226 / 88 |  |  |
 
 ## College Basketball — Upcoming Week
-2025-12-20 to 2025-12-26  
+2025-12-21 to 2025-12-27  
 _All times ET_  
-
-### Saturday December 20th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/20/2025 | Oakland | Michigan State | 12:00 PM | BTN | Little Caesars Arena, Detroit, MI | Home 195 |  |  |
-| 12/20/2025 | Montana | Louisville | 12:00 PM | ACC Extra | KFC Yum! Center, Louisville, KY | Home 194 |  |  |
-| 12/20/2025 | St. John's | Kentucky | 12:30 PM | CBS | State Farm Arena, Atlanta, GA | Home 191; Away 201 |  |  |
-| 12/20/2025 | Ohio State | North Carolina | 3:00 PM | CBS, Paramount+ | State Farm Arena, Atlanta, GA | Home 193 / 371; Away 193 |  |  |
-| 12/20/2025 | Houston | Arkansas | 5:30 PM | CBS | Prudential Center, Newark, NJ | Home 190; Away 198 |  |  |
-| 12/20/2025 | Maryland | Virginia | 6:00 PM | ESPN | John Paul Jones Arena, Charlottesville, VA | Home 380 / 371; Away 390 |  |  |
-| 12/20/2025 | Auburn | **Purdue** | 6:30 PM | Peacock | Gainbridge Fieldhouse, Indianapolis, IN | Home 195; Away 192 |  |  |
-| 12/20/2025 | Duke | Texas Tech | 8:00 PM | ESPN | Madison Square Garden, New York, NY | Home 389 / 198; Away 198 |  |  |
-| 12/20/2025 | San Diego State | Arizona | 10:30 PM | ESPN2 | Mortgage Matchup Center, Phoenix, AZ | Home 198; Away 391 |  |  |
 
 ### Sunday December 21st
 
@@ -172,12 +143,12 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/21/2025 | Colgate | Florida | 12:00 PM | SECN+ | Stephen C. O'Connell Center, Gainesville, FL | Home 374 / 84; Away 84 |  |  |
 | 12/21/2025 | Vanderbilt | Wake Forest | 1:00 PM | The CW Network | LJVM Coliseum, Winston-Salem, NC | Home ONLINE; Away 190 |  |  |
-| 12/21/2025 | Kennesaw State | Alabama | 2:00 PM | SECN+ | Propst Arena, Huntsville, AL | Home 371 / 84 / 145 / 388 / 372 |  |  |
+| 12/21/2025 | Kennesaw State | Alabama | 2:00 PM | SECN+ | Propst Arena, Huntsville, AL | Home 371 / 84 / 145 / 388 / 372 / 195 / 374 |  |  |
 | 12/21/2025 | Gardner-Webb | Tennessee | 3:00 PM | SECN+ | Food City Center, Knoxville, TN | Home 190 |  |  |
 | 12/21/2025 | La Salle | Michigan | 4:00 PM | Peacock | Crisler Center, Ann Arbor, MI | Home 84 |  |  |
 | 12/21/2025 | UConn | DePaul | 4:30 PM | FS1 | Wintrust Arena, Chicago, IL | Home 389; Away 201 |  |  |
-| 12/21/2025 | Long Beach State | Iowa State | 6:00 PM | ESPN+ | Hilton Coliseum, Ames, IA | Home 198 |  |  |
-| 12/21/2025 | Oregon | Gonzaga | 6:00 PM | Peacock | Moda Center, Portland, OR | Home 203; Away ONLINE |  |  |
+| 12/21/2025 | Long Beach State | Iowa State | 6:00 PM | ESPN+ | Hilton Coliseum, Ames, IA | Home 198 / 392 |  |  |
+| 12/21/2025 | Oregon | Gonzaga | 6:00 PM | Peacock | Moda Center, Portland, OR | Home 203; Away 84 |  |  |
 | 12/21/2025 | North Dakota | Nebraska | 8:00 PM | BTN | Pinnacle Bank Arena, Lincoln, NE | Home 372 |  |  |
 
 ### Monday December 22nd
@@ -198,24 +169,17 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/23/2025 | Harvard | St. John's | 6:00 PM | FS1 | Carnesecca Arena, Queens, NY | Home 206 |  |  |
 
-## NBA — Upcoming Week
-2025-12-20 to 2025-12-26  
-_All times ET_  
-
-### Saturday December 20th
+### Saturday December 27th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/20/2025 | Houston Rockets | Denver Nuggets | 5:00 PM | Altitude Sports, NBA TV, Space City Home Network | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
-| 12/20/2025 | Dallas Mavericks | Philadelphia 76ers | 7:00 PM | KFAA-TV, Mavs.com, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA | Home 212; Away ONLINE |  |  |
-| 12/20/2025 | Boston Celtics | Toronto Raptors | 7:00 PM | NBA League Pass, NBC Sports BO, TSN | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE |  |  |
-| 12/20/2025 | **Indiana Pacers** | New Orleans Pelicans | 7:00 PM | FanDuel SN IN, GCSEN, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 213; Away ONLINE |  |  |
-| 12/20/2025 | Charlotte Hornets | Detroit Pistons | 7:30 PM | FanDuel SN DET, FanDuel SN SE, NBA TV | Little Caesars Arena, Detroit, MI | Home 86; Away ONLINE |  |  |
-| 12/20/2025 | Washington Wizards | Memphis Grizzlies | 8:00 PM | FanDuel SN SE, MNMT, NBA League Pass | FedExForum, Memphis, TN | Home 214; Away ONLINE |  |  |
-| 12/20/2025 | Phoenix Suns | Golden State Warriors | 8:30 PM | Arizona's Family 3TV, NBA League Pass, NBC Sports BA, Suns Live | Chase Center, San Francisco, CA | Home 215; Away ONLINE |  |  |
-| 12/20/2025 | Orlando Magic | Utah Jazz | 9:30 PM | FanDuel SN FL, Jazz+, KJZZ-TV, NBA League Pass | Delta Center, Salt Lake City, UT | Home 212; Away ONLINE |  |  |
-| 12/20/2025 | Portland Trail Blazers | Sacramento Kings | 10:00 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 213; Away ONLINE |  |  |
-| 12/20/2025 | Los Angeles Lakers | LA Clippers | 10:30 PM | FanDuel SN SoCal, NBA TV, Spectrum Sports Net, Spectrum Sports Net + | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
+| 12/27/2025 | Columbia College (SC) | UNC Wilmington | 12:00 PM | FloSports | Trask Coliseum, Wilmington, NC |  |  |  |
+| 12/27/2025 | Cleary University | Duquesne | 2:00 PM | ESPN+ | UPMC Cooper Fieldhouse, Pittsburgh, PA |  |  |  |
+| 12/27/2025 | Cal State Northridge | Stanford | 8:00 PM | ACC Extra | Maples Pavilion, Stanford, CA | Home 380 |  |  |
+
+## NBA — Upcoming Week
+2025-12-21 to 2025-12-27  
+_All times ET_  
 
 ### Sunday December 21st
 
@@ -282,3 +246,17 @@ _All times ET_
 | 12/26/2025 | Phoenix Suns | New Orleans Pelicans | 8:00 PM | Arizona's Family 3TV, GCSEN, NBA League Pass, Pelicans.com, Suns Live | Smoothie King Center, New Orleans, LA | Home 216; Away ONLINE |  |  |
 | 12/26/2025 | Detroit Pistons | Utah Jazz | 9:30 PM | FanDuel SN DET, Jazz+, KJZZ-TV, NBA League Pass | Delta Center, Salt Lake City, UT | Home 86; Away ONLINE |  |  |
 | 12/26/2025 | LA Clippers | Portland Trail Blazers | 10:00 PM | Prime Video | Moda Center, Portland, OR | Home 212 |  |  |
+
+### Saturday December 27th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12/27/2025 | Dallas Mavericks | Sacramento Kings | 5:00 PM | KFAA-TV, Mavs.com, NBA TV, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 86; Away ONLINE |  |  |
+| 12/27/2025 | Denver Nuggets | Orlando Magic | 7:00 PM | Altitude 2 Sports, FanDuel SN FL, NBA League Pass | Kia Center, Orlando, FL | Home 212; Away ONLINE |  |  |
+| 12/27/2025 | Phoenix Suns | New Orleans Pelicans | 7:00 PM | Arizona's Family 3TV, GCSEN, NBA League Pass, Pelicans.com, Suns Live | Smoothie King Center, New Orleans, LA | Home 213; Away ONLINE |  |  |
+| 12/27/2025 | New York Knicks | Atlanta Hawks | 8:00 PM | FanDuel SN SE, MSG, NBA TV | State Farm Arena, Atlanta, GA | Home 86; Away ONLINE |  |  |
+| 12/27/2025 | **Indiana Pacers** | Miami Heat | 8:00 PM | FanDuel SN IN, NBA League Pass | Kaseya Center, Miami, FL | Home 145; Away ONLINE |  |  |
+| 12/27/2025 | Milwaukee Bucks | Chicago Bulls | 8:00 PM | CHSN, FanDuel SN WI, NBA League Pass | United Center, Chicago, IL | Home 216; Away ONLINE |  |  |
+| 12/27/2025 | Cleveland Cavaliers | Houston Rockets | 8:00 PM | FanDuel SN OH, NBA League Pass, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 215; Away ONLINE |  |  |
+| 12/27/2025 | Brooklyn Nets | Minnesota Timberwolves | 8:00 PM | FanDuel SN North Extra, NBA League Pass, YES | Target Center, Minneapolis, MN | Home 214; Away ONLINE |  |  |
+| 12/27/2025 | Utah Jazz | San Antonio Spurs | 8:00 PM | FanDuel SN SW, Jazz+, KJZZ-TV, NBA League Pass | Frost Bank Center, San Antonio, TX | Home 217; Away ONLINE |  |  |
