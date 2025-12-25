@@ -1,7 +1,4 @@
 ﻿sport,from,suggested_to,score
-ncaab,Cal State Northridge Matadors,Cal State Northridge,0.750
-ncaab,Stanford Cardinal,Stanford,0.500
-ncaab,Your,Alabama,0.000
 ncaab,Stanford,Stanford,1.000
 ncaab,Cal State Northridge,Cal State Northridge,1.000
 ncaab,Kansas State,Florida State,0.333
@@ -10,7 +7,7 @@ ncaab,Boston College,Columbia College (SC),0.250
 ncaab,Le Moyne,Alabama,0.000
 ncaab,Texas Tech,Texas Tech,1.000
 ncaab,Winthrop,Winthrop,1.000
-ncaab,Georgia Tech,Georgia,0.500
+ncaab,Georgia Tech,Georgia Tech,1.000
 ncaab,Florida A&M,Florida,0.333
 ncaab,Colorado,Alabama,0.000
 ncaab,Northern Colorado,Alabama,0.000
@@ -103,16 +100,19 @@ ncaab,New Mexico,New Hampshire,0.333
 ncaab,Wake Forest,Alabama,0.000
 ncaab,Syracuse,Alabama,0.000
 ncaab,Clemson,Alabama,0.000
-ncaab,Virginia Tech,Texas Tech,0.333
-ncaab,Virginia,Alabama,0.000
-ncaab,Duke,Alabama,0.000
-ncaab,Xavier,Alabama,0.000
+ncaab,Virginia Tech,Virginia Tech,1.000
+ncaab,Virginia,Virginia,1.000
+ncaab,Duke,Duke,1.000
+ncaab,Xavier,Xavier,1.000
 ncaab,Villanova,Alabama,0.000
 ncaab,DePaul,Alabama,0.000
 ncaab,Georgetown,Alabama,0.000
 ncaab,St. John's,Alabama,0.000
 ncaab,Michigan,Michigan,1.000
 ncaab,Ohio State,Florida State,0.333
-ncaab,West Virginia,Alabama,0.000
+ncaab,West Virginia,Virginia,0.500
 ncaab,Loyola Marymount,Alabama,0.000
 ncaab,Pacific,Alabama,0.000
+ncaab,Cal State Northridge Matadors,Cal State Northridge,0.750
+ncaab,Stanford Cardinal,Stanford,0.500
+ncaab,Your,Alabama,0.000
