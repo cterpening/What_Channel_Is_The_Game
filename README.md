@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2025-12-25 10:28 UTC_
+_Last updated: 2025-12-26 10:11 UTC_
 
 ## College Football — Upcoming Week
 2025-12-13 to 2026-01-20  
@@ -90,14 +90,6 @@ _All times ET_
 2025-12-24 to 2025-12-30  
 _All times ET_  
 
-### Thursday December 25th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/25/2025 | Dallas Cowboys | Washington Commanders | 1:00 PM | Netflix | Northwest Stadium, Landover, MD | Home 226 / 88; Away 225 / 88 |  |  |
-| 12/25/2025 | Detroit Lions | Minnesota Vikings | 4:30 PM | Netflix | U.S. Bank Stadium, Minneapolis, MN | Home 228 / 88; Away 227 / 88 |  |  |
-| 12/25/2025 | Denver Broncos | Kansas City Chiefs | 8:15 PM | Prime Video | GEHA Field at Arrowhead Stadium, Kansas City, MO | Home 226 / 88; Away 225 / 88 |  |  |
-
 ### Saturday December 27th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
@@ -127,7 +119,7 @@ _All times ET_
 | 12/29/2025 | Los Angeles Rams | Atlanta Falcons | 8:15 PM | ESPN | Mercedes-Benz Stadium, Atlanta, GA | Home 225 / 88; Away 226 |  |  |
 
 ## College Basketball — Upcoming Week
-2025-12-25 to 2025-12-31  
+2025-12-26 to 2026-01-01  
 _All times ET_  
 
 ### Saturday December 27th
@@ -159,7 +151,7 @@ _All times ET_
 | 12/29/2025 | Long Island University | Georgia | 7:00 PM | SECN+ | Stegeman Coliseum, Athens, GA | Home 385 |  |  |
 | 12/29/2025 | Houston Christian | Iowa State | 8:00 PM | ESPN+ | Hilton Coliseum, Ames, IA | Home 198 |  |  |
 | 12/29/2025 | Middle Tennessee | Houston | 8:00 PM | ESPN+ | Fertitta Center, Houston, TX | Home 84 |  |  |
-| 12/29/2025 | Yale | Alabama | 8:00 PM | SECN+ | Coleman Coliseum, Tuscaloosa, AL | Home 386 / 372 / 381 / 191 / 391 / 84 |  |  |
+| 12/29/2025 | Yale | Alabama | 8:00 PM | SECN+ | Coleman Coliseum, Tuscaloosa, AL | Home 191 |  |  |
 | 12/29/2025 | James Madison | Arkansas | 8:00 PM | SECN+ | Bud Walton Arena, Fayetteville, AR | Home 383 |  |  |
 | 12/29/2025 | South Dakota State | Arizona | 9:00 PM | ESPN+ | McKale Memorial Center, Tucson, AZ | Home 85 |  |  |
 
@@ -181,19 +173,53 @@ _All times ET_
 | 12/31/2025 | Georgia Tech | Duke | 4:00 PM | ACC Network | Cameron Indoor Stadium, Durham, NC | Home 193; Away 390 |  |  |
 | 12/31/2025 | UConn | **Xavier** | 5:00 PM | Peacock | Cintas Center, Cincinnati, OH | Home 391; Away 203 |  |  |
 
-## NBA — Upcoming Week
-2025-12-25 to 2025-12-31  
-_All times ET_  
-
-### Thursday December 25th
+### Thursday January 1st
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/25/2025 | Cleveland Cavaliers | New York Knicks | 12:00 PM | ABC, ESPN | Madison Square Garden, New York, NY | Home 86 / 80; Away 82 / 80 |  |  |
-| 12/25/2025 | San Antonio Spurs | Oklahoma City Thunder | 2:30 PM | ABC, ESPN | Paycom Center, Oklahoma City, OK | Home 86 / 80; Away 82 / 80 |  |  |
-| 12/25/2025 | Dallas Mavericks | Golden State Warriors | 5:00 PM | ABC, ESPN | Chase Center, San Francisco, CA | Home 86; Away 82 |  |  |
-| 12/25/2025 | Houston Rockets | Los Angeles Lakers | 8:00 PM | ABC, ESPN | crypto.com Arena, Los Angeles, CA | Home 86; Away 82 |  |  |
-| 12/25/2025 | Minnesota Timberwolves | Denver Nuggets | 10:30 PM | ABC, ESPN | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
+| 1/1/2026 | Elms College | Dartmouth | 1:00 PM |  | Leede Arena, Hanover, NH |  |  |  |
+| 1/1/2026 | Oakland | Youngstown State | 1:00 PM | ESPN+ | Beeghly Center, Youngstown, OH |  |  |  |
+| 1/1/2026 | Samford | VMI | 1:00 PM | ESPN+ | Cameron Hall, Lexington, VA |  |  |  |
+| 1/1/2026 | Georgia Southern | Coastal Carolina | 1:00 PM | ESPN+ | The HTC Center, Conway, SC |  |  |  |
+| 1/1/2026 | Stetson | North Alabama | 1:00 PM | ESPN+ | Flowers Hall, Florence, AL |  |  |  |
+| 1/1/2026 | Oral Roberts | North Dakota | 2:00 PM | Midco Sports Plus, Summit League Network | Betty Engelstad Sioux Center, Grand Forks, ND |  |  |  |
+| 1/1/2026 | IU Indianapolis | Northern Kentucky | 2:00 PM | ESPN+ | Truist Arena, Highland Heights, KY |  |  |  |
+| 1/1/2026 | Milwaukee | Wright State | 2:00 PM | ESPN+ | Nutter Center, Dayton, OH |  |  |  |
+| 1/1/2026 | Green Bay | Purdue Fort Wayne | 2:00 PM | ESPN+ | Memorial Coliseum (IN), Fort Wayne, IN |  |  |  |
+| 1/1/2026 | Jacksonville | Lipscomb | 2:00 PM | ESPN+ | Allen Arena, Nashville, TN |  |  |  |
+| 1/1/2026 | Florida Gulf Coast | Central Arkansas | 2:00 PM | ESPN+ | Farris Center, Conway, AR |  |  |  |
+| 1/1/2026 | Valparaiso | Southern Illinois | 3:00 PM | ESPN+ | Banterra Center, Carbondale, IL |  |  |  |
+| 1/1/2026 | Evansville | Illinois State | 3:00 PM | ESPN+ | CEFCU Arena, Normal, IL |  |  |  |
+| 1/1/2026 | Chattanooga | UNC Greensboro | 4:00 PM | ESPN+ | First Horizon Coliseum, Greensboro, NC |  |  |  |
+| 1/1/2026 | Portland State | Weber State | 4:00 PM | ESPN+ | Dee Events Center, Ogden, UT |  |  |  |
+| 1/1/2026 | Southern Indiana | SIU Edwardsville | 4:30 PM | ESPN+ | First Community Arena, Edwardsville, IL |  |  |  |
+| 1/1/2026 | Morehead State | Lindenwood | 4:30 PM | ESPN+ | Hyland Arena, Saint Charles, MO |  |  |  |
+| 1/1/2026 | Cal State Northridge | UC Davis | 5:00 PM | ESPN+ | University Credit Union Center, Davis, CA |  |  |  |
+| 1/1/2026 | UC Irvine | Cal State Bakersfield | 5:00 PM | ESPN+ | Icardo Center, Bakersfield, CA |  |  |  |
+| 1/1/2026 | Southern Miss | UL Monroe | 5:00 PM | ESPN+ | Fant-Ewing Coliseum, Monroe, LA |  |  |  |
+| 1/1/2026 | Tennessee Tech | Little Rock | 5:00 PM | ESPN+ | Jack Stephens Center, Little Rock, AR |  |  |  |
+| 1/1/2026 | Omaha | South Dakota State | 5:15 PM | Midco Sports Plus, Summit League Network | First Bank & Trust Arena, Brookings, SD |  |  |  |
+| 1/1/2026 | Northern Arizona | Montana | 6:00 PM | ESPN+ | Dahlberg Arena, Missoula, MT |  |  |  |
+| 1/1/2026 | Bradley | Belmont | 7:00 PM | ESPN+, MVC | Curb Event Center Arena, Nashville, TN |  |  |  |
+| 1/1/2026 | Eastern Kentucky | Queens University | 7:00 PM | ESPN+ | Curry Arena, Charlotte, NC |  |  |  |
+| 1/1/2026 | Bellarmine | West Georgia | 7:00 PM | ESPN+ | The Coliseum, Carrollton, GA |  |  |  |
+| 1/1/2026 | Indiana State | Northern Iowa | 8:00 PM | ESPN+ | McLeod Center, Cedar Falls, IA |  |  |  |
+| 1/1/2026 | Hawai'i | UC Riverside | 8:00 PM | ESPN+, Spectrum Sports Net | SRC Arena, Riverside, CA |  |  |  |
+| 1/1/2026 | North Florida | Austin Peay | 8:00 PM | ESPN+ | F&M Bank Arena, Clarksville, TN |  |  |  |
+| 1/1/2026 | California Baptist | UT Arlington | 8:00 PM | ESPN+ | College Park Center, Arlington, TX |  |  |  |
+| 1/1/2026 | Utah Valley | Tarleton State | 8:00 PM | ESPN+ | Wisdom Gym, Stephenville, TX |  |  |  |
+| 1/1/2026 | Utah Tech | Abilene Christian | 8:00 PM | ESPN+ | Moody Coliseum (Abilene), Abilene, TX | Home 84 / 372 / 386 / 381 / 391 / 380 / 384 / 145 / 382 / 387; Away 383 |  |  |
+| 1/1/2026 | Western Illinois | UT Martin | 8:30 PM | ESPN+ | Kathleen and Tom Elam Center, Martin, TN |  |  |  |
+| 1/1/2026 | Eastern Illinois | Southeast Missouri State | 8:30 PM | ESPN+ | Show Me Center, Cape Girardeau, MO |  |  |  |
+| 1/1/2026 | Murray State | UIC | 9:00 PM | ESPN+, MVC | Credit Union 1 Arena, Chicago, IL |  |  |  |
+| 1/1/2026 | Northern Colorado | Montana State | 9:00 PM | ESPN+ | Worthington Arena, Bozeman, MT |  |  |  |
+| 1/1/2026 | Sacramento State | Idaho State | 9:00 PM | ESPN+ | Reed Gym, Pocatello, ID |  |  |  |
+| 1/1/2026 | UC Santa Barbara | Cal State Fullerton | 10:00 PM | ESPN+ | Titan Gym, Fullerton, CA |  |  |  |
+| 1/1/2026 | UC San Diego | Cal Poly | 10:00 PM | ESPN+ | Mott Athletics Center, San Luis Obispo, CA |  |  |  |
+
+## NBA — Upcoming Week
+2025-12-26 to 2026-01-01  
+_All times ET_  
 
 ### Friday December 26th
 
@@ -272,3 +298,13 @@ _All times ET_
 | 12/31/2025 | Denver Nuggets | Toronto Raptors | 7:30 PM | Altitude 2 Sports, NBA League Pass, Sportsnet | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE |  |  |
 | 12/31/2025 | Washington Wizards | Milwaukee Bucks | 8:00 PM | FanDuel SN WI, MNMT, NBA League Pass | Fiserv Forum, Milwaukee, WI | Home 214; Away ONLINE |  |  |
 | 12/31/2025 | Portland Trail Blazers | Oklahoma City Thunder | 8:00 PM | BlazerVision, FanDuel SN OK, KUNP 16, NBA TV | Paycom Center, Oklahoma City, OK | Home 213; Away ONLINE |  |  |
+
+### Thursday January 1st
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1/1/2026 | Houston Rockets | Brooklyn Nets | 6:00 PM | NBA League Pass, Space City Home Network, YES | Barclays Center, Brooklyn, NY | Home 212; Away ONLINE |  |  |
+| 1/1/2026 | Miami Heat | Detroit Pistons | 7:00 PM | FanDuel SN DET Ext, FanDuel SN Sun, NBA League Pass | Little Caesars Arena, Detroit, MI | Home 86; Away ONLINE |  |  |
+| 1/1/2026 | Philadelphia 76ers | Dallas Mavericks | 8:30 PM | KFAA-TV, Mavs.com, NBA League Pass, NBA TV, NBC Sports Phil | American Airlines Center, Dallas, TX | Home 213; Away ONLINE |  |  |
+| 1/1/2026 | Boston Celtics | Sacramento Kings | 10:00 PM | NBA League Pass, NBC Sports BO, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 86; Away ONLINE |  |  |
+| 1/1/2026 | Utah Jazz | LA Clippers | 10:30 PM | FanDuel SN SoCal, Jazz+, KJZZ-TV, NBA League Pass | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
