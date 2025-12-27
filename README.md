@@ -1,18 +1,10 @@
 # Sports Schedules
 
-_Last updated: 2025-12-26 10:11 UTC_
+_Last updated: 2025-12-27 10:09 UTC_
 
 ## College Football — Upcoming Week
 2025-12-13 to 2026-01-20  
 _All times ET_  
-
-### Friday December 26th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/26/2025 | Central Michigan | Northwestern | 1:00 PM | ESPN | Ford Field, Detroit, MI | Home 372 / 84; Away 84 |  |  |
-| 12/26/2025 | New Mexico | **Minnesota** | 4:30 PM | ESPN | Chase Field, Phoenix, AZ | Home 84 / 80; Away 380 / 80 |  |  |
-| 12/26/2025 | Florida International | UTSA | 8:00 PM | ESPN | Gerald J. Ford Stadium, Dallas, TX | Home 84 |  |  |
 
 ### Saturday December 27th
 
@@ -119,7 +111,7 @@ _All times ET_
 | 12/29/2025 | Los Angeles Rams | Atlanta Falcons | 8:15 PM | ESPN | Mercedes-Benz Stadium, Atlanta, GA | Home 225 / 88; Away 226 |  |  |
 
 ## College Basketball — Upcoming Week
-2025-12-26 to 2026-01-01  
+2025-12-27 to 2026-01-02  
 _All times ET_  
 
 ### Saturday December 27th
@@ -217,23 +209,19 @@ _All times ET_
 | 1/1/2026 | UC Santa Barbara | Cal State Fullerton | 10:00 PM | ESPN+ | Titan Gym, Fullerton, CA |  |  |  |
 | 1/1/2026 | UC San Diego | Cal Poly | 10:00 PM | ESPN+ | Mott Athletics Center, San Luis Obispo, CA |  |  |  |
 
-## NBA — Upcoming Week
-2025-12-26 to 2026-01-01  
-_All times ET_  
-
-### Friday December 26th
+### Friday January 2nd
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/26/2025 | Miami Heat | Atlanta Hawks | 7:00 PM | FanDuel SN Sun, NBA League Pass | State Farm Arena, Atlanta, GA | Home 86; Away ONLINE |  |  |
-| 12/26/2025 | Charlotte Hornets | Orlando Magic | 7:00 PM | FanDuel SN FL, FanDuel SN SE, NBA League Pass | Kia Center, Orlando, FL | Home 212; Away ONLINE |  |  |
-| 12/26/2025 | Toronto Raptors | Washington Wizards | 7:00 PM | MNMT, NBA League Pass, Sportsnet | Capital One Arena, Washington, DC | Home 167; Away ONLINE |  |  |
-| 12/26/2025 | Boston Celtics | **Indiana Pacers** | 7:00 PM | FanDuel SN IN, NBA League Pass, NBC Sports BO | Gainbridge Fieldhouse, Indianapolis, IN | Home 213; Away ONLINE |  |  |
-| 12/26/2025 | Philadelphia 76ers | Chicago Bulls | 7:30 PM | CHSN, NBC Sports Phil, Prime Video | United Center, Chicago, IL | Home 215; Away ONLINE |  |  |
-| 12/26/2025 | Milwaukee Bucks | Memphis Grizzlies | 8:00 PM | FanDuel SN SE, FanDuel SN WI, NBA League Pass | FedExForum, Memphis, TN | Home 214; Away ONLINE |  |  |
-| 12/26/2025 | Phoenix Suns | New Orleans Pelicans | 8:00 PM | Arizona's Family 3TV, GCSEN, NBA League Pass, Pelicans.com, Suns Live | Smoothie King Center, New Orleans, LA | Home 216; Away ONLINE |  |  |
-| 12/26/2025 | Detroit Pistons | Utah Jazz | 9:30 PM | FanDuel SN DET, Jazz+, KJZZ-TV, NBA League Pass | Delta Center, Salt Lake City, UT | Home 86; Away ONLINE |  |  |
-| 12/26/2025 | LA Clippers | Portland Trail Blazers | 10:00 PM | Prime Video | Moda Center, Portland, OR | Home 212 |  |  |
+| 1/2/2026 | USC | Michigan | 7:00 PM | Peacock | Crisler Center, Ann Arbor, MI | Home 85; Away 380 |  |  |
+| 1/2/2026 | Louisville | Stanford | 8:00 PM | ACC Network | Maples Pavilion, Stanford, CA | Home 385; Away 193 |  |  |
+| 1/2/2026 | West Virginia | Iowa State | 9:00 PM | ESPN2 | Hilton Coliseum, Ames, IA | Home 198; Away 388 |  |  |
+| 1/2/2026 | Seattle U | Gonzaga | 9:00 PM | ESPN+ | McCarthey Athletic Center, Spokane, WA | Home 203 |  |  |
+| 1/2/2026 | Michigan State | Nebraska | 9:00 PM | Peacock | Pinnacle Bank Arena, Lincoln, NE | Home 85; Away 195 |  |  |
+
+## NBA — Upcoming Week
+2025-12-27 to 2026-01-02  
+_All times ET_  
 
 ### Saturday December 27th
 
@@ -308,3 +296,18 @@ _All times ET_
 | 1/1/2026 | Philadelphia 76ers | Dallas Mavericks | 8:30 PM | KFAA-TV, Mavs.com, NBA League Pass, NBA TV, NBC Sports Phil | American Airlines Center, Dallas, TX | Home 213; Away ONLINE |  |  |
 | 1/1/2026 | Boston Celtics | Sacramento Kings | 10:00 PM | NBA League Pass, NBC Sports BO, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 86; Away ONLINE |  |  |
 | 1/1/2026 | Utah Jazz | LA Clippers | 10:30 PM | FanDuel SN SoCal, Jazz+, KJZZ-TV, NBA League Pass | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
+
+### Friday January 2nd
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1/2/2026 | San Antonio Spurs | **Indiana Pacers** | 7:00 PM | FanDuel SN IN, FanDuel SN SW, NBA League Pass | Gainbridge Fieldhouse, Indianapolis, IN | Home 213; Away ONLINE |  |  |
+| 1/2/2026 | Brooklyn Nets | Washington Wizards | 7:00 PM | MNMT, NBA League Pass, YES | Capital One Arena, Washington, DC | Home 212; Away ONLINE |  |  |
+| 1/2/2026 | Denver Nuggets | Cleveland Cavaliers | 7:30 PM | Altitude Sports, FanDuel SN OH, NBA League Pass, Prime Video | Rocket Arena, Cleveland, OH | Home 214; Away ONLINE |  |  |
+| 1/2/2026 | Atlanta Hawks | New York Knicks | 7:30 PM | FanDuel SN SE, MSG | Madison Square Garden, New York, NY | Home 86; Away ONLINE |  |  |
+| 1/2/2026 | Orlando Magic | Chicago Bulls | 8:00 PM | CHSN, FanDuel SN FL, NBA League Pass | United Center, Chicago, IL | Home 216; Away ONLINE |  |  |
+| 1/2/2026 | Charlotte Hornets | Milwaukee Bucks | 8:00 PM | FanDuel SN SE, FanDuel SN WI, NBA League Pass | Fiserv Forum, Milwaukee, WI | Home 215; Away ONLINE |  |  |
+| 1/2/2026 | Portland Trail Blazers | New Orleans Pelicans | 8:00 PM | BlazerVision, GCSEN, KUNP 16, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 217; Away ONLINE |  |  |
+| 1/2/2026 | Sacramento Kings | Phoenix Suns | 9:00 PM | Arizona's Family 3TV, NBA League Pass, NBC Sports CA, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 81; Away ONLINE |  |  |
+| 1/2/2026 | Oklahoma City Thunder | Golden State Warriors | 10:00 PM | FanDuel SN OK, NBC Sports BA, Prime Video | Chase Center, San Francisco, CA | Home 86; Away ONLINE |  |  |
+| 1/2/2026 | Memphis Grizzlies | Los Angeles Lakers | 10:30 PM | FanDuel SN SE, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 212; Away ONLINE |  |  |
