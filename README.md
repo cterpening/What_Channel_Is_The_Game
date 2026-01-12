@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2026-01-11 10:09 UTC_
+_Last updated: 2026-01-12 10:11 UTC_
 
 ## College Football — Upcoming Week
 2025-12-13 to 2026-01-20  
@@ -10,19 +10,11 @@ _All times ET_
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/19/2026 | Miami | **Indiana** | 7:30 PM | ESPN | Hard Rock Stadium, Miami Gardens, FL | Away 81 / 80 |  |  |
+| 1/19/2026 | Miami | **Indiana** | 7:30 PM | ESPN | Hard Rock Stadium, Miami Gardens, FL | Home 84 / 80; Away 81 / 80 |  |  |
 
 ## NFL — Upcoming Week
 2026-01-07 to 2026-01-13  
 _All times ET_  
-
-### Sunday January 11th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/11/2026 | Buffalo Bills | Jacksonville Jaguars | 1:00 PM | CBS | EverBank Stadium, Jacksonville, FL | Home 226 / 88; Away 225 / 88 |  |  |
-| 1/11/2026 | San Francisco 49ers | Philadelphia Eagles | 4:30 PM | FOX | Lincoln Financial Field, Philadelphia, PA | Home 228 / 88; Away 225 / 88 |  |  |
-| 1/11/2026 | Los Angeles Chargers | New England Patriots | 8:15 PM | NBC, Peacock | Gillette Stadium, Foxborough, MA | Home 229 / 88; Away 226 / 88 |  |  |
 
 ### Monday January 12th
 
@@ -31,15 +23,8 @@ _All times ET_
 | 1/12/2026 | Houston Texans | Pittsburgh Steelers | 8:15 PM | ABC, ESPN | Acrisure Stadium, Pittsburgh, PA | Home 225 / 88; Away 226 / 88 |  |  |
 
 ## College Basketball — Upcoming Week
-2026-01-11 to 2026-01-17  
+2026-01-12 to 2026-01-18  
 _All times ET_  
-
-### Sunday January 11th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/11/2026 | **Illinois** | Iowa | 12:00 PM | FOX | Carver-Hawkeye Arena, Iowa City, IA | Home 195; Away 196 |  |  |
-| 1/11/2026 | Cincinnati | UCF | 5:00 PM | ESPN2 | Addition Financial Arena, Orlando, FL | Home 380; Away ONLINE |  |  |
 
 ### Monday January 12th
 
@@ -74,7 +59,7 @@ _All times ET_
 | 1/13/2026 | West Virginia | Houston | 8:30 PM | FS1 | Fertitta Center, Houston, TX | Home 198; Away 392 |  |  |
 | 1/13/2026 | Iowa State | Kansas | 9:00 PM | ESPN | Allen Fieldhouse, Lawrence, KS | Home 84; Away 199 |  |  |
 | 1/13/2026 | Oregon | Nebraska | 9:00 PM | BTN | Pinnacle Bank Arena, Lincoln, NE | Home 83; Away 386 |  |  |
-| 1/13/2026 | Alabama | Mississippi State | 9:00 PM | SEC Network | Humphrey Coliseum, Starkville, MS | Home 380; Away 382 / 384 / 380 / 386 / 389 / 388 / 81 / 390 |  |  |
+| 1/13/2026 | Alabama | Mississippi State | 9:00 PM | SEC Network | Humphrey Coliseum, Starkville, MS | Home 380; Away 382 / 384 / 380 / 386 / 389 / 388 / 81 / 390 / 385 / 387 / 392 |  |  |
 
 ### Wednesday January 14th
 
@@ -110,7 +95,7 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/17/2026 | Michigan State | Washington | 12:00 AM | BTN | Alaska Airlines Arena, Seattle, WA | Home 392 / 372 |  |  |
+| 1/17/2026 | Michigan State | Washington | 12:00 AM | BTN | Alaska Airlines Arena, Seattle, WA | Home 372; Away 390 |  |  |
 | 1/17/2026 | UConn | Georgetown | 12:00 PM | FOX | Capital One Arena, Washington, DC | Home 385; Away 201 |  |  |
 | 1/17/2026 | Minnesota | **Illinois** | 12:00 PM | BTN | State Farm Center, Champaign, IL | Home 195; Away 384 |  |  |
 | 1/17/2026 | Kentucky | Tennessee | 12:00 PM | ESPN | Food City Center, Knoxville, TN | Home 84; Away 380 |  |  |
@@ -130,24 +115,15 @@ _All times ET_
 | 1/17/2026 | Louisville | Pittsburgh | 8:00 PM |  | Petersen Events Center, Pittsburgh, PA | Home 371; Away 193 |  |  |
 | 1/17/2026 | Gonzaga | Seattle U | 10:00 PM | ESPN+ | Climate Pledge Arena, Seattle, WA | Away 84 |  |  |
 
-## NBA — Upcoming Week
-2026-01-11 to 2026-01-17  
-_All times ET_  
-
-### Sunday January 11th
+### Sunday January 18th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/11/2026 | New Orleans Pelicans | Orlando Magic | 3:00 PM | FanDuel SN FL, GCSEN, NBA League Pass, Pelicans.com | Kia Center, Orlando, FL | Home 86; Away ONLINE |  |  |
-| 1/11/2026 | Brooklyn Nets | Memphis Grizzlies | 3:30 PM | FanDuel SN SE, NBA League Pass, YES | FedExForum, Memphis, TN | Home 212; Away ONLINE |  |  |
-| 1/11/2026 | Philadelphia 76ers | Toronto Raptors | 6:00 PM | NBA League Pass, NBC Sports Phil, Sportsnet | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE |  |  |
-| 1/11/2026 | New York Knicks | Portland Trail Blazers | 6:00 PM | BlazerVision, KUNP 16, MSG, NBA League Pass | Moda Center, Portland, OR | Home 86; Away ONLINE |  |  |
-| 1/11/2026 | San Antonio Spurs | Minnesota Timberwolves | 7:00 PM | FanDuel SN North, FanDuel SN SW, NBA League Pass | Target Center, Minneapolis, MN | Home 213; Away ONLINE |  |  |
-| 1/11/2026 | Miami Heat | Oklahoma City Thunder | 7:00 PM | FanDuel SN OK, FanDuel SN Sun, NBA League Pass | Paycom Center, Oklahoma City, OK | Home 212; Away ONLINE |  |  |
-| 1/11/2026 | Milwaukee Bucks | Denver Nuggets | 8:00 PM | Altitude Sports, FanDuel SN WI, NBA League Pass | Ball Arena, Denver, CO | Home 214; Away ONLINE |  |  |
-| 1/11/2026 | Washington Wizards | Phoenix Suns | 8:00 PM | Arizona's Family 3TV, MNMT, MNMT2, NBA League Pass, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 215; Away ONLINE |  |  |
-| 1/11/2026 | Atlanta Hawks | Golden State Warriors | 8:30 PM | FanDuel SN SE, NBA League Pass, NBC Sports BA | Chase Center, San Francisco, CA | Home 86; Away ONLINE |  |  |
-| 1/11/2026 | Houston Rockets | Sacramento Kings | 9:00 PM | NBA League Pass, NBC Sports CA, Space City Home Network | Golden 1 Center, Sacramento, CA | Home 216; Away ONLINE |  |  |
+| 1/18/2026 | Arizona State | Houston | 5:00 PM |  | Fertitta Center, Houston, TX | Home 198; Away 386 |  |  |
+
+## NBA — Upcoming Week
+2026-01-12 to 2026-01-18  
+_All times ET_  
 
 ### Monday January 12th
 
@@ -222,3 +198,14 @@ _All times ET_
 | 1/17/2026 | Charlotte Hornets | Golden State Warriors | 8:30 PM | FanDuel SN SE, NBA League Pass, NBC Sports BA | Chase Center, San Francisco, CA | Home 216; Away ONLINE |  |  |
 | 1/17/2026 | Washington Wizards | Denver Nuggets | 9:00 PM | Altitude Sports, MNMT, MNMT2, NBA League Pass | Ball Arena, Denver, CO | Home 217; Away ONLINE |  |  |
 | 1/17/2026 | Los Angeles Lakers | Portland Trail Blazers | 10:00 PM | BlazerVision, KUNP 16, NBA TV, Spectrum Sports Net, Spectrum Sports Net + | Moda Center, Portland, OR | Home 86; Away ONLINE |  |  |
+
+### Sunday January 18th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1/18/2026 | Orlando Magic | Memphis Grizzlies | 12:00 PM | Prime Video | The O2, London | Home 86; Away ONLINE |  |  |
+| 1/18/2026 | Brooklyn Nets | Chicago Bulls | 7:00 PM | CHSN, NBA League Pass, YES | United Center, Chicago, IL | Home 86; Away ONLINE |  |  |
+| 1/18/2026 | New Orleans Pelicans | Houston Rockets | 7:00 PM | GCSEN, NBA League Pass, Pelicans.com, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 212; Away ONLINE |  |  |
+| 1/18/2026 | Charlotte Hornets | Denver Nuggets | 8:00 PM | Altitude Sports, FanDuel SN SE, NBA League Pass | Ball Arena, Denver, CO | Home 213; Away ONLINE |  |  |
+| 1/18/2026 | Portland Trail Blazers | Sacramento Kings | 9:00 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 214; Away ONLINE |  |  |
+| 1/18/2026 | Toronto Raptors | Los Angeles Lakers | 9:30 PM | NBA League Pass, Spectrum Sports Net, Spectrum Sports Net +, TSN | crypto.com Arena, Los Angeles, CA | Home 86; Away 167 |  |  |
