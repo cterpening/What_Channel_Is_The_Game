@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2026-01-26 10:12 UTC_
+_Last updated: 2026-01-27 10:12 UTC_
 
 ## College Football — Upcoming Week
 2026-01-21 to 2026-01-31  
@@ -19,15 +19,8 @@ _All times ET_
 | 2/3/2026 | NFC | AFC | 8:00 PM | DISNEY XD, ESPN | Moscone Center, San Francisco, CA |  |  |  |
 
 ## College Basketball — Upcoming Week
-2026-01-26 to 2026-02-01  
+2026-01-27 to 2026-02-02  
 _All times ET_  
-
-### Monday January 26th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/26/2026 | Louisville | Duke | 7:00 PM | ESPN | Cameron Indoor Stadium, Durham, NC | Home 84 / 381; Away 193 / 381 |  |  |
-| 1/26/2026 | Arizona | BYU | 9:00 PM | ESPN | Marriott Center, Provo, UT | Home 143; Away 84 |  |  |
 
 ### Tuesday January 27th
 
@@ -35,11 +28,11 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1/27/2026 | Michigan State | Rutgers | 6:30 PM | FS1 | Jersey Mike’s Arena, Piscataway, NJ | Home 381; Away 195 |  |  |
 | 1/27/2026 | Nebraska | Michigan | 7:00 PM | Peacock | Crisler Center, Ann Arbor, MI | Home 84; Away 85 |  |  |
-| 1/27/2026 | Virginia | **Notre Dame** | 7:00 PM | ESPN2 | Purcell Pavilion, South Bend, IN | Home 386; Away 193 |  |  |
 | 1/27/2026 | Arkansas | Oklahoma | 7:00 PM | ESPN | Lloyd Noble Center, Norman, OK | Home 382; Away 191 |  |  |
+| 1/27/2026 | Virginia | **Notre Dame** | 7:00 PM | ESPN2 | Purcell Pavilion, South Bend, IN | Home 386; Away 193 / 389 |  |  |
 | 1/27/2026 | Providence | UConn | 7:30 PM | TNT, truTV | Gampel Pavilion, Storrs, CT | Home 83; Away 387 |  |  |
-| 1/27/2026 | Missouri | Alabama | 8:00 PM | SEC Network | Coleman Coliseum, Tuscaloosa, AL | Home 81 / 383 / 385; Away 392 |  |  |
 | 1/27/2026 | George Washington | Saint Louis | 8:00 PM | ESPN+ | Chaifetz Arena, St. Louis, MO |  |  |  |
+| 1/27/2026 | Missouri | Alabama | 8:00 PM | SEC Network | Coleman Coliseum, Tuscaloosa, AL | Home 81 / 383 / 385 / 387; Away 392 |  |  |
 | 1/27/2026 | **Purdue** | **Indiana** | 9:00 PM | Peacock | Simon Skjodt Assembly Hall, Bloomington, IN | Home 372; Away 85 |  |  |
 | 1/27/2026 | Kentucky | Vanderbilt | 9:00 PM | ESPN | Memorial Gymnasium (TN), Nashville, TN | Home 84; Away 386 |  |  |
 | 1/27/2026 | Massachusetts | Miami (OH) | 9:00 PM | ESPNU | Millett Hall, Oxford, OH | Home 145 |  |  |
@@ -48,7 +41,7 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/28/2026 | Tennessee | Georgia | 7:00 PM | SEC Network | Stegeman Coliseum, Athens, GA | Home 190; Away 380 |  |  |
+| 1/28/2026 | Butler | St. John's | 7:00 PM | Peacock | Madison Square Garden, New York, NY | Home 390; Away 389 |  |  |
 | 1/28/2026 | Houston | TCU | 9:00 PM | ESPN2 | Schollmaier Arena, Fort Worth, TX | Home 383; Away 84 |  |  |
 | 1/28/2026 | Florida | South Carolina | 9:00 PM | SEC Network | Colonial Life Arena, Columbia, SC | Home 374; Away 382 |  |  |
 
@@ -74,10 +67,9 @@ _All times ET_
 | 1/31/2026 | Cincinnati | Houston | 12:00 PM | FOX | Fertitta Center, Houston, TX | Home 84; Away 380 |  |  |
 | 1/31/2026 | Texas Tech | UCF | 12:00 PM | ESPN2 | Addition Financial Arena, Orlando, FL | Home 381; Away 83 / 381 |  |  |
 | 1/31/2026 | Pittsburgh | Clemson | 12:00 PM | ACC Network | Littlejohn Coliseum, Clemson, SC | Home 383; Away 382 |  |  |
-| 1/31/2026 | Texas A&M | Georgia | 1:00 PM | SEC Network | Stegeman Coliseum, Athens, GA | Home 190; Away 387 |  |  |
 | 1/31/2026 | Virginia | Boston College | 1:30 PM | The CW Network | Conte Forum, Chestnut Hill, MA | Home 390; Away 194 |  |  |
 | 1/31/2026 | Arizona | Arizona State | 2:00 PM | TNT | Desert Financial Arena, Tempe, AZ | Home 391 / 380; Away 83 |  |  |
-| 1/31/2026 | North Carolina | Georgia Tech | 2:00 PM | ACC Network | McCamish Pavilion, Atlanta, GA | Home 371; Away 193 |  |  |
+| 1/31/2026 | North Carolina | Georgia Tech | 2:00 PM | ACC Network | McCamish Pavilion, Atlanta, GA | Home 190 / 371; Away 193 |  |  |
 | 1/31/2026 | SMU | Louisville | 2:00 PM | ESPN | KFC Yum! Center, Louisville, KY | Home 84 / 80; Away 383 / 80 |  |  |
 | 1/31/2026 | Northern Illinois | Miami (OH) | 3:30 PM | ESPN+ | Millett Hall, Oxford, OH | Home 145 |  |  |
 | 1/31/2026 | BYU | Kansas | 4:30 PM | ESPN | Allen Fieldhouse, Lawrence, KS | Home 84; Away 143 |  |  |
@@ -95,21 +87,16 @@ _All times ET_
 | 2/1/2026 | Iowa State | Kansas State | 2:00 PM | FOX | Bramlage Coliseum, Manhattan, KS | Home 384; Away 84 |  |  |
 | 2/1/2026 | **Illinois** | Nebraska | 4:00 PM | FS1 | Pinnacle Bank Arena, Lincoln, NE | Home 85; Away 196 |  |  |
 
-## NBA — Upcoming Week
-2026-01-26 to 2026-02-01  
-_All times ET_  
-
-### Monday January 26th
+### Monday February 2nd
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1/26/2026 | **Indiana Pacers** | Atlanta Hawks | 1:30 PM | FanDuel SN IN, FanDuel SN SE, NBA League Pass | State Farm Arena, Atlanta, GA | Home 86; Away ONLINE |  |  |
-| 1/26/2026 | Philadelphia 76ers | Charlotte Hornets | 3:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports Phil, NBC Sports Phil + | Spectrum Center, Charlotte, NC | Home 212; Away ONLINE |  |  |
-| 1/26/2026 | Orlando Magic | Cleveland Cavaliers | 7:00 PM | FanDuel SN FL, Peacock | Rocket Arena, Cleveland, OH | Home 86; Away ONLINE |  |  |
-| 1/26/2026 | Portland Trail Blazers | Boston Celtics | 8:00 PM | NBC Sports BO, Peacock | TD Garden, Boston, MA | Home 216; Away ONLINE |  |  |
-| 1/26/2026 | Los Angeles Lakers | Chicago Bulls | 8:00 PM | CHSN, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | United Center, Chicago, IL | Home 214; Away ONLINE |  |  |
-| 1/26/2026 | Memphis Grizzlies | Houston Rockets | 8:00 PM | FanDuel SN SE, NBA League Pass, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 215; Away ONLINE |  |  |
-| 1/26/2026 | Golden State Warriors | Minnesota Timberwolves | 9:30 PM | Peacock | Target Center, Minneapolis, MN | Home 86; Away ONLINE |  |  |
+| 2/2/2026 | Syracuse | North Carolina | 7:00 PM | ESPN | Dean E. Smith Center, Chapel Hill, NC | Away 384 |  |  |
+| 2/2/2026 | Kansas | Texas Tech | 9:00 PM | ESPN | United Supermarkets Arena, Lubbock, TX |  |  |  |
+
+## NBA — Upcoming Week
+2026-01-27 to 2026-02-02  
+_All times ET_  
 
 ### Tuesday January 27th
 
@@ -189,3 +176,12 @@ _All times ET_
 | 2/1/2026 | LA Clippers | Phoenix Suns | 8:00 PM | Arizona's Family 3TV, FanDuel SN SoCal, NBA League Pass, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 212 |  |  |
 | 2/1/2026 | Cleveland Cavaliers | Portland Trail Blazers | 9:00 PM | BlazerVision, FanDuel SN OH, KUNP 16, NBA League Pass | Moda Center, Portland, OR | Home 213; Away ONLINE |  |  |
 | 2/1/2026 | Oklahoma City Thunder | Denver Nuggets | 9:30 PM | NBC, Peacock, Tele | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
+
+### Monday February 2nd
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2/2/2026 | New Orleans Pelicans | Charlotte Hornets | 7:00 PM | FanDuel SN SE, GCSEN, NBA League Pass, Pelicans.com | Spectrum Center, Charlotte, NC | Home 213; Away ONLINE |  |  |
+| 2/2/2026 | Houston Rockets | **Indiana Pacers** | 7:00 PM | FanDuel SN IN, NBA League Pass, Space City Home Network | Gainbridge Fieldhouse, Indianapolis, IN | Home 212; Away ONLINE |  |  |
+| 2/2/2026 | Minnesota Timberwolves | Memphis Grizzlies | 7:30 PM | FanDuel SN North Extra, Peacock | FedExForum, Memphis, TN | Home 86; Away ONLINE |  |  |
+| 2/2/2026 | Philadelphia 76ers | LA Clippers | 10:00 PM | FanDuel SN SoCal, NBC Sports Phil, Peacock | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
