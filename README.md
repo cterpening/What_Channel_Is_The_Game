@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-02-12 10:23 UTC_
+_Last updated: 2026-02-13 10:21 UTC_
 
 ## College Football — Upcoming Week
-2026-02-12 to 2026-02-18  
+2026-02-13 to 2026-02-19  
 _All times ET_  
 
 > No upcoming games.
@@ -15,70 +15,8 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-02-12 to 2026-02-18  
+2026-02-13 to 2026-02-19  
 _All times ET_  
-
-### Thursday February 12th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2/12/2026 | NJIT | New Hampshire | 6:00 PM | ESPN+ | Lundholm Gymnasium, Durham, NH | Home 385 |  |  |
-| 2/12/2026 | UMBC | Maine | 6:00 PM | ESPN+ | Skip Chappelle Court in Memorial Gymnasium, Orono, ME |  |  |  |
-| 2/12/2026 | Bryant | UMass Lowell | 6:00 PM | ESPN+ | Kennedy Family Athletic Complex, Lowell, MA |  |  |  |
-| 2/12/2026 | Northern Kentucky | IU Indianapolis | 6:30 PM | ESPN+ | The Jungle, Indianapolis, IN |  |  |  |
-| 2/12/2026 | Vermont | Binghamton | 6:30 PM | ESPN+ | Events Center (Binghamton), Binghamton, NY |  |  |  |
-| 2/12/2026 | Middle Tennessee | Kennesaw State | 6:30 PM | CBSSN | KSU Convocation Center, Kennesaw, GA | Away 390 |  |  |
-| 2/12/2026 | Valparaiso | Illinois State | 7:00 PM | ESPN+ | CEFCU Arena, Normal, IL |  |  |  |
-| 2/12/2026 | Murray State | Indiana State | 7:00 PM | ESPN+ | Hulman Center, Terre Haute, IN |  |  |  |
-| 2/12/2026 | Marist | Merrimack | 7:00 PM | ESPN+ | Lawler Arena, North Andover, MA |  |  |  |
-| 2/12/2026 | Winthrop | Gardner-Webb | 7:00 PM | ESPN+ | Paul Porter Arena, Boiling Springs, NC |  |  |  |
-| 2/12/2026 | UNC Asheville | Longwood | 7:00 PM | ESPN+, ESPNU | Joan Perry Brock Center, Farmville, VA |  |  |  |
-| 2/12/2026 | Presbyterian | Charleston Southern | 7:00 PM | ESPN+ | Buccaneer Fieldhouse, Charleston, SC |  |  |  |
-| 2/12/2026 | High Point | South Carolina Upstate | 7:00 PM | ESPN+ | G.B. Hodge Center, Spartanburg, SC |  |  |  |
-| 2/12/2026 | Robert Morris | Cleveland State | 7:00 PM | ESPN+ | Wolstein Center, Cleveland, OH |  |  |  |
-| 2/12/2026 | Youngstown State | Oakland | 7:00 PM | ESPN+ | OU Credit Union O'rena, Rochester, MI |  |  |  |
-| 2/12/2026 | Detroit Mercy | Wright State | 7:00 PM | ESPN+ | Nutter Center, Dayton, OH |  |  |  |
-| 2/12/2026 | Purdue Fort Wayne | Green Bay | 7:00 PM | ESPN2 | Resch Center, Ashwaubenon, WI |  |  |  |
-| 2/12/2026 | Central Connecticut | New Haven | 7:00 PM | ESPN+, NESN+ | Jeffery P. Hazell Athletics Center, West Haven, CT |  |  |  |
-| 2/12/2026 | Stonehill | Chicago State | 7:00 PM | NEC Front Row | Jones Convocation Center, Chicago, IL |  |  |  |
-| 2/12/2026 | Long Island University | Wagner | 7:00 PM | NEC Front Row | Spiro Sports Center, Staten Island, NY |  |  |  |
-| 2/12/2026 | Mercyhurst | Le Moyne | 7:00 PM | NEC Front Row | Ted Grant Court, Syracuse, NY |  |  |  |
-| 2/12/2026 | Saint Francis | Fairleigh Dickinson | 7:00 PM | NEC Front Row | Bogota Savings Bank Center, Hackensack, NJ |  |  |  |
-| 2/12/2026 | Stony Brook | Towson | 7:00 PM | FloSports, MNMT | SECU Arena, Towson, MD |  |  |  |
-| 2/12/2026 | Hofstra | Charleston | 7:00 PM | FloSports | TD Arena, Charleston, SC |  |  |  |
-| 2/12/2026 | Monmouth | Drexel | 7:00 PM | FloSports | Daskalakis Athletic Center, Philadelphia, PA |  |  |  |
-| 2/12/2026 | William & Mary | Northeastern | 7:00 PM | FloSports | Cabot Center, Boston, MA |  |  |  |
-| 2/12/2026 | Elon | UNC Wilmington | 7:00 PM | FloSports, WITN-TV | Trask Coliseum, Wilmington, NC |  |  |  |
-| 2/12/2026 | Georgia State | James Madison | 7:00 PM | ESPN+ | Atlantic Union Bank Center, Harrisonburg, VA |  |  |  |
-| 2/12/2026 | Delaware | Florida International | 7:00 PM | ESPN+ | Ocean Bank Convocation Center, Miami, FL |  |  |  |
-| 2/12/2026 | UIC | Drake | 7:30 PM | ESPN+ | Knapp Center, Des Moines, IA |  |  |  |
-| 2/12/2026 | Tennessee Tech | Morehead State | 7:30 PM | ESPN+ | Ellis T. Johnson Arena, Morehead, KY |  |  |  |
-| 2/12/2026 | Evansville | Southern Illinois | 8:00 PM | ESPN+ | Banterra Center, Carbondale, IL |  |  |  |
-| 2/12/2026 | Kansas City | Oral Roberts | 8:00 PM | Midco Sports Plus, Summit League Network | Mabee Center, Tulsa, OK |  |  |  |
-| 2/12/2026 | St. Thomas-Minnesota | Omaha | 8:00 PM | Midco Sports Plus, Summit League Network | Baxter Arena, Omaha, NE | Away 381 / 388 |  |  |
-| 2/12/2026 | Coastal Carolina | Louisiana | 8:00 PM | ESPN+ | Cajundome, Lafayette, LA |  |  |  |
-| 2/12/2026 | Sacramento State | Northern Colorado | 8:00 PM | ESPN+ | Bank of Colorado Arena, Greeley, CO |  |  |  |
-| 2/12/2026 | Portland State | Northern Arizona | 8:00 PM | ESPN+ | J. Lawrence Walkup Skydome, Flagstaff, AZ |  |  |  |
-| 2/12/2026 | Tennessee State | Southern Indiana | 8:00 PM | ESPN+ | Liberty Arena (IN), Evansville, IN |  |  |  |
-| 2/12/2026 | South Alabama | Southern Miss | 8:30 PM | ESPN+ | Reed Green Coliseum, Hattiesburg, MS |  |  |  |
-| 2/12/2026 | Southeast Missouri State | SIU Edwardsville | 8:30 PM | ESPN+ | First Community Arena, Edwardsville, IL |  |  |  |
-| 2/12/2026 | Little Rock | Western Illinois | 8:30 PM | ESPN+ | Western Hall, Macomb, IL |  |  |  |
-| 2/12/2026 | UT Martin | Lindenwood | 8:30 PM | ESPN+ | Hyland Arena, Saint Charles, MO |  |  |  |
-| 2/12/2026 | California Baptist | Southern Utah | 8:30 PM | ESPN+ | America First Events Center, Cedar City, UT | Home 382; Away 382 |  |  |
-| 2/12/2026 | Louisiana Tech | Missouri State | 8:30 PM | CBSSN | Great Southern Bank Arena, Springfield, MO |  |  |  |
-| 2/12/2026 | Northern Iowa | Belmont | 9:00 PM | ESPN+ | Curb Event Center Arena, Nashville, TN |  |  |  |
-| 2/12/2026 | Oregon State | San Francisco | 9:00 PM | ESPN2 | The Sobrato Center, San Francisco, CA | Away 391 |  |  |
-| 2/12/2026 | Memphis | North Texas | 9:00 PM | ESPN | The Super Pit, Denton, TX | Home 190 |  |  |
-| 2/12/2026 | South Dakota State | Denver | 9:00 PM | Altitude Sports, Midco Sports Plus, Summit League Network | Hamilton Gymnasium, Denver, CO |  |  |  |
-| 2/12/2026 | Weber State | Idaho | 9:00 PM | ESPN+ | ICCU Arena, Moscow, ID |  |  |  |
-| 2/12/2026 | Idaho State | Eastern Washington | 9:00 PM | ESPN+ | Reese Court, Cheney, WA | Home 383 |  |  |
-| 2/12/2026 | Utah Valley | Utah Tech | 9:00 PM | ESPN+ | Burns Arena, St. George, UT |  |  |  |
-| 2/12/2026 | UT Arlington | Abilene Christian | 9:00 PM | ESPNU | Moody Coliseum (Abilene), Abilene, TX | Home ONLINE |  |  |
-| 2/12/2026 | Hawai'i | Cal State Bakersfield | 9:30 PM | ESPN+ | Icardo Center, Bakersfield, CA |  |  |  |
-| 2/12/2026 | UC Santa Barbara | UC Riverside | 10:00 PM | ESPN+ | SRC Arena, Riverside, CA |  |  |  |
-| 2/12/2026 | Cal State Fullerton | Long Beach State | 10:00 PM | ESPN+ | Walter Pyramid, Long Beach, CA |  |  |  |
-| 2/12/2026 | UC Irvine | Cal Poly | 10:00 PM | ESPN+ | Mott Athletics Center, San Luis Obispo, CA |  |  |  |
-| 2/12/2026 | UC Davis | UC San Diego | 10:00 PM | ESPN+ | LionTree Arena, San Diego, CA | Home 382 / 386 |  |  |
 
 ### Friday February 13th
 
@@ -144,7 +82,7 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2/18/2026 | Creighton | UConn | 7:00 PM | HBO Max, TNT | Gampel Pavilion, Storrs, CT | Home 84; Away 385 |  |  |
 | 2/18/2026 | Clemson | Wake Forest | 7:00 PM | ACC Network | LJVM Coliseum, Winston-Salem, NC | Home 371; Away 81 |  |  |
-| 2/18/2026 | Arkansas | Alabama | 7:00 PM | ESPN | Coleman Coliseum, Tuscaloosa, AL | Home 192; Away 201 |  |  |
+| 2/18/2026 | Arkansas | Alabama | 7:00 PM | ESPN | Coleman Coliseum, Tuscaloosa, AL | Home 192 / 391; Away 201 |  |  |
 | 2/18/2026 | BYU | Arizona | 9:00 PM | ESPN | McKale Memorial Center, Tucson, AZ | Home 84; Away 143 |  |  |
 | 2/18/2026 | Kansas | Oklahoma State | 9:00 PM | NBCSN, Peacock | Gallagher-Iba Arena, Stillwater, OK | Home 392; Away 85 |  |  |
 | 2/18/2026 | Virginia | Georgia Tech | 9:00 PM | ACC Network | McCamish Pavilion, Atlanta, GA | Home 371; Away 81 |  |  |
@@ -153,23 +91,88 @@ _All times ET_
 | 2/18/2026 | **Illinois** | USC | 10:00 PM | BTN | Galen Center, Los Angeles, CA | Home 197; Away 195 |  |  |
 | 2/18/2026 | Gonzaga | San Francisco | 11:00 PM | ESPN2 | The Sobrato Center, San Francisco, CA | Away 84 |  |  |
 
-## NBA — Upcoming Week
-2026-02-12 to 2026-02-18  
-_All times ET_  
-
-### Thursday February 12th
+### Thursday February 19th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2/12/2026 | Milwaukee Bucks | Oklahoma City Thunder | 7:30 PM | FanDuel SN OK, Prime Video | Paycom Center, Oklahoma City, OK | Home 86; Away ONLINE |  |  |
-| 2/12/2026 | Portland Trail Blazers | Utah Jazz | 9:00 PM | BlazerVision, Jazz+, KJZZ-TV, KUNP 16, NBA League Pass | Delta Center, Salt Lake City, UT | Home 212; Away ONLINE |  |  |
-| 2/12/2026 | Dallas Mavericks | Los Angeles Lakers | 10:00 PM | Prime Video, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 86; Away ONLINE |  |  |
+| 2/19/2026 | Alabama State | Bethune-Cookman | 6:00 PM |  | Moore Gymnasium (FL), Daytona Beach, FL | Away 386 / 388 / 382 / 380 |  |  |
+| 2/19/2026 | Vermont | UMBC | 6:00 PM | ESPN+ | Chesapeake Employers Insurance Arena, Baltimore, MD |  |  |  |
+| 2/19/2026 | New Hampshire | UMass Lowell | 6:00 PM | ESPN+ | Kennedy Family Athletic Complex, Lowell, MA | Away ONLINE |  |  |
+| 2/19/2026 | Binghamton | Bryant | 6:00 PM | ESPN+ | Chace Athletic Center, Smithfield, RI |  |  |  |
+| 2/19/2026 | Florida International | Liberty | 6:00 PM | CBSSN | Liberty Arena (VA), Lynchburg, VA |  |  |  |
+| 2/19/2026 | South Carolina Upstate | Winthrop | 6:30 PM | ESPN+ | Winthrop Coliseum, Rock Hill, SC |  |  |  |
+| 2/19/2026 | Marshall | App State | 6:30 PM | ESPN+ | Holmes Convocation Center, Boone, NC |  |  |  |
+| 2/19/2026 | Memphis | South Florida | 7:00 PM | ESPN2 | Yuengling Center, Tampa, FL |  |  |  |
+| 2/19/2026 | UNC Asheville | High Point | 7:00 PM | ESPNU | Qubein Center, High Point, NC |  |  |  |
+| 2/19/2026 | Longwood | Presbyterian | 7:00 PM | ESPN+ | Templeton Center, Clinton, SC |  |  |  |
+| 2/19/2026 | Gardner-Webb | Radford | 7:00 PM | ESPN+ | The Dedmon Center, Radford, VA |  |  |  |
+| 2/19/2026 | IU Indianapolis | Wright State | 7:00 PM | ESPN+ | Nutter Center, Dayton, OH |  |  |  |
+| 2/19/2026 | Wagner | Mercyhurst | 7:00 PM | NEC Front Row | Mercyhurst Athletic Center, Erie, PA |  |  |  |
+| 2/19/2026 | Stonehill | New Haven | 7:00 PM | NEC Front Row | Jeffery P. Hazell Athletics Center, West Haven, CT |  |  |  |
+| 2/19/2026 | Long Island University | Saint Francis | 7:00 PM | NEC Front Row | DeGol Arena, Loretto, PA |  |  |  |
+| 2/19/2026 | Le Moyne | Central Connecticut | 7:00 PM | NEC Front Row | Detrick Gymnasium, New Britain, CT |  |  |  |
+| 2/19/2026 | Fairleigh Dickinson | Chicago State | 7:00 PM | NEC Front Row | Jones Convocation Center, Chicago, IL |  |  |  |
+| 2/19/2026 | UAlbany | NJIT | 7:00 PM | ESPN+ | Joel & Diane Bloom Wellness and Events Center, Newark, NJ |  |  |  |
+| 2/19/2026 | Monmouth | UNC Wilmington | 7:00 PM | FloSports | Trask Coliseum, Wilmington, NC |  |  |  |
+| 2/19/2026 | Drexel | Northeastern | 7:00 PM | FloSports | Cabot Center, Boston, MA |  |  |  |
+| 2/19/2026 | William & Mary | Campbell | 7:00 PM | FloSports | John W. Pope Jr. Convocation Center, Buies Creek, NC |  |  |  |
+| 2/19/2026 | Charleston | North Carolina A&T | 7:00 PM | FloSports | Corbett Sports Center, Greensboro, NC |  |  |  |
+| 2/19/2026 | Samford | The Citadel | 7:00 PM | ESPN+ | McAlister Field House, Charleston, SC |  |  |  |
+| 2/19/2026 | Chattanooga | Mercer | 7:00 PM | ESPN+ | Hawkins Arena, Macon, GA |  |  |  |
+| 2/19/2026 | Austin Peay | North Florida | 7:00 PM | ESPN+ | UNF Arena, Jacksonville, FL |  |  |  |
+| 2/19/2026 | Alabama A&M | Florida A&M | 7:30 PM |  | Al Lawson Center, Tallahassee, FL |  |  |  |
+| 2/19/2026 | Kansas City | North Dakota | 8:00 PM | Midco Sports Net, Midco Sports Plus, Summit League Network | Betty Engelstad Sioux Center, Grand Forks, ND |  |  |  |
+| 2/19/2026 | Hampton | Hofstra | 8:00 PM | CBSSN, FloSports | David S. Mack Sports and Exhibition Complex, Hempstead, NY |  |  |  |
+| 2/19/2026 | Texas State | South Alabama | 8:00 PM | ESPN+ | Mitchell Center, Mobile, AL |  |  |  |
+| 2/19/2026 | Arkansas State | Louisiana | 8:00 PM | ESPN+ | Cajundome, Lafayette, LA |  |  |  |
+| 2/19/2026 | Georgia Southern | Georgia State | 8:00 PM | ESPN+ | GSU Convocation Center, Atlanta, GA |  |  |  |
+| 2/19/2026 | Central Arkansas | Stetson | 8:00 PM | ESPN+ | Edmunds Center, DeLand, FL |  |  |  |
+| 2/19/2026 | UT Martin | Little Rock | 8:00 PM | ESPN+ | Jack Stephens Center, Little Rock, AR |  |  |  |
+| 2/19/2026 | California Baptist | Utah Valley | 8:00 PM | ESPN+ | UCCU Center, Orem, UT | Away 382 |  |  |
+| 2/19/2026 | Utah Tech | UT Arlington | 8:00 PM | ESPN+ | College Park Center, Arlington, TX |  |  |  |
+| 2/19/2026 | Southern Utah | Tarleton State | 8:00 PM | ESPN+ | Wisdom Gym, Stephenville, TX | Away 380 / 388 |  |  |
+| 2/19/2026 | Texas Southern | Arkansas-Pine Bluff | 8:30 PM |  | H.O. Clemmons Arena, Pine Bluff, AR |  |  |  |
+| 2/19/2026 | Prairie View A&M | Mississippi Valley State | 8:30 PM |  | R.W. Harrison HPER Complex, Itta Bena, MS | Home 385 |  |  |
+| 2/19/2026 | Southern Indiana | Western Illinois | 8:30 PM | ESPN+ | Western Hall, Macomb, IL |  |  |  |
+| 2/19/2026 | SIU Edwardsville | Tennessee Tech | 8:30 PM | ESPN+ | Hooper Eblen Center, Cookeville, TN |  |  |  |
+| 2/19/2026 | Lindenwood | Tennessee State | 8:30 PM | ESPN+ | Gentry Center, Nashville, TN | Home 84 / 191 |  |  |
+| 2/19/2026 | Morehead State | Eastern Illinois | 8:30 PM | ESPN+ | Groniger Arena, Charleston, IL |  |  |  |
+| 2/19/2026 | Tulane | North Texas | 9:00 PM | ESPN2 | The Super Pit, Denton, TX | Home 190 |  |  |
+| 2/19/2026 | Cal State Northridge | UC Santa Barbara | 9:00 PM | ESPN+ | The Thunderdome, Santa Barbara, CA |  |  |  |
+| 2/19/2026 | South Dakota | Denver | 9:00 PM | Altitude 2 Sports, Midco Sports Plus, Summit League Network | Hamilton Gymnasium, Denver, CO |  |  |  |
+| 2/19/2026 | Montana State | Weber State | 9:00 PM | ESPN+ | Dee Events Center, Ogden, UT |  |  |  |
+| 2/19/2026 | Montana | Idaho State | 9:00 PM | ESPN+ | Reed Gym, Pocatello, ID |  |  |  |
+| 2/19/2026 | Idaho | Portland State | 9:00 PM | ESPNU | Viking Pavilion, Portland, OR |  |  |  |
+| 2/19/2026 | Cal State Bakersfield | UC Riverside | 10:00 PM | ESPN+ | SRC Arena, Riverside, CA |  |  |  |
+| 2/19/2026 | UC Davis | Cal State Fullerton | 10:00 PM | ESPN+ | Titan Gym, Fullerton, CA |  |  |  |
+| 2/19/2026 | UC Irvine | Long Beach State | 10:00 PM | ESPN+ | Walter Pyramid, Long Beach, CA |  |  |  |
+| 2/19/2026 | Eastern Washington | Sacramento State | 10:00 PM | ESPN+ | Hornet Pavilion, Sacramento, CA | Away 383 |  |  |
+| 2/19/2026 | Cal Poly | Hawai'i | 11:59 PM | ESPN+, Spectrum Sports Net | Stan Sheriff Center, Honolulu, HI |  |  |  |
+
+## NBA — Upcoming Week
+2026-02-13 to 2026-02-19  
+_All times ET_  
 
 ### Sunday February 15th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2/15/2026 | Team Stars | World | 5:00 PM | NBC, Peacock | Intuit Dome, Inglewood, CA |  |  |  |
-| 2/15/2026 | Team Stripes | TBD | 5:55 PM | NBC, Peacock | Intuit Dome, Inglewood, CA |  |  |  |
-| 2/15/2026 | Team Stripes | TBD | 6:25 PM | NBC, Peacock | Intuit Dome, Inglewood, CA |  |  |  |
+| 2/15/2026 | World | Team Stars | 5:00 PM | NBC, Peacock | Intuit Dome, Inglewood, CA |  |  |  |
+| 2/15/2026 | TBD | Team Stripes | 5:55 PM | NBC, Peacock | Intuit Dome, Inglewood, CA |  |  |  |
+| 2/15/2026 | TBD | Team Stripes | 6:25 PM | NBC, Peacock | Intuit Dome, Inglewood, CA |  |  |  |
 | 2/15/2026 | TBD | TBD | 7:10 PM | NBC, Peacock | Intuit Dome, Inglewood, CA |  |  |  |
+
+### Thursday February 19th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2/19/2026 | Houston Rockets | Charlotte Hornets | 7:00 PM | FanDuel SN SE, NBA League Pass, Space City Home Network | Spectrum Center, Charlotte, NC | Home 214; Away ONLINE |  |  |
+| 2/19/2026 | Brooklyn Nets | Cleveland Cavaliers | 7:00 PM | FanDuel SN OH, NBA League Pass, YES | Rocket Arena, Cleveland, OH | Home 213; Away ONLINE |  |  |
+| 2/19/2026 | Atlanta Hawks | Philadelphia 76ers | 7:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA | Home 212; Away ONLINE |  |  |
+| 2/19/2026 | **Indiana Pacers** | Washington Wizards | 7:00 PM | FanDuel SN IN, MNMT, NBA League Pass | Capital One Arena, Washington, DC | Home 215; Away ONLINE |  |  |
+| 2/19/2026 | Detroit Pistons | New York Knicks | 7:30 PM | MSG, Prime Video | Madison Square Garden, New York, NY | Home 86; Away ONLINE |  |  |
+| 2/19/2026 | Toronto Raptors | Chicago Bulls | 8:00 PM | CHSN, NBA League Pass, Sportsnet | United Center, Chicago, IL | Home 167; Away ONLINE |  |  |
+| 2/19/2026 | Phoenix Suns | San Antonio Spurs | 8:30 PM | Arizona's Family 3TV, KENS 5, NBA League Pass, Suns Live | Moody Center, Austin, TX | Home 216; Away ONLINE |  |  |
+| 2/19/2026 | Boston Celtics | Golden State Warriors | 10:00 PM | NBC Sports BA, NBC Sports BO, Prime Video | Chase Center, San Francisco, CA | Home 86; Away ONLINE |  |  |
+| 2/19/2026 | Orlando Magic | Sacramento Kings | 10:00 PM | FanDuel SN FL, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 212; Away ONLINE |  |  |
+| 2/19/2026 | Denver Nuggets | LA Clippers | 10:30 PM | Altitude Sports, FanDuel SN SoCal, NBA League Pass | Intuit Dome, Inglewood, CA | Home 213; Away ONLINE |  |  |
