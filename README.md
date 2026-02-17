@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-02-16 10:27 UTC_
+_Last updated: 2026-02-17 10:24 UTC_
 
 ## College Football — Upcoming Week
-2026-02-16 to 2026-02-22  
+2026-02-17 to 2026-02-23  
 _All times ET_  
 
 > No upcoming games.
@@ -15,29 +15,22 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-02-16 to 2026-02-22  
+2026-02-17 to 2026-02-23  
 _All times ET_  
-
-### Monday February 16th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2/16/2026 | Syracuse | Duke | 7:00 PM | ESPN | Cameron Indoor Stadium, Durham, NC | Home 84; Away 193 |  |  |
-| 2/16/2026 | Houston | Iowa State | 9:00 PM | ESPN | Hilton Coliseum, Ames, IA | Home 84; Away 198 |  |  |
 
 ### Tuesday February 17th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2/17/2026 | Michigan | **Purdue** | 6:30 PM | Peacock | Mackey Arena, West Lafayette, IN | Home 84 / 382; Away 196 / 382 |  |  |
+| 2/17/2026 | South Carolina | Florida | 7:00 PM | SEC Network | Stephen C. O'Connell Center, Gainesville, FL | Home 145 / 190; Away 385 |  |  |
 | 2/17/2026 | North Carolina | NC State | 7:00 PM | ESPN | Lenovo Center, Raleigh, NC | Home 388; Away 193 |  |  |
-| 2/17/2026 | South Carolina | Florida | 7:00 PM | SEC Network | Stephen C. O'Connell Center, Gainesville, FL | Home 190; Away 385 |  |  |
 | 2/17/2026 | Saint Louis | Rhode Island | 7:00 PM | ESPN+ | Thomas M. Ryan Center, Kingston, RI |  |  |  |
-| 2/17/2026 | Miami (OH) | Massachusetts | 7:00 PM | ESPN+ | Mullins Center, Amherst, MA |  |  |  |
 | 2/17/2026 | Louisville | SMU | 7:00 PM | ESPN2 | Moody Coliseum (Dallas), Dallas, TX | Home 389; Away 194 |  |  |
+| 2/17/2026 | Miami (OH) | Massachusetts | 7:00 PM | ESPN+ | Mullins Center, Amherst, MA |  |  |  |
 | 2/17/2026 | UCLA | Michigan State | 8:30 PM | Peacock | Breslin Center, East Lansing, MI | Home 83; Away 392 |  |  |
+| 2/17/2026 | Wisconsin | Ohio State | 8:30 PM | FS1 | Value City Arena, Columbus, OH | Home 195; Away 380 |  |  |
 | 2/17/2026 | Nebraska | Iowa | 9:00 PM | BTN | Carver-Hawkeye Arena, Iowa City, IA | Home 84; Away 196 |  |  |
-| 2/17/2026 | Georgia | Kentucky | 9:00 PM | ESPN | Rupp Arena, Lexington, KY | Home 191; Away 382 |  |  |
 | 2/17/2026 | Texas Tech | Arizona State | 11:00 PM | ESPN2 | Desert Financial Arena, Tempe, AZ | Home 84; Away 199 |  |  |
 
 ### Wednesday February 18th
@@ -45,8 +38,7 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2/18/2026 | Creighton | UConn | 7:00 PM | HBO Max, TNT | Gampel Pavilion, Storrs, CT | Home 84; Away 385 |  |  |
-| 2/18/2026 | Clemson | Wake Forest | 7:00 PM | ACC Network | LJVM Coliseum, Winston-Salem, NC | Home 371; Away 81 |  |  |
-| 2/18/2026 | Arkansas | Alabama | 7:00 PM | ESPN | Coleman Coliseum, Tuscaloosa, AL | Home 382 / 192 / 391 / 197; Away 201 |  |  |
+| 2/18/2026 | Arkansas | Alabama | 7:00 PM | ESPN | Coleman Coliseum, Tuscaloosa, AL | Home 382 / 192 / 371 / 197 / 391; Away 201 |  |  |
 | 2/18/2026 | BYU | Arizona | 9:00 PM | ESPN | McKale Memorial Center, Tucson, AZ | Home 84; Away 143 |  |  |
 | 2/18/2026 | Kansas | Oklahoma State | 9:00 PM | NBCSN, Peacock | Gallagher-Iba Arena, Stillwater, OK | Home 392; Away 85 |  |  |
 | 2/18/2026 | Virginia | Georgia Tech | 9:00 PM | ACC Network | McCamish Pavilion, Atlanta, GA | Home 371; Away 81 |  |  |
@@ -66,7 +58,7 @@ _All times ET_
 | 2/19/2026 | South Carolina Upstate | Winthrop | 6:30 PM | ESPN+ | Winthrop Coliseum, Rock Hill, SC |  |  |  |
 | 2/19/2026 | Marshall | App State | 6:30 PM | ESPN+ | Holmes Convocation Center, Boone, NC |  |  |  |
 | 2/19/2026 | Memphis | South Florida | 7:00 PM | ESPN2 | Yuengling Center, Tampa, FL |  |  |  |
-| 2/19/2026 | Alabama State | Bethune-Cookman | 7:00 PM |  | Moore Gymnasium (FL), Daytona Beach, FL | Away 382 / 384 |  |  |
+| 2/19/2026 | Alabama State | Bethune-Cookman | 7:00 PM |  | Moore Gymnasium (FL), Daytona Beach, FL | Away 382 / 384 / 387 |  |  |
 | 2/19/2026 | UNC Asheville | High Point | 7:00 PM | ESPNU | Qubein Center, High Point, NC |  |  |  |
 | 2/19/2026 | Longwood | Presbyterian | 7:00 PM | ESPN+ | Templeton Center, Clinton, SC |  |  |  |
 | 2/19/2026 | Gardner-Webb | Radford | 7:00 PM | ESPN+ | The Dedmon Center, Radford, VA |  |  |  |
@@ -88,7 +80,7 @@ _All times ET_
 | 2/19/2026 | Hampton | Hofstra | 8:00 PM | CBSSN, FloSports | David S. Mack Sports and Exhibition Complex, Hempstead, NY |  |  |  |
 | 2/19/2026 | Texas State | South Alabama | 8:00 PM | ESPN+ | Mitchell Center, Mobile, AL |  |  |  |
 | 2/19/2026 | Arkansas State | Louisiana | 8:00 PM | ESPN+ | Cajundome, Lafayette, LA |  |  |  |
-| 2/19/2026 | Georgia Southern | Georgia State | 8:00 PM | ESPN+ | GSU Convocation Center, Atlanta, GA |  |  |  |
+| 2/19/2026 | Georgia Southern | Georgia State | 8:00 PM | ESPN+ | GSU Convocation Center, Atlanta, GA | Away 382 |  |  |
 | 2/19/2026 | Central Arkansas | Stetson | 8:00 PM | ESPN+ | Edmunds Center, DeLand, FL |  |  |  |
 | 2/19/2026 | UT Martin | Little Rock | 8:00 PM | ESPN+ | Jack Stephens Center, Little Rock, AR |  |  |  |
 | 2/19/2026 | California Baptist | Utah Valley | 8:00 PM | ESPN+ | UCCU Center, Orem, UT |  |  |  |
@@ -125,22 +117,21 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2/21/2026 | Florida | Ole Miss | 12:00 PM |  | The Sandy and John Black Pavilion at Ole Miss, Oxford, MS | Home 190; Away 81 |  |  |
+| 2/21/2026 | Florida | Ole Miss | 12:00 PM | ESPN | The Sandy and John Black Pavilion at Ole Miss, Oxford, MS | Home 190; Away 380 / 81 |  |  |
 | 2/21/2026 | Creighton | St. John's | 12:00 PM | FOX | Madison Square Garden, New York, NY | Home 202 / 80; Away 383 / 80 |  |  |
-| 2/21/2026 | Florida State | Clemson | 12:00 PM | The CW Network | Littlejohn Coliseum, Clemson, SC | Home 84; Away 380 |  |  |
 | 2/21/2026 | Cincinnati | Kansas | 1:00 PM | CBS | Allen Fieldhouse, Lawrence, KS | Home 83; Away 386 |  |  |
 | 2/21/2026 | North Carolina | Syracuse | 1:00 PM | ABC | JMA Wireless Dome, Syracuse, NY | Home 387; Away 194 |  |  |
 | 2/21/2026 | Penn State | Nebraska | 2:00 PM | BTN | Pinnacle Bank Arena, Lincoln, NE | Home 84; Away 380 |  |  |
 | 2/21/2026 | Miami | Virginia | 2:00 PM |  | John Paul Jones Arena, Charlottesville, VA | Home 193 / 145; Away 392 |  |  |
-| 2/21/2026 | Tennessee | Vanderbilt | 2:00 PM |  | Memorial Gymnasium (TN), Nashville, TN | Home 190; Away 390 |  |  |
+| 2/21/2026 | Tennessee | Vanderbilt | 2:00 PM | ESPN | Memorial Gymnasium (TN), Nashville, TN | Home 190; Away 390 |  |  |
 | 2/21/2026 | Georgia Tech | Louisville | 2:15 PM | The CW Network | KFC Yum! Center, Louisville, KY | Home 85; Away 381 |  |  |
 | 2/21/2026 | Kansas State | Texas Tech | 2:30 PM | FOX | United Supermarkets Arena, Lubbock, TX | Home 199; Away 382 |  |  |
 | 2/21/2026 | Arizona | Houston | 3:00 PM | ABC | Fertitta Center, Houston, TX | Home 200; Away 81 |  |  |
-| 2/21/2026 | Missouri | Arkansas | 4:00 PM |  | Bud Walton Arena, Fayetteville, AR | Home 84; Away 389 |  |  |
+| 2/21/2026 | Missouri | Arkansas | 4:00 PM | ESPN | Bud Walton Arena, Fayetteville, AR | Home 84; Away 389 |  |  |
 | 2/21/2026 | UConn | Villanova | 5:30 PM | TNT, truTV | Xfinity Mobile Arena, Philadelphia, PA | Home 387; Away 83 |  |  |
+| 2/21/2026 | Alabama | LSU | 6:00 PM | SEC Network | Pete Maravich Assembly Center, Baton Rouge, LA | Home 190; Away 382 / 381 / 388 / 391 / 380 / 392 / 81 / 383 |  |  |
 | 2/21/2026 | Michigan | Duke | 6:30 PM | ESPN | Capital One Arena, Washington, DC | Home 84; Away 196 |  |  |
 | 2/21/2026 | **Illinois** | UCLA | 8:00 PM | FOX | Pauley Pavilion, Los Angeles, CA | Home 195; Away 197 |  |  |
-| 2/21/2026 | Kentucky | Auburn | 8:30 PM | ESPN | Neville Arena, Auburn, AL | Home 84; Away 392 |  |  |
 | 2/21/2026 | Pacific | Gonzaga | 9:00 PM | ESPN+ | McCarthey Athletic Center, Spokane, WA | Home 81 |  |  |
 | 2/21/2026 | Iowa State | BYU | 10:30 PM | ESPN | Marriott Center, Provo, UT | Home 143; Away 84 |  |  |
 
@@ -149,9 +140,17 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2/22/2026 | Ohio State | Michigan State | 1:00 PM | CBS | Breslin Center, East Lansing, MI | Home 83; Away 380 |  |  |
+| 2/22/2026 | Iowa | Wisconsin | 4:00 PM | FS1 | Kohl Center, Madison, WI | Home 145; Away 385 |  |  |
+
+### Monday February 23rd
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2/23/2026 | Louisville | North Carolina | 7:00 PM | ESPN | Dean E. Smith Center, Chapel Hill, NC | Away 194 |  |  |
+| 2/23/2026 | Houston | Kansas | 9:00 PM | ESPN | Allen Fieldhouse, Lawrence, KS | Home 83 |  |  |
 
 ## NBA — Upcoming Week
-2026-02-16 to 2026-02-22  
+2026-02-17 to 2026-02-23  
 _All times ET_  
 
 ### Thursday February 19th
@@ -209,3 +208,11 @@ _All times ET_
 | 2/22/2026 | New York Knicks | Chicago Bulls | 8:00 PM | CHSN, MSG, NBA League Pass | United Center, Chicago, IL | Home 213; Away ONLINE |  |  |
 | 2/22/2026 | Portland Trail Blazers | Phoenix Suns | 8:00 PM | Arizona's Family 3TV, BlazerVision, KUNP 16, NBA League Pass, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 215; Away ONLINE |  |  |
 | 2/22/2026 | Orlando Magic | LA Clippers | 9:00 PM | FanDuel SN FL, FanDuel SN SoCal, NBA TV | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
+
+### Monday February 23rd
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2/23/2026 | San Antonio Spurs | Detroit Pistons | 7:00 PM | FanDuel SN DET, Peacock | Little Caesars Arena, Detroit, MI | Away ONLINE |  |  |
+| 2/23/2026 | Sacramento Kings | Memphis Grizzlies | 8:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports CA | FedExForum, Memphis, TN | Home 214; Away ONLINE |  |  |
+| 2/23/2026 | Utah Jazz | Houston Rockets | 9:30 PM | Peacock, Space City Home Network | Toyota Center (Houston), Houston, TX | Away ONLINE |  |  |
