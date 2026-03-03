@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-02 10:23 UTC_
+_Last updated: 2026-03-03 10:20 UTC_
 
 ## College Football — Upcoming Week
-2026-03-02 to 2026-03-08  
+2026-03-03 to 2026-03-09  
 _All times ET_  
 
 > No upcoming games.
@@ -15,32 +15,23 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-02 to 2026-03-08  
+2026-03-03 to 2026-03-09  
 _All times ET_  
-
-### Monday March 2nd
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/2/2026 | Duke | NC State | 7:00 PM | ESPN | Lenovo Center, Raleigh, NC | Home 84; Away 81 |  |  |
-| 3/2/2026 | Iowa State | Arizona | 9:00 PM | ESPN | McKale Center at ALKEME Arena, Tucson, AZ | Home 84; Away 83 |  |  |
 
 ### Tuesday March 3rd
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3/3/2026 | Tennessee | South Carolina | 6:00 PM | SEC Network | Colonial Life Arena, Columbia, SC | Home 374; Away 190 |  |  |
-| 3/3/2026 | Alabama | Georgia | 6:30 PM | ESPNEWS | Stegeman Coliseum, Athens, GA | Home 192; Away 191 / 383 / 391 |  |  |
-| 3/3/2026 | Wake Forest | Virginia | 7:00 PM | ACC Network | John Paul Jones Arena, Charlottesville, VA | Home 81; Away 389 |  |  |
-| 3/3/2026 | Georgetown | St. John's | 7:00 PM | Peacock | Madison Square Garden, New York, NY | Home 85; Away ONLINE |  |  |
+| 3/3/2026 | Alabama | Georgia | 6:30 PM | ESPNEWS | Stegeman Coliseum, Athens, GA | Home 192; Away 191 / 387 / 390 / 382 / 383 / 143 / 391 / 380 |  |  |
 | 3/3/2026 | TCU | Texas Tech | 7:00 PM | FS1 | United Supermarkets Arena, Lubbock, TX | Home 83; Away 386 |  |  |
+| 3/3/2026 | Wake Forest | Virginia | 7:00 PM | ACC Network | John Paul Jones Arena, Charlottesville, VA | Home 81; Away 389 |  |  |
 | 3/3/2026 | Clemson | North Carolina | 7:00 PM | ESPN | Dean E. Smith Center, Chapel Hill, NC | Home 84; Away 388 |  |  |
+| 3/3/2026 | Georgetown | St. John's | 7:00 PM | Peacock | Madison Square Garden, New York, NY | Home 85; Away ONLINE |  |  |
 | 3/3/2026 | Toledo | Miami (OH) | 7:00 PM | ESPN+ | Millett Hall, Oxford, OH |  |  |  |
 | 3/3/2026 | Mississippi State | Florida | 8:00 PM | SEC Network | Stephen C. O'Connell Center, Gainesville, FL | Home 190; Away 391 |  |  |
 | 3/3/2026 | Oregon | **Illinois** | 9:00 PM | Peacock | State Farm Center, Champaign, IL | Home 85; Away 389 |  |  |
 | 3/3/2026 | Kansas | Arizona State | 9:00 PM | FS1 | Desert Financial Arena, Tempe, AZ | Home 84 / 387; Away 83 |  |  |
-| 3/3/2026 | BYU | Cincinnati | 9:00 PM | ESPN2 | Fifth Third Arena, Cincinnati, OH | Home 385; Away 143 |  |  |
-| 3/3/2026 | Syracuse | Louisville | 9:00 PM | ACC Network | KFC Yum! Center, Louisville, KY | Home 81; Away 382 |  |  |
 | 3/3/2026 | Vanderbilt | Ole Miss | 9:00 PM | SECN+ | The Sandy and John Black Pavilion at Ole Miss, Oxford, MS | Home 192; Away 191 |  |  |
 | 3/3/2026 | Nebraska | UCLA | 11:00 PM | FS1 | Pauley Pavilion, Los Angeles, CA | Home 84; Away 85 |  |  |
 
@@ -49,6 +40,7 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3/4/2026 | Texas | Arkansas | 7:00 PM | ESPN2 | Bud Walton Arena, Fayetteville, AR | Home 84; Away 191 |  |  |
+| 3/4/2026 | Miami | SMU | 7:00 PM | ACC Network | Moody Coliseum (Dallas), Dallas, TX | Home 193; Away 145 |  |  |
 | 3/4/2026 | Loyola Chicago | Saint Louis | 8:00 PM | CBSSN | Chaifetz Arena, St. Louis, MO |  |  |  |
 | 3/4/2026 | **Purdue** | Northwestern | 8:30 PM | BTN | Welsh-Ryan Arena, Evanston, IL | Home 392; Away 81 |  |  |
 | 3/4/2026 | Baylor | Houston | 9:00 PM | ESPN2 | Fertitta Center, Houston, TX | Home 84; Away 380 |  |  |
@@ -77,13 +69,13 @@ _All times ET_
 | 3/7/2026 | UConn | Marquette | 12:30 PM | FOX | Fiserv Forum, Milwaukee, WI | Home 389 / 80; Away 205 / 80 |  |  |
 | 3/7/2026 | Arizona State | Iowa State | 2:00 PM | FS1 | Hilton Coliseum, Ames, IA | Home 84; Away 392 / 380 |  |  |
 | 3/7/2026 | Kansas State | Kansas | 2:00 PM | CBS | Allen Fieldhouse, Lawrence, KS | Home 198; Away 380 |  |  |
-| 3/7/2026 | Vanderbilt | Tennessee | 2:00 PM |  | Food City Center, Knoxville, TN | Home 374; Away 190 |  |  |
 | 3/7/2026 | Louisville | Miami | 2:00 PM | ESPN | Watsco Center, Coral Gables, FL | Home 145; Away 81 |  |  |
+| 3/7/2026 | Vanderbilt | Tennessee | 2:00 PM |  | Food City Center, Knoxville, TN | Home 374; Away 190 |  |  |
 | 3/7/2026 | Florida | Kentucky | 4:00 PM | ESPN | Rupp Arena, Lexington, KY | Home 84; Away 82 |  |  |
 | 3/7/2026 | Wisconsin | **Purdue** | 4:00 PM | CBS | Mackey Arena, West Lafayette, IN | Home 145; Away 196 |  |  |
 | 3/7/2026 | Saint Louis | George Mason | 4:00 PM | USA Net | EagleBank Arena, Fairfax, VA |  |  |  |
 | 3/7/2026 | North Carolina | Duke | 6:30 PM | ESPN | Cameron Indoor Stadium, Durham, NC | Home 84; Away 82 |  |  |
-| 3/7/2026 | Auburn | Alabama | 8:30 PM | ESPN | Coleman Coliseum, Tuscaloosa, AL | Home 385 / 381 / 387 / 84 / 382 / 386 / 390; Away 381 / 382 |  |  |
+| 3/7/2026 | Auburn | Alabama | 8:30 PM | ESPN | Coleman Coliseum, Tuscaloosa, AL | Home 385 / 381 / 387 / 384 / 84 / 382 / 386 / 390; Away 381 / 382 |  |  |
 | 3/7/2026 | Texas Tech | BYU | 10:30 PM | ESPN | Marriott Center, Provo, UT | Home 143; Away 84 |  |  |
 | 3/7/2026 | Arizona | Colorado | 11:00 PM | ESPN2 | CU Events Center, Boulder, CO | Home 381 / 391; Away 198 |  |  |
 
@@ -95,18 +87,16 @@ _All times ET_
 | 3/8/2026 | Iowa | Nebraska | 5:00 PM | FOX | Pinnacle Bank Arena, Lincoln, NE | Home 85; Away 195 |  |  |
 | 3/8/2026 | Michigan State | Michigan | 5:30 PM | CBS | Crisler Center, Ann Arbor, MI | Home 81 / 381; Away 196 / 381 |  |  |
 
-## NBA — Upcoming Week
-2026-03-02 to 2026-03-08  
-_All times ET_  
-
-### Monday March 2nd
+### Monday March 9th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/2/2026 | Houston Rockets | Washington Wizards | 7:00 PM | MNMT, NBA League Pass, Space City Home Network | Capital One Arena, Washington, DC | Home 212; Away ONLINE |  |  |
-| 3/2/2026 | Boston Celtics | Milwaukee Bucks | 7:30 PM | FanDuel SN WI, NBA TV, NBC Sports BO | Fiserv Forum, Milwaukee, WI | Home 86; Away ONLINE |  |  |
-| 3/2/2026 | Denver Nuggets | Utah Jazz | 9:00 PM | Altitude Sports, Jazz+, KJZZ-TV, NBA League Pass | Delta Center, Salt Lake City, UT | Home 213; Away ONLINE |  |  |
-| 3/2/2026 | LA Clippers | Golden State Warriors | 10:00 PM | FanDuel SN SoCal, NBC Sports BA, NBCSN, Peacock | Chase Center, San Francisco, CA | Home 86 |  |  |
+| 3/9/2026 | TBD | Gonzaga | 9:00 PM | ESPN | Orleans Arena, Las Vegas, NV |  |  |  |
+| 3/9/2026 | TBD | Saint Mary's | 11:30 PM | ESPN2 | Orleans Arena, Las Vegas, NV |  |  |  |
+
+## NBA — Upcoming Week
+2026-03-03 to 2026-03-09  
+_All times ET_  
 
 ### Tuesday March 3rd
 
@@ -185,3 +175,13 @@ _All times ET_
 | 3/8/2026 | **Indiana Pacers** | Portland Trail Blazers | 9:00 PM | BlazerVision, FanDuel SN IN, KUNP 16, NBA League Pass | Moda Center, Portland, OR | Home 216; Away ONLINE |  |  |
 | 3/8/2026 | Chicago Bulls | Sacramento Kings | 9:00 PM | CHSN+, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 215; Away ONLINE |  |  |
 | 3/8/2026 | Charlotte Hornets | Phoenix Suns | 10:00 PM | Arizona's Family 3TV, FanDuel SN SE, NBCSN, Peacock, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 86; Away ONLINE |  |  |
+
+### Monday March 9th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3/9/2026 | Philadelphia 76ers | Cleveland Cavaliers | 7:00 PM | FanDuel SN OH, NBA League Pass, NBC Sports Phil | Rocket Arena, Cleveland, OH | Home 212; Away ONLINE |  |  |
+| 3/9/2026 | Memphis Grizzlies | Brooklyn Nets | 7:30 PM | FanDuel SN SE, NBA League Pass, YES | Barclays Center, Brooklyn, NY | Home 213; Away ONLINE |  |  |
+| 3/9/2026 | Denver Nuggets | Oklahoma City Thunder | 7:30 PM | Altitude Sports, FanDuel SN OK, NBCSN, Peacock | Paycom Center, Oklahoma City, OK | Home 86; Away ONLINE |  |  |
+| 3/9/2026 | Golden State Warriors | Utah Jazz | 9:00 PM | Jazz+, KJZZ-TV, NBA League Pass, NBC Sports BA | Delta Center, Salt Lake City, UT | Home 214; Away ONLINE |  |  |
+| 3/9/2026 | New York Knicks | LA Clippers | 10:00 PM | FanDuel SN SoCal, MSG, NBCSN, Peacock | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
