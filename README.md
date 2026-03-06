@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-05 10:21 UTC_
+_Last updated: 2026-03-06 10:17 UTC_
 
 ## College Football — Upcoming Week
-2026-03-05 to 2026-03-11  
+2026-03-06 to 2026-03-12  
 _All times ET_  
 
 > No upcoming games.
@@ -15,15 +15,8 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-05 to 2026-03-11  
+2026-03-06 to 2026-03-12  
 _All times ET_  
-
-### Thursday March 5th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/5/2026 | Michigan | Iowa | 8:00 PM | Peacock | Carver-Hawkeye Arena, Iowa City, IA | Home 381; Away 85 |  |  |
-| 3/5/2026 | Rutgers | Michigan State | 8:00 PM | FS1 | Breslin Center, East Lansing, MI | Home 81; Away 382 |  |  |
 
 ### Friday March 6th
 
@@ -64,8 +57,8 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/9/2026 | TBD | Gonzaga | 9:00 PM | ESPN | Orleans Arena, Las Vegas, NV |  |  |  |
-| 3/9/2026 | TBD | Saint Mary's | 11:30 PM | ESPN2 | Orleans Arena, Las Vegas, NV |  |  |  |
+| 3/9/2026 | TBD | Gonzaga | 9:00 PM | ESPN | Orleans Arena, Las Vegas, NV | Home 204 |  |  |
+| 3/9/2026 | TBD | Saint Mary's | 11:30 PM | ESPN2 | Orleans Arena, Las Vegas, NV | Home 204 |  |  |
 
 ### Tuesday March 10th
 
@@ -139,23 +132,58 @@ _All times ET_
 | 3/11/2026 | TBD | TBD | 11:30 PM | ESPN+ | Lee's Family Forum, Henderson, NV |  |  |  |
 | 3/11/2026 | TBD | TBD | 11:30 PM | ESPN2 | Idaho Central Arena, Boise, ID |  |  |  |
 
-## NBA — Upcoming Week
-2026-03-05 to 2026-03-11  
-_All times ET_  
-
-### Thursday March 5th
+### Thursday March 12th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/5/2026 | Dallas Mavericks | Orlando Magic | 7:00 PM | FanDuel SN FL, KFAA-TV, Mavs.com, NBA League Pass | Kia Center, Orlando, FL | Home 212; Away ONLINE |  |  |
-| 3/5/2026 | Utah Jazz | Washington Wizards | 7:00 PM | Jazz+, KJZZ-TV, MNMT, NBA League Pass | Capital One Arena, Washington, DC | Home 213; Away ONLINE |  |  |
-| 3/5/2026 | Brooklyn Nets | Miami Heat | 7:30 PM | FanDuel SN Sun, NBA League Pass, YES | Kaseya Center, Miami, FL | Home 214; Away ONLINE |  |  |
-| 3/5/2026 | Golden State Warriors | Houston Rockets | 7:30 PM | NBC Sports BA, Prime Video | Toyota Center (Houston), Houston, TX | Home 86; Away ONLINE |  |  |
-| 3/5/2026 | Toronto Raptors | Minnesota Timberwolves | 8:00 PM | FanDuel SN North, NBA League Pass, Sportsnet | Target Center, Minneapolis, MN | Home 167; Away ONLINE |  |  |
-| 3/5/2026 | Detroit Pistons | San Antonio Spurs | 8:00 PM | FanDuel SN DET, FanDuel SN SW, NBA League Pass | Frost Bank Center, San Antonio, TX | Home 215; Away ONLINE |  |  |
-| 3/5/2026 | Chicago Bulls | Phoenix Suns | 9:00 PM | Arizona's Family 3TV, CHSN, NBA League Pass, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 216; Away ONLINE |  |  |
-| 3/5/2026 | Los Angeles Lakers | Denver Nuggets | 10:00 PM | Prime Video, Spectrum Sports Net, Spectrum Sports Net + | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
-| 3/5/2026 | New Orleans Pelicans | Sacramento Kings | 10:00 PM | GCSEN, NBA League Pass, NBC Sports CA, Pelicans.com | Golden 1 Center, Sacramento, CA | Home 212; Away ONLINE |  |  |
+| 3/12/2026 | TBD | TBD | 11:00 AM | ESPN+ | Rocket Arena, Cleveland, OH |  |  |  |
+| 3/12/2026 | TBD | TBD | 11:30 AM | USA Net | PPG Paints Arena, Pittsburgh, PA |  |  |  |
+| 3/12/2026 | TBD | TBD | 12:00 PM | BTN | United Center, Chicago, IL |  |  |  |
+| 3/12/2026 | TBD | TBD | 12:00 PM | Peacock | Madison Square Garden, New York, NY |  |  |  |
+| 3/12/2026 | TBD | TBD | 12:00 PM |  | Spectrum Center, Charlotte, NC |  |  |  |
+| 3/12/2026 | TBD | TBD | 12:30 PM | SEC Network | Bridgestone Arena, Nashville, TN |  |  |  |
+| 3/12/2026 | TBD | TBD | 12:30 PM |  | T-Mobile Center, Kansas City, MO |  |  |  |
+| 3/12/2026 | TBD | TBD | 1:30 PM | ESPN+ | Rocket Arena, Cleveland, OH |  |  |  |
+| 3/12/2026 | TBD | TBD | 2:00 PM | ESPN+ | Gateway Center, College Park, GA |  |  |  |
+| 3/12/2026 | TBD | TBD | 2:00 PM | USA Net | PPG Paints Arena, Pittsburgh, PA |  |  |  |
+| 3/12/2026 | TBD | TBD | 2:30 PM | BTN | United Center, Chicago, IL |  |  |  |
+| 3/12/2026 | TBD | TBD | 2:30 PM | Peacock | Madison Square Garden, New York, NY |  |  |  |
+| 3/12/2026 | TBD | TBD | 2:30 PM |  | Spectrum Center, Charlotte, NC |  |  |  |
+| 3/12/2026 | TBD | TBD | 3:00 PM | SEC Network | Bridgestone Arena, Nashville, TN |  |  |  |
+| 3/12/2026 | TBD | TBD | 3:00 PM | CBSSN | Thomas & Mack Center, Las Vegas, NV |  |  |  |
+| 3/12/2026 | TBD | TBD | 3:00 PM |  | T-Mobile Center, Kansas City, MO |  |  |  |
+| 3/12/2026 | TBD | TBD | 4:00 PM | ESPN+ | Rocket Arena, Cleveland, OH |  |  |  |
+| 3/12/2026 | TBD | TBD | 5:00 PM | USA Net | PPG Paints Arena, Pittsburgh, PA |  |  |  |
+| 3/12/2026 | TBD | TBD | 5:30 PM | CBSSN | Thomas & Mack Center, Las Vegas, NV |  |  |  |
+| 3/12/2026 | TBD | TBD | 6:00 PM | ESPN+ | Norfolk Scope Arena, Norfolk, VA |  |  |  |
+| 3/12/2026 | TBD | TBD | 6:30 PM | ESPN+ | Rocket Arena, Cleveland, OH |  |  |  |
+| 3/12/2026 | TBD | TBD | 6:30 PM | ESPN+ | Propst Arena, Huntsville, AL |  |  |  |
+| 3/12/2026 | TBD | TBD | 6:30 PM | BTN | United Center, Chicago, IL |  |  |  |
+| 3/12/2026 | TBD | TBD | 7:00 PM | SEC Network | Bridgestone Arena, Nashville, TN |  |  |  |
+| 3/12/2026 | TBD | TBD | 7:00 PM | FS1 | Madison Square Garden, New York, NY |  |  |  |
+| 3/12/2026 | TBD | TBD | 7:00 PM |  | T-Mobile Center, Kansas City, MO |  |  |  |
+| 3/12/2026 | TBD | TBD | 7:00 PM | ESPNU | Legacy Arena at BJCC, Birmingham, AL |  |  |  |
+| 3/12/2026 | TBD | TBD | 7:00 PM |  | Spectrum Center, Charlotte, NC |  |  |  |
+| 3/12/2026 | TBD | TBD | 7:30 PM | USA Net | PPG Paints Arena, Pittsburgh, PA |  |  |  |
+| 3/12/2026 | TBD | TBD | 8:00 PM | ESPN+ | Norfolk Scope Arena, Norfolk, VA |  |  |  |
+| 3/12/2026 | TBD | TBD | 8:30 PM | ESPN+ | Gateway Center, College Park, GA |  |  |  |
+| 3/12/2026 | TBD | TBD | 9:00 PM | ESPN+ | Orleans Arena, Las Vegas, NV |  |  |  |
+| 3/12/2026 | TBD | TBD | 9:00 PM | CBSSN | Thomas & Mack Center, Las Vegas, NV |  |  |  |
+| 3/12/2026 | TBD | TBD | 9:00 PM | ESPN+ | Propst Arena, Huntsville, AL |  |  |  |
+| 3/12/2026 | TBD | TBD | 9:00 PM | ESPN+ | Lee's Family Forum, Henderson, NV |  |  |  |
+| 3/12/2026 | TBD | TBD | 9:00 PM | BTN | United Center, Chicago, IL |  |  |  |
+| 3/12/2026 | TBD | TBD | 9:30 PM | SEC Network | Bridgestone Arena, Nashville, TN |  |  |  |
+| 3/12/2026 | TBD | TBD | 9:30 PM | FS1 | Madison Square Garden, New York, NY |  |  |  |
+| 3/12/2026 | TBD | TBD | 9:30 PM |  | T-Mobile Center, Kansas City, MO |  |  |  |
+| 3/12/2026 | TBD | TBD | 9:30 PM | ESPNU | Legacy Arena at BJCC, Birmingham, AL |  |  |  |
+| 3/12/2026 | TBD | TBD | 9:30 PM |  | Spectrum Center, Charlotte, NC |  |  |  |
+| 3/12/2026 | TBD | TBD | 11:30 PM | ESPN+ | Orleans Arena, Las Vegas, NV |  |  |  |
+| 3/12/2026 | TBD | TBD | 11:30 PM | CBSSN | Thomas & Mack Center, Las Vegas, NV |  |  |  |
+| 3/12/2026 | TBD | TBD | 11:30 PM | ESPN+ | Lee's Family Forum, Henderson, NV |  |  |  |
+
+## NBA — Upcoming Week
+2026-03-06 to 2026-03-12  
+_All times ET_  
 
 ### Friday March 6th
 
@@ -209,25 +237,39 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/10/2026 | Memphis Grizzlies | Philadelphia 76ers | 7:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA | Away ONLINE |  |  |
+| 3/10/2026 | Memphis Grizzlies | Philadelphia 76ers | 7:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA | Home 212; Away ONLINE |  |  |
 | 3/10/2026 | Detroit Pistons | Brooklyn Nets | 7:30 PM | FanDuel SN DET Ext, NBA League Pass, YES | Barclays Center, Brooklyn, NY | Home 213; Away ONLINE |  |  |
-| 3/10/2026 | Washington Wizards | Miami Heat | 7:30 PM | FanDuel SN Sun, MNMT, NBA League Pass | Kaseya Center, Miami, FL | Home 214 / 86; Away ONLINE |  |  |
-| 3/10/2026 | Dallas Mavericks | Atlanta Hawks | 7:30 PM | FanDuel SN SE, KFAA-TV, Mavs.com, NBA League Pass | State Farm Arena, Atlanta, GA | Home 86; Away ONLINE |  |  |
-| 3/10/2026 | Toronto Raptors | Houston Rockets | 8:00 PM | NBA League Pass, Space City Home Network, TSN | Toyota Center (Houston), Houston, TX | Home 86 / 213; Away ONLINE |  |  |
-| 3/10/2026 | Phoenix Suns | Milwaukee Bucks | 8:00 PM | Arizona's Family 3TV, FanDuel SN WI, NBA League Pass, Suns Live | Fiserv Forum, Milwaukee, WI | Home 214 / 213; Away ONLINE |  |  |
-| 3/10/2026 | Boston Celtics | San Antonio Spurs | 8:00 PM | FanDuel SN SW, NBC, NBC Sports BO, Peacock | Frost Bank Center, San Antonio, TX | Home 215 / 86 / 214; Away ONLINE |  |  |
-| 3/10/2026 | Chicago Bulls | Golden State Warriors | 10:00 PM | CHSN, NBA League Pass, NBC Sports BA | Chase Center, San Francisco, CA | Away ONLINE |  |  |
+| 3/10/2026 | Washington Wizards | Miami Heat | 7:30 PM | FanDuel SN Sun, MNMT, NBA League Pass | Kaseya Center, Miami, FL | Home 145; Away ONLINE |  |  |
+| 3/10/2026 | Dallas Mavericks | Atlanta Hawks | 7:30 PM | FanDuel SN SE, KFAA-TV, Mavs.com, NBA League Pass | State Farm Arena, Atlanta, GA | Home 215; Away ONLINE |  |  |
+| 3/10/2026 | Toronto Raptors | Houston Rockets | 8:00 PM | NBA League Pass, Space City Home Network, TSN | Toyota Center (Houston), Houston, TX | Home 167; Away ONLINE |  |  |
+| 3/10/2026 | Phoenix Suns | Milwaukee Bucks | 8:00 PM | Arizona's Family 3TV, FanDuel SN WI, NBA League Pass, Suns Live | Fiserv Forum, Milwaukee, WI | Home 214; Away ONLINE |  |  |
+| 3/10/2026 | Boston Celtics | San Antonio Spurs | 8:00 PM | FanDuel SN SW, NBC, NBC Sports BO, Peacock | Frost Bank Center, San Antonio, TX | Home 86; Away ONLINE |  |  |
+| 3/10/2026 | Chicago Bulls | Golden State Warriors | 10:00 PM | CHSN, NBA League Pass, NBC Sports BA | Chase Center, San Francisco, CA | Home 212; Away ONLINE |  |  |
 | 3/10/2026 | Charlotte Hornets | Portland Trail Blazers | 10:00 PM | BlazerVision, FanDuel SN SE, KUNP 16, NBA League Pass | Moda Center, Portland, OR | Home 216; Away ONLINE |  |  |
-| 3/10/2026 | **Indiana Pacers** | Sacramento Kings | 10:00 PM | FanDuel SN IN, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 212 / 215; Away ONLINE |  |  |
-| 3/10/2026 | Minnesota Timberwolves | Los Angeles Lakers | 11:00 PM | NBC, Peacock, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 212 / 86 / 80; Away ONLINE |  |  |
+| 3/10/2026 | **Indiana Pacers** | Sacramento Kings | 10:00 PM | FanDuel SN IN, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 213; Away ONLINE |  |  |
+| 3/10/2026 | Minnesota Timberwolves | Los Angeles Lakers | 11:00 PM | NBC, Peacock, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 86; Away ONLINE |  |  |
 
 ### Wednesday March 11th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/11/2026 | Cleveland Cavaliers | Orlando Magic | 7:30 PM | ESPN, FanDuel SN FL, FanDuel SN OH | Kia Center, Orlando, FL | Home 212 |  |  |
-| 3/11/2026 | Toronto Raptors | New Orleans Pelicans | 8:00 PM | GCSEN, NBA League Pass, Pelicans.com, Sportsnet | Smoothie King Center, New Orleans, LA | Home 212; Away ONLINE |  |  |
-| 3/11/2026 | New York Knicks | Utah Jazz | 9:00 PM | Jazz+, KJZZ-TV, MSG, NBA League Pass | Delta Center, Salt Lake City, UT | Home 214; Away 80 |  |  |
-| 3/11/2026 | Houston Rockets | Denver Nuggets | 10:00 PM | Altitude Sports, ESPN, Space City Home Network | Ball Arena, Denver, CO | Home 86 / 215; Away ONLINE |  |  |
-| 3/11/2026 | Charlotte Hornets | Sacramento Kings | 10:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 212 / 215; Away ONLINE |  |  |
+| 3/11/2026 | Cleveland Cavaliers | Orlando Magic | 7:30 PM | ESPN, FanDuel SN FL, FanDuel SN OH | Kia Center, Orlando, FL | Home 86; Away ONLINE |  |  |
+| 3/11/2026 | Toronto Raptors | New Orleans Pelicans | 8:00 PM | GCSEN, NBA League Pass, Pelicans.com, Sportsnet | Smoothie King Center, New Orleans, LA | Home 167; Away ONLINE |  |  |
+| 3/11/2026 | New York Knicks | Utah Jazz | 9:00 PM | Jazz+, KJZZ-TV, MSG, NBA League Pass | Delta Center, Salt Lake City, UT | Home 212; Away ONLINE |  |  |
+| 3/11/2026 | Houston Rockets | Denver Nuggets | 10:00 PM | Altitude Sports, ESPN, Space City Home Network | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
+| 3/11/2026 | Charlotte Hornets | Sacramento Kings | 10:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 213; Away ONLINE |  |  |
 | 3/11/2026 | Minnesota Timberwolves | LA Clippers | 10:30 PM | FanDuel SN North, FanDuel SN SoCal, NBA League Pass | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
+
+### Thursday March 12th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3/12/2026 | Philadelphia 76ers | Detroit Pistons | 7:00 PM | Prime Video | Little Caesars Arena, Detroit, MI | Home 86; Away ONLINE |  |  |
+| 3/12/2026 | Phoenix Suns | **Indiana Pacers** | 7:00 PM | Arizona's Family 3TV, FanDuel SN IN, NBA League Pass, Suns Live | Gainbridge Fieldhouse, Indianapolis, IN | Home 212; Away ONLINE |  |  |
+| 3/12/2026 | Washington Wizards | Orlando Magic | 7:00 PM | FanDuel SN FL, MNMT, NBA League Pass | Kia Center, Orlando, FL | Home 213; Away ONLINE |  |  |
+| 3/12/2026 | Brooklyn Nets | Atlanta Hawks | 7:30 PM | FanDuel SN SE, NBA League Pass, YES | State Farm Arena, Atlanta, GA | Home 214; Away ONLINE |  |  |
+| 3/12/2026 | Milwaukee Bucks | Miami Heat | 7:30 PM | FanDuel SN Sun, FanDuel SN WI, NBA League Pass | Kaseya Center, Miami, FL | Home 145; Away ONLINE |  |  |
+| 3/12/2026 | Dallas Mavericks | Memphis Grizzlies | 8:00 PM | FanDuel SN SE, KFAA-TV, Mavs.com, NBA League Pass | FedExForum, Memphis, TN | Home 215; Away ONLINE |  |  |
+| 3/12/2026 | Denver Nuggets | San Antonio Spurs | 9:00 PM | Altitude Sports, FanDuel SN SW, NBA League Pass | Frost Bank Center, San Antonio, TX | Home 216; Away ONLINE |  |  |
+| 3/12/2026 | Boston Celtics | Oklahoma City Thunder | 9:30 PM | FanDuel SN OK, NBC Sports BO, Prime Video | Paycom Center, Oklahoma City, OK | Home 86; Away ONLINE |  |  |
+| 3/12/2026 | Chicago Bulls | Los Angeles Lakers | 10:30 PM | CHSN+, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 212; Away ONLINE |  |  |
