@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-09 10:24 UTC_
+_Last updated: 2026-03-10 10:20 UTC_
 
 ## College Football — Upcoming Week
-2026-03-09 to 2026-03-15  
+2026-03-10 to 2026-03-16  
 _All times ET_  
 
 > No upcoming games.
@@ -15,132 +15,92 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-09 to 2026-03-15  
+2026-03-10 to 2026-03-16  
 _All times ET_  
-
-### Monday March 9th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/9/2026 | Oregon State | Gonzaga | 9:00 PM | ESPN | Orleans Arena, Las Vegas, NV | Home 204 |  |  |
-| 3/9/2026 | Santa Clara | Saint Mary's | 11:30 PM | ESPN2 | Orleans Arena, Las Vegas, NV | Home 204 |  |  |
 
 ### Tuesday March 10th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/10/2026 | Baylor | Arizona State | 12:30 PM | ESPN+ | T-Mobile Center, Kansas City, MO |  |  |  |
-| 3/10/2026 | TBD | Prairie View A&M | 2:00 PM | ESPN+ | Gateway Center, College Park, GA |  |  |  |
-| 3/10/2026 | Pittsburgh | Stanford | 2:00 PM | ACC Network | Spectrum Center, Charlotte, NC |  |  |  |
-| 3/10/2026 | Utah | Cincinnati | 3:00 PM | ESPN+ | T-Mobile Center, Kansas City, MO |  |  |  |
-| 3/10/2026 | Syracuse | SMU | 4:30 PM | ACC Network | Spectrum Center, Charlotte, NC |  |  |  |
-| 3/10/2026 | Maryland | Oregon | 5:00 PM | Peacock | United Center, Chicago, IL |  |  |  |
-| 3/10/2026 | UMass Lowell | UMBC | 6:00 PM | ESPN+ | Chesapeake Employers Insurance Arena, Baltimore, MD |  |  |  |
-| 3/10/2026 | Missouri State | Florida International | 6:30 PM | ESPN+ | Propst Arena, Huntsville, AL |  |  |  |
-| 3/10/2026 | TBD | TBD | 7:00 PM | CBSSN | CareFirst Arena, Washington, DC |  |  |  |
-| 3/10/2026 | TBD | Stephen F. Austin | 7:00 PM | ESPNU | Townsley Law Arena, Lake Charles, LA |  |  |  |
-| 3/10/2026 | Mercyhurst | Long Island University | 7:00 PM | ESPN2 | Steinberg Wellness Center, Brooklyn, NY |  |  |  |
-| 3/10/2026 | TBD | TBD | 7:00 PM | ESPN | Corteva Coliseum, Indianapolis, IN |  |  |  |
-| 3/10/2026 | Kansas State | BYU | 7:00 PM | ESPN+ | T-Mobile Center, Kansas City, MO |  |  |  |
-| 3/10/2026 | NJIT | Vermont | 7:00 PM | ESPN+ | Patrick Gymnasium, Burlington, VT |  |  |  |
-| 3/10/2026 | Wake Forest | Virginia Tech | 7:00 PM | ACC Network | Spectrum Center, Charlotte, NC |  |  |  |
-| 3/10/2026 | Penn State | Northwestern | 7:30 PM | Peacock | United Center, Chicago, IL |  |  |  |
-| 3/10/2026 | TBD | Jackson State | 8:30 PM | ESPN+ | Gateway Center, College Park, GA |  |  |  |
-| 3/10/2026 | TBD | TBD | 9:00 PM | ESPN | Orleans Arena, Las Vegas, NV |  |  |  |
-| 3/10/2026 | Siena | Merrimack | 9:00 PM | ESPN2 | Jim Whelan Boardwalk Hall, Atlantic City, NJ |  |  |  |
-| 3/10/2026 | New Mexico State | Jacksonville State | 9:00 PM | ESPN+ | Propst Arena, Huntsville, AL |  |  |  |
-| 3/10/2026 | TBD | Portland State | 9:00 PM | ESPNU | Idaho Central Arena, Boise, ID |  |  |  |
-| 3/10/2026 | TBD | McNeese | 9:30 PM | ESPN+ | Townsley Law Arena, Lake Charles, LA |  |  |  |
-| 3/10/2026 | Oklahoma State | Colorado | 9:30 PM | ESPN+ | T-Mobile Center, Kansas City, MO |  |  |  |
-| 3/10/2026 | Idaho | TBD | 11:30 PM | ESPN2 | Idaho Central Arena, Boise, ID |  |  |  |
+| 3/10/2026 | Santa Clara | Gonzaga | 9:00 PM | ESPN | Orleans Arena, Las Vegas, NV |  |  |  |
 
 ### Wednesday March 11th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/11/2026 | TBD | Iowa State | 12:30 PM |  | T-Mobile Center, Kansas City, MO |  |  |  |
+| 3/11/2026 | TBD | Iowa State | 12:30 PM |  | T-Mobile Center, Kansas City, MO | Home 84 / 198 / 382; Away 84 / 81 |  |  |
+| 3/11/2026 | TBD | Louisville | 2:30 PM | ESPN | Spectrum Center, Charlotte, NC | Home 81; Away 84 / 81 |  |  |
 
 ### Thursday March 12th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/12/2026 | Massachusetts | Miami (OH) | 11:00 AM | ESPN+ | Rocket Arena, Cleveland, OH |  |  |  |
-| 3/12/2026 | TBD | Virginia | 12:00 PM |  | Spectrum Center, Charlotte, NC |  |  |  |
-| 3/12/2026 | TBD | St. John's | 12:00 PM | Peacock | Madison Square Garden, New York, NY |  |  |  |
-| 3/12/2026 | TBD | Texas Tech | 12:30 PM |  | T-Mobile Center, Kansas City, MO |  |  |  |
-| 3/12/2026 | TBD | Miami | 2:30 PM |  | Spectrum Center, Charlotte, NC |  |  |  |
-| 3/12/2026 | TBD | Arizona | 3:00 PM |  | T-Mobile Center, Kansas City, MO |  |  |  |
-| 3/12/2026 | TBD | Tennessee | 3:00 PM | SEC Network | Bridgestone Arena, Nashville, TN | Home 81 |  |  |
-| 3/12/2026 | TBD | **Purdue** | 6:30 PM | BTN | United Center, Chicago, IL |  |  |  |
-| 3/12/2026 | TBD | Duke | 7:00 PM |  | Spectrum Center, Charlotte, NC |  |  |  |
-| 3/12/2026 | TBD | UConn | 7:00 PM | FS1 | Madison Square Garden, New York, NY |  |  |  |
-| 3/12/2026 | TBD | Houston | 7:00 PM |  | T-Mobile Center, Kansas City, MO |  |  |  |
-| 3/12/2026 | TBD | Kansas | 9:30 PM |  | T-Mobile Center, Kansas City, MO |  |  |  |
-| 3/12/2026 | TBD | North Carolina | 9:30 PM |  | Spectrum Center, Charlotte, NC |  |  |  |
+| 3/12/2026 | Massachusetts | Miami (OH) | 11:00 AM | ESPN+ | Rocket Arena, Cleveland, OH | Home 81 |  |  |
+| 3/12/2026 | TBD | Virginia | 12:00 PM |  | Spectrum Center, Charlotte, NC | Home 81; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | St. John's | 12:00 PM | Peacock | Madison Square Garden, New York, NY | Home 204; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | Texas Tech | 12:30 PM |  | T-Mobile Center, Kansas City, MO | Home 198; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | Wisconsin | 2:30 PM | BTN | United Center, Chicago, IL | Home 84; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | Arizona | 3:00 PM |  | T-Mobile Center, Kansas City, MO | Home 198; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | Tennessee | 3:00 PM | SEC Network | Bridgestone Arena, Nashville, TN | Home 190; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | **Purdue** | 6:30 PM | BTN | United Center, Chicago, IL | Home 84; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | Duke | 7:00 PM |  | Spectrum Center, Charlotte, NC | Home 80; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | Houston | 7:00 PM |  | T-Mobile Center, Kansas City, MO | Home 198; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | UConn | 7:00 PM | FS1 | Madison Square Garden, New York, NY | Home 204; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | Kansas | 9:30 PM |  | T-Mobile Center, Kansas City, MO | Home 198; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
+| 3/12/2026 | TBD | North Carolina | 9:30 PM |  | Spectrum Center, Charlotte, NC | Home 80 / 381; Away 84 / 81 / 190 / 382 / 381 / 80 / 380 |  |  |
 
 ### Friday March 13th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/13/2026 | TBD | Saint Louis | 11:30 AM | USA Net | PPG Paints Arena, Pittsburgh, PA |  |  |  |
-| 3/13/2026 | TBD | Michigan | 12:00 PM | BTN | United Center, Chicago, IL |  |  |  |
-| 3/13/2026 | TBD | Florida | 1:00 PM | ESPN | Bridgestone Arena, Nashville, TN |  |  |  |
-| 3/13/2026 | TBD | **Illinois** | 2:30 PM | BTN | United Center, Chicago, IL |  |  |  |
-| 3/13/2026 | TBD | Vanderbilt | 3:30 PM | ESPN | Bridgestone Arena, Nashville, TN |  |  |  |
-| 3/13/2026 | TBD | Nebraska | 6:30 PM | BTN | United Center, Chicago, IL |  |  |  |
-| 3/13/2026 | TBD | Alabama | 7:00 PM | SEC Network | Bridgestone Arena, Nashville, TN | Home ONLINE |  |  |
-| 3/13/2026 | TBD | Michigan State | 9:00 PM | BTN | United Center, Chicago, IL |  |  |  |
-| 3/13/2026 | TBD | Arkansas | 9:30 PM | SEC Network | Bridgestone Arena, Nashville, TN |  |  |  |
+| 3/13/2026 | TBD | Michigan | 12:00 PM | BTN | United Center, Chicago, IL | Home 84; Away 84 / 190 / 380 / 383 |  |  |
+| 3/13/2026 | TBD | Florida | 1:00 PM | ESPN | Bridgestone Arena, Nashville, TN | Home 190; Away 84 / 190 / 380 / 383 |  |  |
+| 3/13/2026 | TBD | **Illinois** | 2:30 PM | BTN | United Center, Chicago, IL | Home 84; Away 84 / 190 / 380 / 383 |  |  |
+| 3/13/2026 | TBD | Vanderbilt | 3:30 PM | ESPN | Bridgestone Arena, Nashville, TN | Home 190; Away 84 / 190 / 380 / 383 |  |  |
+| 3/13/2026 | TBD | Nebraska | 6:30 PM | BTN | United Center, Chicago, IL | Home 84; Away 84 / 190 / 380 / 383 |  |  |
+| 3/13/2026 | TBD | Alabama | 7:00 PM | SEC Network | Bridgestone Arena, Nashville, TN | Home 381 / 190 / 383 / 380; Away 84 / 190 / 380 / 383 |  |  |
+| 3/13/2026 | TBD | Michigan State | 9:00 PM | BTN | United Center, Chicago, IL | Home 84; Away 84 / 190 / 380 / 383 |  |  |
+| 3/13/2026 | TBD | Arkansas | 9:30 PM | SEC Network | Bridgestone Arena, Nashville, TN | Home 190; Away 84 / 190 / 380 / 383 |  |  |
 
 ### Saturday March 14th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3/14/2026 | Cornell | Yale | 11:00 AM | ESPNU | Newman Arena, Ithaca, NY |  |  |  |
-| 3/14/2026 | TBD | TBD | 11:00 AM | ESPN2 |  |  |  |  |
-| 3/14/2026 | TBD | TBD | 1:00 PM | ESPN | Bridgestone Arena, Nashville, TN |  |  |  |
-| 3/14/2026 | TBD | TBD | 1:00 PM | ESPN2 | Norfolk Scope Arena, Norfolk, VA |  |  |  |
-| 3/14/2026 | TBD | TBD | 1:00 PM | CBS | United Center, Chicago, IL |  |  |  |
-| 3/14/2026 | TBD | TBD | 1:00 PM | CBSSN | PPG Paints Arena, Pittsburgh, PA |  |  |  |
+| 3/14/2026 | TBD | TBD | 11:00 AM | ESPN2 |  | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 1:00 PM | ESPN | Bridgestone Arena, Nashville, TN | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 1:00 PM | ESPN2 | Norfolk Scope Arena, Norfolk, VA | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 1:00 PM | CBS | United Center, Chicago, IL | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 1:00 PM | CBSSN | PPG Paints Arena, Pittsburgh, PA | Home 85 / 204; Away 381 |  |  |
 | 3/14/2026 | Pennsylvania | Harvard | 2:00 PM | ESPNEWS | Newman Arena, Ithaca, NY |  |  |  |
-| 3/14/2026 | TBD | South Florida | 3:00 PM | ESPN2 | Legacy Arena at BJCC, Birmingham, AL |  |  |  |
-| 3/14/2026 | TBD | TBD | 3:30 PM | ESPN | Bridgestone Arena, Nashville, TN |  |  |  |
-| 3/14/2026 | TBD | TBD | 3:30 PM | CBS | United Center, Chicago, IL |  |  |  |
-| 3/14/2026 | TBD | TBD | 3:30 PM | CBSSN | PPG Paints Arena, Pittsburgh, PA |  |  |  |
-| 3/14/2026 | TBD | Wichita State | 5:30 PM | ESPN2 | Legacy Arena at BJCC, Birmingham, AL |  |  |  |
-| 3/14/2026 | TBD | TBD | 6:00 PM | CBS | Thomas & Mack Center, Las Vegas, NV |  |  |  |
-| 3/14/2026 | TBD | TBD | 6:00 PM | ESPN | T-Mobile Center, Kansas City, MO |  |  |  |
-| 3/14/2026 | TBD | TBD | 6:30 PM | FOX | Madison Square Garden, New York, NY |  |  |  |
-| 3/14/2026 | TBD | TBD | 7:30 PM | ESPNU | Gateway Center, College Park, GA |  |  |  |
-| 3/14/2026 | TBD | TBD | 8:00 PM | ESPN2 | Rocket Arena, Cleveland, OH |  |  |  |
-| 3/14/2026 | TBD | TBD | 8:30 PM | CBSSN | Propst Arena, Huntsville, AL |  |  |  |
-| 3/14/2026 | TBD | TBD | 8:30 PM | ESPN | Spectrum Center, Charlotte, NC |  |  |  |
-| 3/14/2026 | TBD | TBD | 10:00 PM | ESPN2 | Lee's Family Forum, Henderson, NV |  |  |  |
-| 3/14/2026 | TBD | TBD | 11:59 PM | ESPN2 | Orleans Arena, Las Vegas, NV |  |  |  |
+| 3/14/2026 | TBD | South Florida | 3:00 PM | ESPN2 | Legacy Arena at BJCC, Birmingham, AL | Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 3:30 PM | ESPN | Bridgestone Arena, Nashville, TN | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 3:30 PM | CBS | United Center, Chicago, IL | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 3:30 PM | CBSSN | PPG Paints Arena, Pittsburgh, PA | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | Wichita State | 5:30 PM | ESPN2 | Legacy Arena at BJCC, Birmingham, AL | Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 6:00 PM | CBS | Thomas & Mack Center, Las Vegas, NV | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 6:00 PM | ESPN | T-Mobile Center, Kansas City, MO | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 6:30 PM | FOX | Madison Square Garden, New York, NY | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 7:30 PM | ESPNU | Gateway Center, College Park, GA | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 8:00 PM | ESPN2 | Rocket Arena, Cleveland, OH | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 8:30 PM | CBSSN | Propst Arena, Huntsville, AL | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 8:30 PM | ESPN | Spectrum Center, Charlotte, NC | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 10:00 PM | ESPN2 | Lee's Family Forum, Henderson, NV | Home 85 / 204; Away 381 |  |  |
+| 3/14/2026 | TBD | TBD | 11:59 PM | ESPN2 | Orleans Arena, Las Vegas, NV | Home 85 / 204; Away 381 |  |  |
 
 ### Sunday March 15th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/15/2026 | TBD | TBD | 12:00 PM | ESPN2 | Newman Arena, Ithaca, NY |  |  |  |
-| 3/15/2026 | TBD | TBD | 1:00 PM | ESPN | Bridgestone Arena, Nashville, TN |  |  |  |
-| 3/15/2026 | TBD | TBD | 1:00 PM | CBS | PPG Paints Arena, Pittsburgh, PA |  |  |  |
-| 3/15/2026 | TBD | TBD | 3:15 PM | ESPN | Legacy Arena at BJCC, Birmingham, AL |  |  |  |
-| 3/15/2026 | TBD | TBD | 3:30 PM | CBS | United Center, Chicago, IL |  |  |  |
+| 3/15/2026 | TBD | TBD | 12:00 PM | ESPN2 | Newman Arena, Ithaca, NY | Home 85 / 204; Away 85 / 204 / 84 / 81 / 190 / 382 / 381 / 80 / 380 / 383 |  |  |
+| 3/15/2026 | TBD | TBD | 1:00 PM | ESPN | Bridgestone Arena, Nashville, TN | Home 85 / 204; Away 85 / 204 / 84 / 81 / 190 / 382 / 381 / 80 / 380 / 383 |  |  |
+| 3/15/2026 | TBD | TBD | 1:00 PM | CBS | PPG Paints Arena, Pittsburgh, PA | Home 85 / 204; Away 85 / 204 / 84 / 81 / 190 / 382 / 381 / 80 / 380 / 383 |  |  |
+| 3/15/2026 | TBD | TBD | 3:15 PM | ESPN | Legacy Arena at BJCC, Birmingham, AL | Home 85 / 204; Away 85 / 204 / 84 / 81 / 190 / 382 / 381 / 80 / 380 / 383 |  |  |
+| 3/15/2026 | TBD | TBD | 3:30 PM | CBS | United Center, Chicago, IL | Home 85 / 204; Away 85 / 204 / 84 / 81 / 190 / 382 / 381 / 80 / 380 / 383 |  |  |
 
 ## NBA — Upcoming Week
-2026-03-09 to 2026-03-15  
+2026-03-10 to 2026-03-16  
 _All times ET_  
-
-### Monday March 9th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/9/2026 | Philadelphia 76ers | Cleveland Cavaliers | 7:00 PM | FanDuel SN OH, NBA League Pass, NBC Sports Phil | Rocket Arena, Cleveland, OH | Home 212; Away ONLINE |  |  |
-| 3/9/2026 | Memphis Grizzlies | Brooklyn Nets | 7:30 PM | FanDuel SN SE, NBA League Pass, YES | Barclays Center, Brooklyn, NY | Home 213; Away ONLINE |  |  |
-| 3/9/2026 | Denver Nuggets | Oklahoma City Thunder | 7:30 PM | Altitude Sports, FanDuel SN OK, NBCSN, Peacock | Paycom Center, Oklahoma City, OK | Home 86; Away ONLINE |  |  |
-| 3/9/2026 | Golden State Warriors | Utah Jazz | 9:00 PM | Jazz+, KJZZ-TV, NBA League Pass, NBC Sports BA | Delta Center, Salt Lake City, UT | Home 214; Away ONLINE |  |  |
-| 3/9/2026 | New York Knicks | LA Clippers | 10:00 PM | FanDuel SN SoCal, MSG, NBCSN, Peacock | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
 
 ### Tuesday March 10th
 
@@ -219,3 +179,16 @@ _All times ET_
 | 3/15/2026 | Portland Trail Blazers | Philadelphia 76ers | 6:00 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA | Home 213; Away ONLINE |  |  |
 | 3/15/2026 | Golden State Warriors | New York Knicks | 8:00 PM | NBC, Peacock | Madison Square Garden, New York, NY | Home 86; Away ONLINE |  |  |
 | 3/15/2026 | Utah Jazz | Sacramento Kings | 10:00 PM | Jazz+, KJZZ-TV, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 212; Away ONLINE |  |  |
+
+### Monday March 16th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3/16/2026 | Orlando Magic | Atlanta Hawks | 7:00 PM | NBCSN, Peacock | State Farm Arena, Atlanta, GA | Home 86 / 80; Away 80 |  |  |
+| 3/16/2026 | Golden State Warriors | Washington Wizards | 7:00 PM | MNMT, NBA League Pass, NBC Sports BA | Capital One Arena, Washington, DC | Home 212; Away ONLINE |  |  |
+| 3/16/2026 | Portland Trail Blazers | Brooklyn Nets | 7:30 PM | BlazerVision, KUNP 16, NBA League Pass, YES | Barclays Center, Brooklyn, NY | Home 213; Away ONLINE |  |  |
+| 3/16/2026 | Phoenix Suns | Boston Celtics | 7:30 PM | Arizona's Family 3TV, NBA League Pass, NBC Sports BO, Suns Live | TD Garden, Boston, MA | Home 216; Away ONLINE |  |  |
+| 3/16/2026 | Memphis Grizzlies | Chicago Bulls | 8:00 PM | CHSN, FanDuel SN SE, NBA League Pass | United Center, Chicago, IL | Home 215; Away ONLINE |  |  |
+| 3/16/2026 | Dallas Mavericks | New Orleans Pelicans | 8:00 PM | GCSEN, KFAA-TV, Mavs.com, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 214; Away ONLINE |  |  |
+| 3/16/2026 | Los Angeles Lakers | Houston Rockets | 9:30 PM | NBCSN, Peacock, Space City Home Network, Spectrum Sports Net, Spectrum Sports Net + | Toyota Center (Houston), Houston, TX | Home 86; Away ONLINE |  |  |
+| 3/16/2026 | San Antonio Spurs | LA Clippers | 10:00 PM | FanDuel SN SoCal, KENS 5, NBCSN Extra, Peacock | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
