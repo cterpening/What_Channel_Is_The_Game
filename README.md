@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-14 10:12 UTC_
+_Last updated: 2026-03-15 10:12 UTC_
 
 ## College Football — Upcoming Week
-2026-03-14 to 2026-03-20  
+2026-03-15 to 2026-03-21  
 _All times ET_  
 
 > No upcoming games.
@@ -15,100 +15,88 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-14 to 2026-03-20  
+2026-03-15 to 2026-03-21  
 _All times ET_  
-
-### Saturday March 14th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/14/2026 | Wisconsin | Michigan | 1:00 PM | CBS | United Center, Chicago, IL | Home 84; Away 84 |  |  |
-| 3/14/2026 | Vanderbilt | Florida | 1:00 PM | ESPN | Bridgestone Arena, Nashville, TN | Home 190; Away 190 |  |  |
-| 3/14/2026 | **Purdue** | UCLA | 3:30 PM | CBS | United Center, Chicago, IL | Away 84 |  |  |
-| 3/14/2026 | Houston | Arizona | 6:00 PM | ESPN | T-Mobile Center, Kansas City, MO | Home 81 / 80 / 85 |  |  |
-| 3/14/2026 | UConn | St. John's | 6:30 PM | FOX | Madison Square Garden, New York, NY | Home 84; Away 84 |  |  |
 
 ### Sunday March 15th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/15/2026 | TBD | TBD | 12:00 PM | ESPN2 | Newman Arena, Ithaca, NY | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/15/2026 | TBD | TBD | 1:00 PM | ESPN | Bridgestone Arena, Nashville, TN | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/15/2026 | TBD | TBD | 1:00 PM | CBS | PPG Paints Arena, Pittsburgh, PA | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/15/2026 | TBD | TBD | 3:15 PM | ESPN | Legacy Arena at BJCC, Birmingham, AL | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/15/2026 | TBD | TBD | 3:30 PM | CBS | United Center, Chicago, IL | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
+| 3/15/2026 | Vanderbilt | Arkansas | 1:00 PM | ESPN | Bridgestone Arena, Nashville, TN | Home 85 / 84 / 81; Away 84 |  |  |
+| 3/15/2026 | **Purdue** | Michigan | 3:30 PM | CBS | United Center, Chicago, IL | Home 84; Away 84 |  |  |
 
 ### Tuesday March 17th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/17/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/17/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
+| 3/17/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH |  |  |  |
+| 3/17/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH |  |  |  |
 
 ### Wednesday March 18th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/18/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/18/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
+| 3/18/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH |  |  |  |
+| 3/18/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH |  |  |  |
 
 ### Thursday March 19th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
 
 ### Friday March 20th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  | Home 190 / 84 / 204 / 81 / 383; Away 80 / 81 / 84 / 383 |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
 
-## NBA — Upcoming Week
-2026-03-14 to 2026-03-20  
-_All times ET_  
-
-### Saturday March 14th
+### Saturday March 21st
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/14/2026 | Brooklyn Nets | Philadelphia 76ers | 1:00 PM | NBA League Pass, NBC Sports Phil, YES | Xfinity Mobile Arena, Philadelphia, PA | Home 86; Away ONLINE |  |  |
-| 3/14/2026 | Milwaukee Bucks | Atlanta Hawks | 3:00 PM | FanDuel SN SE, FanDuel SN WI, NBA League Pass | State Farm Arena, Atlanta, GA | Home 212; Away ONLINE |  |  |
-| 3/14/2026 | Charlotte Hornets | San Antonio Spurs | 3:30 PM | FanDuel SN SE, FanDuel SN SW, Prime Video | Frost Bank Center, San Antonio, TX | Home 86; Away ONLINE |  |  |
-| 3/14/2026 | Washington Wizards | Boston Celtics | 6:00 PM | MNMT, NBA TV, NBC Sports BO | TD Garden, Boston, MA | Home 86; Away ONLINE |  |  |
-| 3/14/2026 | Orlando Magic | Miami Heat | 8:00 PM | FanDuel SN FL, NBA League Pass | Kaseya Center, Miami, FL | Home 212; Away ONLINE |  |  |
-| 3/14/2026 | Denver Nuggets | Los Angeles Lakers | 8:30 PM | ABC | crypto.com Arena, Los Angeles, CA | Home 86 / 213; Away ONLINE |  |  |
-| 3/14/2026 | Sacramento Kings | LA Clippers | 10:30 PM | ESPN, FanDuel SN SoCal, NBC Sports CA | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
+| 3/21/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/21/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/21/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/21/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/21/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/21/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/21/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/21/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+
+## NBA — Upcoming Week
+2026-03-15 to 2026-03-21  
+_All times ET_  
 
 ### Sunday March 15th
 
@@ -185,3 +173,18 @@ _All times ET_
 | 3/20/2026 | Boston Celtics | Memphis Grizzlies | 8:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports BO | FedExForum, Memphis, TN | Home 214; Away ONLINE |  |  |
 | 3/20/2026 | Portland Trail Blazers | Minnesota Timberwolves | 8:00 PM | BlazerVision, FanDuel SN North, KUNP 16, NBA League Pass | Target Center, Minneapolis, MN | Home 145; Away ONLINE |  |  |
 | 3/20/2026 | Toronto Raptors | Denver Nuggets | 9:00 PM | Altitude 2 Sports, NBA League Pass, Sportsnet | Ball Arena, Denver, CO | Home 167; Away ONLINE |  |  |
+
+### Saturday March 21st
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3/21/2026 | Oklahoma City Thunder | Washington Wizards | 5:00 PM | FanDuel SN OK, MNMT, NBA League Pass | Capital One Arena, Washington, DC | Home 212; Away ONLINE |  |  |
+| 3/21/2026 | Memphis Grizzlies | Charlotte Hornets | 7:00 PM | FanDuel SN SE, NBA League Pass | Spectrum Center, Charlotte, NC | Home 214; Away ONLINE |  |  |
+| 3/21/2026 | Los Angeles Lakers | Orlando Magic | 7:00 PM | FanDuel SN FL, NBA TV, Spectrum Sports Net, Spectrum Sports Net + | Kia Center, Orlando, FL | Home 86; Away ONLINE |  |  |
+| 3/21/2026 | Cleveland Cavaliers | New Orleans Pelicans | 7:00 PM | FanDuel SN OH, GCSEN, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 213; Away ONLINE |  |  |
+| 3/21/2026 | Golden State Warriors | Atlanta Hawks | 8:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports BA | State Farm Arena, Atlanta, GA | Home 216; Away ONLINE |  |  |
+| 3/21/2026 | Miami Heat | Houston Rockets | 8:00 PM | FanDuel SN Sun, NBA League Pass, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 145; Away ONLINE |  |  |
+| 3/21/2026 | **Indiana Pacers** | San Antonio Spurs | 8:00 PM | FanDuel SN IN, FanDuel SN SW, NBA League Pass | Frost Bank Center, San Antonio, TX | Home 215; Away ONLINE |  |  |
+| 3/21/2026 | LA Clippers | Dallas Mavericks | 8:30 PM | FanDuel SN SoCal, KFAA-TV, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX | Home 217 |  |  |
+| 3/21/2026 | Philadelphia 76ers | Utah Jazz | 9:30 PM | Jazz+, KJZZ-TV, NBA League Pass, NBC Sports Phil | Delta Center, Salt Lake City, UT | Home 212; Away ONLINE |  |  |
+| 3/21/2026 | Milwaukee Bucks | Phoenix Suns | 10:00 PM | Arizona's Family 3TV, FanDuel SN WI, NBA TV, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 86; Away ONLINE |  |  |
