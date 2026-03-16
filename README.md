@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-15 10:12 UTC_
+_Last updated: 2026-03-16 10:30 UTC_
 
 ## College Football — Upcoming Week
-2026-03-15 to 2026-03-21  
+2026-03-16 to 2026-03-22  
 _All times ET_  
 
 > No upcoming games.
@@ -15,71 +15,64 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-15 to 2026-03-21  
+2026-03-16 to 2026-03-22  
 _All times ET_  
-
-### Sunday March 15th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/15/2026 | Vanderbilt | Arkansas | 1:00 PM | ESPN | Bridgestone Arena, Nashville, TN | Home 85 / 84 / 81; Away 84 |  |  |
-| 3/15/2026 | **Purdue** | Michigan | 3:30 PM | CBS | United Center, Chicago, IL | Home 84; Away 84 |  |  |
 
 ### Tuesday March 17th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/17/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH |  |  |  |
-| 3/17/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH |  |  |  |
+| 3/17/2026 | UMBC | Howard | 6:40 PM | truTV | UD Arena, Dayton, OH |  |  |  |
+| 3/17/2026 | Texas | NC State | 9:15 PM | truTV | UD Arena, Dayton, OH |  |  |  |
 
 ### Wednesday March 18th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/18/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH |  |  |  |
-| 3/18/2026 | TBD | TBD | 12:00 AM |  | UD Arena, Dayton, OH |  |  |  |
+| 3/18/2026 | Prairie View A&M | Lehigh | 6:40 PM | truTV | UD Arena, Dayton, OH |  |  |  |
+| 3/18/2026 | Miami (OH) | SMU | 9:15 PM | truTV | UD Arena, Dayton, OH |  |  |  |
 
 ### Thursday March 19th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/19/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/19/2026 | TBD | Michigan | 7:10 PM | CBS | KeyBank Center, Buffalo, NY | Home 84 |  |  |
+| 3/19/2026 | Siena | Duke | 2:50 PM | CBS | Bon Secours Wellness Arena, Greenville, SC |  |  |  |
+| 3/19/2026 | Idaho | Houston | 10:10 PM | truTV | Paycom Center, Oklahoma City, OK |  |  |  |
+| 3/19/2026 | Pennsylvania | **Illinois** | 9:25 PM | TNT | Bon Secours Wellness Arena, Greenville, SC |  |  |  |
+| 3/19/2026 | Kennesaw State | Gonzaga | 10:00 PM | TBS | Moda Center, Portland, OR |  |  |  |
+| 3/19/2026 | North Dakota State | Michigan State | 4:05 PM | TNT | KeyBank Center, Buffalo, NY |  |  |  |
+| 3/19/2026 | Troy | Nebraska | 12:40 PM | truTV | Paycom Center, Oklahoma City, OK |  |  |  |
+| 3/19/2026 | Hawai'i | Arkansas | 4:25 PM | TBS | Moda Center, Portland, OR |  |  |  |
+| 3/19/2026 | McNeese | Vanderbilt | 3:15 PM | truTV | Paycom Center, Oklahoma City, OK |  |  |  |
+| 3/19/2026 | High Point | Wisconsin | 1:50 PM | TBS | Moda Center, Portland, OR |  |  |  |
+| 3/19/2026 | VCU | North Carolina | 6:50 PM | TNT | Bon Secours Wellness Arena, Greenville, SC |  |  |  |
+| 3/19/2026 | TBD | BYU | 7:25 PM | TBS | Moda Center, Portland, OR |  |  |  |
+| 3/19/2026 | South Florida | Louisville | 1:30 PM | TNT | KeyBank Center, Buffalo, NY |  |  |  |
+| 3/19/2026 | Texas A&M | Saint Mary's | 7:35 PM | truTV | Paycom Center, Oklahoma City, OK |  |  |  |
+| 3/19/2026 | Saint Louis | Georgia | 9:45 PM | CBS | KeyBank Center, Buffalo, NY |  |  |  |
+| 3/19/2026 | TCU | Ohio State | 12:15 PM | CBS | Bon Secours Wellness Arena, Greenville, SC |  |  |  |
 
 ### Friday March 20th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
-| 3/20/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/20/2026 | Santa Clara | Kentucky | 12:15 PM | CBS | Enterprise Center, St. Louis, MO |  |  |  |
+| 3/20/2026 | Akron | Texas Tech | 12:40 PM | truTV | Benchmark International Arena, Tampa, FL |  |  |  |
+| 3/20/2026 | Long Island University | Arizona | 1:35 PM | TNT | Viejas Arena, San Diego, CA |  |  |  |
+| 3/20/2026 | Wright State | Virginia | 1:50 PM | TBS | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
+| 3/20/2026 | Tennessee State | Iowa State | 2:50 PM | CBS | Enterprise Center, St. Louis, MO |  |  |  |
+| 3/20/2026 | Hofstra | Alabama | 3:15 PM | truTV | Benchmark International Arena, Tampa, FL |  |  |  |
+| 3/20/2026 | Utah State | Villanova | 4:10 PM | TNT | Viejas Arena, San Diego, CA |  |  |  |
+| 3/20/2026 | TBD | Tennessee | 4:25 PM | TBS | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
+| 3/20/2026 | Iowa | Clemson | 6:50 PM | TNT | Benchmark International Arena, Tampa, FL |  |  |  |
+| 3/20/2026 | Northern Iowa | St. John's | 7:10 PM | CBS | Viejas Arena, San Diego, CA |  |  |  |
+| 3/20/2026 | UCF | UCLA | 7:25 PM | TBS | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
+| 3/20/2026 | Queens University | **Purdue** | 7:35 PM | truTV | Enterprise Center, St. Louis, MO |  |  |  |
+| 3/20/2026 | TBD | Florida | 9:25 PM | TNT | Benchmark International Arena, Tampa, FL |  |  |  |
+| 3/20/2026 | California Baptist | Kansas | 9:45 PM | CBS | Viejas Arena, San Diego, CA |  |  |  |
+| 3/20/2026 | Furman | UConn | 10:00 PM | TBS | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
+| 3/20/2026 | Missouri | Miami | 10:10 PM | truTV | Enterprise Center, St. Louis, MO |  |  |  |
 
 ### Saturday March 21st
 
@@ -94,21 +87,22 @@ _All times ET_
 | 3/21/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
 | 3/21/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
 
-## NBA — Upcoming Week
-2026-03-15 to 2026-03-21  
-_All times ET_  
-
-### Sunday March 15th
+### Sunday March 22nd
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/15/2026 | Minnesota Timberwolves | Oklahoma City Thunder | 1:00 PM | ABC | Paycom Center, Oklahoma City, OK | Home 86 / 80; Away 80 |  |  |
-| 3/15/2026 | Dallas Mavericks | Cleveland Cavaliers | 3:30 PM | FanDuel SN OH, KFAA-TV, Mavs.com, NBA TV | Rocket Arena, Cleveland, OH | Home 214; Away ONLINE |  |  |
-| 3/15/2026 | Detroit Pistons | Toronto Raptors | 3:30 PM | FanDuel SN DET, NBA League Pass, Sportsnet | Scotiabank Arena, Toronto, ON | Home 167; Away 86 |  |  |
-| 3/15/2026 | **Indiana Pacers** | Milwaukee Bucks | 3:30 PM | FanDuel SN IN, FanDuel SN WI, NBA League Pass | Fiserv Forum, Milwaukee, WI | Home 212; Away ONLINE |  |  |
-| 3/15/2026 | Portland Trail Blazers | Philadelphia 76ers | 6:00 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA | Home 213; Away ONLINE |  |  |
-| 3/15/2026 | Golden State Warriors | New York Knicks | 8:00 PM | NBC, Peacock | Madison Square Garden, New York, NY | Home 86; Away ONLINE |  |  |
-| 3/15/2026 | Utah Jazz | Sacramento Kings | 10:00 PM | Jazz+, KJZZ-TV, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 212; Away ONLINE |  |  |
+| 3/22/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/22/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/22/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/22/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/22/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/22/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/22/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+| 3/22/2026 | TBD | TBD | 12:00 AM |  |  |  |  |  |
+
+## NBA — Upcoming Week
+2026-03-16 to 2026-03-22  
+_All times ET_  
 
 ### Monday March 16th
 
@@ -188,3 +182,13 @@ _All times ET_
 | 3/21/2026 | LA Clippers | Dallas Mavericks | 8:30 PM | FanDuel SN SoCal, KFAA-TV, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX | Home 217 |  |  |
 | 3/21/2026 | Philadelphia 76ers | Utah Jazz | 9:30 PM | Jazz+, KJZZ-TV, NBA League Pass, NBC Sports Phil | Delta Center, Salt Lake City, UT | Home 212; Away ONLINE |  |  |
 | 3/21/2026 | Milwaukee Bucks | Phoenix Suns | 10:00 PM | Arizona's Family 3TV, FanDuel SN WI, NBA TV, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 86; Away ONLINE |  |  |
+
+### Sunday March 22nd
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3/22/2026 | Portland Trail Blazers | Denver Nuggets | 5:00 PM | Altitude Sports, BlazerVision, KUNP 16, NBA TV | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
+| 3/22/2026 | Brooklyn Nets | Sacramento Kings | 6:00 PM | NBA League Pass, NBC Sports CA, YES | Golden 1 Center, Sacramento, CA | Home 212; Away ONLINE |  |  |
+| 3/22/2026 | Washington Wizards | New York Knicks | 7:30 PM | MNMT, MSG, NBA League Pass | Madison Square Garden, New York, NY | Home 145; Away ONLINE |  |  |
+| 3/22/2026 | Minnesota Timberwolves | Boston Celtics | 8:00 PM | NBC, Peacock | TD Garden, Boston, MA | Home 86; Away ONLINE |  |  |
+| 3/22/2026 | Toronto Raptors | Phoenix Suns | 9:00 PM | Arizona's Family 3TV, NBA League Pass, Sportsnet, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 167; Away ONLINE |  |  |
