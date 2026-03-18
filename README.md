@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-17 10:23 UTC_
+_Last updated: 2026-03-18 10:26 UTC_
 
 ## College Football — Upcoming Week
-2026-03-17 to 2026-03-23  
+2026-03-18 to 2026-03-24  
 _All times ET_  
 
 > No upcoming games.
@@ -15,15 +15,8 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-17 to 2026-03-23  
+2026-03-18 to 2026-03-24  
 _All times ET_  
-
-### Tuesday March 17th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/17/2026 | UMBC | Howard | 6:40 PM | truTV | UD Arena, Dayton, OH | Home 84; Away 84 |  |  |
-| 3/17/2026 | Texas | NC State | 9:15 PM | truTV | UD Arena, Dayton, OH | Home 84; Away 84 |  |  |
 
 ### Wednesday March 18th
 
@@ -45,8 +38,8 @@ _All times ET_
 | 3/19/2026 | North Dakota State | Michigan State | 4:05 PM | TNT | KeyBank Center, Buffalo, NY | Home 203; Away 203 |  |  |
 | 3/19/2026 | Hawai'i | Arkansas | 4:25 PM | TBS | Moda Center, Portland, OR | Home 204 |  |  |
 | 3/19/2026 | VCU | North Carolina | 6:50 PM | TNT | Bon Secours Wellness Arena, Greenville, SC | Home 201; Away 201 |  |  |
-| 3/19/2026 | TBD | Michigan | 7:10 PM | CBS | KeyBank Center, Buffalo, NY | Home 203; Away 203 / 204 |  |  |
-| 3/19/2026 | TBD | BYU | 7:25 PM | TBS | Moda Center, Portland, OR | Home 204; Away 203 / 204 |  |  |
+| 3/19/2026 | Howard | Michigan | 7:10 PM | CBS | KeyBank Center, Buffalo, NY | Home 203 |  |  |
+| 3/19/2026 | Texas | BYU | 7:25 PM | TBS | Moda Center, Portland, OR | Home 204 |  |  |
 | 3/19/2026 | Texas A&M | Saint Mary's | 7:35 PM | truTV | Paycom Center, Oklahoma City, OK | Home 202; Away 202 |  |  |
 | 3/19/2026 | Pennsylvania | **Illinois** | 9:25 PM | TNT | Bon Secours Wellness Arena, Greenville, SC | Home 201 |  |  |
 | 3/19/2026 | Saint Louis | Georgia | 9:45 PM | CBS | KeyBank Center, Buffalo, NY | Home 203; Away 203 |  |  |
@@ -101,21 +94,8 @@ _All times ET_
 | 3/22/2026 | TBD | TBD | 12:00 AM |  | Viejas Arena, San Diego, CA | Away 203 / 204 / 202 |  |  |
 
 ## NBA — Upcoming Week
-2026-03-17 to 2026-03-23  
+2026-03-18 to 2026-03-24  
 _All times ET_  
-
-### Tuesday March 17th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/17/2026 | Miami Heat | Charlotte Hornets | 7:00 PM | FanDuel SN SE, FanDuel SN Sun, NBA League Pass | Spectrum Center, Charlotte, NC | Home 213; Away ONLINE |  |  |
-| 3/17/2026 | Oklahoma City Thunder | Orlando Magic | 7:00 PM | FanDuel SN FL, FanDuel SN OK, NBA League Pass | Kia Center, Orlando, FL | Home 214; Away ONLINE |  |  |
-| 3/17/2026 | Detroit Pistons | Washington Wizards | 7:00 PM | FanDuel SN DET, MNMT, NBA League Pass | Capital One Arena, Washington, DC | Home 212; Away ONLINE |  |  |
-| 3/17/2026 | **Indiana Pacers** | New York Knicks | 7:30 PM | FanDuel SN IN, MSG, NBA League Pass | Madison Square Garden, New York, NY | Home 86; Away ONLINE |  |  |
-| 3/17/2026 | Cleveland Cavaliers | Milwaukee Bucks | 8:00 PM | FanDuel SN OH, FanDuel SN WI, NBC, Peacock | Fiserv Forum, Milwaukee, WI | Home 215; Away ONLINE |  |  |
-| 3/17/2026 | Phoenix Suns | Minnesota Timberwolves | 8:00 PM | Arizona's Family 3TV, FanDuel SN North, NBA League Pass, Suns Live | Target Center, Minneapolis, MN | Home 216; Away ONLINE |  |  |
-| 3/17/2026 | Philadelphia 76ers | Denver Nuggets | 10:00 PM | Altitude Sports, NBC, NBC Sports Phil, Peacock | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
-| 3/17/2026 | San Antonio Spurs | Sacramento Kings | 10:00 PM | FanDuel SN SW, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 217; Away ONLINE |  |  |
 
 ### Wednesday March 18th
 
@@ -194,3 +174,12 @@ _All times ET_
 | 3/23/2026 | Golden State Warriors | Dallas Mavericks | 9:30 PM | NBC Sports BA, NBCSN, Peacock | American Airlines Center, Dallas, TX | Home 86 / 80; Away 80 |  |  |
 | 3/23/2026 | Brooklyn Nets | Portland Trail Blazers | 10:00 PM | BlazerVision, KUNP 16, NBA League Pass, YES | Moda Center, Portland, OR | Home 212; Away ONLINE |  |  |
 | 3/23/2026 | Milwaukee Bucks | LA Clippers | 10:30 PM | FanDuel SN SoCal, FanDuel SN WI, NBA League Pass | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
+
+### Tuesday March 24th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3/24/2026 | Sacramento Kings | Charlotte Hornets | 7:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports CA | Spectrum Center, Charlotte, NC | Home 86 / 214 |  |  |
+| 3/24/2026 | New Orleans Pelicans | New York Knicks | 7:30 PM | GCSEN, MSG, NBA League Pass, Pelicans.com | Madison Square Garden, New York, NY | Home 145; Away ONLINE |  |  |
+| 3/24/2026 | Orlando Magic | Cleveland Cavaliers | 8:00 PM | FanDuel SN OH, NBC, Peacock | Rocket Arena, Cleveland, OH | Away ONLINE |  |  |
+| 3/24/2026 | Denver Nuggets | Phoenix Suns | 11:00 PM | Altitude Sports, NBC, Peacock | Mortgage Matchup Center, Phoenix, AZ | Home 86 / 167; Away ONLINE |  |  |
