@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-20 10:18 UTC_
+_Last updated: 2026-03-21 10:11 UTC_
 
 ## College Football — Upcoming Week
-2026-03-20 to 2026-03-26  
+2026-03-21 to 2026-03-27  
 _All times ET_  
 
 > No upcoming games.
@@ -15,55 +15,34 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-20 to 2026-03-26  
+2026-03-21 to 2026-03-27  
 _All times ET_  
-
-### Friday March 20th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/20/2026 | Santa Clara | Kentucky | 12:15 PM | CBS | Enterprise Center, St. Louis, MO | Home 201; Away 201 |  |  |
-| 3/20/2026 | Akron | Texas Tech | 12:40 PM | truTV | Benchmark International Arena, Tampa, FL | Home 202; Away 202 / 203 |  |  |
-| 3/20/2026 | Long Island University | Arizona | 1:35 PM | TNT | Viejas Arena, San Diego, CA | Home 203 |  |  |
-| 3/20/2026 | Wright State | Virginia | 1:50 PM | TBS | Xfinity Mobile Arena, Philadelphia, PA | Home 204; Away 204 |  |  |
-| 3/20/2026 | Tennessee State | Iowa State | 2:50 PM | CBS | Enterprise Center, St. Louis, MO | Home 201; Away 201 |  |  |
-| 3/20/2026 | Hofstra | Alabama | 3:15 PM | truTV | Benchmark International Arena, Tampa, FL | Home 202; Away 202 |  |  |
-| 3/20/2026 | Utah State | Villanova | 4:10 PM | TNT | Viejas Arena, San Diego, CA | Home 203; Away 203 |  |  |
-| 3/20/2026 | Miami (OH) | Tennessee | 4:25 PM | TBS | Xfinity Mobile Arena, Philadelphia, PA | Home 204 |  |  |
-| 3/20/2026 | Iowa | Clemson | 6:50 PM | TNT | Benchmark International Arena, Tampa, FL | Home 202; Away 202 |  |  |
-| 3/20/2026 | Northern Iowa | St. John's | 7:10 PM | CBS | Viejas Arena, San Diego, CA | Home 203; Away 203 |  |  |
-| 3/20/2026 | UCF | UCLA | 7:25 PM | TBS | Xfinity Mobile Arena, Philadelphia, PA | Home 204; Away 204 |  |  |
-| 3/20/2026 | Queens University | **Purdue** | 7:35 PM | truTV | Enterprise Center, St. Louis, MO | Home 201; Away 201 |  |  |
-| 3/20/2026 | Prairie View A&M | Florida | 9:25 PM | TNT | Benchmark International Arena, Tampa, FL | Home 202; Away 202 |  |  |
-| 3/20/2026 | California Baptist | Kansas | 9:45 PM | CBS | Viejas Arena, San Diego, CA | Home 203; Away 203 |  |  |
-| 3/20/2026 | Furman | UConn | 10:00 PM | TBS | Xfinity Mobile Arena, Philadelphia, PA | Home 204; Away 204 |  |  |
-| 3/20/2026 | Missouri | Miami | 10:10 PM | truTV | Enterprise Center, St. Louis, MO | Home 201; Away 201 |  |  |
 
 ### Saturday March 21st
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/21/2026 | Saint Louis | Michigan | 12:10 PM | CBS | KeyBank Center, Buffalo, NY |  |  |  |
-| 3/21/2026 | Louisville | Michigan State | 2:45 PM | CBS | KeyBank Center, Buffalo, NY |  |  |  |
-| 3/21/2026 | TCU | Duke | 5:15 PM | CBS | Bon Secours Wellness Arena, Greenville, SC |  |  |  |
-| 3/21/2026 | Texas A&M | Houston | 6:10 PM | TNT | Paycom Center, Oklahoma City, OK |  |  |  |
-| 3/21/2026 | Texas | Gonzaga | 7:10 PM | TBS, truTV | Moda Center, Portland, OR |  |  |  |
-| 3/21/2026 | VCU | **Illinois** | 7:50 PM | CBS | Bon Secours Wellness Arena, Greenville, SC |  |  |  |
-| 3/21/2026 | Vanderbilt | Nebraska | 8:45 PM | TNT | Paycom Center, Oklahoma City, OK |  |  |  |
-| 3/21/2026 | High Point | Arkansas | 9:45 PM | TBS, truTV | Moda Center, Portland, OR |  |  |  |
+| 3/21/2026 | Saint Louis | Michigan | 12:10 PM | CBS | KeyBank Center, Buffalo, NY | Home 203; Away 203 |  |  |
+| 3/21/2026 | Louisville | Michigan State | 2:45 PM | CBS | KeyBank Center, Buffalo, NY | Home 203; Away 203 |  |  |
+| 3/21/2026 | TCU | Duke | 5:15 PM | CBS | Bon Secours Wellness Arena, Greenville, SC | Home 201; Away 201 |  |  |
+| 3/21/2026 | Texas A&M | Houston | 6:10 PM | TNT | Paycom Center, Oklahoma City, OK | Home 202; Away 202 |  |  |
+| 3/21/2026 | Texas | Gonzaga | 7:10 PM | TBS, truTV | Moda Center, Portland, OR | Home 204; Away 204 |  |  |
+| 3/21/2026 | VCU | **Illinois** | 7:50 PM | CBS | Bon Secours Wellness Arena, Greenville, SC | Home 201; Away 201 |  |  |
+| 3/21/2026 | Vanderbilt | Nebraska | 8:45 PM | TNT | Paycom Center, Oklahoma City, OK | Home 202; Away 202 |  |  |
+| 3/21/2026 | High Point | Arkansas | 9:45 PM | TBS, truTV | Moda Center, Portland, OR | Home 204; Away 204 |  |  |
 
 ### Sunday March 22nd
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/22/2026 | TBD | TBD | 12:00 AM |  | Viejas Arena, San Diego, CA |  |  |  |
-| 3/22/2026 | TBD | TBD | 12:00 AM |  | Enterprise Center, St. Louis, MO |  |  |  |
-| 3/22/2026 | TBD | TBD | 12:00 AM |  | Benchmark International Arena, Tampa, FL |  |  |  |
-| 3/22/2026 | TBD | TBD | 12:00 AM |  | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
-| 3/22/2026 | TBD | TBD | 12:00 AM |  | Enterprise Center, St. Louis, MO |  |  |  |
-| 3/22/2026 | TBD | TBD | 12:00 AM |  | Benchmark International Arena, Tampa, FL |  |  |  |
-| 3/22/2026 | TBD | TBD | 12:00 AM |  | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
-| 3/22/2026 | TBD | TBD | 12:00 AM |  | Viejas Arena, San Diego, CA |  |  |  |
+| 3/22/2026 | Miami | **Purdue** | 12:10 PM | CBS | Enterprise Center, St. Louis, MO |  |  |  |
+| 3/22/2026 | Kentucky | Iowa State | 2:45 PM | CBS | Enterprise Center, St. Louis, MO | Home 386 |  |  |
+| 3/22/2026 | St. John's | Kansas | 5:15 PM | CBS | Viejas Arena, San Diego, CA |  |  |  |
+| 3/22/2026 | Tennessee | Virginia | 6:10 PM | TNT | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
+| 3/22/2026 | Iowa | Florida | 7:10 PM | TBS | Benchmark International Arena, Tampa, FL |  |  |  |
+| 3/22/2026 | Utah State | Arizona | 7:50 PM | truTV | Viejas Arena, San Diego, CA |  |  |  |
+| 3/22/2026 | UCLA | UConn | 8:45 PM | TNT | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
+| 3/22/2026 | Texas Tech | Alabama | 9:45 PM | TBS | Benchmark International Arena, Tampa, FL | Home 382 / 383 / 385 / 387 |  |  |
 
 ### Thursday March 26th
 
@@ -74,20 +53,18 @@ _All times ET_
 | 3/26/2026 | TBD | TBD | 12:00 AM |  | Toyota Center (Houston), Houston, TX |  |  |  |
 | 3/26/2026 | TBD | TBD | 12:00 AM |  | Toyota Center (Houston), Houston, TX |  |  |  |
 
-## NBA — Upcoming Week
-2026-03-20 to 2026-03-26  
-_All times ET_  
-
-### Friday March 20th
+### Friday March 27th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/20/2026 | New York Knicks | Brooklyn Nets | 7:30 PM | MSG, NBA League Pass, YES | Barclays Center, Brooklyn, NY | Home 212; Away ONLINE |  |  |
-| 3/20/2026 | Golden State Warriors | Detroit Pistons | 7:30 PM | FanDuel SN DET, NBC Sports BA | Little Caesars Arena, Detroit, MI | Home 86; Away ONLINE |  |  |
-| 3/20/2026 | Atlanta Hawks | Houston Rockets | 8:00 PM | FanDuel SN SE, NBA TV, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 213; Away ONLINE |  |  |
-| 3/20/2026 | Boston Celtics | Memphis Grizzlies | 8:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports BO | FedExForum, Memphis, TN | Home 214; Away ONLINE |  |  |
-| 3/20/2026 | Portland Trail Blazers | Minnesota Timberwolves | 8:00 PM | BlazerVision, FanDuel SN North, KUNP 16, NBA League Pass | Target Center, Minneapolis, MN | Home 145; Away ONLINE |  |  |
-| 3/20/2026 | Toronto Raptors | Denver Nuggets | 9:00 PM | Altitude 2 Sports, NBA League Pass, Sportsnet | Ball Arena, Denver, CO | Home 167; Away ONLINE |  |  |
+| 3/27/2026 | TBD | TBD | 12:00 AM |  | United Center, Chicago, IL |  |  |  |
+| 3/27/2026 | TBD | TBD | 12:00 AM |  | United Center, Chicago, IL |  |  |  |
+| 3/27/2026 | TBD | TBD | 12:00 AM |  | Capital One Arena, Washington, DC |  |  |  |
+| 3/27/2026 | TBD | TBD | 12:00 AM |  | Capital One Arena, Washington, DC |  |  |  |
+
+## NBA — Upcoming Week
+2026-03-21 to 2026-03-27  
+_All times ET_  
 
 ### Saturday March 21st
 
@@ -162,3 +139,18 @@ _All times ET_
 | 3/26/2026 | New York Knicks | Charlotte Hornets | 7:00 PM | FanDuel SN SE, MSG, NBA TV | Spectrum Center, Charlotte, NC | Home 86; Away ONLINE |  |  |
 | 3/26/2026 | New Orleans Pelicans | Detroit Pistons | 7:00 PM | FanDuel SN DET, GCSEN, NBA League Pass, Pelicans.com | Little Caesars Arena, Detroit, MI | Home 212; Away ONLINE |  |  |
 | 3/26/2026 | Sacramento Kings | Orlando Magic | 7:00 PM | FanDuel SN FL, NBA League Pass, NBC Sports CA | Kia Center, Orlando, FL | Home 145; Away ONLINE |  |  |
+
+### Friday March 27th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3/27/2026 | LA Clippers | **Indiana Pacers** | 7:00 PM | FanDuel SN IN, FanDuel SN SoCal, NBA League Pass | Gainbridge Fieldhouse, Indianapolis, IN | Home 212 |  |  |
+| 3/27/2026 | Atlanta Hawks | Boston Celtics | 7:30 PM | FanDuel SN SE, NBA League Pass, NBC Sports BO | TD Garden, Boston, MA | Home 213; Away ONLINE |  |  |
+| 3/27/2026 | Miami Heat | Cleveland Cavaliers | 7:30 PM | FanDuel SN OH, FanDuel SN Sun, NBA TV | Rocket Arena, Cleveland, OH | Home 145; Away ONLINE |  |  |
+| 3/27/2026 | Houston Rockets | Memphis Grizzlies | 8:00 PM | FanDuel SN SE, NBA League Pass, Space City Home Network | FedExForum, Memphis, TN | Home 214; Away ONLINE |  |  |
+| 3/27/2026 | Chicago Bulls | Oklahoma City Thunder | 8:00 PM | CHSN+, FanDuel SN OK, NBA TV | Paycom Center, Oklahoma City, OK | Home 86; Away ONLINE |  |  |
+| 3/27/2026 | New Orleans Pelicans | Toronto Raptors | 8:30 PM | GCSEN, NBA League Pass, Pelicans.com, Sportsnet | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE |  |  |
+| 3/27/2026 | Utah Jazz | Denver Nuggets | 9:00 PM | Altitude Sports, Jazz+, KJZZ-TV, NBA League Pass | Ball Arena, Denver, CO | Home 215; Away ONLINE |  |  |
+| 3/27/2026 | Washington Wizards | Golden State Warriors | 10:00 PM | MNMT, NBA League Pass, NBC Sports BA | Chase Center, San Francisco, CA | Home 216; Away ONLINE |  |  |
+| 3/27/2026 | Dallas Mavericks | Portland Trail Blazers | 10:00 PM | BlazerVision, KFAA-TV, KUNP 16, Mavs.com, NBA TV | Moda Center, Portland, OR | Home 212; Away ONLINE |  |  |
+| 3/27/2026 | Brooklyn Nets | Los Angeles Lakers | 10:30 PM | NBA League Pass, Spectrum Sports Net, Spectrum Sports Net +, YES | crypto.com Arena, Los Angeles, CA | Home 86; Away ONLINE |  |  |
