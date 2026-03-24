@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-23 10:28 UTC_
+_Last updated: 2026-03-24 10:24 UTC_
 
 ## College Football — Upcoming Week
-2026-03-23 to 2026-03-29  
+2026-03-24 to 2026-03-30  
 _All times ET_  
 
 > No upcoming games.
@@ -15,26 +15,26 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-23 to 2026-03-29  
+2026-03-24 to 2026-03-30  
 _All times ET_  
 
 ### Thursday March 26th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/26/2026 | Texas | **Purdue** | 7:10 PM | CBS | SAP Center at San Jose, San Jose, CA | Away 202 |  |  |
-| 3/26/2026 | Iowa | Nebraska | 7:30 PM | TBS, truTV | Toyota Center (Houston), Houston, TX |  |  |  |
-| 3/26/2026 | Arkansas | Arizona | 9:45 PM | CBS | SAP Center at San Jose, San Jose, CA |  |  |  |
-| 3/26/2026 | **Illinois** | Houston | 10:05 PM | TBS, truTV | Toyota Center (Houston), Houston, TX |  |  |  |
+| 3/26/2026 | Texas | **Purdue** | 7:10 PM | CBS | SAP Center at San Jose, San Jose, CA | Home 201; Away 201 |  |  |
+| 3/26/2026 | Iowa | Nebraska | 7:30 PM | TBS, truTV | Toyota Center (Houston), Houston, TX | Home 202; Away 202 |  |  |
+| 3/26/2026 | Arkansas | Arizona | 9:45 PM | CBS | SAP Center at San Jose, San Jose, CA | Home 201; Away 201 |  |  |
+| 3/26/2026 | **Illinois** | Houston | 10:05 PM | TBS, truTV | Toyota Center (Houston), Houston, TX | Home 202; Away 202 |  |  |
 
 ### Friday March 27th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/27/2026 | St. John's | Duke | 7:10 PM | CBS | Capital One Arena, Washington, DC |  |  |  |
-| 3/27/2026 | Alabama | Michigan | 7:35 PM | TBS, truTV | United Center, Chicago, IL |  |  |  |
-| 3/27/2026 | Michigan State | UConn | 9:45 PM | CBS | Capital One Arena, Washington, DC |  |  |  |
-| 3/27/2026 | Tennessee | Iowa State | 10:10 PM | TBS, truTV | United Center, Chicago, IL |  |  |  |
+| 3/27/2026 | St. John's | Duke | 7:10 PM | CBS | Capital One Arena, Washington, DC | Home 201; Away 201 |  |  |
+| 3/27/2026 | Alabama | Michigan | 7:35 PM | TBS, truTV | United Center, Chicago, IL | Home 202; Away 202 |  |  |
+| 3/27/2026 | Michigan State | UConn | 9:45 PM | CBS | Capital One Arena, Washington, DC | Home 201; Away 201 |  |  |
+| 3/27/2026 | Tennessee | Iowa State | 10:10 PM | TBS, truTV | United Center, Chicago, IL | Home 202; Away 202 |  |  |
 
 ### Saturday March 28th
 
@@ -51,23 +51,8 @@ _All times ET_
 | 3/29/2026 | TBD | TBD | 12:00 AM |  | United Center, Chicago, IL |  |  |  |
 
 ## NBA — Upcoming Week
-2026-03-23 to 2026-03-29  
+2026-03-24 to 2026-03-30  
 _All times ET_  
-
-### Monday March 23rd
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/23/2026 | Los Angeles Lakers | Detroit Pistons | 7:00 PM | FanDuel SN DET, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | Little Caesars Arena, Detroit, MI | Home 86; Away ONLINE |  |  |
-| 3/23/2026 | **Indiana Pacers** | Orlando Magic | 7:00 PM | FanDuel SN FL, FanDuel SN IN, NBA League Pass | Kia Center, Orlando, FL | Home 212; Away ONLINE |  |  |
-| 3/23/2026 | Oklahoma City Thunder | Philadelphia 76ers | 7:00 PM | FanDuel SN OK, NBA League Pass, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA | Home 214; Away ONLINE |  |  |
-| 3/23/2026 | San Antonio Spurs | Miami Heat | 7:00 PM | FanDuel SN SW, FanDuel SN Sun, NBCSN, Peacock | Kaseya Center, Miami, FL | Home 215; Away ONLINE |  |  |
-| 3/23/2026 | Memphis Grizzlies | Atlanta Hawks | 7:30 PM | FanDuel SN SE, NBA League Pass | State Farm Arena, Atlanta, GA | Home 213; Away ONLINE |  |  |
-| 3/23/2026 | Houston Rockets | Chicago Bulls | 8:00 PM | CHSN, NBA League Pass, Space City Home Network | United Center, Chicago, IL | Home 216; Away ONLINE |  |  |
-| 3/23/2026 | Toronto Raptors | Utah Jazz | 9:00 PM | Jazz+, KJZZ-TV, NBA League Pass, Sportsnet | Delta Center, Salt Lake City, UT | Home 167; Away ONLINE |  |  |
-| 3/23/2026 | Golden State Warriors | Dallas Mavericks | 9:30 PM | NBC Sports BA, NBCSN, Peacock | American Airlines Center, Dallas, TX | Home 86 / 80; Away 80 |  |  |
-| 3/23/2026 | Brooklyn Nets | Portland Trail Blazers | 10:00 PM | BlazerVision, KUNP 16, NBA League Pass, YES | Moda Center, Portland, OR | Home 212; Away ONLINE |  |  |
-| 3/23/2026 | Milwaukee Bucks | LA Clippers | 10:30 PM | FanDuel SN SoCal, FanDuel SN WI, NBA League Pass | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
 
 ### Tuesday March 24th
 
@@ -142,3 +127,16 @@ _All times ET_
 | 3/29/2026 | Houston Rockets | New Orleans Pelicans | 7:00 PM | GCSEN, NBA League Pass, Pelicans.com, Space City Home Network | Smoothie King Center, New Orleans, LA | Home 215; Away ONLINE |  |  |
 | 3/29/2026 | New York Knicks | Oklahoma City Thunder | 7:30 PM | NBC, Peacock | Paycom Center, Oklahoma City, OK | Home 86; Away ONLINE |  |  |
 | 3/29/2026 | Golden State Warriors | Denver Nuggets | 10:00 PM | NBC, Peacock | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
+
+### Monday March 30th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3/30/2026 | Philadelphia 76ers | Miami Heat | 7:00 PM | NBC Sports Phil, NBCSN, Peacock | Kaseya Center, Miami, FL | Home 86; Away ONLINE |  |  |
+| 3/30/2026 | Boston Celtics | Atlanta Hawks | 7:30 PM | FanDuel SN SE, NBA League Pass, NBC Sports BO | State Farm Arena, Atlanta, GA | Home 212; Away ONLINE |  |  |
+| 3/30/2026 | Phoenix Suns | Memphis Grizzlies | 8:00 PM | Arizona's Family 3TV, FanDuel SN SE, NBA League Pass, Suns Live | FedExForum, Memphis, TN | Home 214; Away ONLINE |  |  |
+| 3/30/2026 | Chicago Bulls | San Antonio Spurs | 8:00 PM | CHSN, FanDuel SN SW, NBCSN Extra, Peacock | Frost Bank Center, San Antonio, TX | Home 213; Away ONLINE |  |  |
+| 3/30/2026 | Minnesota Timberwolves | Dallas Mavericks | 8:30 PM | FanDuel SN North, KFAA-TV, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX | Home 215; Away ONLINE |  |  |
+| 3/30/2026 | Cleveland Cavaliers | Utah Jazz | 9:00 PM | FanDuel SN OH, Jazz+, KJZZ-TV, NBA League Pass | Delta Center, Salt Lake City, UT | Home 216; Away ONLINE |  |  |
+| 3/30/2026 | Detroit Pistons | Oklahoma City Thunder | 9:30 PM | NBCSN, Peacock | Paycom Center, Oklahoma City, OK | Home 86; Away ONLINE |  |  |
+| 3/30/2026 | Washington Wizards | Los Angeles Lakers | 10:00 PM | MNMT, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 217; Away ONLINE |  |  |
