@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-28 10:15 UTC_
+_Last updated: 2026-03-29 10:15 UTC_
 
 ## College Football — Upcoming Week
-2026-03-28 to 2026-04-03  
+2026-03-29 to 2026-04-04  
 _All times ET_  
 
 > No upcoming games.
@@ -15,37 +15,26 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-28 to 2026-04-03  
+2026-03-29 to 2026-04-04  
 _All times ET_  
-
-### Saturday March 28th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/28/2026 | Iowa | **Illinois** | 6:09 PM | TBS, truTV | Toyota Center (Houston), Houston, TX | Home 202; Away 202 |  |  |
-| 3/28/2026 | **Purdue** | Arizona | 8:49 PM | TBS, truTV | SAP Center at San Jose, San Jose, CA | Home 201; Away 201 |  |  |
 
 ### Sunday March 29th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/29/2026 | Tennessee | Michigan | 2:15 PM | CBS | United Center, Chicago, IL |  |  |  |
-| 3/29/2026 | UConn | Duke | 5:05 PM | CBS | Capital One Arena, Washington, DC |  |  |  |
+| 3/29/2026 | Tennessee | Michigan | 2:15 PM | CBS | United Center, Chicago, IL | Home 202; Away 202 |  |  |
+| 3/29/2026 | UConn | Duke | 5:05 PM | CBS | Capital One Arena, Washington, DC | Home 201; Away 201 |  |  |
 
-## NBA — Upcoming Week
-2026-03-28 to 2026-04-03  
-_All times ET_  
-
-### Saturday March 28th
+### Saturday April 4th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/28/2026 | San Antonio Spurs | Milwaukee Bucks | 3:00 PM | FanDuel SN SW, Prime Video | Fiserv Forum, Milwaukee, WI | Home 86; Away ONLINE |  |  |
-| 3/28/2026 | Detroit Pistons | Minnesota Timberwolves | 5:30 PM | ABC, FanDuel SN DET, FanDuel SN North Extra | Target Center, Minneapolis, MN | Home 86; Away ONLINE |  |  |
-| 3/28/2026 | Philadelphia 76ers | Charlotte Hornets | 6:00 PM | FanDuel SN SE, NBA League Pass, NBC Sports Phil | Spectrum Center, Charlotte, NC | Home 212; Away ONLINE |  |  |
-| 3/28/2026 | Sacramento Kings | Atlanta Hawks | 7:30 PM | FanDuel SN SE, NBA League Pass, NBC Sports CA | State Farm Arena, Atlanta, GA | Home 145; Away ONLINE |  |  |
-| 3/28/2026 | Chicago Bulls | Memphis Grizzlies | 8:00 PM | CHSN, FanDuel SN SE, NBA League Pass | FedExForum, Memphis, TN | Home 86; Away ONLINE |  |  |
-| 3/28/2026 | Utah Jazz | Phoenix Suns | 10:00 PM | Arizona's Family 3TV, Jazz+, KJZZ-TV, NBA TV, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 212; Away ONLINE |  |  |
+| 4/4/2026 | TBD | Arizona | 12:00 AM |  | Lucas Oil Stadium, Indianapolis, IN | Home 84 |  |  |
+| 4/4/2026 | **Illinois** | TBD | 12:00 AM |  | Lucas Oil Stadium, Indianapolis, IN |  |  |  |
+
+## NBA — Upcoming Week
+2026-03-29 to 2026-04-04  
+_All times ET_  
 
 ### Sunday March 29th
 
@@ -124,3 +113,11 @@ _All times ET_
 | 4/3/2026 | Boston Celtics | Milwaukee Bucks | 8:00 PM | FanDuel SN WI, NBA League Pass, NBC Sports BO | Fiserv Forum, Milwaukee, WI | Home 214; Away ONLINE |  |  |
 | 4/3/2026 | Orlando Magic | Dallas Mavericks | 8:30 PM | FanDuel SN FL, KFAA-TV, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX | Home 216; Away ONLINE |  |  |
 | 4/3/2026 | New Orleans Pelicans | Sacramento Kings | 10:00 PM | GCSEN, NBA TV, NBC Sports CA, Pelicans.com | Golden 1 Center, Sacramento, CA | Home 86; Away ONLINE |  |  |
+
+### Saturday April 4th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4/4/2026 | Washington Wizards | Miami Heat | 3:00 PM | MNMT, NBA League Pass | Kaseya Center, Miami, FL | Home 145; Away ONLINE |  |  |
+| 4/4/2026 | San Antonio Spurs | Denver Nuggets | 3:00 PM | FanDuel SN SW, Prime Video | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
+| 4/4/2026 | Detroit Pistons | Philadelphia 76ers | 7:00 PM | FanDuel SN DET, NBA TV, NBC Sports Phil | Xfinity Mobile Arena, Philadelphia, PA | Home 86; Away ONLINE |  |  |
