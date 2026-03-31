@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-30 10:36 UTC_
+_Last updated: 2026-03-31 10:28 UTC_
 
 ## College Football — Upcoming Week
-2026-03-30 to 2026-04-05  
+2026-03-31 to 2026-04-06  
 _All times ET_  
 
 > No upcoming games.
@@ -15,32 +15,25 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-30 to 2026-04-05  
+2026-03-31 to 2026-04-06  
 _All times ET_  
 
 ### Saturday April 4th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/4/2026 | **Illinois** | UConn | 6:09 PM | HBO Max, TBS, truTV | Lucas Oil Stadium, Indianapolis, IN |  |  |  |
-| 4/4/2026 | Michigan | Arizona | 8:49 PM | HBO Max, TBS, truTV | Lucas Oil Stadium, Indianapolis, IN | Home 84 |  |  |
+| 4/4/2026 | **Illinois** | UConn | 6:09 PM | HBO Max, TBS, truTV | Lucas Oil Stadium, Indianapolis, IN | Home 84; Away 84 |  |  |
+| 4/4/2026 | Michigan | Arizona | 8:49 PM | HBO Max, TBS, truTV | Lucas Oil Stadium, Indianapolis, IN | Home 84; Away 84 |  |  |
 
-## NBA — Upcoming Week
-2026-03-30 to 2026-04-05  
-_All times ET_  
-
-### Monday March 30th
+### Monday April 6th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/30/2026 | Philadelphia 76ers | Miami Heat | 7:00 PM | NBC Sports Phil, NBCSN, Peacock | Kaseya Center, Miami, FL | Home 86; Away ONLINE |  |  |
-| 3/30/2026 | Boston Celtics | Atlanta Hawks | 7:30 PM | FanDuel SN SE, NBA League Pass, NBC Sports BO | State Farm Arena, Atlanta, GA | Home 212; Away ONLINE |  |  |
-| 3/30/2026 | Phoenix Suns | Memphis Grizzlies | 8:00 PM | Arizona's Family 3TV, FanDuel SN SE, NBA League Pass, Suns Live | FedExForum, Memphis, TN | Home 214; Away ONLINE |  |  |
-| 3/30/2026 | Chicago Bulls | San Antonio Spurs | 8:00 PM | CHSN, FanDuel SN SW, NBCSN Extra, Peacock | Frost Bank Center, San Antonio, TX | Home 213; Away ONLINE |  |  |
-| 3/30/2026 | Minnesota Timberwolves | Dallas Mavericks | 8:30 PM | FanDuel SN North, KFAA-TV, Mavs.com, NBA League Pass | American Airlines Center, Dallas, TX | Home 215; Away ONLINE |  |  |
-| 3/30/2026 | Cleveland Cavaliers | Utah Jazz | 9:00 PM | FanDuel SN OH, Jazz+, KJZZ-TV, NBA League Pass | Delta Center, Salt Lake City, UT | Home 216; Away ONLINE |  |  |
-| 3/30/2026 | Detroit Pistons | Oklahoma City Thunder | 9:30 PM | NBCSN, Peacock | Paycom Center, Oklahoma City, OK | Home 86; Away ONLINE |  |  |
-| 3/30/2026 | Washington Wizards | Los Angeles Lakers | 10:00 PM | MNMT, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 212; Away ONLINE |  |  |
+| 4/6/2026 | TBD | TBD | 12:00 AM |  | Lucas Oil Stadium, Indianapolis, IN |  |  |  |
+
+## NBA — Upcoming Week
+2026-03-31 to 2026-04-06  
+_All times ET_  
 
 ### Tuesday March 31st
 
@@ -110,9 +103,19 @@ _All times ET_
 | 4/5/2026 | Phoenix Suns | Chicago Bulls | 3:30 PM | Arizona's Family 3TV, CHSN, NBA League Pass, Suns Live | United Center, Chicago, IL | Home 212; Away ONLINE |  |  |
 | 4/5/2026 | Memphis Grizzlies | Milwaukee Bucks | 3:30 PM | FanDuel SN SE, FanDuel SN WI, NBA League Pass | Fiserv Forum, Milwaukee, WI | Home 145; Away ONLINE |  |  |
 | 4/5/2026 | **Indiana Pacers** | Cleveland Cavaliers | 6:00 PM | FanDuel SN IN, FanDuel SN OH, NBA League Pass | Rocket Arena, Cleveland, OH | Home 214; Away ONLINE |  |  |
-| 4/5/2026 | Charlotte Hornets | Minnesota Timberwolves | 7:00 PM | FanDuel SN North, FanDuel SN SE, NBA League Pass | Target Center, Minneapolis, MN | Home 213; Away ONLINE |  |  |
+| 4/5/2026 | Charlotte Hornets | Minnesota Timberwolves | 7:00 PM | FanDuel SN North, FanDuel SN SE, NBA League Pass, WSOC-TV Channel 9 | Target Center, Minneapolis, MN | Home 213; Away ONLINE |  |  |
 | 4/5/2026 | Orlando Magic | New Orleans Pelicans | 7:00 PM | FanDuel SN FL, GCSEN, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 145; Away ONLINE |  |  |
 | 4/5/2026 | Utah Jazz | Oklahoma City Thunder | 7:00 PM | FanDuel SN OK, Jazz+, KJZZ-TV, NBA League Pass | Paycom Center, Oklahoma City, OK | Home 212; Away ONLINE |  |  |
 | 4/5/2026 | Los Angeles Lakers | Dallas Mavericks | 7:30 PM | NBC, Peacock | American Airlines Center, Dallas, TX | Home 86; Away ONLINE |  |  |
 | 4/5/2026 | LA Clippers | Sacramento Kings | 9:00 PM | FanDuel SN SoCal, NBA League Pass, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 214 |  |  |
 | 4/5/2026 | Houston Rockets | Golden State Warriors | 10:00 PM | NBC, Peacock | Chase Center, San Francisco, CA | Home 86; Away ONLINE |  |  |
+
+### Monday April 6th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4/6/2026 | New York Knicks | Atlanta Hawks | 7:00 PM | MSG, NBCSN, Peacock | State Farm Arena, Atlanta, GA | Home 86; Away ONLINE |  |  |
+| 4/6/2026 | Detroit Pistons | Orlando Magic | 7:00 PM | FanDuel SN DET, FanDuel SN FL, NBA League Pass | Kia Center, Orlando, FL | Home 145; Away ONLINE |  |  |
+| 4/6/2026 | Cleveland Cavaliers | Memphis Grizzlies | 8:00 PM | FanDuel SN OH, FanDuel SN SE, NBA League Pass | FedExForum, Memphis, TN | Home 212; Away ONLINE |  |  |
+| 4/6/2026 | Philadelphia 76ers | San Antonio Spurs | 8:00 PM | FanDuel SN SW, NBA League Pass, NBC Sports Phil | Frost Bank Center, San Antonio, TX | Home 213; Away ONLINE |  |  |
+| 4/6/2026 | Portland Trail Blazers | Denver Nuggets | 9:00 PM | Altitude Sports, BlazerVision, KUNP 16, NBA League Pass | Ball Arena, Denver, CO | Home 214; Away ONLINE |  |  |
