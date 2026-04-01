@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-03-31 10:28 UTC_
+_Last updated: 2026-04-01 10:29 UTC_
 
 ## College Football — Upcoming Week
-2026-03-31 to 2026-04-06  
+2026-04-01 to 2026-04-07  
 _All times ET_  
 
 > No upcoming games.
@@ -15,7 +15,7 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-03-31 to 2026-04-06  
+2026-04-01 to 2026-04-07  
 _All times ET_  
 
 ### Saturday April 4th
@@ -29,23 +29,11 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/6/2026 | TBD | TBD | 12:00 AM |  | Lucas Oil Stadium, Indianapolis, IN |  |  |  |
+| 4/6/2026 | TBD | TBD | 8:50 PM |  | Lucas Oil Stadium, Indianapolis, IN |  |  |  |
 
 ## NBA — Upcoming Week
-2026-03-31 to 2026-04-06  
+2026-04-01 to 2026-04-07  
 _All times ET_  
-
-### Tuesday March 31st
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/31/2026 | Phoenix Suns | Orlando Magic | 7:00 PM | Arizona's Family 3TV, FanDuel SN FL, NBA League Pass, Suns Live | Kia Center, Orlando, FL | Home 212; Away ONLINE |  |  |
-| 3/31/2026 | Charlotte Hornets | Brooklyn Nets | 7:30 PM | FanDuel SN SE, NBA League Pass, WLNY | Barclays Center, Brooklyn, NY | Home 213; Away ONLINE |  |  |
-| 3/31/2026 | Toronto Raptors | Detroit Pistons | 8:00 PM | FanDuel SN DET Ext, NBA League Pass, Sportsnet | Little Caesars Arena, Detroit, MI | Home 167; Away ONLINE |  |  |
-| 3/31/2026 | New York Knicks | Houston Rockets | 8:00 PM | MSG, NBC, Peacock | Toyota Center (Houston), Houston, TX | Home 86; Away ONLINE |  |  |
-| 3/31/2026 | Dallas Mavericks | Milwaukee Bucks | 8:00 PM | FanDuel SN WI, KFAA-TV, Mavs.com, NBA League Pass | Fiserv Forum, Milwaukee, WI | Home 214; Away ONLINE |  |  |
-| 3/31/2026 | Cleveland Cavaliers | Los Angeles Lakers | 10:30 PM | FanDuel SN OH, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 86 / 212; Away ONLINE |  |  |
-| 3/31/2026 | Portland Trail Blazers | LA Clippers | 11:00 PM | BlazerVision, FanDuel SN SoCal, KUNP 16, NBC, Peacock | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
 
 ### Wednesday April 1st
 
@@ -119,3 +107,18 @@ _All times ET_
 | 4/6/2026 | Cleveland Cavaliers | Memphis Grizzlies | 8:00 PM | FanDuel SN OH, FanDuel SN SE, NBA League Pass | FedExForum, Memphis, TN | Home 212; Away ONLINE |  |  |
 | 4/6/2026 | Philadelphia 76ers | San Antonio Spurs | 8:00 PM | FanDuel SN SW, NBA League Pass, NBC Sports Phil | Frost Bank Center, San Antonio, TX | Home 213; Away ONLINE |  |  |
 | 4/6/2026 | Portland Trail Blazers | Denver Nuggets | 9:00 PM | Altitude Sports, BlazerVision, KUNP 16, NBA League Pass | Ball Arena, Denver, CO | Home 214; Away ONLINE |  |  |
+
+### Tuesday April 7th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4/7/2026 | Chicago Bulls | Washington Wizards | 7:00 PM | CHSN, MNMT, NBA League Pass | Capital One Arena, Washington, DC | Home 212; Away ONLINE |  |  |
+| 4/7/2026 | Minnesota Timberwolves | **Indiana Pacers** | 7:00 PM | FanDuel SN IN, FanDuel SN North, NBA League Pass | Gainbridge Fieldhouse, Indianapolis, IN | Away ONLINE |  |  |
+| 4/7/2026 | Milwaukee Bucks | Brooklyn Nets | 7:30 PM | FanDuel SN WI, NBA League Pass, WLNY | Barclays Center, Brooklyn, NY | Home 212 / 213; Away ONLINE |  |  |
+| 4/7/2026 | Miami Heat | Toronto Raptors | 7:30 PM | FanDuel SN Sun, NBA League Pass, TSN | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE |  |  |
+| 4/7/2026 | Charlotte Hornets | Boston Celtics | 8:00 PM | NBC, NBC Sports BO, Peacock | TD Garden, Boston, MA | Home 86; Away ONLINE |  |  |
+| 4/7/2026 | Utah Jazz | New Orleans Pelicans | 8:00 PM | GCSEN, Jazz+, KJZZ-TV, NBA League Pass, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 145; Away ONLINE |  |  |
+| 4/7/2026 | Sacramento Kings | Golden State Warriors | 10:00 PM | NBA League Pass, NBC Sports BA, NBC Sports CA | Chase Center, San Francisco, CA | Home 86 / 213; Away ONLINE |  |  |
+| 4/7/2026 | Oklahoma City Thunder | Los Angeles Lakers | 10:30 PM | FanDuel SN OK, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 215 |  |  |
+| 4/7/2026 | Dallas Mavericks | LA Clippers | 10:30 PM | FanDuel SN SoCal, KFAA-TV, Mavs.com, NBA League Pass | Intuit Dome, Inglewood, CA |  |  |  |
+| 4/7/2026 | Houston Rockets | Phoenix Suns | 11:00 PM | NBC, Peacock, Space City Home Network | Mortgage Matchup Center, Phoenix, AZ | Away ONLINE |  |  |
