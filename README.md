@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-04-08 10:29 UTC_
+_Last updated: 2026-04-09 10:33 UTC_
 
 ## College Football — Upcoming Week
-2026-04-08 to 2026-04-14  
+2026-04-09 to 2026-04-15  
 _All times ET_  
 
 > No upcoming games.
@@ -15,26 +15,14 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-04-08 to 2026-04-14  
+2026-04-09 to 2026-04-15  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-04-08 to 2026-04-14  
+2026-04-09 to 2026-04-15  
 _All times ET_  
-
-### Wednesday April 8th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/8/2026 | Atlanta Hawks | Cleveland Cavaliers | 7:00 PM | ESPN, FanDuel SN OH, FanDuel SN SE | Rocket Arena, Cleveland, OH | Home 86; Away ONLINE |  |  |
-| 4/8/2026 | Minnesota Timberwolves | Orlando Magic | 7:00 PM | FanDuel SN FL, FanDuel SN North, NBA League Pass | Kia Center, Orlando, FL | Home 212; Away ONLINE |  |  |
-| 4/8/2026 | Milwaukee Bucks | Detroit Pistons | 7:00 PM | FanDuel SN DET, FanDuel SN WI, NBA League Pass | Little Caesars Arena, Detroit, MI | Home 213; Away ONLINE |  |  |
-| 4/8/2026 | Memphis Grizzlies | Denver Nuggets | 9:00 PM | FanDuel SN SE, KTVD-TV (My20), NBA League Pass | Ball Arena, Denver, CO | Home 215; Away ONLINE |  |  |
-| 4/8/2026 | Portland Trail Blazers | San Antonio Spurs | 9:30 PM | BlazerVision, ESPN, FanDuel SN SW, KUNP 16 | Frost Bank Center, San Antonio, TX | Home 214; Away ONLINE |  |  |
-| 4/8/2026 | Oklahoma City Thunder | LA Clippers | 10:00 PM | FanDuel SN OK, FanDuel SN SoCal, NBA League Pass | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
-| 4/8/2026 | Dallas Mavericks | Phoenix Suns | 10:00 PM | Arizona's Family 3TV, KFAA-TV, Mavs.com, NBA League Pass, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 212; Away ONLINE |  |  |
 
 ### Thursday April 9th
 
@@ -61,7 +49,7 @@ _All times ET_
 | 4/10/2026 | Brooklyn Nets | Milwaukee Bucks | 8:00 PM | FanDuel SN WI, NBA League Pass, WLNY | Fiserv Forum, Milwaukee, WI | Home 214; Away ONLINE |  |  |
 | 4/10/2026 | Dallas Mavericks | San Antonio Spurs | 8:00 PM | KENS 5, KFAA-TV, Mavs.com, NBA League Pass | Frost Bank Center, San Antonio, TX | Home 215; Away ONLINE |  |  |
 | 4/10/2026 | Oklahoma City Thunder | Denver Nuggets | 9:00 PM | Altitude Sports, FanDuel SN OK, NBA League Pass | Ball Arena, Denver, CO | Home 217; Away ONLINE |  |  |
-| 4/10/2026 | Minnesota Timberwolves | Houston Rockets | 9:30 PM | FanDuel SN North, Prime Video, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 214 / 81; Away ONLINE |  |  |
+| 4/10/2026 | Minnesota Timberwolves | Houston Rockets | 9:30 PM | FanDuel SN North, Prime Video, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 214 / 81 |  |  |
 | 4/10/2026 | Memphis Grizzlies | Utah Jazz | 9:30 PM | FanDuel SN SE, Jazz+, KJZZ-TV, NBA League Pass | Delta Center, Salt Lake City, UT | Home 85; Away ONLINE |  |  |
 | 4/10/2026 | LA Clippers | Portland Trail Blazers | 10:00 PM | BlazerVision, FanDuel SN SoCal, KUNP 16, NBA League Pass | Moda Center, Portland, OR | Home 145 |  |  |
 | 4/10/2026 | Golden State Warriors | Sacramento Kings | 10:00 PM | NBA League Pass, NBC Sports BA, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 81; Away ONLINE |  |  |
@@ -71,7 +59,7 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/12/2026 | Orlando Magic | Boston Celtics | 6:00 PM | FanDuel SN FL, NBA League Pass, NBC Sports BO | TD Garden, Boston, MA | Home 214; Away ONLINE |  |  |
+| 4/12/2026 | Orlando Magic | Boston Celtics | 6:00 PM | ESPN, FanDuel SN FL, NBC Sports BO | TD Garden, Boston, MA | Home 214; Away ONLINE |  |  |
 | 4/12/2026 | Washington Wizards | Cleveland Cavaliers | 6:00 PM | FanDuel SN OH, MNMT, MNMT2, NBA League Pass | Rocket Arena, Cleveland, OH | Home 215; Away ONLINE |  |  |
 | 4/12/2026 | Detroit Pistons | **Indiana Pacers** | 6:00 PM | FanDuel SN DET, FanDuel SN IN, NBA League Pass | Gainbridge Fieldhouse, Indianapolis, IN | Home 212; Away ONLINE |  |  |
 | 4/12/2026 | Atlanta Hawks | Miami Heat | 6:00 PM | FanDuel SN SE, FanDuel SN Sun, NBA League Pass | Kaseya Center, Miami, FL | Home 145; Away ONLINE |  |  |
@@ -82,7 +70,7 @@ _All times ET_
 | 4/12/2026 | Memphis Grizzlies | Houston Rockets | 8:30 PM | FanDuel SN SE, NBA League Pass, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 81; Away ONLINE |  |  |
 | 4/12/2026 | New Orleans Pelicans | Minnesota Timberwolves | 8:30 PM | FanDuel SN North, GCSEN, NBA League Pass, Pelicans.com | Target Center, Minneapolis, MN | Home 83; Away ONLINE |  |  |
 | 4/12/2026 | Phoenix Suns | Oklahoma City Thunder | 8:30 PM | Arizona's Family 3TV, FanDuel SN OK, NBA League Pass, Suns Live | Paycom Center, Oklahoma City, OK | Home 85; Away ONLINE |  |  |
-| 4/12/2026 | Denver Nuggets | San Antonio Spurs | 8:30 PM | Altitude Sports, FanDuel SN SW, NBA League Pass | Frost Bank Center, San Antonio, TX | Home 86; Away ONLINE |  |  |
+| 4/12/2026 | Denver Nuggets | San Antonio Spurs | 8:30 PM | Altitude Sports, ESPN, FanDuel SN SW, NBA League Pass | Frost Bank Center, San Antonio, TX | Home 86; Away ONLINE |  |  |
 | 4/12/2026 | Utah Jazz | Los Angeles Lakers | 8:30 PM | Jazz+, KJZZ-TV, NBA League Pass, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 202 / 217; Away ONLINE |  |  |
 | 4/12/2026 | Golden State Warriors | LA Clippers | 8:30 PM | FanDuel SN SoCal, NBA League Pass, NBC Sports BA | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
 | 4/12/2026 | Sacramento Kings | Portland Trail Blazers | 8:30 PM | BlazerVision, KUNP 16, NBA League Pass, NBC Sports CA | Moda Center, Portland, OR | Home 201; Away ONLINE |  |  |
@@ -91,5 +79,12 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/14/2026 | TBD | TBD | 12:00 AM | Prime Video |  |  |  |  |
-| 4/14/2026 | TBD | TBD | 12:00 AM | Prime Video |  |  |  |  |
+| 4/14/2026 | Clippers/Trail Blazers | Phoenix Suns | 10:00 PM | Prime Video | Mortgage Matchup Center, Phoenix, AZ |  |  |  |
+| 4/14/2026 | TBD | TBD | 7:30 PM | Prime Video |  |  |  |  |
+
+### Wednesday April 15th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4/15/2026 | Golden State Warriors | Clippers/Trail Blazers | 10:00 PM | Prime Video |  | Away ONLINE |  |  |
+| 4/15/2026 | TBD | TBD | 7:30 PM | Prime Video |  |  |  |  |
