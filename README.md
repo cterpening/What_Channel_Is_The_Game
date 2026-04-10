@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-04-09 10:33 UTC_
+_Last updated: 2026-04-10 10:28 UTC_
 
 ## College Football — Upcoming Week
-2026-04-09 to 2026-04-15  
+2026-04-10 to 2026-04-16  
 _All times ET_  
 
 > No upcoming games.
@@ -15,25 +15,14 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-04-09 to 2026-04-15  
+2026-04-10 to 2026-04-16  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-04-09 to 2026-04-15  
+2026-04-10 to 2026-04-16  
 _All times ET_  
-
-### Thursday April 9th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/9/2026 | Miami Heat | Toronto Raptors | 7:00 PM | FanDuel SN Sun, NBA League Pass, Sportsnet | Scotiabank Arena, Toronto, ON | Home 167; Away ONLINE |  |  |
-| 4/9/2026 | Chicago Bulls | Washington Wizards | 7:00 PM | CHSN, MNMT, NBA League Pass | Capital One Arena, Washington, DC | Home 212; Away ONLINE |  |  |
-| 4/9/2026 | **Indiana Pacers** | Brooklyn Nets | 7:30 PM | FanDuel SN IN, NBA League Pass, YES | Barclays Center, Brooklyn, NY | Home 213; Away ONLINE |  |  |
-| 4/9/2026 | Boston Celtics | New York Knicks | 7:30 PM | MSG, Prime Video | Madison Square Garden, New York, NY | Home 86; Away ONLINE |  |  |
-| 4/9/2026 | Philadelphia 76ers | Houston Rockets | 8:00 PM | NBA League Pass, NBC Sports Phil, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 214; Away ONLINE |  |  |
-| 4/9/2026 | Los Angeles Lakers | Golden State Warriors | 10:00 PM | Prime Video | Chase Center, San Francisco, CA | Home 86 / 80; Away 80 |  |  |
 
 ### Friday April 10th
 
@@ -49,7 +38,7 @@ _All times ET_
 | 4/10/2026 | Brooklyn Nets | Milwaukee Bucks | 8:00 PM | FanDuel SN WI, NBA League Pass, WLNY | Fiserv Forum, Milwaukee, WI | Home 214; Away ONLINE |  |  |
 | 4/10/2026 | Dallas Mavericks | San Antonio Spurs | 8:00 PM | KENS 5, KFAA-TV, Mavs.com, NBA League Pass | Frost Bank Center, San Antonio, TX | Home 215; Away ONLINE |  |  |
 | 4/10/2026 | Oklahoma City Thunder | Denver Nuggets | 9:00 PM | Altitude Sports, FanDuel SN OK, NBA League Pass | Ball Arena, Denver, CO | Home 217; Away ONLINE |  |  |
-| 4/10/2026 | Minnesota Timberwolves | Houston Rockets | 9:30 PM | FanDuel SN North, Prime Video, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 214 / 81 |  |  |
+| 4/10/2026 | Minnesota Timberwolves | Houston Rockets | 9:30 PM | FanDuel SN North, Prime Video, Space City Home Network | Toyota Center (Houston), Houston, TX | Home 81 |  |  |
 | 4/10/2026 | Memphis Grizzlies | Utah Jazz | 9:30 PM | FanDuel SN SE, Jazz+, KJZZ-TV, NBA League Pass | Delta Center, Salt Lake City, UT | Home 85; Away ONLINE |  |  |
 | 4/10/2026 | LA Clippers | Portland Trail Blazers | 10:00 PM | BlazerVision, FanDuel SN SoCal, KUNP 16, NBA League Pass | Moda Center, Portland, OR | Home 145 |  |  |
 | 4/10/2026 | Golden State Warriors | Sacramento Kings | 10:00 PM | NBA League Pass, NBC Sports BA, NBC Sports CA | Golden 1 Center, Sacramento, CA | Home 81; Away ONLINE |  |  |
