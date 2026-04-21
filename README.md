@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-04-20 10:40 UTC_
+_Last updated: 2026-04-21 10:35 UTC_
 
 ## College Football — Upcoming Week
-2026-04-20 to 2026-04-26  
+2026-04-21 to 2026-04-27  
 _All times ET_  
 
 > No upcoming games.
@@ -15,22 +15,14 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-04-20 to 2026-04-26  
+2026-04-21 to 2026-04-27  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-04-20 to 2026-04-26  
+2026-04-21 to 2026-04-27  
 _All times ET_  
-
-### Monday April 20th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/20/2026 | Toronto Raptors | Cleveland Cavaliers | 7:00 PM | NBCSN, Peacock | Rocket Arena, Cleveland, OH | Home 81; Away 167 |  |  |
-| 4/20/2026 | Atlanta Hawks | New York Knicks | 8:00 PM | NBC, Peacock | Madison Square Garden, New York, NY | Home 86 / 80; Away 83 / 80 |  |  |
-| 4/20/2026 | Minnesota Timberwolves | Denver Nuggets | 10:30 PM | NBC, Peacock | Ball Arena, Denver, CO | Home 86; Away 85 |  |  |
 
 ### Tuesday April 21st
 
@@ -80,3 +72,11 @@ _All times ET_
 | 4/26/2026 | San Antonio Spurs | Portland Trail Blazers | 3:30 PM | ESPN | Moda Center, Portland, OR | Home 86 / 80; Away 82 / 80 |  |  |
 | 4/26/2026 | Boston Celtics | Philadelphia 76ers | 7:00 PM | NBC, Peacock | Xfinity Mobile Arena, Philadelphia, PA | Home 86; Away 82 |  |  |
 | 4/26/2026 | Los Angeles Lakers | Houston Rockets | 9:30 PM | NBC, Peacock | Toyota Center (Houston), Houston, TX | Home 86; Away 85 |  |  |
+
+### Monday April 27th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4/27/2026 | Detroit Pistons | Orlando Magic | 8:00 PM | NBC, Peacock | Kia Center, Orlando, FL | Home 86; Away 82 |  |  |
+| 4/27/2026 | Oklahoma City Thunder | Phoenix Suns | 9:30 PM | NBCSN, Peacock | Mortgage Matchup Center, Phoenix, AZ | Home 86; Away 82 |  |  |
+| 4/27/2026 | Minnesota Timberwolves | Denver Nuggets | 10:30 PM | NBC, Peacock | Ball Arena, Denver, CO |  |  |  |
