@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-04-21 10:35 UTC_
+_Last updated: 2026-04-22 10:36 UTC_
 
 ## College Football — Upcoming Week
-2026-04-21 to 2026-04-27  
+2026-04-22 to 2026-04-28  
 _All times ET_  
 
 > No upcoming games.
@@ -15,22 +15,14 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-04-21 to 2026-04-27  
+2026-04-22 to 2026-04-28  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-04-21 to 2026-04-27  
+2026-04-22 to 2026-04-28  
 _All times ET_  
-
-### Tuesday April 21st
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/21/2026 | Philadelphia 76ers | Boston Celtics | 7:00 PM | NBCSN, Peacock | TD Garden, Boston, MA | Home 81; Away 85 |  |  |
-| 4/21/2026 | Portland Trail Blazers | San Antonio Spurs | 8:00 PM | NBC, Peacock | Frost Bank Center, San Antonio, TX | Home 86 / 80; Away 83 / 80 |  |  |
-| 4/21/2026 | Houston Rockets | Los Angeles Lakers | 10:30 PM | NBC, Peacock | crypto.com Arena, Los Angeles, CA | Home 86; Away 85 |  |  |
 
 ### Wednesday April 22nd
 
@@ -77,6 +69,14 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/27/2026 | Detroit Pistons | Orlando Magic | 8:00 PM | NBC, Peacock | Kia Center, Orlando, FL | Home 86; Away 82 |  |  |
-| 4/27/2026 | Oklahoma City Thunder | Phoenix Suns | 9:30 PM | NBCSN, Peacock | Mortgage Matchup Center, Phoenix, AZ | Home 86; Away 82 |  |  |
+| 4/27/2026 | Detroit Pistons | Orlando Magic | 8:00 PM | NBC, Peacock | Kia Center, Orlando, FL | Home 86; Away 82 / 81 |  |  |
+| 4/27/2026 | Oklahoma City Thunder | Phoenix Suns | 9:30 PM | NBCSN, Peacock | Mortgage Matchup Center, Phoenix, AZ | Home 86; Away 82 / 81 |  |  |
 | 4/27/2026 | Minnesota Timberwolves | Denver Nuggets | 10:30 PM | NBC, Peacock | Ball Arena, Denver, CO |  |  |  |
+
+### Tuesday April 28th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4/28/2026 | Portland Trail Blazers | San Antonio Spurs | 12:00 AM |  | Frost Bank Center, San Antonio, TX |  |  |  |
+| 4/28/2026 | Atlanta Hawks | New York Knicks | 12:00 AM |  | Madison Square Garden, New York, NY |  |  |  |
+| 4/28/2026 | Philadelphia 76ers | Boston Celtics | 12:00 AM |  | TD Garden, Boston, MA |  |  |  |
