@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-04-22 10:36 UTC_
+_Last updated: 2026-04-23 10:37 UTC_
 
 ## College Football — Upcoming Week
-2026-04-22 to 2026-04-28  
+2026-04-23 to 2026-04-29  
 _All times ET_  
 
 > No upcoming games.
@@ -15,21 +15,14 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-04-22 to 2026-04-28  
+2026-04-23 to 2026-04-29  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-04-22 to 2026-04-28  
+2026-04-23 to 2026-04-29  
 _All times ET_  
-
-### Wednesday April 22nd
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/22/2026 | Orlando Magic | Detroit Pistons | 7:00 PM | ESPN | Little Caesars Arena, Detroit, MI | Home 86; Away 81 |  |  |
-| 4/22/2026 | Phoenix Suns | Oklahoma City Thunder | 9:30 PM | ESPN | Paycom Center, Oklahoma City, OK | Home 86; Away 81 |  |  |
 
 ### Thursday April 23rd
 
@@ -69,14 +62,23 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/27/2026 | Detroit Pistons | Orlando Magic | 8:00 PM | NBC, Peacock | Kia Center, Orlando, FL | Home 86; Away 82 / 81 |  |  |
-| 4/27/2026 | Oklahoma City Thunder | Phoenix Suns | 9:30 PM | NBCSN, Peacock | Mortgage Matchup Center, Phoenix, AZ | Home 86; Away 82 / 81 |  |  |
-| 4/27/2026 | Minnesota Timberwolves | Denver Nuggets | 10:30 PM | NBC, Peacock | Ball Arena, Denver, CO |  |  |  |
+| 4/27/2026 | Detroit Pistons | Orlando Magic | 8:00 PM | NBC, Peacock | Kia Center, Orlando, FL | Home 86; Away 82 |  |  |
+| 4/27/2026 | Oklahoma City Thunder | Phoenix Suns | 9:30 PM | NBCSN, Peacock | Mortgage Matchup Center, Phoenix, AZ | Home 86; Away 82 |  |  |
+| 4/27/2026 | Minnesota Timberwolves | Denver Nuggets | 10:30 PM | NBC, Peacock | Ball Arena, Denver, CO | Away 81 |  |  |
 
 ### Tuesday April 28th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4/28/2026 | Portland Trail Blazers | San Antonio Spurs | 12:00 AM |  | Frost Bank Center, San Antonio, TX |  |  |  |
-| 4/28/2026 | Atlanta Hawks | New York Knicks | 12:00 AM |  | Madison Square Garden, New York, NY |  |  |  |
-| 4/28/2026 | Philadelphia 76ers | Boston Celtics | 12:00 AM |  | TD Garden, Boston, MA |  |  |  |
+| 4/28/2026 | Philadelphia 76ers | Boston Celtics | 7:00 PM | ESPN | TD Garden, Boston, MA |  |  |  |
+| 4/28/2026 | Atlanta Hawks | New York Knicks | 8:00 PM | NBC, Peacock | Madison Square Garden, New York, NY | Away 81 |  |  |
+| 4/28/2026 | Portland Trail Blazers | San Antonio Spurs | 9:30 PM | ESPN | Frost Bank Center, San Antonio, TX |  |  |  |
+
+### Wednesday April 29th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4/29/2026 | Phoenix Suns | Oklahoma City Thunder | 12:00 AM |  | Paycom Center, Oklahoma City, OK |  |  |  |
+| 4/29/2026 | Toronto Raptors | Cleveland Cavaliers | 12:00 AM |  | Rocket Arena, Cleveland, OH | Away 85 |  |  |
+| 4/29/2026 | Houston Rockets | Los Angeles Lakers | 12:00 AM |  | crypto.com Arena, Los Angeles, CA |  |  |  |
+| 4/29/2026 | Orlando Magic | Detroit Pistons | 12:00 AM |  | Little Caesars Arena, Detroit, MI |  |  |  |
