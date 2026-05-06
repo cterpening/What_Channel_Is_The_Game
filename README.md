@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-05-05 10:39 UTC_
+_Last updated: 2026-05-06 10:47 UTC_
 
 ## College Football — Upcoming Week
-2026-05-05 to 2026-05-11  
+2026-05-06 to 2026-05-12  
 _All times ET_  
 
 > No upcoming games.
@@ -15,21 +15,14 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-05-05 to 2026-05-11  
+2026-05-06 to 2026-05-12  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-05-05 to 2026-05-11  
+2026-05-06 to 2026-05-12  
 _All times ET_  
-
-### Tuesday May 5th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5/5/2026 | Cleveland Cavaliers | Detroit Pistons | 7:00 PM | NBCSN, Peacock | Little Caesars Arena, Detroit, MI | Home 86 / 80; Away 85 |  |  |
-| 5/5/2026 | Los Angeles Lakers | Oklahoma City Thunder | 8:30 PM | NBC, Peacock | Paycom Center, Oklahoma City, OK | Home 81; Away 83 |  |  |
 
 ### Wednesday May 6th
 
@@ -71,4 +64,11 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5/11/2026 | Detroit Pistons | Cleveland Cavaliers | 8:00 PM | NBC, Peacock | Rocket Arena, Cleveland, OH | Home 86; Away 85 |  |  |
-| 5/11/2026 | Oklahoma City Thunder | Los Angeles Lakers | 10:30 PM | Prime Video | crypto.com Arena, Los Angeles, CA | Home 83 / 80; Away 83 / 86 / 80 |  |  |
+| 5/11/2026 | Oklahoma City Thunder | Los Angeles Lakers | 10:30 PM | Prime Video | crypto.com Arena, Los Angeles, CA | Home 83 / 80; Away 86 / 80 |  |  |
+
+### Tuesday May 12th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5/12/2026 | Minnesota Timberwolves | San Antonio Spurs | 12:00 AM |  | Frost Bank Center, San Antonio, TX | Home 86; Away 81 |  |  |
+| 5/12/2026 | Philadelphia 76ers | New York Knicks | 12:00 AM |  | Madison Square Garden, New York, NY | Home 86; Away 81 |  |  |
