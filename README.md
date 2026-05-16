@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-05-15 10:53 UTC_
+_Last updated: 2026-05-16 10:33 UTC_
 
 ## College Football — Upcoming Week
-2026-05-15 to 2026-05-21  
+2026-05-16 to 2026-05-22  
 _All times ET_  
 
 > No upcoming games.
@@ -15,25 +15,35 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-05-15 to 2026-05-21  
+2026-05-16 to 2026-05-22  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-05-15 to 2026-05-21  
+2026-05-16 to 2026-05-22  
 _All times ET_  
-
-### Friday May 15th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5/15/2026 | Detroit Pistons | Cleveland Cavaliers | 7:00 PM | Prime Video | Rocket Arena, Cleveland, OH | Home 86 / 80; Away 85 / 80 |  |  |
-| 5/15/2026 | San Antonio Spurs | Minnesota Timberwolves | 9:30 PM | Prime Video | Target Center, Minneapolis, MN | Home 86 / 80; Away 81 / 80 |  |  |
 
 ### Sunday May 17th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5/17/2026 | Minnesota Timberwolves | San Antonio Spurs | 12:00 AM | NBC, Peacock | Frost Bank Center, San Antonio, TX | Away 81 |  |  |
-| 5/17/2026 | Cleveland Cavaliers | Detroit Pistons | 12:00 AM | Prime Video | Little Caesars Arena, Detroit, MI | Away 85 |  |  |
+| 5/17/2026 | Cleveland Cavaliers | Detroit Pistons | 8:00 PM | Prime Video | Little Caesars Arena, Detroit, MI |  |  |  |
+
+### Monday May 18th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5/18/2026 | San Antonio Spurs | Oklahoma City Thunder | 8:30 PM | NBC, Peacock | Paycom Center, Oklahoma City, OK |  |  |  |
+
+### Wednesday May 20th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5/20/2026 | San Antonio Spurs | Oklahoma City Thunder | 8:30 PM | NBC, Peacock | Paycom Center, Oklahoma City, OK |  |  |  |
+
+### Friday May 22nd
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5/22/2026 | Oklahoma City Thunder | San Antonio Spurs | 8:30 PM | NBC, Peacock | Frost Bank Center, San Antonio, TX |  |  |  |
