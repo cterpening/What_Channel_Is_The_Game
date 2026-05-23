@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-05-22 11:08 UTC_
+_Last updated: 2026-05-23 10:36 UTC_
 
 ## College Football — Upcoming Week
-2026-05-22 to 2026-05-28  
+2026-05-23 to 2026-05-29  
 _All times ET_  
 
 > No upcoming games.
@@ -15,20 +15,14 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-05-22 to 2026-05-28  
+2026-05-23 to 2026-05-29  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-05-22 to 2026-05-28  
+2026-05-23 to 2026-05-29  
 _All times ET_  
-
-### Friday May 22nd
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5/22/2026 | Oklahoma City Thunder | San Antonio Spurs | 8:30 PM | NBC, Peacock | Frost Bank Center, San Antonio, TX | Home 86 / 80; Away 85 / 80 |  |  |
 
 ### Saturday May 23rd
 
@@ -52,16 +46,22 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5/26/2026 | San Antonio Spurs | Oklahoma City Thunder | 8:30 PM | NBC, Peacock | Paycom Center, Oklahoma City, OK | Away 85 |  |  |
+| 5/26/2026 | San Antonio Spurs | Oklahoma City Thunder | 8:30 PM | NBC, Peacock | Paycom Center, Oklahoma City, OK | Home 86 / 80; Away 85 / 80 |  |  |
 
 ### Wednesday May 27th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5/27/2026 | Cleveland Cavaliers | New York Knicks | 8:00 PM | ESPN | Madison Square Garden, New York, NY |  |  |  |
+| 5/27/2026 | Cleveland Cavaliers | New York Knicks | 8:00 PM | ESPN | Madison Square Garden, New York, NY | Home 86 / 80; Away 81 / 80 |  |  |
 
 ### Thursday May 28th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5/28/2026 | Oklahoma City Thunder | San Antonio Spurs | 8:30 PM | NBC, Peacock | Frost Bank Center, San Antonio, TX | Home 86 / 80; Away 85 / 80 |  |  |
+
+### Friday May 29th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5/29/2026 | New York Knicks | Cleveland Cavaliers | 8:00 PM | ESPN | Rocket Arena, Cleveland, OH | Home 86 / 80; Away 81 / 80 |  |  |
