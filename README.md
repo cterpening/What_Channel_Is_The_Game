@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-05-23 10:36 UTC_
+_Last updated: 2026-05-24 10:38 UTC_
 
 ## College Football — Upcoming Week
-2026-05-23 to 2026-05-29  
+2026-05-24 to 2026-05-30  
 _All times ET_  
 
 > No upcoming games.
@@ -15,20 +15,14 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-05-23 to 2026-05-29  
+2026-05-24 to 2026-05-30  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-05-23 to 2026-05-29  
+2026-05-24 to 2026-05-30  
 _All times ET_  
-
-### Saturday May 23rd
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5/23/2026 | New York Knicks | Cleveland Cavaliers | 8:00 PM | ABC | Rocket Arena, Cleveland, OH | Home 86 / 80; Away 81 / 80 |  |  |
 
 ### Sunday May 24th
 
@@ -65,3 +59,9 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5/29/2026 | New York Knicks | Cleveland Cavaliers | 8:00 PM | ESPN | Rocket Arena, Cleveland, OH | Home 86 / 80; Away 81 / 80 |  |  |
+
+### Saturday May 30th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5/30/2026 | San Antonio Spurs | Oklahoma City Thunder | 8:00 PM | NBC, Peacock | Paycom Center, Oklahoma City, OK | Home 86 / 80; Away 85 / 80 |  |  |
