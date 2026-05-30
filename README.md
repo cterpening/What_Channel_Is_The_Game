@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-05-29 11:12 UTC_
+_Last updated: 2026-05-30 10:39 UTC_
 
 ## College Football — Upcoming Week
-2026-05-29 to 2026-06-04  
+2026-05-30 to 2026-06-05  
 _All times ET_  
 
 > No upcoming games.
@@ -15,13 +15,13 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-05-29 to 2026-06-04  
+2026-05-30 to 2026-06-05  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-05-29 to 2026-06-04  
+2026-05-30 to 2026-06-05  
 _All times ET_  
 
 ### Saturday May 30th
@@ -35,3 +35,9 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6/3/2026 | New York Knicks | Spurs/Thunder | 8:30 PM | ABC |  |  |  |  |
+
+### Friday June 5th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6/5/2026 | New York Knicks | Spurs/Thunder | 8:30 PM | ABC |  |  |  |  |
