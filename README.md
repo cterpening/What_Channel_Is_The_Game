@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-06-02 11:35 UTC_
+_Last updated: 2026-06-03 11:44 UTC_
 
 ## College Football — Upcoming Week
-2026-06-02 to 2026-06-08  
+2026-06-03 to 2026-06-09  
 _All times ET_  
 
 > No upcoming games.
@@ -15,13 +15,13 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-06-02 to 2026-06-08  
+2026-06-03 to 2026-06-09  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-06-02 to 2026-06-08  
+2026-06-03 to 2026-06-09  
 _All times ET_  
 
 ### Wednesday June 3rd
