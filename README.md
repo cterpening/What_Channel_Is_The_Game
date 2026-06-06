@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-06-05 11:13 UTC_
+_Last updated: 2026-06-06 10:43 UTC_
 
 ## College Football — Upcoming Week
-2026-06-05 to 2026-06-11  
+2026-06-06 to 2026-06-12  
 _All times ET_  
 
 > No upcoming games.
@@ -15,20 +15,14 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-06-05 to 2026-06-11  
+2026-06-06 to 2026-06-12  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-06-05 to 2026-06-11  
+2026-06-06 to 2026-06-12  
 _All times ET_  
-
-### Friday June 5th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6/5/2026 | New York Knicks | San Antonio Spurs | 8:30 PM | ABC | Frost Bank Center, San Antonio, TX | Home 86 / 80; Away 81 / 80 |  |  |
 
 ### Monday June 8th
 
