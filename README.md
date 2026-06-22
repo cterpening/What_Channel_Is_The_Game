@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-06-21 11:11 UTC_
+_Last updated: 2026-06-22 12:08 UTC_
 
 ## College Football — Upcoming Week
-2026-06-21 to 2026-06-27  
+2026-06-22 to 2026-06-28  
 _All times ET_  
 
 > No upcoming games.
@@ -15,58 +15,38 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-06-21 to 2026-06-27  
+2026-06-22 to 2026-06-28  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-06-21 to 2026-06-27  
+2026-06-22 to 2026-06-28  
 _All times ET_  
 
 > No upcoming games.
 
 ## MLB — Upcoming Week
-2026-06-21 to 2026-06-27  
+2026-06-22 to 2026-06-28  
 _All times ET_  
-
-### Sunday June 21st
-
-| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6/21/2026 | Cincinnati Reds | New York Yankees | 1:35 PM | MLB.TV, Reds.TV, YES | Yankee Stadium, Bronx, New York | Home 89; Away ONLINE |  |  |
-| 6/21/2026 | Milwaukee Brewers | Atlanta Braves | 1:35 PM | BravesVision, Brewers.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV | Truist Park, Atlanta, Georgia | Home 89; Away ONLINE |  |  |
-| 6/21/2026 | Chicago White Sox | Detroit Tigers | 1:40 PM | CHSN, MLB.TV, Tigers.TV | Comerica Park, Detroit, Michigan | Home 178 / 177; Away ONLINE |  |  |
-| 6/21/2026 | San Francisco Giants | Miami Marlins | 1:40 PM | MLB.TV, Marlins.TV, NBC Sports BA | loanDepot park, Miami, Florida | Home 178; Away ONLINE |  |  |
-| 6/21/2026 | Washington Nationals | Tampa Bay Rays | 1:40 PM | MLB.TV, Nationals.TV, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 176; Away ONLINE |  |  |
-| 6/21/2026 | Cleveland Guardians | Houston Astros | 2:10 PM | CLEGuardians.TV, MLB.TV, Space City Home Network | Daikin Park, Houston, Texas | Home 179 / 180; Away ONLINE |  |  |
-| 6/21/2026 | St. Louis Cardinals | Kansas City Royals | 2:10 PM | Cardinals.TV, MLB.TV, Royals.TV | Kauffman Stadium, Kansas City, Missouri | Home 179; Away ONLINE |  |  |
-| 6/21/2026 | Toronto Blue Jays | Chicago Cubs | 2:20 PM | MLB.TV, Marquee Sports Net, Sportsnet, TVA | Wrigley Field, Chicago, Illinois | Home 181; Away ONLINE |  |  |
-| 6/21/2026 | San Diego Padres | Texas Rangers | 2:35 PM | MLB.TV, Padres.TV, Rangers Sports Network | Globe Life Field, Arlington, Texas | Home 182; Away ONLINE |  |  |
-| 6/21/2026 | Pittsburgh Pirates | Colorado Rockies | 3:10 PM | MLB.TV, Rockies.TV | Coors Field, Denver, Colorado | Home 183; Away ONLINE |  |  |
-| 6/21/2026 | Minnesota Twins | Arizona Diamondbacks | 3:15 PM | Peacock | Chase Field, Phoenix, Arizona | Home 184; Away ONLINE |  |  |
-| 6/21/2026 | Los Angeles Angels | Athletics | 4:05 PM | Angels.TV, MLB.TV, NBC Sports CA | Sutter Health Park, Sacramento, California | Home 186; Away ONLINE |  |  |
-| 6/21/2026 | Baltimore Orioles | Los Angeles Dodgers | 4:10 PM | MASN, MLB.TV, Sportsnet LA | Dodger Stadium, Los Angeles, California | Home 185; Away ONLINE |  |  |
-| 6/21/2026 | Boston Red Sox | Seattle Mariners | 4:10 PM | MLB.TV, Mariners.TV, NESN | T-Mobile Park, Seattle, Washington | Home 185; Away ONLINE |  |  |
-| 6/21/2026 | New York Mets | Philadelphia Phillies | 7:20 PM | NBC, NBC/Peacock, Peacock | Citizens Bank Park, Philadelphia, Pennsylvania | Home 24 / 365 / 175 / 89; Away 89 |  |  |
 
 ### Monday June 22nd
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6/22/2026 | New York Yankees | Detroit Tigers | 6:10 PM | MLB.TV, Tigers.TV, YES | Comerica Park, Detroit, Michigan | Home 176; Away ONLINE |  |  |
-| 6/22/2026 | Kansas City Royals | Tampa Bay Rays | 6:40 PM | MLB.TV, Rays.TV, Royals.TV | Tropicana Field, St. Petersburg, Florida | Home 89; Away ONLINE |  |  |
+| 6/22/2026 | Kansas City Royals | Tampa Bay Rays | 6:40 PM | MLB.TV, Rays.TV, Royals.TV | Tropicana Field, St. Petersburg, Florida | Home 177 / 89; Away ONLINE |  |  |
 | 6/22/2026 | Texas Rangers | Miami Marlins | 6:40 PM | MLB.TV, Marlins.TV, Rangers Sports Network | loanDepot park, Miami, Florida | Home 177; Away ONLINE |  |  |
 | 6/22/2026 | Philadelphia Phillies | Washington Nationals | 6:45 PM | MLB.TV, NBC Sports Phil, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 175; Away ONLINE |  |  |
 | 6/22/2026 | Houston Astros | Toronto Blue Jays | 7:07 PM | ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Space City Home Network, Sportsnet, TVA | Rogers Centre, Toronto, Ontario | Home 179; Away ONLINE |  |  |
 | 6/22/2026 | Chicago Cubs | New York Mets | 7:10 PM | MLB.TV, Marquee Sports Net, SNY | Citi Field, Queens, New York | Home 180; Away ONLINE |  |  |
-| 6/22/2026 | Milwaukee Brewers | Cincinnati Reds | 7:10 PM | Brewers.TV, MLB.TV, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 178; Away ONLINE |  |  |
+| 6/22/2026 | Milwaukee Brewers | Cincinnati Reds | 7:10 PM | Brewers.TV, MLB.TV, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 180 / 178; Away ONLINE |  |  |
 | 6/22/2026 | Cleveland Guardians | Chicago White Sox | 7:40 PM | CHSN, CLEGuardians.TV, MLB.TV | Rate Field, Chicago, Illinois | Away ONLINE |  |  |
-| 6/22/2026 | Los Angeles Dodgers | Minnesota Twins | 7:40 PM | MLB.TV, Sportsnet LA, Twins.TV | Target Field, Minneapolis, Minnesota | Home 183; Away ONLINE |  |  |
+| 6/22/2026 | Los Angeles Dodgers | Minnesota Twins | 7:40 PM | MLB.TV, Sportsnet LA, Twins.TV | Target Field, Minneapolis, Minnesota | Home 182 / 183; Away ONLINE |  |  |
 | 6/22/2026 | Arizona Diamondbacks | St. Louis Cardinals | 7:45 PM | Cardinals.TV, DBACKS.TV, MLB.TV | Busch Stadium, St. Louis, Missouri | Home 181; Away ONLINE |  |  |
 | 6/22/2026 | Boston Red Sox | Colorado Rockies | 8:40 PM | MLB.TV, NESN, Rockies.TV | Coors Field, Denver, Colorado | Home 185; Away ONLINE |  |  |
 | 6/22/2026 | Baltimore Orioles | Los Angeles Angels | 9:38 PM | Angels.TV, MASN, MLB.TV | Angel Stadium, Anaheim, California | Home 186; Away ONLINE |  |  |
-| 6/22/2026 | Atlanta Braves | San Diego Padres | 10:00 PM | ESPN | Petco Park, San Diego, California | Home 89; Away ONLINE |  |  |
+| 6/22/2026 | Atlanta Braves | San Diego Padres | 10:00 PM | ESPN | Petco Park, San Diego, California | Home 24 / 365 / 89; Away ONLINE |  |  |
 
 ### Tuesday June 23rd
 
@@ -162,14 +142,34 @@ _All times ET_
 | 6/27/2026 | Atlanta Braves | San Francisco Giants | 9:05 PM | BravesVision, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 89; Away ONLINE |  |  |
 | 6/27/2026 | Athletics | Los Angeles Angels | 9:38 PM | Angels.TV, MLB.TV, NBC Sports CA | Angel Stadium, Anaheim, California | Home 177; Away ONLINE |  |  |
 
+### Sunday June 28th
+
+| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6/28/2026 | Cincinnati Reds | Pittsburgh Pirates | 1:35 PM | MLB.TV, Reds.TV | PNC Park, Pittsburgh, Pennsylvania | Home 175; Away ONLINE |  |  |
+| 6/28/2026 | Washington Nationals | Baltimore Orioles | 1:35 PM | MASN, MLB.TV, Nationals.TV | Oriole Park at Camden Yards, Baltimore, Maryland | Home 176; Away ONLINE |  |  |
+| 6/28/2026 | Texas Rangers | Toronto Blue Jays | 1:37 PM | MLB.TV, Rangers Sports Network, Sportsnet, TVA | Rogers Centre, Toronto, Ontario | Home 177; Away ONLINE |  |  |
+| 6/28/2026 | Arizona Diamondbacks | Tampa Bay Rays | 1:40 PM | DBACKS.TV, MLB.TV, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 178; Away ONLINE |  |  |
+| 6/28/2026 | Houston Astros | Detroit Tigers | 1:40 PM | MLB.TV, Space City Home Network, Tigers.TV | Comerica Park, Detroit, Michigan | Home 179; Away ONLINE |  |  |
+| 6/28/2026 | Philadelphia Phillies | New York Mets | 1:40 PM | ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, NBC Sports Phil, SNY | Citi Field, Queens, New York | Home 180; Away ONLINE |  |  |
+| 6/28/2026 | Seattle Mariners | Cleveland Guardians | 1:40 PM | CLEGuardians.TV, MLB.TV, Mariners.TV | Progressive Field, Cleveland, Ohio | Home 181; Away ONLINE |  |  |
+| 6/28/2026 | Chicago Cubs | Milwaukee Brewers | 2:10 PM | Brewers.TV, MLB.TV, Marquee Sports Net | American Family Field, Milwaukee, Wisconsin | Home 182; Away ONLINE |  |  |
+| 6/28/2026 | Colorado Rockies | Minnesota Twins | 2:10 PM | MLB.TV, Rockies.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 183; Away ONLINE |  |  |
+| 6/28/2026 | Kansas City Royals | Chicago White Sox | 2:10 PM | CHSN, MLB.TV, Royals.TV | Rate Field, Chicago, Illinois | Away ONLINE |  |  |
+| 6/28/2026 | Miami Marlins | St. Louis Cardinals | 2:15 PM | Cardinals.TV, MLB.TV, Marlins.TV | Busch Stadium, St. Louis, Missouri | Home 185; Away ONLINE |  |  |
+| 6/28/2026 | Athletics | Los Angeles Angels | 3:15 PM | Peacock | Angel Stadium, Anaheim, California | Home 186; Away ONLINE |  |  |
+| 6/28/2026 | Atlanta Braves | San Francisco Giants | 4:05 PM | BravesVision, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 187; Away ONLINE |  |  |
+| 6/28/2026 | Los Angeles Dodgers | San Diego Padres | 4:10 PM | MLB.TV, Padres.TV, Sportsnet LA | Petco Park, San Diego, California | Home 89; Away ONLINE |  |  |
+| 6/28/2026 | New York Yankees | Boston Red Sox | 7:20 PM | NBC, NBC/Peacock, Peacock | Fenway Park, Boston, Massachusetts | Home 175 / 89; Away ONLINE |  |  |
+
 ## MLS — Upcoming Week
-2026-06-21 to 2026-06-27  
+2026-06-22 to 2026-06-28  
 _All times ET_  
 
 > No upcoming games.
 
 ## Premier League — Upcoming Week
-2026-06-21 to 2026-06-27  
+2026-06-22 to 2026-06-28  
 _All times ET_  
 
 > No upcoming games.
@@ -177,16 +177,6 @@ _All times ET_
 ## FIFA World Cup — Upcoming Week
 2026-06-11 to 2026-06-27  
 _All times ET_  
-
-### Sunday June 21st
-
-| Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6/21/2026 | Japan | Tunisia | 12:00 AM | FOX One, FS1, Tele | Estadio BBVA, Guadalupe |  |  |  |
-| 6/21/2026 | Saudi Arabia | Spain | 12:00 PM | FOX, FOX One, Tele | Mercedes-Benz Stadium, Atlanta, Georgia | Home 83; Away 83 |  |  |
-| 6/21/2026 | Iran | Belgium | 3:00 PM | FOX One, FS1, Tele | SoFi Stadium, Inglewood, California | Home 83; Away 83 |  |  |
-| 6/21/2026 | Cape Verde | Uruguay | 6:00 PM | FOX One, FS1, Tele | Hard Rock Stadium, Miami Gardens, Florida | Home 83; Away 83 |  |  |
-| 6/21/2026 | Egypt | New Zealand | 9:00 PM | FOX One, FS1, Tele | BC Place, Vancouver | Home 83; Away 83 |  |  |
 
 ### Monday June 22nd
 
