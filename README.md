@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-07-24 11:45 UTC_
+_Last updated: 2026-07-25 11:16 UTC_
 
 ## College Football — Upcoming Week
-2026-07-24 to 2026-07-30  
+2026-07-25 to 2026-07-31  
 _All times ET_  
 
 > No upcoming games.
@@ -15,58 +15,38 @@ _All times ET_
 > No upcoming games.
 
 ## College Basketball — Upcoming Week
-2026-07-24 to 2026-07-30  
+2026-07-25 to 2026-07-31  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-07-24 to 2026-07-30  
+2026-07-25 to 2026-07-31  
 _All times ET_  
 
 > No upcoming games.
 
 ## MLB — Upcoming Week
-2026-07-24 to 2026-07-30  
+2026-07-25 to 2026-07-31  
 _All times ET_  
-
-### Friday July 24th
-
-| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7/24/2026 | Colorado Rockies | Milwaukee Brewers | 4:10 PM | Brewers.TV, MLB.TV, Rockies.TV | American Family Field, Milwaukee, Wisconsin | Home 89; Away ONLINE |  |  |
-| 7/24/2026 | Chicago Cubs | Pittsburgh Pirates | 6:40 PM | MLB.TV, Marquee Sports Net | PNC Park, Pittsburgh, Pennsylvania | Home 176; Away ONLINE |  |  |
-| 7/24/2026 | Kansas City Royals | Detroit Tigers | 6:40 PM | MLB.TV, Royals.TV, Tigers.TV | Comerica Park, Detroit, Michigan | Home 177 / 176; Away ONLINE |  |  |
-| 7/24/2026 | Arizona Diamondbacks | Washington Nationals | 6:45 PM | DBACKS.TV, Fox 5 WTTG, Gray Media, MLB.TV, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 175; Away ONLINE |  |  |
-| 7/24/2026 | New York Yankees | Philadelphia Phillies | 6:45 PM | Apple TV | Citizens Bank Park, Philadelphia, Pennsylvania | Home 178 / 175; Away ONLINE |  |  |
-| 7/24/2026 | Atlanta Braves | Baltimore Orioles | 7:05 PM | BravesVision, MASN, MLB.TV | Oriole Park at Camden Yards, Baltimore, Maryland | Home 180; Away ONLINE |  |  |
-| 7/24/2026 | Cleveland Guardians | Tampa Bay Rays | 7:10 PM | CLEGuardians.TV, MLB.TV, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 89; Away ONLINE |  |  |
-| 7/24/2026 | Los Angeles Dodgers | New York Mets | 7:10 PM | ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Sportsnet LA, WPIX | Citi Field, Queens, New York | Home 182 / 89; Away ONLINE |  |  |
-| 7/24/2026 | San Diego Padres | Miami Marlins | 7:10 PM | MLB.TV, Marlins.TV, Padres.TV | loanDepot park, Miami, Florida | Home 181; Away ONLINE |  |  |
-| 7/24/2026 | Toronto Blue Jays | Boston Red Sox | 7:15 PM | Apple TV, MLB.TV, MLB.TV/Apple TV, NESN, TVA | Fenway Park, Boston, Massachusetts | Home 179; Away ONLINE |  |  |
-| 7/24/2026 | Houston Astros | Chicago White Sox | 7:40 PM | CHSN, MLB.TV, Space City Home Network | Rate Field, Chicago, Illinois | Home 183; Away ONLINE |  |  |
-| 7/24/2026 | Seattle Mariners | Texas Rangers | 8:05 PM | CW33, MLB.TV, Mariners.TV | Globe Life Field, Arlington, Texas | Home 186; Away ONLINE |  |  |
-| 7/24/2026 | Athletics | Minnesota Twins | 8:10 PM | MLB.TV, NBC Sports CA, Twins.TV | Target Field, Minneapolis, Minnesota | Home 185; Away ONLINE |  |  |
-| 7/24/2026 | Cincinnati Reds | St. Louis Cardinals | 8:15 PM | Cardinals.TV, KMOV-TV, MLB.TV, Reds.TV | Busch Stadium, St. Louis, Missouri | Home 184; Away ONLINE |  |  |
-| 7/24/2026 | Los Angeles Angels | San Francisco Giants | 10:15 PM | Angels.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, KNTV, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 89 / 24 / 365; Away ONLINE |  |  |
 
 ### Saturday July 25th
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7/25/2026 | Kansas City Royals | Detroit Tigers | 1:10 PM | ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Royals.TV, Tigers.TV | Comerica Park, Detroit, Michigan | Home 89; Away ONLINE |  |  |
-| 7/25/2026 | Arizona Diamondbacks | Washington Nationals | 4:05 PM | DBACKS.TV, MLB.TV, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 176 / 189; Away 189 |  |  |
+| 7/25/2026 | Arizona Diamondbacks | Washington Nationals | 4:05 PM | DBACKS.TV, MLB.TV, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 177 / 176 / 189; Away 189 |  |  |
 | 7/25/2026 | Los Angeles Angels | San Francisco Giants | 4:05 PM | Angels.TV, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 177; Away ONLINE |  |  |
 | 7/25/2026 | San Diego Padres | Miami Marlins | 4:10 PM | FS1, MLB.TV, MLB.TV/FS1, Marlins.TV, Padres.TV | loanDepot park, Miami, Florida | Home 178; Away ONLINE |  |  |
-| 7/25/2026 | Toronto Blue Jays | Boston Red Sox | 4:10 PM | MLB.TV, NESN, Sportsnet, TVA | Fenway Park, Boston, Massachusetts | Home 175; Away ONLINE |  |  |
+| 7/25/2026 | Toronto Blue Jays | Boston Red Sox | 4:10 PM | MLB.TV, NESN, Sportsnet, TVA | Fenway Park, Boston, Massachusetts | Home 178 / 175; Away ONLINE |  |  |
 | 7/25/2026 | New York Yankees | Philadelphia Phillies | 6:05 PM | MLB.TV, NBC Sports Phil, YES | Citizens Bank Park, Philadelphia, Pennsylvania | Home 180; Away ONLINE |  |  |
 | 7/25/2026 | Cleveland Guardians | Tampa Bay Rays | 6:10 PM | CLEGuardians.TV, MLB.TV, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 179; Away ONLINE |  |  |
 | 7/25/2026 | Chicago Cubs | Pittsburgh Pirates | 6:40 PM | MLB.TV, Marquee Sports Net | PNC Park, Pittsburgh, Pennsylvania | Home 181; Away ONLINE |  |  |
 | 7/25/2026 | Atlanta Braves | Baltimore Orioles | 7:05 PM | BravesVision, MASN, MLB.TV | Oriole Park at Camden Yards, Baltimore, Maryland | Home 183; Away ONLINE |  |  |
-| 7/25/2026 | Athletics | Minnesota Twins | 7:10 PM | MLB.TV, NBC Sports CA, Twins.TV | Target Field, Minneapolis, Minnesota | Home 184; Away ONLINE |  |  |
+| 7/25/2026 | Athletics | Minnesota Twins | 7:10 PM | MLB.TV, NBC Sports CA, Twins.TV | Target Field, Minneapolis, Minnesota | Home 182 / 184; Away ONLINE |  |  |
 | 7/25/2026 | Colorado Rockies | Milwaukee Brewers | 7:10 PM | Brewers.TV, MLB.TV, Rockies.TV | American Family Field, Milwaukee, Wisconsin | Home 185; Away ONLINE |  |  |
-| 7/25/2026 | Houston Astros | Chicago White Sox | 7:10 PM | CHSN, MLB.TV, Space City Home Network | Rate Field, Chicago, Illinois | Home 183; Away ONLINE |  |  |
-| 7/25/2026 | Los Angeles Dodgers | New York Mets | 7:15 PM | FOX, MLB.TV, MLB.TV/FOX | Citi Field, Queens, New York | Home 186; Away ONLINE |  |  |
+| 7/25/2026 | Houston Astros | Chicago White Sox | 7:10 PM | CHSN, MLB.TV, Space City Home Network | Rate Field, Chicago, Illinois | Away ONLINE |  |  |
+| 7/25/2026 | Los Angeles Dodgers | New York Mets | 7:15 PM | FOX, MLB.TV, MLB.TV/FOX | Citi Field, Queens, New York | Home 24 / 365 / 186; Away ONLINE |  |  |
 | 7/25/2026 | Cincinnati Reds | St. Louis Cardinals | 7:15 PM | Cardinals.TV, MLB.TV, Reds.TV | Busch Stadium, St. Louis, Missouri | Home 187; Away ONLINE |  |  |
 | 7/25/2026 | Seattle Mariners | Texas Rangers | 7:15 PM | FOX, MLB.TV, MLB.TV/FOX | Globe Life Field, Arlington, Texas | Home 89; Away ONLINE |  |  |
 
@@ -84,7 +64,7 @@ _All times ET_
 | 7/26/2026 | San Diego Padres | Miami Marlins | 1:40 PM | MLB.TV, Marlins.TV, Padres.TV | loanDepot park, Miami, Florida | Home 182; Away ONLINE |  |  |
 | 7/26/2026 | Athletics | Minnesota Twins | 2:10 PM | MLB.TV, NBC Sports CA, Twins.TV | Target Field, Minneapolis, Minnesota | Home 183; Away ONLINE |  |  |
 | 7/26/2026 | Colorado Rockies | Milwaukee Brewers | 2:10 PM | Brewers.TV, MLB.TV, Rockies.TV | American Family Field, Milwaukee, Wisconsin | Home 184; Away ONLINE |  |  |
-| 7/26/2026 | Houston Astros | Chicago White Sox | 2:10 PM | CHSN, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Space City Home Network | Rate Field, Chicago, Illinois | Home 183; Away ONLINE |  |  |
+| 7/26/2026 | Houston Astros | Chicago White Sox | 2:10 PM | CHSN, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Space City Home Network | Rate Field, Chicago, Illinois | Away ONLINE |  |  |
 | 7/26/2026 | Cincinnati Reds | St. Louis Cardinals | 2:15 PM | Cardinals.TV, MLB.TV, Reds.TV | Busch Stadium, St. Louis, Missouri | Home 186; Away ONLINE |  |  |
 | 7/26/2026 | Seattle Mariners | Texas Rangers | 2:35 PM | MLB.TV, Mariners.TV, Rangers Sports Network | Globe Life Field, Arlington, Texas | Home 187; Away ONLINE |  |  |
 | 7/26/2026 | Los Angeles Angels | San Francisco Giants | 4:05 PM | Angels.TV, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 89; Away ONLINE |  |  |
@@ -101,69 +81,89 @@ _All times ET_
 | 7/27/2026 | Toronto Blue Jays | Washington Nationals | 6:45 PM | MLB.TV, Nationals.TV, Sportsnet, TVA | Nationals Park, Washington, District of Columbia | Home 180; Away ONLINE |  |  |
 | 7/27/2026 | Cleveland Guardians | Cincinnati Reds | 7:00 PM | ESPN | Great American Ball Park, Cincinnati, Ohio | Home 182; Away ONLINE |  |  |
 | 7/27/2026 | Atlanta Braves | New York Mets | 7:10 PM | BravesVision, MLB.TV, SNY | Citi Field, Queens, New York | Home 181; Away ONLINE |  |  |
-| 7/27/2026 | New York Yankees | Chicago White Sox | 7:40 PM | CHSN, MLB.TV, YES | Rate Field, Chicago, Illinois | Home 183; Away ONLINE |  |  |
+| 7/27/2026 | New York Yankees | Chicago White Sox | 7:40 PM | CHSN, MLB.TV, YES | Rate Field, Chicago, Illinois | Away ONLINE |  |  |
 | 7/27/2026 | Chicago Cubs | St. Louis Cardinals | 7:45 PM | Cardinals.TV, MLB.TV, Marquee Sports Net | Busch Stadium, St. Louis, Missouri | Home 184; Away ONLINE |  |  |
-| 7/27/2026 | Houston Astros | Los Angeles Angels | 9:38 PM | Angels.TV, KCOP, MLB.TV, Space City Home Network | Angel Stadium, Anaheim, California | Home 185; Away ONLINE |  |  |
-| 7/27/2026 | Boston Red Sox | Athletics | 9:40 PM | MLB.TV, NBC Sports CA, NESN | Sutter Health Park, Sacramento, California | Home 186; Away ONLINE |  |  |
-| 7/27/2026 | Milwaukee Brewers | San Francisco Giants | 9:45 PM | Brewers.TV, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 187; Away ONLINE |  |  |
+| 7/27/2026 | Houston Astros | Los Angeles Angels | 9:38 PM | Angels.TV, KCOP, MLB.TV, Space City Home Network | Angel Stadium, Anaheim, California | Home 175; Away ONLINE |  |  |
+| 7/27/2026 | Boston Red Sox | Athletics | 9:40 PM | MLB.TV, NBC Sports CA, NESN | Sutter Health Park, Sacramento, California | Home 89; Away ONLINE |  |  |
+| 7/27/2026 | Milwaukee Brewers | San Francisco Giants | 9:45 PM | Brewers.TV, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 176; Away ONLINE |  |  |
 
 ### Tuesday July 28th
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7/28/2026 | Arizona Diamondbacks | Pittsburgh Pirates | 6:40 PM | DBACKS.TV, MLB.TV | PNC Park, Pittsburgh, Pennsylvania | Home 176 / 181 / 178 / 177; Away 189 |  |  |
-| 7/28/2026 | Baltimore Orioles | Detroit Tigers | 6:40 PM | MASN, MLB.TV, Tigers.TV | Comerica Park, Detroit, Michigan | Home 177 / 89 / 180 / 178 / 176; Away ONLINE |  |  |
-| 7/28/2026 | Philadelphia Phillies | Miami Marlins | 6:40 PM | MLB.TV, Marlins.TV, NBC Sports Phil | loanDepot park, Miami, Florida | Home 181 / 178 / 182 / 179; Away ONLINE |  |  |
-| 7/28/2026 | Texas Rangers | Tampa Bay Rays | 6:40 PM | MLB.TV, Rangers Sports Network, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 89 / 179 / 175; Away ONLINE |  |  |
-| 7/28/2026 | Toronto Blue Jays | Washington Nationals | 6:45 PM | MLB.TV, Nationals.TV, Sportsnet | Nationals Park, Washington, District of Columbia | Home 175 / 176 / 189 / 180; Away ONLINE |  |  |
-| 7/28/2026 | Atlanta Braves | New York Mets | 7:10 PM | BravesVision, Gray Media, MLB.TV, SNY | Citi Field, Queens, New York | Home 182 / 186 / 181 / 89; Away ONLINE |  |  |
-| 7/28/2026 | Cleveland Guardians | Cincinnati Reds | 7:10 PM | CLEGuardians.TV, MLB.TV, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 182; Away ONLINE |  |  |
-| 7/28/2026 | Kansas City Royals | Minnesota Twins | 7:40 PM | MLB.TV, Royals.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 185 / 184 / 183; Away ONLINE |  |  |
-| 7/28/2026 | New York Yankees | Chicago White Sox | 7:40 PM | CHSN, MLB.TV, YES | Rate Field, Chicago, Illinois | Home 183; Away ONLINE |  |  |
-| 7/28/2026 | Chicago Cubs | St. Louis Cardinals | 7:45 PM | Cardinals.TV, MLB.TV, MLB.TV/TBS, Marquee Sports Net, TBS | Busch Stadium, St. Louis, Missouri | Home 184 / 187 / 186; Away ONLINE |  |  |
-| 7/28/2026 | Houston Astros | Los Angeles Angels | 9:38 PM | Angels.TV, MLB.TV, Space City Home Network | Angel Stadium, Anaheim, California | Home 185; Away ONLINE |  |  |
+| 7/28/2026 | Arizona Diamondbacks | Pittsburgh Pirates | 6:40 PM | DBACKS.TV, MLB.TV | PNC Park, Pittsburgh, Pennsylvania | Home 175; Away ONLINE |  |  |
+| 7/28/2026 | Baltimore Orioles | Detroit Tigers | 6:40 PM | MASN, MLB.TV, Tigers.TV | Comerica Park, Detroit, Michigan | Home 176; Away ONLINE |  |  |
+| 7/28/2026 | Philadelphia Phillies | Miami Marlins | 6:40 PM | MLB.TV, Marlins.TV, NBC Sports Phil | loanDepot park, Miami, Florida | Home 177; Away ONLINE |  |  |
+| 7/28/2026 | Texas Rangers | Tampa Bay Rays | 6:40 PM | MLB.TV, Rangers Sports Network, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 178; Away ONLINE |  |  |
+| 7/28/2026 | Toronto Blue Jays | Washington Nationals | 6:45 PM | MLB.TV, Nationals.TV, Sportsnet | Nationals Park, Washington, District of Columbia | Home 179; Away ONLINE |  |  |
+| 7/28/2026 | Atlanta Braves | New York Mets | 7:10 PM | BravesVision, Gray Media, MLB.TV, SNY | Citi Field, Queens, New York | Home 89; Away ONLINE |  |  |
+| 7/28/2026 | Cleveland Guardians | Cincinnati Reds | 7:10 PM | CLEGuardians.TV, MLB.TV, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 180; Away ONLINE |  |  |
+| 7/28/2026 | Kansas City Royals | Minnesota Twins | 7:40 PM | MLB.TV, Royals.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 182; Away ONLINE |  |  |
+| 7/28/2026 | New York Yankees | Chicago White Sox | 7:40 PM | CHSN, MLB.TV, YES | Rate Field, Chicago, Illinois | Away ONLINE |  |  |
+| 7/28/2026 | Chicago Cubs | St. Louis Cardinals | 7:45 PM | Cardinals.TV, MLB.TV, MLB.TV/TBS, Marquee Sports Net, TBS | Busch Stadium, St. Louis, Missouri | Home 181; Away ONLINE |  |  |
+| 7/28/2026 | Houston Astros | Los Angeles Angels | 9:38 PM | Angels.TV, MLB.TV, Space City Home Network | Angel Stadium, Anaheim, California | Home 185 / 89; Away ONLINE |  |  |
 | 7/28/2026 | Boston Red Sox | Athletics | 9:40 PM | MLB.TV, NBC Sports CA, NESN | Sutter Health Park, Sacramento, California | Home 186; Away ONLINE |  |  |
-| 7/28/2026 | Colorado Rockies | San Diego Padres | 9:40 PM | MLB.TV, Padres.TV, Rockies.TV | Petco Park, San Diego, California | Away ONLINE |  |  |
-| 7/28/2026 | Milwaukee Brewers | San Francisco Giants | 9:45 PM | Brewers.TV, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 89 / 177 / 187 / 24 / 365; Away ONLINE |  |  |
+| 7/28/2026 | Colorado Rockies | San Diego Padres | 9:40 PM | MLB.TV, Padres.TV, Rockies.TV | Petco Park, San Diego, California | Home 187; Away ONLINE |  |  |
+| 7/28/2026 | Milwaukee Brewers | San Francisco Giants | 9:45 PM | Brewers.TV, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 184; Away ONLINE |  |  |
 | 7/28/2026 | Seattle Mariners | Los Angeles Dodgers | 10:10 PM | MLB.TV, Mariners.TV, Sportsnet LA | Dodger Stadium, Los Angeles, California | Away ONLINE |  |  |
 
 ### Wednesday July 29th
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7/29/2026 | Philadelphia Phillies | Miami Marlins | 12:10 PM | MLB.TV, Marlins.TV, NBC Sports Phil | loanDepot park, Miami, Florida | Home 181 / 178 / 182 / 179; Away ONLINE |  |  |
-| 7/29/2026 | Arizona Diamondbacks | Pittsburgh Pirates | 12:35 PM | DBACKS.TV, MLB.TV | PNC Park, Pittsburgh, Pennsylvania | Home 176 / 181 / 178 / 177; Away 189 |  |  |
-| 7/29/2026 | Toronto Blue Jays | Washington Nationals | 1:05 PM | MLB.TV, Nationals.TV, Sportsnet | Nationals Park, Washington, District of Columbia | Home 175 / 176 / 189 / 180; Away ONLINE |  |  |
-| 7/29/2026 | Atlanta Braves | New York Mets | 1:10 PM | BravesVision, MLB.TV, SNY | Citi Field, Queens, New York | Home 182 / 186 / 181 / 89; Away ONLINE |  |  |
-| 7/29/2026 | Baltimore Orioles | Detroit Tigers | 1:10 PM | MASN, MLB.TV, Tigers.TV | Comerica Park, Detroit, Michigan | Home 177 / 89 / 180 / 178 / 176; Away ONLINE |  |  |
-| 7/29/2026 | Milwaukee Brewers | San Francisco Giants | 3:45 PM | Brewers.TV, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 89 / 177 / 187 / 24 / 365; Away ONLINE |  |  |
-| 7/29/2026 | Colorado Rockies | San Diego Padres | 4:10 PM | MLB.TV, Padres.TV, Rockies.TV | Petco Park, San Diego, California | Away ONLINE |  |  |
-| 7/29/2026 | Texas Rangers | Tampa Bay Rays | 6:40 PM | MLB.TV, Rangers Sports Network, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 89 / 179 / 175; Away ONLINE |  |  |
-| 7/29/2026 | Cleveland Guardians | Cincinnati Reds | 7:10 PM | CLEGuardians.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 182; Away ONLINE |  |  |
-| 7/29/2026 | Kansas City Royals | Minnesota Twins | 7:40 PM | Gray Media, KMSP-TV, MLB.TV, Royals.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 185 / 184 / 183; Away ONLINE |  |  |
-| 7/29/2026 | New York Yankees | Chicago White Sox | 7:40 PM | CHSN, MLB Net, MLB.TV, MLB.TV/Prime Video/MLB Net, Prime Video, WCIU-TV | Rate Field, Chicago, Illinois | Home 183; Away ONLINE |  |  |
-| 7/29/2026 | Chicago Cubs | St. Louis Cardinals | 7:45 PM | Cardinals.TV, MLB.TV, Marquee Sports Net | Busch Stadium, St. Louis, Missouri | Home 184 / 187 / 186; Away ONLINE |  |  |
-| 7/29/2026 | Houston Astros | Los Angeles Angels | 9:38 PM | Angels.TV, MLB.TV, Space City Home Network | Angel Stadium, Anaheim, California | Home 185; Away ONLINE |  |  |
-| 7/29/2026 | Boston Red Sox | Athletics | 9:40 PM | MLB.TV, NBC Sports CA, NESN | Sutter Health Park, Sacramento, California | Home 186; Away ONLINE |  |  |
+| 7/29/2026 | Philadelphia Phillies | Miami Marlins | 12:10 PM | MLB.TV, Marlins.TV, NBC Sports Phil | loanDepot park, Miami, Florida | Home 175; Away ONLINE |  |  |
+| 7/29/2026 | Arizona Diamondbacks | Pittsburgh Pirates | 12:35 PM | DBACKS.TV, MLB.TV | PNC Park, Pittsburgh, Pennsylvania | Home 176; Away ONLINE |  |  |
+| 7/29/2026 | Toronto Blue Jays | Washington Nationals | 1:05 PM | MLB.TV, Nationals.TV, Sportsnet | Nationals Park, Washington, District of Columbia | Home 177; Away ONLINE |  |  |
+| 7/29/2026 | Atlanta Braves | New York Mets | 1:10 PM | BravesVision, MLB.TV, SNY | Citi Field, Queens, New York | Home 89; Away ONLINE |  |  |
+| 7/29/2026 | Baltimore Orioles | Detroit Tigers | 1:10 PM | MASN, MLB.TV, Tigers.TV | Comerica Park, Detroit, Michigan | Home 178; Away ONLINE |  |  |
+| 7/29/2026 | Milwaukee Brewers | San Francisco Giants | 3:45 PM | Brewers.TV, MLB.TV, NBC Sports BA | Oracle Park, San Francisco, California | Home 179; Away ONLINE |  |  |
+| 7/29/2026 | Colorado Rockies | San Diego Padres | 4:10 PM | MLB.TV, Padres.TV, Rockies.TV | Petco Park, San Diego, California | Home 89; Away ONLINE |  |  |
+| 7/29/2026 | Texas Rangers | Tampa Bay Rays | 6:40 PM | MLB.TV, Rangers Sports Network, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 175; Away ONLINE |  |  |
+| 7/29/2026 | Cleveland Guardians | Cincinnati Reds | 7:10 PM | CLEGuardians.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 89; Away ONLINE |  |  |
+| 7/29/2026 | Kansas City Royals | Minnesota Twins | 7:40 PM | Gray Media, KMSP-TV, MLB.TV, Royals.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 176; Away ONLINE |  |  |
+| 7/29/2026 | New York Yankees | Chicago White Sox | 7:40 PM | CHSN, MLB Net, MLB.TV, MLB.TV/Prime Video/MLB Net, Prime Video, WCIU-TV | Rate Field, Chicago, Illinois | Away ONLINE |  |  |
+| 7/29/2026 | Chicago Cubs | St. Louis Cardinals | 7:45 PM | Cardinals.TV, MLB.TV, Marquee Sports Net | Busch Stadium, St. Louis, Missouri | Home 178; Away ONLINE |  |  |
+| 7/29/2026 | Houston Astros | Los Angeles Angels | 9:38 PM | Angels.TV, MLB.TV, Space City Home Network | Angel Stadium, Anaheim, California | Home 179 / 89; Away ONLINE |  |  |
+| 7/29/2026 | Boston Red Sox | Athletics | 9:40 PM | MLB.TV, NBC Sports CA, NESN | Sutter Health Park, Sacramento, California | Home 180; Away ONLINE |  |  |
 | 7/29/2026 | Seattle Mariners | Los Angeles Dodgers | 10:10 PM | MLB.TV, Mariners.TV, Sportsnet LA | Dodger Stadium, Los Angeles, California | Away ONLINE |  |  |
 
 ### Thursday July 30th
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7/30/2026 | Texas Rangers | Tampa Bay Rays | 12:10 PM | MLB.TV, Rangers Sports Network, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 89 / 179 / 175; Away ONLINE |  |  |
-| 7/30/2026 | Kansas City Royals | Minnesota Twins | 1:40 PM | MLB.TV, Royals.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 185 / 184 / 183; Away ONLINE |  |  |
-| 7/30/2026 | New York Yankees | Chicago White Sox | 2:10 PM | CHSN, MLB.TV, YES | Rate Field, Chicago, Illinois | Home 183; Away ONLINE |  |  |
-| 7/30/2026 | Chicago Cubs | St. Louis Cardinals | 2:15 PM | Cardinals.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Marquee Sports Net | Busch Stadium, St. Louis, Missouri | Home 184 / 187 / 186; Away ONLINE |  |  |
-| 7/30/2026 | Washington Nationals | Atlanta Braves | 7:00 PM | ESPN | Truist Park, Atlanta, Georgia |  |  |  |
-| 7/30/2026 | Miami Marlins | New York Mets | 7:10 PM | MLB.TV, Marlins.TV, SNY | Citi Field, Queens, New York | Home 182 / 186 / 181 / 89 |  |  |
-| 7/30/2026 | Pittsburgh Pirates | Cincinnati Reds | 7:10 PM | MLB.TV, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 182 |  |  |
-| 7/30/2026 | Boston Red Sox | Athletics | 9:40 PM | MLB.TV, NBC Sports CA, NESN | Sutter Health Park, Sacramento, California | Home 186; Away ONLINE |  |  |
-| 7/30/2026 | San Francisco Giants | San Diego Padres | 9:40 PM | MLB.TV, NBC Sports BA, Padres.TV | Petco Park, San Diego, California | Away ONLINE |  |  |
+| 7/30/2026 | Texas Rangers | Tampa Bay Rays | 12:10 PM | MLB.TV, Rangers Sports Network, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 175; Away ONLINE |  |  |
+| 7/30/2026 | Kansas City Royals | Minnesota Twins | 1:40 PM | MLB.TV, Royals.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 176; Away ONLINE |  |  |
+| 7/30/2026 | New York Yankees | Chicago White Sox | 2:10 PM | CHSN, MLB.TV, YES | Rate Field, Chicago, Illinois | Away ONLINE |  |  |
+| 7/30/2026 | Chicago Cubs | St. Louis Cardinals | 2:15 PM | Cardinals.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Marquee Sports Net | Busch Stadium, St. Louis, Missouri | Home 178; Away ONLINE |  |  |
+| 7/30/2026 | Washington Nationals | Atlanta Braves | 7:00 PM | ESPN | Truist Park, Atlanta, Georgia | Home 180; Away ONLINE |  |  |
+| 7/30/2026 | Miami Marlins | New York Mets | 7:10 PM | MLB.TV, Marlins.TV, SNY | Citi Field, Queens, New York | Home 179; Away ONLINE |  |  |
+| 7/30/2026 | Pittsburgh Pirates | Cincinnati Reds | 7:10 PM | MLB.TV, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 89; Away ONLINE |  |  |
+| 7/30/2026 | Boston Red Sox | Athletics | 9:40 PM | MLB.TV, NBC Sports CA, NESN | Sutter Health Park, Sacramento, California | Home 176; Away ONLINE |  |  |
+| 7/30/2026 | San Francisco Giants | San Diego Padres | 9:40 PM | MLB.TV, NBC Sports BA, Padres.TV | Petco Park, San Diego, California | Home 175; Away ONLINE |  |  |
 | 7/30/2026 | Seattle Mariners | Los Angeles Dodgers | 10:10 PM | MLB Net, MLB.TV, MLB.TV/MLB Net, Mariners.TV, Sportsnet LA | Dodger Stadium, Los Angeles, California | Away ONLINE |  |  |
 
+### Friday July 31st
+
+| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7/31/2026 | New York Yankees | Chicago Cubs | 2:20 PM | MLB.TV, Marquee Sports Net, YES | Wrigley Field, Chicago, Illinois | Home 175; Away ONLINE |  |  |
+| 7/31/2026 | Pittsburgh Pirates | Cincinnati Reds | 6:10 PM | MLB.TV, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 176; Away ONLINE |  |  |
+| 7/31/2026 | Philadelphia Phillies | Baltimore Orioles | 7:05 PM | MASN, MLB.TV, NBC Sports Phil | Oriole Park at Camden Yards, Baltimore, Maryland | Home 177; Away ONLINE |  |  |
+| 7/31/2026 | St. Louis Cardinals | Toronto Blue Jays | 7:07 PM | Cardinals.TV, MLB.TV, Sportsnet | Rogers Centre, Toronto, Ontario | Home 89; Away ONLINE |  |  |
+| 7/31/2026 | Arizona Diamondbacks | Cleveland Guardians | 7:10 PM | CLEGuardians.TV, DBACKS.TV, MLB.TV | Progressive Field, Cleveland, Ohio | Home 179; Away ONLINE |  |  |
+| 7/31/2026 | Chicago White Sox | Tampa Bay Rays | 7:10 PM | CHSN, MLB.TV, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 180 |  |  |
+| 7/31/2026 | Miami Marlins | New York Mets | 7:10 PM | MLB.TV, Marlins.TV, WFOR, WPIX | Citi Field, Queens, New York | Home 181; Away ONLINE |  |  |
+| 7/31/2026 | Washington Nationals | Atlanta Braves | 7:15 PM | BravesVision, Fox 5 WTTG, Gray Media, MLB.TV, Nationals.TV | Truist Park, Atlanta, Georgia | Home 178; Away ONLINE |  |  |
+| 7/31/2026 | Texas Rangers | Houston Astros | 8:10 PM | Apple TV | Daikin Park, Houston, Texas | Home 182; Away ONLINE |  |  |
+| 7/31/2026 | Kansas City Royals | Colorado Rockies | 8:40 PM | MLB.TV, Rockies.TV, Royals.TV | Coors Field, Denver, Colorado | Home 183; Away ONLINE |  |  |
+| 7/31/2026 | Milwaukee Brewers | Los Angeles Angels | 9:38 PM | Angels.TV, Brewers.TV, MLB.TV | Angel Stadium, Anaheim, California | Home 185 / 187; Away ONLINE |  |  |
+| 7/31/2026 | Detroit Tigers | Athletics | 9:40 PM | MLB.TV, NBC Sports CA, Tigers.TV | Sutter Health Park, Sacramento, California | Home 186; Away ONLINE |  |  |
+| 7/31/2026 | San Francisco Giants | San Diego Padres | 9:40 PM | Apple TV | Petco Park, San Diego, California | Home 184; Away ONLINE |  |  |
+| 7/31/2026 | Boston Red Sox | Los Angeles Dodgers | 10:10 PM | ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, NESN, Sportsnet LA | Dodger Stadium, Los Angeles, California | Away ONLINE |  |  |
+| 7/31/2026 | Minnesota Twins | Seattle Mariners | 10:10 PM | KING 5, MLB.TV, Mariners.TV, Twins.TV | T-Mobile Park, Seattle, Washington | Home 89; Away ONLINE |  |  |
+
 ## MLS — Upcoming Week
-2026-07-24 to 2026-07-30  
+2026-07-25 to 2026-07-31  
 _All times ET_  
 
 ### Saturday July 25th
@@ -172,7 +172,7 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7/25/2026 | Charlotte FC | Red Bull New York | 6:30 PM | Apple TV | Red Bull Arena, Harrison, New Jersey |  |  |  |
 | 7/25/2026 | FC Cincinnati | Columbus Crew | 7:15 PM | Apple TV, FOX Deportes, FS1 | ScottsMiracle-Gro Field, Columbus, Ohio |  |  |  |
-| 7/25/2026 | Inter Miami CF | CF Montréal | 7:30 PM | Apple TV | Stade Saputo, Montreal |  |  |  |
+| 7/25/2026 | Inter Miami CF | CF Montréal | 7:30 PM | Apple TV | Stade Saputo, Montreal | Home 157 |  |  |
 | 7/25/2026 | Toronto FC | D.C. United | 7:30 PM | Apple TV | Audi Field, Washington, District of Columbia |  |  |  |
 | 7/25/2026 | Atlanta United FC | New England Revolution | 7:30 PM | Apple TV | Gillette Stadium, Foxborough, Massachusetts |  |  |  |
 | 7/25/2026 | Chicago Fire FC | New York City FC | 7:30 PM | Apple TV | Yankee Stadium, New York City |  |  |  |
@@ -184,16 +184,22 @@ _All times ET_
 | 7/25/2026 | FC Dallas | San Diego FC | 9:30 PM | Apple TV, FS1 | Snapdragon Stadium, San Diego, California |  |  |  |
 | 7/25/2026 | Sporting Kansas City | LAFC | 10:30 PM | Apple TV | BMO Stadium, Los Angeles, California |  |  |  |
 | 7/25/2026 | Real Salt Lake | Portland Timbers | 10:30 PM | Apple TV | Providence Park, Portland, Oregon |  |  |  |
-| 7/25/2026 | LA Galaxy | San Jose Earthquakes | 10:30 PM | Apple TV | Stanford Stadium, Stanford, California |  |  |  |
+| 7/25/2026 | LA Galaxy | San Jose Earthquakes | 10:30 PM | Apple TV | Stanford Stadium, Stanford, California | Home 157 |  |  |
 
 ### Wednesday July 29th
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 7/29/2026 | Liga MX All-Stars | MLS All-Stars | 8:00 PM | Apple TV | Bank of America Stadium, Charlotte, North Carolina |  |  |  |
+| 7/29/2026 | Liga MX All-Stars | MLS All-Stars | 8:00 PM | Apple TV | Bank of America Stadium, Charlotte, North Carolina | Home 157; Away 157 |  |  |
+
+### Friday July 31st
+
+| Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7/31/2026 | Toronto FC | New York City FC | 7:30 PM | Apple TV | Yankee Stadium, New York City |  |  |  |
 
 ## Premier League — Upcoming Week
-2026-07-24 to 2026-07-30  
+2026-07-25 to 2026-07-31  
 _All times ET_  
 
 > No upcoming games.
