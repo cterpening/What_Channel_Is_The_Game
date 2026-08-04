@@ -1,9 +1,9 @@
 # Sports Schedules
 
-_Last updated: 2026-08-03 12:58 UTC_
+_Last updated: 2026-08-04 12:05 UTC_
 
 ## College Football — Upcoming Week
-2026-08-03 to 2026-08-09  
+2026-08-04 to 2026-08-10  
 _All times ET_  
 
 > No upcoming games.
@@ -19,33 +19,20 @@ _All times ET_
 | 8/6/2026 | Carolina | Arizona | 8:00 PM | NBC | Tom Benson Hall of Fame Stadium, Canton, OH |  |  |  |
 
 ## College Basketball — Upcoming Week
-2026-08-03 to 2026-08-09  
+2026-08-04 to 2026-08-10  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-08-03 to 2026-08-09  
+2026-08-04 to 2026-08-10  
 _All times ET_  
 
 > No upcoming games.
 
 ## MLB — Upcoming Week
-2026-08-03 to 2026-08-09  
+2026-08-04 to 2026-08-10  
 _All times ET_  
-
-### Monday August 3rd
-
-| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 8/3/2026 | Washington Nationals | Philadelphia Phillies | 6:40 PM | MLB.TV, NBC Sports Phil, Nationals.TV | Citizens Bank Park, Philadelphia, Pennsylvania | Home 175; Away ONLINE |  |  |
-| 8/3/2026 | St. Louis Cardinals | New York Yankees | 7:05 PM | Cardinals.TV, MLB.TV, YES | Yankee Stadium, Bronx, New York | Home 176; Away ONLINE |  |  |
-| 8/3/2026 | Pittsburgh Pirates | Milwaukee Brewers | 7:40 PM | Brewers.TV, MLB.TV | American Family Field, Milwaukee, Wisconsin | Home 177; Away ONLINE |  |  |
-| 8/3/2026 | San Francisco Giants | Texas Rangers | 8:00 PM | ESPN | Globe Life Field, Arlington, Texas | Home 178 / 89; Away ONLINE |  |  |
-| 8/3/2026 | Los Angeles Dodgers | Chicago Cubs | 8:05 PM | MLB.TV, Marquee Sports Net, SportsNet LA | Wrigley Field, Chicago, Illinois | Home 178 |  |  |
-| 8/3/2026 | Toronto Blue Jays | Houston Astros | 8:10 PM | MLB.TV, Space City Home (Alt.), Space City Home Network, Sportsnet, TVA | Daikin Park, Houston, Texas | Home 179; Away ONLINE |  |  |
-| 8/3/2026 | Tampa Bay Rays | Colorado Rockies | 8:40 PM | MLB.TV, Rays.TV, Rockies.TV | Coors Field, Denver, Colorado | Home 181; Away ONLINE |  |  |
-| 8/3/2026 | San Diego Padres | Arizona Diamondbacks | 9:40 PM | DBACKS.TV, MLB.TV, Padres.TV | Chase Field, Phoenix, Arizona | Home 24 / 365 / 182; Away ONLINE |  |  |
 
 ### Tuesday August 4th
 
@@ -54,17 +41,17 @@ _All times ET_
 | 8/4/2026 | Los Angeles Angels | Baltimore Orioles | 6:35 PM | Angels.TV, MASN, MLB.TV | Oriole Park at Camden Yards, Baltimore, Maryland | Home 175; Away ONLINE |  |  |
 | 8/4/2026 | Athletics | Cincinnati Reds | 6:40 PM | MLB.TV, NBC Sports CA, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 176; Away ONLINE |  |  |
 | 8/4/2026 | New York Mets | Cleveland Guardians | 6:40 PM | CLEGuardians.TV, MLB.TV, SNY, WKYC 3 | Progressive Field, Cleveland, Ohio | Home 177; Away ONLINE |  |  |
-| 8/4/2026 | Washington Nationals | Philadelphia Phillies | 6:40 PM | MLB.TV, NBC Sports Phil, Nationals.TV | Citizens Bank Park, Philadelphia, Pennsylvania | Home 178; Away ONLINE |  |  |
-| 8/4/2026 | St. Louis Cardinals | New York Yankees | 7:05 PM | Cardinals.TV, MLB.TV, YES | Yankee Stadium, Bronx, New York | Home 176; Away ONLINE |  |  |
-| 8/4/2026 | Chicago White Sox | Boston Red Sox | 7:10 PM | CHSN, MLB.TV, NESN | Fenway Park, Boston, Massachusetts | Home 180 |  |  |
+| 8/4/2026 | Washington Nationals | Philadelphia Phillies | 6:40 PM | MLB.TV, NBC Sports Phil, Nationals.TV | Citizens Bank Park, Philadelphia, Pennsylvania | Home 178 / 176; Away ONLINE |  |  |
+| 8/4/2026 | St. Louis Cardinals | New York Yankees | 7:05 PM | Cardinals.TV, MLB.TV, YES | Yankee Stadium, Bronx, New York | Home 89; Away ONLINE |  |  |
+| 8/4/2026 | Chicago White Sox | Boston Red Sox | 7:10 PM | CHSN, MLB.TV, NESN | Fenway Park, Boston, Massachusetts | Home 180; Away ONLINE |  |  |
 | 8/4/2026 | Miami Marlins | Atlanta Braves | 7:15 PM | BravesVision, Gray Media, MLB.TV, Marlins.TV | Truist Park, Atlanta, Georgia | Home 179; Away ONLINE |  |  |
 | 8/4/2026 | Minnesota Twins | Kansas City Royals | 7:40 PM | MLB.TV, Royals.TV, Twins.TV | Kauffman Stadium, Kansas City, Missouri | Home 182; Away ONLINE |  |  |
-| 8/4/2026 | Pittsburgh Pirates | Milwaukee Brewers | 7:40 PM | Brewers.TV, MLB.TV | American Family Field, Milwaukee, Wisconsin | Home 181; Away ONLINE |  |  |
+| 8/4/2026 | Pittsburgh Pirates | Milwaukee Brewers | 7:40 PM | Brewers.TV, MLB.TV | American Family Field, Milwaukee, Wisconsin | Home 181 / 182; Away ONLINE |  |  |
 | 8/4/2026 | Los Angeles Dodgers | Chicago Cubs | 8:05 PM | MLB.TV, MLB.TV/TBS, Marquee Sports Net, SportsNet LA, TBS | Wrigley Field, Chicago, Illinois | Home 184 |  |  |
-| 8/4/2026 | San Francisco Giants | Texas Rangers | 8:05 PM | MLB.TV, NBC Sports BA, Rangers Sports Network | Globe Life Field, Arlington, Texas | Home 185; Away ONLINE |  |  |
+| 8/4/2026 | San Francisco Giants | Texas Rangers | 8:05 PM | MLB.TV, NBC Sports BA, Rangers Sports Network | Globe Life Field, Arlington, Texas | Home 185 / 184; Away ONLINE |  |  |
 | 8/4/2026 | Toronto Blue Jays | Houston Astros | 8:10 PM | MLB.TV, Space City Home (Alt.), Space City Home Network, Sportsnet | Daikin Park, Houston, Texas | Home 183; Away ONLINE |  |  |
 | 8/4/2026 | Tampa Bay Rays | Colorado Rockies | 8:40 PM | MLB.TV, Rays.TV, Rockies.TV | Coors Field, Denver, Colorado | Home 187; Away ONLINE |  |  |
-| 8/4/2026 | Detroit Tigers | Seattle Mariners | 9:40 PM | MLB.TV, Mariners.TV, Tigers.TV | T-Mobile Park, Seattle, Washington | Home 188; Away ONLINE |  |  |
+| 8/4/2026 | Detroit Tigers | Seattle Mariners | 9:40 PM | MLB.TV, Mariners.TV, Tigers.TV | T-Mobile Park, Seattle, Washington | Home 188 / 24 / 365; Away ONLINE |  |  |
 | 8/4/2026 | San Diego Padres | Arizona Diamondbacks | 9:40 PM | DBACKS.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Padres.TV | Chase Field, Phoenix, Arizona | Home 189; Away ONLINE |  |  |
 
 ### Wednesday August 5th
@@ -79,8 +66,8 @@ _All times ET_
 | 8/5/2026 | Athletics | Cincinnati Reds | 6:40 PM | MLB.TV, NBC Sports CA, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 181; Away ONLINE |  |  |
 | 8/5/2026 | New York Mets | Cleveland Guardians | 6:40 PM | CLEGuardians.TV, MLB.TV, SNY | Progressive Field, Cleveland, Ohio | Home 182; Away ONLINE |  |  |
 | 8/5/2026 | Washington Nationals | Philadelphia Phillies | 6:40 PM | MLB.TV, NBC Sports Phil, Nationals.TV | Citizens Bank Park, Philadelphia, Pennsylvania | Home 179; Away ONLINE |  |  |
-| 8/5/2026 | St. Louis Cardinals | New York Yankees | 7:05 PM | Cardinals.TV, MLB.TV, MLB.TV/Prime Video, Prime Video | Yankee Stadium, Bronx, New York | Home 176; Away ONLINE |  |  |
-| 8/5/2026 | Chicago White Sox | Boston Red Sox | 7:10 PM | CHSN, MLB.TV, NESN | Fenway Park, Boston, Massachusetts | Home 185 |  |  |
+| 8/5/2026 | St. Louis Cardinals | New York Yankees | 7:05 PM | Cardinals.TV, MLB.TV, MLB.TV/Prime Video, Prime Video | Yankee Stadium, Bronx, New York | Home 89; Away ONLINE |  |  |
+| 8/5/2026 | Chicago White Sox | Boston Red Sox | 7:10 PM | CHSN, MLB.TV, NESN | Fenway Park, Boston, Massachusetts | Home 185; Away ONLINE |  |  |
 | 8/5/2026 | Miami Marlins | Atlanta Braves | 7:15 PM | BravesVision, MLB.TV, Marlins.TV | Truist Park, Atlanta, Georgia | Home 183; Away ONLINE |  |  |
 | 8/5/2026 | Pittsburgh Pirates | Milwaukee Brewers | 7:30 PM | ESPN | American Family Field, Milwaukee, Wisconsin | Home 89; Away ONLINE |  |  |
 | 8/5/2026 | Minnesota Twins | Kansas City Royals | 7:40 PM | MLB.TV, Royals.TV, Twins.TV | Kauffman Stadium, Kansas City, Missouri | Home 175; Away ONLINE |  |  |
@@ -98,7 +85,7 @@ _All times ET_
 | 8/6/2026 | Toronto Blue Jays | Chicago Cubs | 2:20 PM | MLB.TV, Marquee Sports Net, Sportsnet, TVA | Wrigley Field, Chicago, Illinois | Home 179; Away ONLINE |  |  |
 | 8/6/2026 | Detroit Tigers | Seattle Mariners | 4:10 PM | MLB.TV, Mariners.TV, Tigers.TV | T-Mobile Park, Seattle, Washington | Home 89; Away ONLINE |  |  |
 | 8/6/2026 | Washington Nationals | Philadelphia Phillies | 6:05 PM | MLB.TV, NBC Sports Phil, Nationals.TV | Citizens Bank Park, Philadelphia, Pennsylvania | Home 180; Away ONLINE |  |  |
-| 8/6/2026 | Chicago White Sox | Boston Red Sox | 7:10 PM | CHSN, MLB.TV, NESN | Fenway Park, Boston, Massachusetts | Home 89 |  |  |
+| 8/6/2026 | Chicago White Sox | Boston Red Sox | 7:10 PM | CHSN, MLB.TV, NESN | Fenway Park, Boston, Massachusetts | Home 89; Away ONLINE |  |  |
 | 8/6/2026 | Miami Marlins | Atlanta Braves | 7:15 PM | BravesVision, MLB.TV, Marlins.TV | Truist Park, Atlanta, Georgia | Home 181; Away ONLINE |  |  |
 | 8/6/2026 | Minnesota Twins | Kansas City Royals | 7:30 PM | ESPN | Kauffman Stadium, Kansas City, Missouri | Home 175; Away ONLINE |  |  |
 | 8/6/2026 | San Diego Padres | Arizona Diamondbacks | 9:40 PM | DBACKS.TV, MLB.TV, Padres.TV | Chase Field, Phoenix, Arizona | Home 176; Away ONLINE |  |  |
@@ -110,7 +97,7 @@ _All times ET_
 | 8/7/2026 | New York Mets | Pittsburgh Pirates | 6:40 PM | MLB.TV, WPIX | PNC Park, Pittsburgh, Pennsylvania | Home 175; Away ONLINE |  |  |
 | 8/7/2026 | Toronto Blue Jays | Philadelphia Phillies | 6:40 PM | MLB.TV, NBC Sports Phil, Sportsnet | Citizens Bank Park, Philadelphia, Pennsylvania | Home 176; Away ONLINE |  |  |
 | 8/7/2026 | Cincinnati Reds | Washington Nationals | 6:45 PM | Fox 5 WTTG, Gray Media, MLB.TV, Nationals.TV, Reds.TV | Nationals Park, Washington, District of Columbia | Home 177; Away ONLINE |  |  |
-| 8/7/2026 | Atlanta Braves | New York Yankees | 7:05 PM | BravesVision, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, YES | Yankee Stadium, Bronx, New York | Home 176; Away ONLINE |  |  |
+| 8/7/2026 | Atlanta Braves | New York Yankees | 7:05 PM | BravesVision, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, YES | Yankee Stadium, Bronx, New York | Home 89; Away ONLINE |  |  |
 | 8/7/2026 | Los Angeles Angels | Miami Marlins | 7:10 PM | Angels.TV, MLB.TV, Marlins.TV | loanDepot park, Miami, Florida | Home 180; Away ONLINE |  |  |
 | 8/7/2026 | Athletics | Boston Red Sox | 7:10 PM | MLB.TV, NBC Sports CA, NESN | Fenway Park, Boston, Massachusetts | Home 179; Away ONLINE |  |  |
 | 8/7/2026 | Cleveland Guardians | Chicago White Sox | 7:40 PM | CHSN, CLEGuardians.TV, MLB.TV | Rate Field, Chicago, Illinois | Away ONLINE |  |  |
@@ -127,7 +114,7 @@ _All times ET_
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 8/8/2026 | Atlanta Braves | New York Yankees | 3:05 PM | BravesVision, MLB.TV, YES | Yankee Stadium, Bronx, New York | Home 176; Away ONLINE |  |  |
+| 8/8/2026 | Atlanta Braves | New York Yankees | 3:05 PM | BravesVision, MLB.TV, YES | Yankee Stadium, Bronx, New York | Home 89; Away ONLINE |  |  |
 | 8/8/2026 | Los Angeles Angels | Miami Marlins | 4:10 PM | Angels.TV, MLB.TV, Marlins.TV | loanDepot park, Miami, Florida | Home 89; Away ONLINE |  |  |
 | 8/8/2026 | Athletics | Boston Red Sox | 4:10 PM | FS1, MLB.TV, MLB.TV/FS1, NBC Sports CA, NESN | Fenway Park, Boston, Massachusetts | Home 176; Away ONLINE |  |  |
 | 8/8/2026 | Toronto Blue Jays | Philadelphia Phillies | 6:05 PM | MLB.TV, NBC Sports Phil, Sportsnet | Citizens Bank Park, Philadelphia, Pennsylvania | Home 177; Away ONLINE |  |  |
@@ -149,7 +136,7 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8/9/2026 | Cincinnati Reds | Washington Nationals | 12:15 PM | Peacock | Nationals Park, Washington, District of Columbia | Home 175; Away ONLINE |  |  |
 | 8/9/2026 | Athletics | Boston Red Sox | 1:35 PM | MLB.TV, NBC Sports CA, NESN | Fenway Park, Boston, Massachusetts | Home 176; Away ONLINE |  |  |
-| 8/9/2026 | Atlanta Braves | New York Yankees | 1:35 PM | BravesVision, MLB.TV, YES | Yankee Stadium, Bronx, New York | Home 176; Away ONLINE |  |  |
+| 8/9/2026 | Atlanta Braves | New York Yankees | 1:35 PM | BravesVision, MLB.TV, YES | Yankee Stadium, Bronx, New York | Home 89; Away ONLINE |  |  |
 | 8/9/2026 | New York Mets | Pittsburgh Pirates | 1:35 PM | MLB.TV, SNY | PNC Park, Pittsburgh, Pennsylvania | Home 178; Away ONLINE |  |  |
 | 8/9/2026 | Toronto Blue Jays | Philadelphia Phillies | 1:35 PM | MLB.TV, NBC Sports Phil, Sportsnet | Citizens Bank Park, Philadelphia, Pennsylvania | Home 179; Away ONLINE |  |  |
 | 8/9/2026 | Los Angeles Angels | Miami Marlins | 1:40 PM | Angels.TV, MLB.TV, Marlins.TV, WBFS | loanDepot park, Miami, Florida | Home 180; Away ONLINE |  |  |
@@ -161,10 +148,25 @@ _All times ET_
 | 8/9/2026 | Detroit Tigers | San Francisco Giants | 4:05 PM | ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, NBC Sports BA, Tigers.TV | Oracle Park, San Francisco, California | Home 187; Away ONLINE |  |  |
 | 8/9/2026 | Los Angeles Dodgers | Arizona Diamondbacks | 4:10 PM | DBACKS.TV, MLB.TV, SportsNet LA | Chase Field, Phoenix, Arizona | Home 89 |  |  |
 | 8/9/2026 | Tampa Bay Rays | Seattle Mariners | 4:10 PM | MLB.TV, Mariners.TV, Rays.TV, WMOR | T-Mobile Park, Seattle, Washington | Home 188; Away ONLINE |  |  |
-| 8/9/2026 | Houston Astros | San Diego Padres | 8:20 PM | NBC, NBC/Peacock, Peacock | Petco Park, San Diego, California | Home 175 / 89; Away 89 |  |  |
+| 8/9/2026 | Houston Astros | San Diego Padres | 8:20 PM | NBC | Petco Park, San Diego, California | Home 175 / 89; Away 89 |  |  |
+
+### Monday August 10th
+
+| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8/10/2026 | Boston Red Sox | Toronto Blue Jays | 7:07 PM | MLB.TV, NESN, Sportsnet | Rogers Centre, Toronto, Ontario | Home 175; Away ONLINE |  |  |
+| 8/10/2026 | New York Mets | Atlanta Braves | 7:15 PM | BravesVision, MLB.TV, SNY | Truist Park, Atlanta, Georgia | Home 89; Away ONLINE |  |  |
+| 8/10/2026 | Baltimore Orioles | Minnesota Twins | 7:40 PM | MASN, MLB.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 177; Away ONLINE |  |  |
+| 8/10/2026 | Philadelphia Phillies | St. Louis Cardinals | 7:45 PM | Cardinals.TV, FS1, MLB.TV, MLB.TV/FS1, NBC Sports Phil | Busch Stadium, St. Louis, Missouri | Home 176; Away ONLINE |  |  |
+| 8/10/2026 | Texas Rangers | Los Angeles Angels | 9:38 PM | Angels.TV, MLB.TV, Rangers Sports Network | Angel Stadium, Anaheim, California | Home 179 / 89; Away ONLINE |  |  |
+| 8/10/2026 | Colorado Rockies | Arizona Diamondbacks | 9:40 PM | DBACKS.TV, MLB.TV, Rockies.TV | Chase Field, Phoenix, Arizona | Home 180; Away ONLINE |  |  |
+| 8/10/2026 | Milwaukee Brewers | San Diego Padres | 9:40 PM | Brewers.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Padres.TV | Petco Park, San Diego, California | Home 181; Away ONLINE |  |  |
+| 8/10/2026 | Tampa Bay Rays | Athletics | 9:40 PM | MLB.TV, NBC Sports CA, Rays.TV | Sutter Health Park, Sacramento, California | Home 182; Away ONLINE |  |  |
+| 8/10/2026 | Houston Astros | San Francisco Giants | 9:45 PM | MLB.TV, NBC Sports BA, Space City Home Network | Oracle Park, San Francisco, California | Home 178; Away ONLINE |  |  |
+| 8/10/2026 | Kansas City Royals | Los Angeles Dodgers | 10:10 PM | MLB.TV, Royals.TV, SportsNet LA | Dodger Stadium, Los Angeles, California | Away ONLINE |  |  |
 
 ## MLS — Upcoming Week
-2026-08-03 to 2026-08-09  
+2026-08-04 to 2026-08-10  
 _All times ET_  
 
 ### Saturday August 8th
@@ -174,13 +176,13 @@ _All times ET_
 | 8/8/2026 | Houston Dynamo FC | New England Revolution | 4:30 PM | Apple TV | Gillette Stadium, Foxborough, Massachusetts |  |  |  |
 
 ## Premier League — Upcoming Week
-2026-08-03 to 2026-08-09  
+2026-08-04 to 2026-08-10  
 _All times ET_  
 
 > No upcoming games.
 
 ## FIFA World Cup — Upcoming Week
-2026-08-03 to 2026-08-09  
+2026-08-04 to 2026-08-10  
 _All times ET_  
 
 > No upcoming games.
