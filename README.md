@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2026-08-29 14:42 UTC_
+_Last updated: 2026-08-29 14:54 UTC_
 
 ## College Football — Upcoming Week
 2026-08-22 to 2026-09-07  
@@ -16,7 +16,7 @@ _All times ET_
 | 8/29/2026 | Jacksonville State | North Dakota State | 5:30 PM | CBSSN | Fargodome, Fargo, ND |  |  |  |
 | 8/29/2026 | Sacramento State | Eastern Michigan | 6:30 PM | ESPN+ | Rynearson Stadium, Ypsilanti, MI | Home 381 |  |  |
 | 8/29/2026 | Hawai'i | Stanford | 7:00 PM | ACC Network | Stanford Stadium, Stanford, CA | Home 81 |  |  |
-| 8/29/2026 | New Mexico State | Florida State | 7:00 PM | CW | Doak Campbell Stadium, Tallahassee, FL | Home 84 / 81; Away 382 |  |  |
+| 8/29/2026 | New Mexico State | Florida State | 7:00 PM | CW | Doak Campbell Stadium, Tallahassee, FL | Home 81 / 84; Away 382 |  |  |
 | 8/29/2026 | Memphis | UNLV | 10:00 PM | FOX | Allegiant Stadium, Las Vegas, NV | Home 383; Away 81 |  |  |
 
 ### Thursday September 3rd
@@ -133,7 +133,7 @@ _All times ET_
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9/7/2026 | SMU | Florida State | 7:30 PM | ESPN | Doak Campbell Stadium, Tallahassee, FL | Home 84 / 81 |  |  |
+| 9/7/2026 | SMU | Florida State | 7:30 PM | ESPN | Doak Campbell Stadium, Tallahassee, FL | Home 81 / 84 |  |  |
 
 ## NFL — Upcoming Week
 2026-08-27 to 2026-09-05  
