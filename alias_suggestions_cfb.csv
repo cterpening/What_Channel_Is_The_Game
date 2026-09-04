@@ -1,13 +1,80 @@
 ﻿sport,from,suggested_to,score
-cfb,Rutgers,Rutgers,1.000
-cfb,UMass,,0.000
-cfb,Bethune-Cookman,Bethune-Cookman,1.000
-cfb,Missouri,Missouri,1.000
-cfb,UAPB,,0.000
-cfb,Minnesota,Minnesota,1.000
-cfb,Eastern Illinois,Eastern Illinois,1.000
-cfb,Colorado,Colorado,1.000
-cfb,Idaho,Idaho,1.000
+cfb,San Jose State Spartans,San José State,0.750
+cfb,Eastern Michigan Eagles,Eastern Michigan,0.667
+cfb,Indiana State Sycamores,Indiana State,0.667
+cfb,Purdue Boilermakers,Purdue,0.500
+cfb,North Carolina A&T Aggies,North Carolina A&T,0.800
+cfb,Georgia State Panthers,Georgia State,0.667
+cfb,Toledo Rockets,Toledo,0.500
+cfb,Michigan State Spartans,Michigan State,0.667
+cfb,Fresno State Bulldogs,Fresno State,0.667
+cfb,USC Trojans,USC,0.500
+cfb,East Carolina Pirates,East Carolina,0.667
+cfb,Alabama Crimson Tide,,0.000
+cfb,New Hampshire Wildcats,New Hampshire,0.667
+cfb,Syracuse Orange,Syracuse,0.500
+cfb,Oregon State Beavers,Oregon State,0.667
+cfb,Houston Cougars,Houston,0.500
+cfb,Ball State Cardinals,Ball State,0.667
+cfb,Ohio State Buckeyes,Ohio State,0.667
+cfb,Miami of Ohio RedHawks,,0.000
+cfb,Pittsburgh Panthers,Pittsburgh,0.500
+cfb,Kent State Golden Flashes,Kent State,0.500
+cfb,South Carolina Gamecocks,South Carolina,0.667
+cfb,Southeast Missouri Redhawks,Southeast Missouri State,0.500
+cfb,Iowa State Cyclones,Iowa State,0.667
+cfb,Youngstown State Penguins,Youngstown State,0.667
+cfb,Kentucky Wildcats,Kentucky,0.500
+cfb,Bowie State Bulldogs,,0.000
+cfb,Virginia State Trojans,,0.000
+cfb,Duquesne Dukes,Duquesne,0.500
+cfb,Air Force Falcons,Air Force,0.667
+cfb,Rhode Island Rams,Rhode Island,0.667
+cfb,Temple Owls,Temple,0.500
+cfb,Tennessee State Tigers,Tennessee State,0.667
+cfb,Georgia Bulldogs,Georgia,0.500
+cfb,Boston College Eagles,Boston College,0.667
+cfb,Cincinnati Bearcats,Cincinnati,0.500
+cfb,Oklahoma State Cowboys,Oklahoma State,0.667
+cfb,Tulsa Golden Hurricane,,0.000
+cfb,Northern Illinois Huskies,Northern Illinois,0.667
+cfb,Iowa Hawkeyes,Iowa,0.500
+cfb,Alcorn State Braves,Alcorn State,0.667
+cfb,Southern Miss Golden Eagles,Southern Miss,0.500
+cfb,Wyoming Cowboys,Wyoming,0.500
+cfb,Colorado State Rams,Colorado State,0.667
+cfb,Missouri State Bears,Missouri State,0.667
+cfb,Texas A&M Aggies,Texas A&M,0.750
+cfb,FIU Panthers,,0.000
+cfb,South Florida Bulls,South Florida,0.667
+cfb,Clemson Tigers,Clemson,0.500
+cfb,LSU Tigers,LSU,0.500
+cfb,Florida Atlantic Owls,Florida Atlantic,0.667
+cfb,Florida Gators,Florida,0.500
+cfb,Hampton Pirates,Hampton,0.500
+cfb,Maryland Terrapins,Maryland,0.500
+cfb,South Dakota State Jackrabbits,South Dakota State,0.750
+cfb,Northwestern Wildcats,Northwestern,0.500
+cfb,Utah Tech Trailblazers,Utah Tech,0.667
+cfb,BYU Cougars,BYU,0.500
+cfb,Northern Arizona Lumberjacks,Northern Arizona,0.667
+cfb,Arizona Wildcats,Arizona,0.500
+cfb,Portland State Vikings,Portland State,0.667
+cfb,San Diego State Aztecs,San Diego State,0.750
+cfb,Morgan State Bears,Morgan State,0.667
+cfb,Arizona State Sun Devils,Arizona State,0.500
+cfb,Central Michigan Chippewas,Central Michigan,0.667
+cfb,New Mexico Lobos,New Mexico,0.667
+cfb,Western Kentucky Hilltoppers,Western Kentucky,0.667
+cfb,Nevada Wolf Pack,,0.000
+cfb,South Carolina State Bulldogs,,0.000
+cfb,Florida A&M Rattlers,Texas A&M,0.400
+cfb,Washington State Cougars,Washington State,0.667
+cfb,Washington Huskies,Washington,0.500
+cfb,Wisconsin Badgers,Wisconsin,0.500
+cfb,Notre Dame Fighting Irish,Notre Dame,0.500
+cfb,SMU Mustangs,SMU,0.500
+cfb,Florida State Seminoles,Florida State,0.667
 cfb,Purdue,Purdue,1.000
 cfb,Indiana State,Indiana State,1.000
 cfb,North Carolina A&T,North Carolina A&T,1.000
@@ -28,8 +95,6 @@ cfb,Bryant,Bryant,1.000
 cfb,Tarleton State,Tarleton State,1.000
 cfb,UConn,UConn,1.000
 cfb,Lafayette,Lafayette,1.000
-cfb,Pittsburgh,Pittsburgh,1.000
-cfb,Miami of Ohio,,0.000
 cfb,Southeast Missouri,Southeast Missouri State,0.667
 cfb,Youngstown State,Youngstown State,1.000
 cfb,Virginia State,Virginia,0.500
@@ -95,6 +160,8 @@ cfb,Florida State,Florida State,1.000
 cfb,Villanova,,0.000
 cfb,Norfolk State,Norfolk State,1.000
 cfb,Richmond,,0.000
+cfb,Rutgers,Rutgers,1.000
+cfb,Missouri,Missouri,1.000
 cfb,North Carolina,North Carolina,1.000
 cfb,East Tennessee State,Tennessee State,0.667
 cfb,Wofford,,0.000
@@ -104,6 +171,9 @@ cfb,Colgate,,0.000
 cfb,UT Martin,,0.000
 cfb,Wagner,,0.000
 cfb,Central Connecticut,,0.000
+cfb,Minnesota,Minnesota,1.000
+cfb,Pittsburgh,Pittsburgh,1.000
+cfb,Colorado,Colorado,1.000
 cfb,Weber State,,0.000
 cfb,Northern Colorado,Colorado,0.500
 cfb,UC Davis,,0.000
@@ -127,92 +197,3 @@ cfb,North Dakota State,North Dakota State,1.000
 cfb,Montana State,,0.000
 cfb,Sacramento State,Sacramento State,1.000
 cfb,Louisiana,Louisiana,1.000
-cfb,UMass Minutemen,,0.000
-cfb,Rutgers Scarlet Knights,,0.000
-cfb,Bethune  Cookman Wildcats,Bethune-Cookman,0.500
-cfb,UCF Knights,UCF,0.500
-cfb,Akron Zips,Akron,0.500
-cfb,Wake Forest Demon Decons,Wake Forest,0.500
-cfb,Eastern Illinois Panthers,Eastern Illinois,0.667
-cfb,Minnesota Golden Gophers,,0.000
-cfb,Colorado Buffaloes,Colorado,0.500
-cfb,Georgia Tech Yellow Jackets,Georgia Tech,0.500
-cfb,Idaho Vandals,Idaho,0.500
-cfb,Utah Utes,Utah,0.500
-cfb,UAB Blazers,UAB,0.500
-cfb,Illinois Fighting Illini,,0.000
-cfb,San Jose State Spartans,San José State,0.750
-cfb,Eastern Michigan Eagles,Eastern Michigan,0.667
-cfb,Indiana State Sycamores,Indiana State,0.667
-cfb,Purdue Boilermakers,Purdue,0.500
-cfb,North Carolina A&T Aggies,North Carolina A&T,0.800
-cfb,Georgia State Panthers,Georgia State,0.667
-cfb,Toledo Rockets,Toledo,0.500
-cfb,Michigan State Spartans,Michigan State,0.667
-cfb,Fresno State Bulldogs,Fresno State,0.667
-cfb,USC Trojans,USC,0.500
-cfb,East Carolina Pirates,East Carolina,0.667
-cfb,Alabama Crimson Tide,,0.000
-cfb,New Hampshire Wildcats,New Hampshire,0.667
-cfb,Syracuse Orange,Syracuse,0.500
-cfb,Oregon State Beavers,Oregon State,0.667
-cfb,Houston Cougars,Houston,0.500
-cfb,Ball State Cardinals,Ball State,0.667
-cfb,Ohio State Buckeyes,Ohio State,0.667
-cfb,Miami of Ohio RedHawks,,0.000
-cfb,Kent State Golden Flashes,Kent State,0.500
-cfb,South Carolina Gamecocks,South Carolina,0.667
-cfb,Southeast Missouri Redhawks,Southeast Missouri State,0.500
-cfb,Iowa State Cyclones,Iowa State,0.667
-cfb,Youngstown State Penguins,Youngstown State,0.667
-cfb,Kentucky Wildcats,Kentucky,0.500
-cfb,Bowie State Bulldogs,,0.000
-cfb,Virginia State Trojans,,0.000
-cfb,Duquesne Dukes,Duquesne,0.500
-cfb,Air Force Falcons,Air Force,0.667
-cfb,Rhode Island Rams,Rhode Island,0.667
-cfb,Temple Owls,Temple,0.500
-cfb,Tennessee State Tigers,Tennessee State,0.667
-cfb,Georgia Bulldogs,Georgia,0.500
-cfb,Boston College Eagles,Boston College,0.667
-cfb,Cincinnati Bearcats,Cincinnati,0.500
-cfb,Oklahoma State Cowboys,Oklahoma State,0.667
-cfb,Tulsa Golden Hurricane,,0.000
-cfb,Northern Illinois Huskies,Northern Illinois,0.667
-cfb,Iowa Hawkeyes,Iowa,0.500
-cfb,Alcorn State Braves,Alcorn State,0.667
-cfb,Southern Miss Golden Eagles,Southern Miss,0.500
-cfb,Wyoming Cowboys,Wyoming,0.500
-cfb,Colorado State Rams,Colorado State,0.667
-cfb,Missouri State Bears,Missouri State,0.667
-cfb,Texas A&M Aggies,Texas A&M,0.750
-cfb,FIU Panthers,,0.000
-cfb,South Florida Bulls,South Florida,0.667
-cfb,Clemson Tigers,Clemson,0.500
-cfb,LSU Tigers,LSU,0.500
-cfb,Florida Atlantic Owls,Florida Atlantic,0.667
-cfb,Florida Gators,Florida,0.500
-cfb,Hampton Pirates,Hampton,0.500
-cfb,Maryland Terrapins,Maryland,0.500
-cfb,South Dakota State Jackrabbits,South Dakota State,0.750
-cfb,Northwestern Wildcats,Northwestern,0.500
-cfb,Utah Tech Trailblazers,Utah Tech,0.667
-cfb,BYU Cougars,BYU,0.500
-cfb,Northern Arizona Lumberjacks,Northern Arizona,0.667
-cfb,Arizona Wildcats,Arizona,0.500
-cfb,Portland State Vikings,Portland State,0.667
-cfb,San Diego State Aztecs,San Diego State,0.750
-cfb,Morgan State Bears,Morgan State,0.667
-cfb,Arizona State Sun Devils,Arizona State,0.500
-cfb,Central Michigan Chippewas,Central Michigan,0.667
-cfb,New Mexico Lobos,New Mexico,0.667
-cfb,Western Kentucky Hilltoppers,Western Kentucky,0.667
-cfb,Nevada Wolf Pack,,0.000
-cfb,South Carolina State Bulldogs,,0.000
-cfb,Florida A&M Rattlers,Texas A&M,0.400
-cfb,Washington State Cougars,Washington State,0.667
-cfb,Washington Huskies,Washington,0.500
-cfb,Wisconsin Badgers,Wisconsin,0.500
-cfb,Notre Dame Fighting Irish,Notre Dame,0.500
-cfb,SMU Mustangs,SMU,0.500
-cfb,Florida State Seminoles,Florida State,0.667
