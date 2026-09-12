@@ -1,44 +1,36 @@
 # Sports Schedules
 
-_Last updated: 2026-09-11 10:09 EDT_
+_Last updated: 2026-09-12 09:26 EDT_
 
 ## College Football — Upcoming Week
 2026-09-08 to 2026-09-13  
 _All times ET_  
 
-### Friday September 11th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9/11/2026 | Villanova | Louisville | 7:00 PM | ACC Network | L&N Federal Credit Union Stadium, Louisville, KY | Home 83 |  |  |
-| 9/11/2026 | Norfolk State | Virginia | 7:00 PM | ACCNX | Scott Stadium, Charlottesville, VA | Home 167 |  |  |
-| 9/11/2026 | Richmond | NC State | 7:00 PM | ESPNU | Carter-Finley Stadium, Raleigh, NC | Home 234 |  |  |
-| 9/11/2026 | Rutgers | Boston College | 7:30 PM | ESPN2 | Alumni Stadium (Chestnut Hill, MA), Chestnut Hill, MA | Home 236; Away 231 |  |  |
-| 9/11/2026 | Missouri | Kansas | 8:00 PM | FOX | David Booth Kansas Memorial Stadium, Lawrence, KS | Home 84; Away 228 |  |  |
-
 ### Saturday September 12th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9/12/2026 | Howard | **Indiana** | 12:00 PM | BTN | Memorial Stadium (Bloomington, IN), Bloomington, IN | Home 231; Away ONLINE |  |  |
+| 9/12/2026 | Howard | **Indiana** | 12:00 PM | BTN | Memorial Stadium (Bloomington, IN), Bloomington, IN | Home 231 |  |  |
 | 9/12/2026 | Oregon | Oklahoma State | 12:00 PM | Disney+, ESPN, ESPN/Disney+ | Boone Pickens Stadium, Stillwater, OK | Home 237; Away 83 |  |  |
 | 9/12/2026 | Arizona State | Texas A&M | 12:00 PM | ABC | Kyle Field, College Station, TX | Home 229 / 250; Away 261 / 250 |  |  |
 | 9/12/2026 | Oklahoma | Michigan | 12:00 PM | FOX | Michigan Stadium, Ann Arbor, MI | Home 84 / 80; Away 82 / 80 |  |  |
 | 9/12/2026 | Penn State | Temple | 12:00 PM | ESPN2 | Lincoln Financial Field, Philadelphia, PA | Home 263; Away 233 |  |  |
-| 9/12/2026 | Washington State | Kansas State | 12:00 PM | TNT | Bill Snyder Family Stadium, Manhattan, KS | Home 238 / 167; Away 262 |  |  |
+| 9/12/2026 | Washington State | Kansas State | 12:00 PM | TNT | Bill Snyder Family Stadium, Manhattan, KS | Home 263 / 238; Away 262 |  |  |
 | 9/12/2026 | East Tennessee State | North Carolina | 12:00 PM | ACC Network | Kenan Stadium, Chapel Hill, NC | Home 235; Away ONLINE |  |  |
 | 9/12/2026 | Old Dominion | Virginia Tech | 12:00 PM | CW | Lane Stadium, Blacksburg, VA | Home 236 |  |  |
 | 9/12/2026 | Wake Forest | Purdue | 12:00 PM | FS1 | Ross-Ade Stadium, West Lafayette, IN | Home 232; Away 234 |  |  |
 | 9/12/2026 | South Florida | Army | 12:00 PM | CBSSN | Michie Stadium, West Point, NY | Home 167 |  |  |
 | 9/12/2026 | App State | East Carolina | 12:00 PM | ESPNU | Dowdy-Ficklen Stadium, Greenville, NC |  |  |  |
 | 9/12/2026 | Wofford | Kent State | 12:00 PM | ESPN+ | Zoeller Field at Dix Stadium, Kent, OH | Home ONLINE |  |  |
+| 9/12/2026 | Wagner | James Madison | 12:00 PM | ESPN+ | Bridgeforth Stadium, Harrisonburg, VA | Home ONLINE |  |  |
+| 9/12/2026 | Gardner-Webb | Liberty | 12:00 PM | ESPN+ | Williams Stadium (VA), Lynchburg, VA | Home ONLINE |  |  |
 | 9/12/2026 | Western Kentucky | Georgia | 12:45 PM | SEC Network | Sanford Stadium, Athens, GA | Home 228; Away ONLINE |  |  |
 | 9/12/2026 | UT Martin | West Virginia | 1:00 PM | ESPN+ | Milan Puskar Stadium, Morgantown, WV | Home 247 |  |  |
 | 9/12/2026 | Colgate | Central Michigan | 1:00 PM | ESPN+ | Kelly/Shorts Stadium, Mount Pleasant, MI | Home ONLINE |  |  |
 | 9/12/2026 | Holy Cross | Miami (OH) | 1:00 PM | ESPN+ | Yager Stadium, Oxford, OH |  |  |  |
 | 9/12/2026 | Stony Brook | **Ball State** | 2:00 PM | ESPN+ | Scheumann Stadium, Muncie, IN |  |  |  |
 | 9/12/2026 | Rice | **Notre Dame** | 3:30 PM | NBC | Notre Dame Stadium, Notre Dame, IN | Home 85; Away 266 |  |  |
-| 9/12/2026 | Alabama | Kentucky | 3:30 PM | ABC, ABC/Disney+, Disney+ | Kroger Field, Lexington, KY | Home 84 / 267; Away 229 / 267 |  |  |
+| 9/12/2026 | Alabama | Kentucky | 3:30 PM | ABC, ABC/Disney+, Disney+ | Kroger Field, Lexington, KY | Home 269 / 84 / 267; Away 229 / 267 |  |  |
 | 9/12/2026 | Arizona | BYU | 3:30 PM | FOX | LaVell Edwards Stadium, Provo, UT | Home 166; Away 238 |  |  |
 | 9/12/2026 | Utah State | Washington | 3:30 PM | BTN | Husky Stadium, Seattle, WA | Home 83; Away 270 |  |  |
 | 9/12/2026 | Mississippi State | **Minnesota** | 3:30 PM | CBS | Huntington Bank Stadium, Minneapolis, MN | Home 233; Away 230 |  |  |
@@ -53,7 +45,6 @@ _All times ET_
 | 9/12/2026 | Robert Morris | Akron | 3:30 PM | ESPN+ | InfoCision Stadium, Akron, OH |  |  |  |
 | 9/12/2026 | Central Connecticut | Toledo | 3:30 PM | ESPN+ | Glass Bowl, Toledo, OH | Home ONLINE |  |  |
 | 9/12/2026 | Sacred Heart | Massachusetts | 3:30 PM | ESPN+ | Warren McGuirk Alumni Stadium, Amherst, MA |  |  |  |
-| 9/12/2026 | Wagner | James Madison | 3:30 PM | ESPN+ | Bridgeforth Stadium, Harrisonburg, VA | Home ONLINE |  |  |
 | 9/12/2026 | UNLV | North Texas | 3:45 PM | ESPNU | DATCU Stadium, Denton, TX | Home 273; Away 272 |  |  |
 | 9/12/2026 | UC Davis | SMU | 4:00 PM | ACCNX | Gerald J. Ford Stadium, Dallas, TX | Home 250 |  |  |
 | 9/12/2026 | Northern Colorado | Wyoming | 4:00 PM | MW+ | War Memorial Stadium, Laramie, WY | Home 261 |  |  |
@@ -64,7 +55,6 @@ _All times ET_
 | 9/12/2026 | Memphis | Boise State | 6:00 PM | USA Net | Albertsons Stadium, Boise, ID | Home 263; Away 262 |  |  |
 | 9/12/2026 | Buffalo | Florida International | 6:00 PM | ESPN+ | Pitbull Stadium, Miami, FL |  |  |  |
 | 9/12/2026 | Jacksonville State | Ohio | 6:00 PM | ESPN+ | Peden Stadium, Athens, OH | Home ONLINE |  |  |
-| 9/12/2026 | Gardner-Webb | Liberty | 6:00 PM | ESPN+ | Williams Stadium (VA), Lynchburg, VA | Home ONLINE |  |  |
 | 9/12/2026 | Monmouth | Western Michigan | 6:30 PM | ESPN+ | Waldo Stadium, Kalamazoo, MI | Home ONLINE |  |  |
 | 9/12/2026 | Tennessee | Georgia Tech | 7:00 PM | ESPN | Bobby Dodd Stadium, Atlanta, GA | Home 234; Away 230 |  |  |
 | 9/12/2026 | Southern | Houston | 7:00 PM | ESPN+ | TDECU Stadium, Houston, TX | Home 251 |  |  |
@@ -79,13 +69,13 @@ _All times ET_
 | 9/12/2026 | Georgia State | Kennesaw State | 7:00 PM | ESPN+ | Walens Family Field at Fifth Third Stadium, Kennesaw, GA | Home ONLINE |  |  |
 | 9/12/2026 | Middle Tennessee | Marshall | 7:00 PM | ESPN+ | Joan C. Edwards Stadium, Huntington, WV | Home ONLINE; Away ONLINE |  |  |
 | 9/12/2026 | Lindenwood | Missouri State | 7:00 PM | ESPN+ | Robert W. Plaster Stadium, Springfield, MO |  |  |  |
-| 9/12/2026 | San Diego State | UCLA | 7:15 PM | BTN | Rose Bowl, Pasadena, CA | Home 231 / 233; Away 268 |  |  |
+| 9/12/2026 | San Diego State | UCLA | 7:15 PM | BTN | Rose Bowl, Pasadena, CA | Home 231; Away 268 |  |  |
 | 9/12/2026 | Western Illinois | Wisconsin | 7:15 PM | BTN | Camp Randall Stadium, Madison, WI | Home 233 |  |  |
 | 9/12/2026 | Ohio State | Texas | 7:30 PM | ABC | DKR-Texas Memorial Stadium, Austin, TX | Home 84 / 97; Away 82 / 97 |  |  |
 | 9/12/2026 | Louisiana Tech | LSU | 7:30 PM | SECN+ | Tiger Stadium (LA), Baton Rouge, LA | Home 229; Away ONLINE |  |  |
 | 9/12/2026 | Texas Tech | Oregon State | 7:30 PM | CBS | Reser Stadium, Corvallis, OR | Home 269; Away 83 |  |  |
-| 9/12/2026 | Iowa State | Iowa | 7:30 PM | NBC | Kinnick Stadium, Iowa City, IA | Home 85 / 270; Away 237 / 270 |  |  |
-| 9/12/2026 | Georgia Southern | Clemson | 7:30 PM | ACC Network | Memorial Stadium (Clemson, SC), Clemson, SC | Home 235 / 84; Away ONLINE |  |  |
+| 9/12/2026 | Iowa State | Iowa | 7:30 PM | NBC | Kinnick Stadium, Iowa City, IA | Home 235 / 85 / 270; Away 237 / 270 |  |  |
+| 9/12/2026 | Georgia Southern | Clemson | 7:30 PM | ACC Network | Memorial Stadium (Clemson, SC), Clemson, SC | Home 235; Away ONLINE |  |  |
 | 9/12/2026 | Navy | Florida Atlantic | 7:30 PM | ESPNU | Flagler Credit Union Stadium, Boca Raton, FL | Away 167 |  |  |
 | 9/12/2026 | Fordham | Coastal Carolina | 7:30 PM | ESPN+ | Brooks Stadium (SC), Conway, SC | Home ONLINE |  |  |
 | 9/12/2026 | Charlotte | Ole Miss | 7:45 PM | ESPN2 | Vaught-Hemingway Stadium, Oxford, MS | Home 249 |  |  |
@@ -130,76 +120,56 @@ _All times ET_
 | 9/14/2026 | Denver Broncos | Kansas City Chiefs | 8:15 PM | ABC, ESPN, ESPN/ABC | Arrowhead Stadium, Kansas City, MO | Home 192 / 88; Away 193 / 88 |  |  |
 
 ## College Basketball — Upcoming Week
-2026-09-11 to 2026-09-17  
+2026-09-12 to 2026-09-18  
 _All times ET_  
 
 > No upcoming games.
 
 ## NBA — Upcoming Week
-2026-09-11 to 2026-09-17  
+2026-09-12 to 2026-09-18  
 _All times ET_  
 
 > No upcoming games.
 
 ## MLB — Upcoming Week
-2026-09-11 to 2026-09-17  
+2026-09-12 to 2026-09-18  
 _All times ET_  
-
-### Friday September 11th
-
-| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9/11/2026 | Pittsburgh Pirates | **Chicago Cubs** | 2:20 PM | MLB.TV, Marquee Sports Net | Wrigley Field, Chicago, Illinois | Home 202; Away 89 |  |  |
-| 9/11/2026 | Colorado Rockies | Detroit Tigers | 6:40 PM | MLB.TV, Rockies.TV, Tigers.TV | Comerica Park, Detroit, Michigan | Home 203; Away ONLINE |  |  |
-| 9/11/2026 | Los Angeles Angels | Washington Nationals | 6:45 PM | Angels.TV, MLB.TV, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 204; Away ONLINE |  |  |
-| 9/11/2026 | New York Mets | New York Yankees | 7:05 PM | ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, WPIX, YES | Yankee Stadium, Bronx, New York | Home 205; Away ONLINE |  |  |
-| 9/11/2026 | Baltimore Orioles | Toronto Blue Jays | 7:07 PM | MASN, MLB.TV, Sportsnet, TVA | Rogers Centre, Toronto, Ontario | Home 206; Away ONLINE |  |  |
-| 9/11/2026 | Houston Astros | Tampa Bay Rays | 7:10 PM | MLB.TV, Rays.TV, Space City Home Network | Tropicana Field, St. Petersburg, Florida | Home 207; Away ONLINE |  |  |
-| 9/11/2026 | Kansas City Royals | Boston Red Sox | 7:10 PM | MLB.TV, NESN, Royals.TV | Fenway Park, Boston, Massachusetts | Home 207 / 208; Away ONLINE |  |  |
-| 9/11/2026 | Los Angeles Dodgers | Miami Marlins | 7:10 PM | MLB.TV, Marlins.TV, SportsNet LA, WBFS | loanDepot park, Miami, Florida | Home 209 |  |  |
-| 9/11/2026 | Philadelphia Phillies | Atlanta Braves | 7:15 PM | BravesVision, MLB.TV, NBC Sports Phil | Truist Park, Atlanta, Georgia | Home 89; Away 98 |  |  |
-| 9/11/2026 | Cincinnati Reds | Milwaukee Brewers | 7:40 PM | Apple TV, MLB.TV, MLB.TV/Apple TV | American Family Field, Milwaukee, Wisconsin | Home 210; Away ONLINE |  |  |
-| 9/11/2026 | **Cleveland Guardians** | Minnesota Twins | 8:10 PM | CLEGuardians.TV, MLB.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 212; Away ONLINE |  |  |
-| 9/11/2026 | Chicago White Sox | St. Louis Cardinals | 8:15 PM | CHSN, Cardinals.TV, KMOV-TV, MLB.TV | Busch Stadium, St. Louis, Missouri | Home 211; Away ONLINE |  |  |
-| 9/11/2026 | Seattle Mariners | Athletics | 9:40 PM | MLB.TV, Mariners.TV, NBC Sports CA | Sutter Health Park, Sacramento, California | Home 202; Away ONLINE |  |  |
-| 9/11/2026 | Texas Rangers | Arizona Diamondbacks | 9:40 PM | CW33, DBACKS.TV, MLB.TV, Rangers Sports Network | Chase Field, Phoenix, Arizona | Home 202 / 213; Away 99 |  |  |
-| 9/11/2026 | San Diego Padres | San Francisco Giants | 10:15 PM | Apple TV, MLB.TV, MLB.TV/Apple TV | Oracle Park, San Francisco, California | Home 24 / 365 / 89; Away ONLINE |  |  |
 
 ### Saturday September 12th
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/12/2026 | Colorado Rockies | Detroit Tigers | 1:10 PM | MLB.TV, Rockies.TV, Tigers.TV | Comerica Park, Detroit, Michigan | Home 89; Away ONLINE |  |  |
-| 9/12/2026 | New York Mets | New York Yankees | 1:35 PM | MLB Net, MLB.TV, MLB.TV/MLB Net, SNY, YES | Yankee Stadium, Bronx, New York | Home 205; Away ONLINE |  |  |
+| 9/12/2026 | New York Mets | New York Yankees | 1:35 PM | MLB Net, MLB.TV, MLB.TV/MLB Net, SNY, YES | Yankee Stadium, Bronx, New York | Home 202; Away ONLINE |  |  |
 | 9/12/2026 | Pittsburgh Pirates | **Chicago Cubs** | 2:20 PM | MLB.TV, Marquee Sports Net | Wrigley Field, Chicago, Illinois | Home 203; Away ONLINE |  |  |
 | 9/12/2026 | Baltimore Orioles | Toronto Blue Jays | 3:07 PM | MASN, MLB.TV, Sportsnet, TVA | Rogers Centre, Toronto, Ontario | Home 204; Away ONLINE |  |  |
-| 9/12/2026 | Los Angeles Angels | Washington Nationals | 4:05 PM | Angels.TV, MLB.TV, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 205; Away ONLINE |  |  |
+| 9/12/2026 | Los Angeles Angels | Washington Nationals | 4:05 PM | Angels.TV, MLB.TV, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 205 / 206; Away 95 |  |  |
 | 9/12/2026 | San Diego Padres | San Francisco Giants | 4:05 PM | MLB.TV, NBC Sports BA, Padres.TV | Oracle Park, San Francisco, California | Home 206; Away ONLINE |  |  |
 | 9/12/2026 | Kansas City Royals | Boston Red Sox | 4:10 PM | MLB.TV, NESN, Royals.TV | Fenway Park, Boston, Massachusetts | Home 208; Away ONLINE |  |  |
-| 9/12/2026 | Los Angeles Dodgers | Miami Marlins | 4:10 PM | MLB.TV, Marlins.TV, SportsNet LA | loanDepot park, Miami, Florida | Home 89 |  |  |
+| 9/12/2026 | Los Angeles Dodgers | Miami Marlins | 4:10 PM | MLB.TV, Marlins.TV, SportsNet LA | loanDepot park, Miami, Florida | Home 89 / 207; Away ONLINE |  |  |
 | 9/12/2026 | **Cleveland Guardians** | Minnesota Twins | 4:10 PM | CLEGuardians.TV, MLB.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 207; Away ONLINE |  |  |
 | 9/12/2026 | Houston Astros | Tampa Bay Rays | 6:10 PM | MLB.TV, Rays.TV, Space City Home Network | Tropicana Field, St. Petersburg, Florida | Home 202; Away ONLINE |  |  |
 | 9/12/2026 | Cincinnati Reds | Milwaukee Brewers | 7:10 PM | Brewers.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Reds.TV | American Family Field, Milwaukee, Wisconsin | Home 203; Away ONLINE |  |  |
-| 9/12/2026 | Philadelphia Phillies | Atlanta Braves | 7:15 PM | BravesVision, MLB.TV, NBC Sports Phil | Truist Park, Atlanta, Georgia | Home 89; Away 98 |  |  |
-| 9/12/2026 | Chicago White Sox | St. Louis Cardinals | 7:15 PM | CHSN, Cardinals.TV, MLB.TV | Busch Stadium, St. Louis, Missouri | Home 204; Away ONLINE |  |  |
+| 9/12/2026 | Philadelphia Phillies | Atlanta Braves | 7:15 PM | BravesVision, MLB.TV, NBC Sports Phil | Truist Park, Atlanta, Georgia | Home 89 / 204; Away 98 |  |  |
+| 9/12/2026 | Chicago White Sox | St. Louis Cardinals | 7:15 PM | CHSN, Cardinals.TV, MLB.TV | Busch Stadium, St. Louis, Missouri | Home 204 |  |  |
 | 9/12/2026 | Texas Rangers | Arizona Diamondbacks | 8:10 PM | DBACKS.TV, MLB.TV, Rangers Sports Network | Chase Field, Phoenix, Arizona | Home 206 / 207; Away 99 / 207 |  |  |
-| 9/12/2026 | Seattle Mariners | Athletics | 9:40 PM | MLB.TV, Mariners.TV, NBC Sports CA | Sutter Health Park, Sacramento, California | Home 202; Away ONLINE |  |  |
+| 9/12/2026 | Seattle Mariners | Athletics | 9:40 PM | MLB.TV, Mariners.TV, NBC Sports CA | Sutter Health Park, Sacramento, California | Home 202 / 24 / 365; Away ONLINE |  |  |
 
 ### Sunday September 13th
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/13/2026 | Colorado Rockies | Detroit Tigers | 12:10 PM | MLB.TV, Rockies.TV, Tigers.TV | Comerica Park, Detroit, Michigan | Home 202; Away ONLINE |  |  |
-| 9/13/2026 | Los Angeles Angels | Washington Nationals | 1:35 PM | Angels.TV, MLB.TV, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 204; Away ONLINE |  |  |
+| 9/13/2026 | Los Angeles Angels | Washington Nationals | 1:35 PM | Angels.TV, MLB.TV, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 204; Away 95 |  |  |
 | 9/13/2026 | Kansas City Royals | Boston Red Sox | 1:35 PM | MLB.TV, NESN, Royals.TV | Fenway Park, Boston, Massachusetts | Home 203; Away ONLINE |  |  |
-| 9/13/2026 | New York Mets | New York Yankees | 1:35 PM | MLB.TV, SNY, YES | Yankee Stadium, Bronx, New York | Home 205; Away ONLINE |  |  |
+| 9/13/2026 | New York Mets | New York Yankees | 1:35 PM | MLB.TV, SNY, YES | Yankee Stadium, Bronx, New York | Home 202; Away ONLINE |  |  |
 | 9/13/2026 | Philadelphia Phillies | Atlanta Braves | 1:35 PM | BravesVision, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, NBC Sports Phil | Truist Park, Atlanta, Georgia | Home 209; Away ONLINE |  |  |
 | 9/13/2026 | Baltimore Orioles | Toronto Blue Jays | 1:37 PM | MASN, MLB.TV, Sportsnet | Rogers Centre, Toronto, Ontario | Home 206; Away ONLINE |  |  |
 | 9/13/2026 | Houston Astros | Tampa Bay Rays | 1:40 PM | MLB.TV, Rays.TV, Space City Home Network | Tropicana Field, St. Petersburg, Florida | Home 207; Away ONLINE |  |  |
-| 9/13/2026 | Los Angeles Dodgers | Miami Marlins | 1:40 PM | MLB.TV, Marlins.TV, SportsNet LA | loanDepot park, Miami, Florida | Home 208 |  |  |
+| 9/13/2026 | Los Angeles Dodgers | Miami Marlins | 1:40 PM | MLB.TV, Marlins.TV, SportsNet LA | loanDepot park, Miami, Florida | Home 208; Away ONLINE |  |  |
 | 9/13/2026 | Cincinnati Reds | Milwaukee Brewers | 2:10 PM | Brewers.TV, MLB.TV, Reds.TV | American Family Field, Milwaukee, Wisconsin | Home 213; Away ONLINE |  |  |
 | 9/13/2026 | **Cleveland Guardians** | Minnesota Twins | 2:10 PM | CLEGuardians.TV, MLB.TV, Twins.TV | Target Field, Minneapolis, Minnesota | Home 210; Away ONLINE |  |  |
-| 9/13/2026 | Chicago White Sox | St. Louis Cardinals | 2:15 PM | CHSN, Cardinals.TV, MLB.TV | Busch Stadium, St. Louis, Missouri | Home 211; Away ONLINE |  |  |
+| 9/13/2026 | Chicago White Sox | St. Louis Cardinals | 2:15 PM | CHSN, Cardinals.TV, MLB.TV | Busch Stadium, St. Louis, Missouri | Home 211 |  |  |
 | 9/13/2026 | Pittsburgh Pirates | **Chicago Cubs** | 2:20 PM | MLB.TV, Marquee Sports Net | Wrigley Field, Chicago, Illinois | Home 212; Away 169 |  |  |
 | 9/13/2026 | Seattle Mariners | Athletics | 4:05 PM | MLB.TV, Mariners.TV, NBC Sports CA | Sutter Health Park, Sacramento, California | Home 214; Away ONLINE |  |  |
 | 9/13/2026 | Texas Rangers | Arizona Diamondbacks | 4:10 PM | DBACKS.TV, MLB.TV, Rangers Sports Network | Chase Field, Phoenix, Arizona | Home 89; Away ONLINE |  |  |
@@ -209,8 +179,8 @@ _All times ET_
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9/14/2026 | Chicago White Sox | **Cleveland Guardians** | 6:40 PM | CHSN, CLEGuardians.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV | Progressive Field, Cleveland, Ohio | Home 202; Away ONLINE |  |  |
-| 9/14/2026 | Los Angeles Dodgers | Cincinnati Reds | 6:40 PM | Gray Media, MLB.TV, Reds.TV, SportsNet LA, WXIX FOX19 | Great American Ball Park, Cincinnati, Ohio | Home 203 |  |  |
+| 9/14/2026 | Chicago White Sox | **Cleveland Guardians** | 6:40 PM | CHSN, CLEGuardians.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV | Progressive Field, Cleveland, Ohio | Home 202 |  |  |
+| 9/14/2026 | Los Angeles Dodgers | Cincinnati Reds | 6:40 PM | Gray Media, MLB.TV, Reds.TV, SportsNet LA, WXIX FOX19 | Great American Ball Park, Cincinnati, Ohio | Home 203; Away ONLINE |  |  |
 | 9/14/2026 | Detroit Tigers | Toronto Blue Jays | 7:07 PM | MLB.TV, Sportsnet, TVA, Tigers.TV | Rogers Centre, Toronto, Ontario | Home 205; Away 170 |  |  |
 | 9/14/2026 | Baltimore Orioles | New York Mets | 7:10 PM | MASN, MLB.TV, SNY | Citi Field, Queens, New York | Away ONLINE |  |  |
 | 9/14/2026 | Atlanta Braves | **Chicago Cubs** | 7:40 PM | BravesVision, MLB Net, MLB.TV, MLB.TV/MLB Net, Marquee Sports Net | Wrigley Field, Chicago, Illinois | Home 89; Away ONLINE |  |  |
@@ -225,8 +195,8 @@ _All times ET_
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/15/2026 | Athletics | Tampa Bay Rays | 6:40 PM | MLB.TV, NBC Sports CA, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 202; Away ONLINE |  |  |
-| 9/15/2026 | Chicago White Sox | **Cleveland Guardians** | 6:40 PM | CHSN, CLEGuardians.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV | Progressive Field, Cleveland, Ohio | Home 203; Away ONLINE |  |  |
-| 9/15/2026 | Los Angeles Dodgers | Cincinnati Reds | 6:40 PM | MLB.TV, Reds.TV, SportsNet LA | Great American Ball Park, Cincinnati, Ohio | Home 204 |  |  |
+| 9/15/2026 | Chicago White Sox | **Cleveland Guardians** | 6:40 PM | CHSN, CLEGuardians.TV, ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV | Progressive Field, Cleveland, Ohio | Home 203 |  |  |
+| 9/15/2026 | Los Angeles Dodgers | Cincinnati Reds | 6:40 PM | MLB.TV, Reds.TV, SportsNet LA | Great American Ball Park, Cincinnati, Ohio | Home 204; Away ONLINE |  |  |
 | 9/15/2026 | Milwaukee Brewers | Pittsburgh Pirates | 6:40 PM | Brewers.TV, MLB.TV | PNC Park, Pittsburgh, Pennsylvania | Home 205; Away ONLINE |  |  |
 | 9/15/2026 | Philadelphia Phillies | Washington Nationals | 6:45 PM | MLB.TV, NBC Sports Phil, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 206; Away 98 |  |  |
 | 9/15/2026 | Detroit Tigers | Toronto Blue Jays | 7:07 PM | MLB.TV, Sportsnet, Tigers.TV | Rogers Centre, Toronto, Ontario | Home 89; Away 170 |  |  |
@@ -244,12 +214,12 @@ _All times ET_
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9/16/2026 | Chicago White Sox | **Cleveland Guardians** | 1:00 PM | CHSN, ESPN | Progressive Field, Cleveland, Ohio | Home 202; Away ONLINE |  |  |
+| 9/16/2026 | Chicago White Sox | **Cleveland Guardians** | 1:00 PM | CHSN, ESPN | Progressive Field, Cleveland, Ohio | Home 202 |  |  |
 | 9/16/2026 | San Francisco Giants | St. Louis Cardinals | 1:15 PM | Cardinals.TV, MLB.TV, NBC Sports BA | Busch Stadium, St. Louis, Missouri | Home 203; Away ONLINE |  |  |
 | 9/16/2026 | New York Yankees | Minnesota Twins | 1:40 PM | MLB.TV, Twins.TV, YES | Target Field, Minneapolis, Minnesota | Home 204; Away ONLINE |  |  |
 | 9/16/2026 | Detroit Tigers | Toronto Blue Jays | 3:07 PM | MLB.TV, Sportsnet, Tigers.TV | Rogers Centre, Toronto, Ontario | Home 205; Away 170 |  |  |
 | 9/16/2026 | Athletics | Tampa Bay Rays | 6:40 PM | MLB.TV, NBC Sports CA, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 206; Away ONLINE |  |  |
-| 9/16/2026 | Los Angeles Dodgers | Cincinnati Reds | 6:40 PM | MLB.TV, Reds.TV, SportsNet LA | Great American Ball Park, Cincinnati, Ohio | Home 207 |  |  |
+| 9/16/2026 | Los Angeles Dodgers | Cincinnati Reds | 6:40 PM | MLB.TV, Reds.TV, SportsNet LA | Great American Ball Park, Cincinnati, Ohio | Home 207; Away ONLINE |  |  |
 | 9/16/2026 | Milwaukee Brewers | Pittsburgh Pirates | 6:40 PM | Brewers.TV, MLB.TV | PNC Park, Pittsburgh, Pennsylvania | Home 208; Away ONLINE |  |  |
 | 9/16/2026 | Philadelphia Phillies | Washington Nationals | 6:45 PM | MLB.TV, NBC Sports Phil, Nationals.TV | Nationals Park, Washington, District of Columbia | Home 209; Away 98 |  |  |
 | 9/16/2026 | Baltimore Orioles | New York Mets | 7:00 PM | ESPN | Citi Field, Queens, New York | Away ONLINE |  |  |
@@ -265,7 +235,7 @@ _All times ET_
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/17/2026 | Milwaukee Brewers | Pittsburgh Pirates | 12:35 PM | Brewers.TV, MLB.TV | PNC Park, Pittsburgh, Pennsylvania | Home 202; Away ONLINE |  |  |
-| 9/17/2026 | Los Angeles Dodgers | Cincinnati Reds | 12:40 PM | MLB.TV, Reds.TV, SportsNet LA | Great American Ball Park, Cincinnati, Ohio | Home 203 |  |  |
+| 9/17/2026 | Los Angeles Dodgers | Cincinnati Reds | 12:40 PM | MLB.TV, Reds.TV, SportsNet LA | Great American Ball Park, Cincinnati, Ohio | Home 203; Away ONLINE |  |  |
 | 9/17/2026 | Athletics | Tampa Bay Rays | 1:10 PM | MLB.TV, NBC Sports CA, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 204; Away ONLINE |  |  |
 | 9/17/2026 | San Diego Padres | Colorado Rockies | 3:10 PM | ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, Padres.TV, Rockies.TV | Coors Field, Denver, Colorado | Home 205; Away ONLINE |  |  |
 | 9/17/2026 | Philadelphia Phillies | New York Mets | 7:15 PM | FOX, MLB.TV, MLB.TV/FOX | Citi Field, Queens, New York | Away 98 |  |  |
@@ -274,8 +244,28 @@ _All times ET_
 | 9/17/2026 | Boston Red Sox | Texas Rangers | 8:05 PM | MLB.TV, NESN, Rangers Sports Network | Globe Life Field, Arlington, Texas | Home 89; Away 97 |  |  |
 | 9/17/2026 | Minnesota Twins | Los Angeles Angels | 9:38 PM | Angels.TV, MLB.TV, Twins.TV | Angel Stadium, Anaheim, California | Away ONLINE |  |  |
 
+### Friday September 18th
+
+| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9/18/2026 | **Chicago Cubs** | Cincinnati Reds | 6:40 PM | MLB.TV, Marquee Sports Net, Reds.TV | Great American Ball Park, Cincinnati, Ohio | Home 89; Away 96 |  |  |
+| 9/18/2026 | Kansas City Royals | Pittsburgh Pirates | 6:40 PM | MLB.TV, Royals.TV | PNC Park, Pittsburgh, Pennsylvania | Home 202; Away ONLINE |  |  |
+| 9/18/2026 | Milwaukee Brewers | Baltimore Orioles | 7:05 PM | Brewers.TV, MASN, MLB.TV | Oriole Park at Camden Yards, Baltimore, Maryland | Home 204; Away ONLINE |  |  |
+| 9/18/2026 | Athletics | **Cleveland Guardians** | 7:10 PM | CLEGuardians.TV, MLB.TV, NBC Sports CA, WKYC 3 | Progressive Field, Cleveland, Ohio | Home 205; Away ONLINE |  |  |
+| 9/18/2026 | Boston Red Sox | Tampa Bay Rays | 7:10 PM | ESPN Unlmtd, ESPN Unlmtd/MLB.TV, MLB.TV, NESN, Rays.TV | Tropicana Field, St. Petersburg, Florida | Home 206; Away 97 |  |  |
+| 9/18/2026 | Philadelphia Phillies | New York Mets | 7:10 PM | Apple TV | Citi Field, Queens, New York | Away 98 |  |  |
+| 9/18/2026 | Detroit Tigers | Chicago White Sox | 7:40 PM | CHSN, MLB.TV, Tigers.TV | Rate Field, Chicago, Illinois | Away 170 |  |  |
+| 9/18/2026 | Toronto Blue Jays | Texas Rangers | 8:05 PM | MLB.TV, Rangers Sports Network, Sportsnet | Globe Life Field, Arlington, Texas | Home 209; Away ONLINE |  |  |
+| 9/18/2026 | Atlanta Braves | Houston Astros | 8:10 PM | BravesVision, MLB.TV, Space City Home (Alt.), Space City Home Network | Daikin Park, Houston, Texas | Home 210; Away ONLINE |  |  |
+| 9/18/2026 | Seattle Mariners | Colorado Rockies | 8:10 PM | MLB.TV, Mariners.TV, Rockies.TV | Coors Field, Denver, Colorado | Home 211; Away ONLINE |  |  |
+| 9/18/2026 | Washington Nationals | St. Louis Cardinals | 8:15 PM | Cardinals.TV, MLB.TV, Nationals.TV | Busch Stadium, St. Louis, Missouri | Home 208; Away ONLINE |  |  |
+| 9/18/2026 | Minnesota Twins | Los Angeles Angels | 9:38 PM | Angels.TV, MLB.TV, Twins.TV | Angel Stadium, Anaheim, California | Away ONLINE |  |  |
+| 9/18/2026 | Miami Marlins | San Diego Padres | 9:40 PM | MLB.TV, Marlins.TV, Padres.TV | Petco Park, San Diego, California | Home 89; Away ONLINE |  |  |
+| 9/18/2026 | New York Yankees | Arizona Diamondbacks | 9:40 PM | DBACKS.TV, MLB.TV, YES | Chase Field, Phoenix, Arizona | Home 213; Away ONLINE |  |  |
+| 9/18/2026 | San Francisco Giants | Los Angeles Dodgers | 10:10 PM | Apple TV | Dodger Stadium, Los Angeles, California | Away ONLINE |  |  |
+
 ## MLS — Upcoming Week
-2026-09-11 to 2026-09-17  
+2026-09-12 to 2026-09-18  
 _All times ET_  
 
 ### Saturday September 12th
@@ -283,9 +273,9 @@ _All times ET_
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/12/2026 | Red Bull New York | Columbus Crew | 7:30 PM | Apple TV | ScottsMiracle-Gro Field, Columbus, Ohio |  |  |  |
-| 9/12/2026 | Atlanta United FC | D.C. United | 7:30 PM | Apple TV | Audi Field, Washington, District of Columbia | Away 176 |  |  |
+| 9/12/2026 | Atlanta United FC | D.C. United | 7:30 PM | Apple TV | Audi Field, Washington, District of Columbia |  |  |  |
 | 9/12/2026 | Charlotte FC | FC Cincinnati | 7:30 PM | Apple TV | TQL Stadium, Cincinnati, Ohio |  |  |  |
-| 9/12/2026 | Nashville SC | Inter Miami CF | 7:30 PM | Apple TV | Nu Stadium, Miami, Florida | Home 188; Away ONLINE |  |  |
+| 9/12/2026 | Nashville SC | Inter Miami CF | 7:30 PM | Apple TV | Nu Stadium, Miami, Florida | Home 188; Away 176 |  |  |
 | 9/12/2026 | Toronto FC | Orlando City SC | 7:30 PM | Apple TV | Inter&Co Stadium, Orlando, Florida |  |  |  |
 | 9/12/2026 | Portland Timbers | FC Dallas | 8:30 PM | Apple TV | Toyota Stadium, Toyota Stadium | Away 183 |  |  |
 | 9/12/2026 | LAFC | Sporting Kansas City | 8:30 PM | Apple TV | Sporting Park, Kansas City, Kansas | Away 95 |  |  |
@@ -303,8 +293,14 @@ _All times ET_
 | 9/13/2026 | Austin FC | Vancouver Whitecaps | 6:30 PM | Apple TV | BC Place, Vancouver |  |  |  |
 | 9/13/2026 | Philadelphia Union | San Diego FC | 9:00 PM | Apple TV | Snapdragon Stadium, San Diego, California | Home 188 |  |  |
 
+### Friday September 18th
+
+| Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9/18/2026 | Red Bull New York | New York City FC | 7:30 PM | Apple TV | Yankee Stadium, New York City | Home 188 |  |  |
+
 ## Premier League — Upcoming Week
-2026-09-11 to 2026-09-17  
+2026-09-12 to 2026-09-18  
 _All times ET_  
 
 ### Saturday September 12th
@@ -332,8 +328,14 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9/14/2026 | Newcastle United | Leeds United | 3:00 PM | USA Net | Elland Road, Leeds | Home 188; Away 188 |  |  |
 
+### Friday September 18th
+
+| Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9/18/2026 | Chelsea | Brentford | 3:00 PM |  | Gtech Community Stadium, Brentford | Home 188; Away 188 |  |  |
+
 ## FIFA World Cup — Upcoming Week
-2026-09-11 to 2026-09-17  
+2026-09-12 to 2026-09-18  
 _All times ET_  
 
 > No upcoming games.
