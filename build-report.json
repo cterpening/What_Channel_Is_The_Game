@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-26T14:13:41Z",
+  "generated_at": "2026-09-29T13:21:43Z",
   "sports": {
     "cfb": {
-      "games": 65,
-      "sxm_games": 60,
-      "tv_games": 65,
-      "venue_games": 65,
+      "games": 59,
+      "sxm_games": 55,
+      "tv_games": 59,
+      "venue_games": 59,
       "odds_games": 0
     },
     "epl": {
@@ -14,6 +14,13 @@
       "sxm_games": 0,
       "tv_games": 0,
       "venue_games": 0,
+      "odds_games": 0
+    },
+    "fifa_friendly": {
+      "games": 36,
+      "sxm_games": 1,
+      "tv_games": 2,
+      "venue_games": 29,
       "odds_games": 0
     },
     "fifa_world": {
@@ -24,24 +31,24 @@
       "odds_games": 0
     },
     "mlb": {
-      "games": 40,
-      "sxm_games": 28,
-      "tv_games": 40,
-      "venue_games": 34,
+      "games": 20,
+      "sxm_games": 12,
+      "tv_games": 20,
+      "venue_games": 20,
       "odds_games": 0
     },
     "mls": {
-      "games": 16,
-      "sxm_games": 4,
-      "tv_games": 16,
-      "venue_games": 16,
+      "games": 2,
+      "sxm_games": 0,
+      "tv_games": 2,
+      "venue_games": 2,
       "odds_games": 0
     },
     "nba": {
-      "games": 0,
-      "sxm_games": 0,
+      "games": 8,
+      "sxm_games": 6,
       "tv_games": 0,
-      "venue_games": 0,
+      "venue_games": 8,
       "odds_games": 0
     },
     "ncaab": {
@@ -52,12 +59,12 @@
       "odds_games": 0
     },
     "nfl": {
-      "games": 15,
-      "sxm_games": 15,
-      "tv_games": 15,
-      "venue_games": 15,
+      "games": 16,
+      "sxm_games": 0,
+      "tv_games": 16,
+      "venue_games": 16,
       "odds_games": 0
     }
   },
-  "total_games": 136
+  "total_games": 141
 }
