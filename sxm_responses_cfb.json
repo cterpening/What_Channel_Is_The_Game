@@ -3,22 +3,16 @@
     "url": "https://www.siriusxm.com/sports/college-football",
     "status": 200,
     "content_type": "text/html; charset=utf-8",
-    "length": 382008
-  },
-  {
-    "url": "https://www.siriusxm.com/app-download/fonts/geist/Geist-Regular.woff2",
-    "status": 200,
-    "content_type": "font/woff2",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/app-download/fonts/geist/Geist-SemiBold.woff2",
-    "status": 200,
-    "content_type": "font/woff2",
-    "length": 0
+    "length": 381993
   },
   {
     "url": "https://www.siriusxm.com/app-download/fonts/geist/Geist-Black.woff2",
+    "status": 200,
+    "content_type": "font/woff2",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/app-download/fonts/geist/Geist-Regular.woff2",
     "status": 200,
     "content_type": "font/woff2",
     "length": 0
@@ -30,16 +24,16 @@
     "length": 0
   },
   {
+    "url": "https://www.siriusxm.com/app-download/fonts/geist/Geist-SemiBold.woff2",
+    "status": 200,
+    "content_type": "font/woff2",
+    "length": 0
+  },
+  {
     "url": "https://www.siriusxm.com/_next/static/chunks/3q7eiftcr7rbc.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
     "length": 72448
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2gw3mgizd8nyb.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 114171
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/3eud3o2vtf-10.css",
@@ -52,30 +46,6 @@
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
     "length": 110859
-  },
-  {
-    "url": "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
-    "status": 200,
-    "content_type": "text/javascript",
-    "length": 165701
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/1weg-ans06y2z.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 63166
-  },
-  {
-    "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 60167
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0e2396gbcf_r4.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 118065
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/1aiwxizuq3rs2.css",
@@ -96,22 +66,16 @@
     "length": 2605
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0c4dub4c2thg9.css",
+    "url": "https://www.siriusxm.com/_next/static/chunks/2gw3mgizd8nyb.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
-    "length": 229
+    "length": 114171
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0-ljbaba01gah.css",
+    "url": "https://www.siriusxm.com/_next/static/chunks/0e2396gbcf_r4.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
-    "length": 2169
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2q2pk2pz3zxq5.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 992
+    "length": 118065
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/1v4n3t1i9wqrh.css",
@@ -120,16 +84,40 @@
     "length": 114606
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/hero-background/sports/GenreHeros-BG-NFL.jpg",
+    "url": "https://www.siriusxm.com/_next/static/chunks/0c4dub4c2thg9.css",
     "status": 200,
-    "content_type": "image/jpeg",
-    "length": 0
+    "content_type": "text/css; charset=UTF-8",
+    "length": 229
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/2q2pk2pz3zxq5.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 992
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/0otg1n_lek1bi.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
     "length": 576
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/2ofegzq1_712-.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 5878
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/0-ljbaba01gah.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 2169
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/1weg-ans06y2z.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 63166
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/1o6egajuc2pde.css",
@@ -144,28 +132,28 @@
     "length": 4441
   },
   {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/hero-background/sports/GenreHeros-BG-NFL.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "length": 0
+  },
+  {
     "url": "https://www.siriusxm.com/content/dam/sxm-com/icons/ccpa-opt-out-icon/privacyoptions.svg",
     "status": 200,
     "content_type": "image/svg+xml",
     "length": 1793
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2ofegzq1_712-.css",
+    "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
     "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 5878
+    "content_type": "application/javascript",
+    "length": 60167
   },
   {
-    "url": "https://www.siriusxm.com/ns/optimizations/ot/OneTrustCookieConsolidator.v1.0.min.js",
+    "url": "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
     "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1596
-  },
-  {
-    "url": "https://www.siriusxm.com/resources/js/sxm.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 1447
+    "content_type": "text/javascript",
+    "length": 165701
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/launch-fa4d8a34177c.min.js",
@@ -174,28 +162,34 @@
     "length": 445062
   },
   {
+    "url": "https://www.siriusxm.com/resources/js/sxm.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 1447
+  },
+  {
+    "url": "https://www.siriusxm.com/ns/optimizations/ot/OneTrustCookieConsolidator.v1.0.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1596
+  },
+  {
     "url": "https://www.siriusxm.com/_next/static/chunks/3dh0radjukhxw.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
     "length": 12724
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2j33yjlks0tdo.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/2ys1scj5a7m_7.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 26882
+    "length": 162846
   },
   {
-    "url": "https://www.siriusxm.com/ns/cms/static/global/widget/ui-nav/sxm-ui-navigation.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1959154
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3_x-v3ljb3qmm.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/turbopack-1r2--12v6_ixg.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 29101
+    "length": 10250
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/10e9dg7m1zza0.js",
@@ -210,28 +204,34 @@
     "length": 228387
   },
   {
+    "url": "https://www.siriusxm.com/_next/static/chunks/13_i1i4tn5pmp.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 39422
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/3_x-v3ljb3qmm.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 29101
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/1d4u6p8a_wni_.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 47373
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/372pkbknzvo60.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 32976
+  },
+  {
     "url": "https://www.siriusxm.com/_next/static/chunks/2mn68pk46ej73.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
     "length": 37390
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0vrm7grabuohs.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 126955
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2ys1scj5a7m_7.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 162846
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2iiy-re5ki8nc.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 106283
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/06q_fb3orbz0m.js",
@@ -240,16 +240,28 @@
     "length": 39622
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/13_i1i4tn5pmp.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/2j33yjlks0tdo.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 39422
+    "length": 26882
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/turbopack-1r2--12v6_ixg.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/0vrm7grabuohs.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 10250
+    "length": 126955
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/2jsjy15i_in1h.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 49782
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/11dz1z_q44tpu.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 51171
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/0tl1z6v4sv5kd.js",
@@ -264,85 +276,31 @@
     "length": 49585
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/1d4u6p8a_wni_.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/2iiy-re5ki8nc.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 47373
+    "length": 106283
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2jsjy15i_in1h.js",
+    "url": "https://www.siriusxm.com/ns/cms/static/global/widget/ui-nav/sxm-ui-navigation.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1959154
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/15hsq_gtlaaj_.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 49782
+    "length": 179166
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/KennesawStateU-logo.svg",
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/FIU-logo.svg",
     "status": 200,
     "content_type": "image/svg+xml",
-    "length": 5920
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/JaxState-logo.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 12444
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-126-500x400-P.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 19319
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/icons/sports/AddtoCalendar.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 1096
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMGMvMGMzZjM0ZjgyZDdlYzk5MGM1ZGVkZDE1MGM1OWIzNmRfMTcxOTUwMzE2OS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/NewMexicoState-logo.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 40755
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNDYvNDY4NTQ5OWE0MDJmMmY2NzNhNzA4ZDMxZGVhNWJiZDFfMTcxMjg2MTUyNS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vZjQvZjRhNDY2YWU0NzhkODBkM2Y2NzE5OWViNjEyYjg0ZmRfMTcxMjg2MTUyOS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
+    "length": 20475
   },
   {
     "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL2NvbGxlZ2UtZm9vdGJhbGwvQ29sbGVnZUZvb3RiYWxsLTE2eDktTVgtMzE5NS12MS5qcGciLCJlZGl0cyI6W3sicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6MjI1fX0seyJmb3JtYXQiOnsidHlwZSI6ImF2aWYifX1dfQ==",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMDYvMDZiYWNiOGZiZTJmMTQxNTRkODllNGZjMjU4YzU3YzlfMTcxMjg2MTUxNC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL3Nwb3J0cy10YWxrL2ZhbnRhc3ktc3BvcnRzLXJhZGlvL0ZhbnRhc3lTcG9ydHNSYWRpby0xNng5LmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0IjoyMjV9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
     "status": 200,
     "content_type": "image/avif",
     "length": 0
@@ -354,69 +312,111 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/FIU-logo.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 20475
-  },
-  {
     "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vYTYvYTYwMzI3MDFjNzU3MzRlYzYxOGIyZTY2MjVjMjNiMzhfMTY5OTM3NTc5Mi5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
     "content_type": "image/avif",
     "length": 0
   },
   {
-    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vMzAvMzAzNzQzOTk3MmIwZGI2NWZjZDQyMTJjMWQ0YWVhYzFfMTcyNzc5NTg2OC5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-126-500x400-P.svg",
     "status": 200,
-    "content_type": "image/jpeg",
-    "length": 0
+    "content_type": "image/svg+xml",
+    "length": 19319
   },
   {
-    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vNjAvNjBlNzJhNzcyMTgyZjAyZjE5ODAxNDZhMGU5MzNkZjJfMTc5MDY5MjQ4NC5qcGVnIiwiZWRpdHMiOlt7ImZvcm1hdCI6eyJ0eXBlIjoianBlZyJ9fSx7InJlc2l6ZSI6eyJ3aWR0aCI6MzE5LCJoZWlnaHQiOjMxOX19XX0=",
-    "status": 200,
-    "content_type": "image/jpeg",
-    "length": 0
-  },
-  {
-    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vODUvODUwMGE1M2UzZDI1MTIzMmViMGQ5ZDY4M2U4YmNkNmNfMTcwMTg4MTA4Ny5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
-    "status": 200,
-    "content_type": "image/jpeg",
-    "length": 0
-  },
-  {
-    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vOTkvOTk1NmRmNWIxNjYzOGNkNzgwMjk5MDBhMjhjNDJkMWRfMTY5OTkxNDI4My5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
-    "status": 200,
-    "content_type": "image/jpeg",
-    "length": 0
-  },
-  {
-    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vZTIvZTJlZTkzNDk5NmVmZmRmYWEwOWU5MDIxODM1YTVkMTZfMTc1OTk1ODkwMi5qcGVnIiwiZWRpdHMiOlt7ImZvcm1hdCI6eyJ0eXBlIjoianBlZyJ9fSx7InJlc2l6ZSI6eyJ3aWR0aCI6MzE5LCJoZWlnaHQiOjMxOX19XX0=",
-    "status": 200,
-    "content_type": "image/jpeg",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/15hsq_gtlaaj_.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 179166
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/11dz1z_q44tpu.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 51171
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/372pkbknzvo60.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 32976
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNDYvNDY4NTQ5OWE0MDJmMmY2NzNhNzA4ZDMxZGVhNWJiZDFfMTcxMjg2MTUyNS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6OTYsImhlaWdodCI6OTZ9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNDYvNDY4NTQ5OWE0MDJmMmY2NzNhNzA4ZDMxZGVhNWJiZDFfMTcxMjg2MTUyNS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
     "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/icons/sports/AddtoCalendar.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 1096
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMDYvMDZiYWNiOGZiZTJmMTQxNTRkODllNGZjMjU4YzU3YzlfMTcxMjg2MTUxNC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/KennesawStateU-logo.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 5920
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL3Nwb3J0cy10YWxrL2ZhbnRhc3ktc3BvcnRzLXJhZGlvL0ZhbnRhc3lTcG9ydHNSYWRpby0xNng5LmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0IjoyMjV9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vZjQvZjRhNDY2YWU0NzhkODBkM2Y2NzE5OWViNjEyYjg0ZmRfMTcxMjg2MTUyOS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMGMvMGMzZjM0ZjgyZDdlYzk5MGM1ZGVkZDE1MGM1OWIzNmRfMTcxOTUwMzE2OS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/JaxState-logo.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 12444
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/NewMexicoState-logo.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 40755
+  },
+  {
+    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vNzgvNzhjODNlNTY4MTQwMmE4NDBmMjQ2YWM1NWI3MTA1MTNfMTcxOTg3MjA4OS5qcGVnIiwiZWRpdHMiOlt7ImZvcm1hdCI6eyJ0eXBlIjoianBlZyJ9fSx7InJlc2l6ZSI6eyJ3aWR0aCI6MzE5LCJoZWlnaHQiOjMxOX19XX0=",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "length": 0
+  },
+  {
+    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vZmUvZmU5MmVjY2JjZjk3MGJjMTI5NTBiZDNiNmQ2ODRhNGRfMTY5ODg5MjU5OC5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "length": 0
+  },
+  {
+    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vZmQvZmQ5Mzc2ZmQ4ZDFhNGNlNzMyZmNkMmE1ZDgxNzE3NmVfMTcwMTg4MTA2Ni5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "length": 0
+  },
+  {
+    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vOTgvOTg0NGZiNmIxZDJjNTIzZTZjMzUzMzZiODRhMjY3YzdfMTc2Mjg5MDA3NS5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "length": 0
+  },
+  {
+    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vYTQvYTQ4NWU1ZTE5MGU5MjVhMDkxZTBjODZhMDA0OTBjNmRfMTcwMzI3Njc1NS5qcGVnIiwiZWRpdHMiOlt7ImZvcm1hdCI6eyJ0eXBlIjoianBlZyJ9fSx7InJlc2l6ZSI6eyJ3aWR0aCI6MzE5LCJoZWlnaHQiOjMxOX19XX0=",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "length": 0
+  },
+  {
+    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vMGMvMGNkMTE3MDBkNTIwZGEzZGQwNDdkN2RkNmU4M2FiNDNfMTcwMzExOTM0Ni5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
+    "status": 200,
+    "content_type": "image/jpeg",
     "length": 0
   },
   {
@@ -424,84 +424,6 @@
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
     "length": 2014
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi8xZi8xZjI2Zjg2MDU2ODgzNDg1Yjc1OGU3NzNkYTE0NjM1Y18xNzg1NzI2MDM5LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vY2YvY2Y5MGVhZGRjNGVkMDc0Zjk5OWYyYmE4OGQyZGIyMTdfMTcwMTM2MTI5Ny5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9yb3R0ZW4vcm90dGVuLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi8yNC8yNDdkNzJjZWNhNDUzMmYwODM4YTExOTViNGQxMjEzOF8xNzU0MDM1NDUzLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vOTcvOTc4M2EwY2Q3MzkzOWNmYzcyOWIwMTMyYmY3NWVkZmNfMTY5OTM3NjA4MC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL21sYi9DaEVudC1NTEIyMDI2LTF4MS02NDAtQ0VDTS0zMjEzNS12MS5qcGciLCJlZGl0cyI6W3sicmVzaXplIjp7IndpZHRoIjo0NTAsImhlaWdodCI6NDUwfX0seyJmb3JtYXQiOnsidHlwZSI6ImF2aWYifX1dfQ==",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi82Mi82MjNlOGIwNDQ3YjIzMDJjOWU4ZTUxZWE2YzMwMDI0MF8xNzgyMDU0MTQ0LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMGMvMGMzZjM0ZjgyZDdlYzk5MGM1ZGVkZDE1MGM1OWIzNmRfMTcxOTUwMzE2OS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi82Ni82NjliNjZmNzM0MWIzYzYyYTI2MDk1YTk3ZmQ5OGI2MV8xNzgzMTEyNzI4LmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi83Yi83YjJmOTMzZjQ4NjMzOWU3YjViNjY4MjM0MjFlODRkZV8xNzgyMTg2NTU2LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNWMvNWM2MmFjNDFmNDg2Yzc0OGE2YzU1MmI1Yzk0ZmQxMjFfMTczOTIwMzIxNy5wbmciLCJlZGl0cyI6W3sicmVzaXplIjp7IndpZHRoIjoxMjgsImhlaWdodCI6MTI4fX0seyJmb3JtYXQiOnsidHlwZSI6ImF2aWYifX1dfQ==",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNGUvNGU2YjViNDQ0NmU1YjBhZTRhOTI5NTQ4MjYyMTk1MDVfMTcyNDg4MTg1MS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
   },
   {
     "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9jYWxsLWhlci1kYWRkeS9DYWxsSGVyRGFkeVBvZGNhc3RGUE8uanBlZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
@@ -516,7 +438,85 @@
     "length": 0
   },
   {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi8xZi8xZjI2Zjg2MDU2ODgzNDg1Yjc1OGU3NzNkYTE0NjM1Y18xNzg1NzI2MDM5LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vOTcvOTc4M2EwY2Q3MzkzOWNmYzcyOWIwMTMyYmY3NWVkZmNfMTY5OTM3NjA4MC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vY2YvY2Y5MGVhZGRjNGVkMDc0Zjk5OWYyYmE4OGQyZGIyMTdfMTcwMTM2MTI5Ny5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMGMvMGMzZjM0ZjgyZDdlYzk5MGM1ZGVkZDE1MGM1OWIzNmRfMTcxOTUwMzE2OS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi82Mi82MjNlOGIwNDQ3YjIzMDJjOWU4ZTUxZWE2YzMwMDI0MF8xNzgyMDU0MTQ0LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9yb3R0ZW4vcm90dGVuLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL21sYi9DaEVudC1NTEIyMDI2LTF4MS02NDAtQ0VDTS0zMjEzNS12MS5qcGciLCJlZGl0cyI6W3sicmVzaXplIjp7IndpZHRoIjo0NTAsImhlaWdodCI6NDUwfX0seyJmb3JtYXQiOnsidHlwZSI6ImF2aWYifX1dfQ==",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNWMvNWM2MmFjNDFmNDg2Yzc0OGE2YzU1MmI1Yzk0ZmQxMjFfMTczOTIwMzIxNy5wbmciLCJlZGl0cyI6W3sicmVzaXplIjp7IndpZHRoIjoxMjgsImhlaWdodCI6MTI4fX0seyJmb3JtYXQiOnsidHlwZSI6ImF2aWYifX1dfQ==",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi8yNC8yNDdkNzJjZWNhNDUzMmYwODM4YTExOTViNGQxMjEzOF8xNzU0MDM1NDUzLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi82Ni82NjliNjZmNzM0MWIzYzYyYTI2MDk1YTk3ZmQ5OGI2MV8xNzgzMTEyNzI4LmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
     "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMTUvMTU0MzY0ZWEwOWM0NWU5ODBkYmQ0M2RkYjU5NWIyMzlfMTY5OTM2NjY4MC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi83Yi83YjJmOTMzZjQ4NjMzOWU3YjViNjY4MjM0MjFlODRkZV8xNzgyMTg2NTU2LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNGUvNGU2YjViNDQ0NmU1YjBhZTRhOTI5NTQ4MjYyMTk1MDVfMTcyNDg4MTg1MS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
     "content_type": "image/avif",
     "length": 0
@@ -570,28 +570,16 @@
     "length": 288
   },
   {
+    "url": "https://static.ads-twitter.com/uwt.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 62021
+  },
+  {
     "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
     "status": 200,
     "content_type": "application/javascript",
     "length": 46138
-  },
-  {
-    "url": "https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1791244983476",
-    "status": 200,
-    "content_type": "application/json;charset=utf-8",
-    "length": 185
-  },
-  {
-    "url": "https://cdn.cookielaw.org/consent/a94ca794-e01f-45f7-a5c0-0cae5107e46e/a94ca794-e01f-45f7-a5c0-0cae5107e46e.json",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 5194
-  },
-  {
-    "url": "https://sierra.chat/agent/nulaz9wBijgxP-EBkS6Nez8dnG3Z2ycudo9sHsEgwGA/sxm",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 7018
   },
   {
     "url": "https://cdn.evgnet.com/beacon/siriusxmradioinc/prod_us/scripts/evergage.min.js",
@@ -600,16 +588,28 @@
     "length": 260538
   },
   {
-    "url": "https://static.ads-twitter.com/uwt.js",
+    "url": "https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1791304414374",
     "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 62021
+    "content_type": "application/json;charset=utf-8",
+    "length": 185
+  },
+  {
+    "url": "https://sierra.chat/agent/nulaz9wBijgxP-EBkS6Nez8dnG3Z2ycudo9sHsEgwGA/sxm",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 7018
+  },
+  {
+    "url": "https://cdn.cookielaw.org/consent/a94ca794-e01f-45f7-a5c0-0cae5107e46e/a94ca794-e01f-45f7-a5c0-0cae5107e46e.json",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 5194
   },
   {
     "url": "https://cdn.quantummetric.com/qscripts/quantum-siriusxm.js",
     "status": 200,
     "content_type": "text/javascript",
-    "length": 315017
+    "length": 315084
   },
   {
     "url": "https://www.googletagmanager.com/gtag/js?id=G-Q5DE4FXP41&l=dataLayer",
@@ -621,7 +621,7 @@
     "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
     "status": 200,
     "content_type": "application/json",
-    "length": 68
+    "length": 71
   },
   {
     "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
@@ -636,25 +636,13 @@
     "length": 741
   },
   {
-    "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
-    "status": 200,
-    "content_type": "application/json; charset=utf-8",
-    "length": 22
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/deeHa7V45n0qWptlMtxRt99aeqc.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 3312
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/jzGqISX9gRxTdfIX-UYxAiS7eK0.js",
+    "url": "https://sierra.chat/-/cdn/Z3U0mc9jAkbklL0C-nX67_pe0N8.js",
     "status": 200,
     "content_type": "application/javascript",
     "length": 12148
   },
   {
-    "url": "https://sierra.chat/-/cdn/IMrziZhnIsnRzDlnKKv_W-xi7hU.js",
+    "url": "https://sierra.chat/-/cdn/HonzwTxs44t9Huzo_b_MmdTYGNY.js",
     "status": 200,
     "content_type": "application/javascript",
     "length": 15104
@@ -666,28 +654,22 @@
     "length": 22
   },
   {
-    "url": "https://api.edge-gateway.siriusxm.com/device/v2/devices",
-    "status": 201,
-    "content_type": "application/json",
-    "length": 741
+    "url": "https://sierra.chat/-/cdn/59JYGhnZzDDGd7U0KqR-CAdFHk8.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 3312
   },
   {
-    "url": "https://sierra.chat/-/cdn/Gm7s7Y6Gh-HZ6GqMT0G1EEmLNCs.js",
+    "url": "https://sierra.chat/-/cdn/SFP7x1osyDz46qcwOKrLptCj4ak.js",
     "status": 200,
     "content_type": "application/javascript",
     "length": 74861
   },
   {
-    "url": "https://sierra.chat/-/cdn/fNxG4o84kRp6ZOvxTS1ushxcDlM.js",
+    "url": "https://sierra.chat/-/cdn/uZ1_GdAYFv7S7y5DYH9POoL7aIM.js",
     "status": 200,
     "content_type": "application/javascript",
     "length": 217542
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/ck7nintZm22-b3a8U3u7akCo8jM.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 181859
   },
   {
     "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/otBannerSdk.js",
@@ -696,16 +678,28 @@
     "length": 511525
   },
   {
+    "url": "https://sierra.chat/-/cdn/B5osP4M--D6FuJk1a9keObceZvA.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 181859
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/IIH2dHcRHwN3zx8g2a-ZAmwqIMg.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 410170
+  },
+  {
+    "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "length": 22
+  },
+  {
     "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/banners/Google_Play_Store_badge_EN.svg",
     "status": 200,
     "content_type": "image/svg+xml",
     "length": 7145
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/Q9DdrRL2Zg4715c9fSwUtU3qVoA.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 410170
   },
   {
     "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/banners/Download_on_the_App_Store_Badge.svg",
@@ -714,7 +708,13 @@
     "length": 12353
   },
   {
-    "url": "https://sierra.chat/-/cdn/-kDHAC9ZVKEpIg3r9IRFRyq7zMo.js",
+    "url": "https://api.edge-gateway.siriusxm.com/device/v2/devices",
+    "status": 201,
+    "content_type": "application/json",
+    "length": 741
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/YrinvIGRf66mewVb1ORres0OdJQ.js",
     "status": 200,
     "content_type": "application/javascript",
     "length": 924796
@@ -732,22 +732,22 @@
     "length": 22
   },
   {
+    "url": "https://api.edge-gateway.siriusxm.com/session/v1/sessions/anonymous",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 1235
+  },
+  {
+    "url": "https://api.edge-gateway.siriusxm.com/session/v1/sessions/anonymous",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 1277
+  },
+  {
     "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
     "status": 200,
     "content_type": "application/json; charset=utf-8",
     "length": 22
-  },
-  {
-    "url": "https://api.edge-gateway.siriusxm.com/session/v1/sessions/anonymous",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 1219
-  },
-  {
-    "url": "https://api.edge-gateway.siriusxm.com/session/v1/sessions/anonymous",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 1219
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RC7401b0f0a1614681bae0c0cff51ba0b7-source.min.js",
@@ -762,13 +762,13 @@
     "length": 0
   },
   {
-    "url": "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=6ca60327-be6f-4f66-ba1b-55654d7254f9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&tw_session_start=1&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
+    "url": "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=b9b388cb-0d55-40c5-acf3-ad4d3f6ec308&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&tw_session_start=1&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=6ca60327-be6f-4f66-ba1b-55654d7254f9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&tw_session_start=1&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
+    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=3&event=%7B%7D&event_id=b9b388cb-0d55-40c5-acf3-ad4d3f6ec308&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&tw_session_start=1&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
@@ -783,7 +783,13 @@
     "url": "https://match.adsrvr.org/track/cei?advertiser_id=hf70aa0&cookie_sync=1&upv=3.0.0&upid=wabf9tv&ref=https%3a%2f%2fwww.siriusxm.com&redirect=1",
     "status": 200,
     "content_type": "text/html",
-    "length": 1261
+    "length": 1314
+  },
+  {
+    "url": "https://www.googletagmanager.com/td?id=G-Q5DE4FXP41&v=3&t=t&pid=134847586&gtm=45je6a50v869737875za200zd869737875xf1&seq=1&exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&dl=www.siriusxm.com%2Fsports%2Fcollege-football&tdp=G-Q5DE4FXP41;69737875;0;0;0&frm=0&rtg=69737875&slo=25&hlo=29&lst=3&bt=0&ct=3&jsp=1&z=0",
+    "status": 204,
+    "content_type": "text/plain",
+    "length": 0
   },
   {
     "url": "https://js.adsrvr.org/universal_pixel.js",
@@ -792,33 +798,33 @@
     "length": 482
   },
   {
-    "url": "https://siriusxmradioinc.us-6.evergage.com/api2/event/prod_us?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJMZWFndWUgUGFnZSIsInVybCI6Imh0dHBzOi8vd3d3LnNpcml1c3htLmNvbS9zcG9ydHMvY29sbGVnZS1mb290YmFsbCIsInVybFJlZmVycmVyIjoiIiwiY2hhbm5lbCI6IldlYiIsImJlYWNvblZlcnNpb24iOjE2LCJjb25maWdWZXJzaW9uIjoiMzg1IiwiY29udGVudFpvbmVzIjpbImNhX2luZm9iYXJfdG9wX29mX3BhZ2UiLCJjYV9pbmZvYmFyX2FjY291bnRjZW50ZXJfbG9naW4iLCJUYWIgTGlzdCIsIkdsb2JhbCBOYXYgVGVzdCIsIlByaW1hcnkgUGFja2FnZSBDYXJkIE9mZmVyIl19LCJ1c2VyIjp7ImFub255bW91c0lkIjoiNjNjNWQ5YmRkYWZmZTkwMiIsImlkZW50aXRpZXMiOnt9LCJhdHRyaWJ1dGVzIjp7fX0sImludGVyYWN0aW9uIjp7Im5hbWUiOiJWaWV3IENhdGFsb2cgT2JqZWN0IiwiY2F0YWxvZ09iamVjdCI6eyJ0eXBlIjoiTGVhZ3VlIiwiaWQiOiJDb2xsZWdlIEZvb3RiYWxsIiwiYXR0cmlidXRlcyI6eyJuYW1lIjoiQ29sbGVnZSBGb290YmFsbCIsInVybCI6Imh0dHBzOi8vd3d3LnNpcml1c3htLmNvbS9zcG9ydHMvY29sbGVnZS1mb290YmFsbCIsImltYWdlVXJsIjoiaHR0cHM6Ly93d3cuc2lyaXVzeG0uY29tL2NvbnRlbnQvZGFtL3N4bS1jb20vbG9nb3Mvc3htL1NYTUdlbmVyaWMtT3BlbkdyYXBoLXYxLmpwZyIsImRlc2NyaXB0aW9uIjoiQ29sbGVnZSBmb290YmFsbCBpcyBvbiBTaXJpdXNYTS4gSGVhciBsaXZlIGdhbWVzIGZyb20gdGhlIHRvcCBjb25mZXJlbmNlcyBhY3Jvc3MgdGhlIGNvdW50cnkuIn19fSwicGFnZVZpZXciOnRydWUsImNvbnNlbnRzIjpbXSwiYWNjb3VudCI6e30sIl90b29sc0V2ZW50TGlua0lkIjoiODA3OTA2ODg0MDE5NDU3OSIsImV4cGxhaW4iOnRydWV9",
+    "url": "https://siriusxmradioinc.us-6.evergage.com/api2/event/prod_us?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJMZWFndWUgUGFnZSIsInVybCI6Imh0dHBzOi8vd3d3LnNpcml1c3htLmNvbS9zcG9ydHMvY29sbGVnZS1mb290YmFsbCIsInVybFJlZmVycmVyIjoiIiwiY2hhbm5lbCI6IldlYiIsImJlYWNvblZlcnNpb24iOjE2LCJjb25maWdWZXJzaW9uIjoiMzg1IiwiY29udGVudFpvbmVzIjpbImNhX2luZm9iYXJfdG9wX29mX3BhZ2UiLCJjYV9pbmZvYmFyX2FjY291bnRjZW50ZXJfbG9naW4iLCJUYWIgTGlzdCIsIkdsb2JhbCBOYXYgVGVzdCIsIlByaW1hcnkgUGFja2FnZSBDYXJkIE9mZmVyIl19LCJ1c2VyIjp7ImFub255bW91c0lkIjoiNjJhYzI5MDc2MjI4ZDc2ZCIsImlkZW50aXRpZXMiOnt9LCJhdHRyaWJ1dGVzIjp7fX0sImludGVyYWN0aW9uIjp7Im5hbWUiOiJWaWV3IENhdGFsb2cgT2JqZWN0IiwiY2F0YWxvZ09iamVjdCI6eyJ0eXBlIjoiTGVhZ3VlIiwiaWQiOiJDb2xsZWdlIEZvb3RiYWxsIiwiYXR0cmlidXRlcyI6eyJuYW1lIjoiQ29sbGVnZSBGb290YmFsbCIsInVybCI6Imh0dHBzOi8vd3d3LnNpcml1c3htLmNvbS9zcG9ydHMvY29sbGVnZS1mb290YmFsbCIsImltYWdlVXJsIjoiaHR0cHM6Ly93d3cuc2lyaXVzeG0uY29tL2NvbnRlbnQvZGFtL3N4bS1jb20vbG9nb3Mvc3htL1NYTUdlbmVyaWMtT3BlbkdyYXBoLXYxLmpwZyIsImRlc2NyaXB0aW9uIjoiQ29sbGVnZSBmb290YmFsbCBpcyBvbiBTaXJpdXNYTS4gSGVhciBsaXZlIGdhbWVzIGZyb20gdGhlIHRvcCBjb25mZXJlbmNlcyBhY3Jvc3MgdGhlIGNvdW50cnkuIn19fSwicGFnZVZpZXciOnRydWUsImNvbnNlbnRzIjpbXSwiYWNjb3VudCI6e30sIl90b29sc0V2ZW50TGlua0lkIjoiMDYyMTc3NzY5NzQyMjM3MjEiLCJleHBsYWluIjp0cnVlfQ%3D%3D",
     "status": 200,
     "content_type": "application/json;charset=UTF-8",
     "length": 137
   },
   {
-    "url": "https://www.googletagmanager.com/gtag/js?id=DC-9170879&cx=c&gtm=4e6a21",
+    "url": "https://www.googletagmanager.com/gtag/js?id=DC-9170879&cx=c&gtm=4e6a50",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
     "length": 416975
   },
   {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCd14bbfe5793148748e8a012912e7e0ea-source.min.js",
+    "url": "https://secure-gl.imrworldwide.com/cgi-bin/m?ci=tradedesk&cg=adb0da29-d37b-47d4-9088-6e6b2c8e2b69",
     "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 767
+    "content_type": "image/gif",
+    "length": 0
   },
   {
-    "url": "https://www.googletagmanager.com/gtag/js?id=AW-1066622487&cx=c&gtm=4e6a21",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-1066622487&cx=c&gtm=4e6a50",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
     "length": 588264
   },
   {
-    "url": "https://idsync.rlcdn.com/361776.gif?partner_uid=ebe9e5af-f173-4ddb-aefb-ff2a97a2fac8&_redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dliveramp%26ttd_tpi%3D1",
-    "status": 307,
-    "content_type": null,
+    "url": "https://ml314.com/utsync.ashx?eid=53819&et=0&fp=adb0da29-d37b-47d4-9088-6e6b2c8e2b69&gdpr=0&gdpr_consent=&return=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dd0tro1j",
+    "status": 302,
+    "content_type": "image/gif",
     "length": 0
   },
   {
@@ -828,22 +834,22 @@
     "length": 140538
   },
   {
-    "url": "https://idsync.rlcdn.com/1000.gif?memo=CLCKFhIvCisIARCKERokZWJlOWU1YWYtZjE3My00ZGRiLWFlZmItZmYyYTk3YTJmYWM4EAAaDQi59ZDWBhIFCOgHEABCAEoA",
-    "status": 307,
-    "content_type": null,
-    "length": 0
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCd14bbfe5793148748e8a012912e7e0ea-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 767
   },
   {
-    "url": "https://siriusxmradioinc.us-6.evergage.com/pr?.top=247&item=%7B%22type%22%3A%22League%22%2C%22_id%22%3A%22College%20Football%22%7D&action=View%20Catalog%20Object&.tt=224&.ttdns=36&.dt=635&.lt=903&.btdns=6&.bv=16&_ak=siriusxmradioinc&_ds=prod_us&.scv=385&channel=Web&_r=046582&.anonId=63c5d9bddaffe902&_anon=true",
+    "url": "https://siriusxmradioinc.us-6.evergage.com/pr?.top=274&item=%7B%22type%22%3A%22League%22%2C%22_id%22%3A%22College%20Football%22%7D&action=View%20Catalog%20Object&.tt=232&.ttdns=16&.dt=573&.lt=839&.btdns=14&.bv=16&_ak=siriusxmradioinc&_ds=prod_us&.scv=385&channel=Web&_r=004960&.anonId=62ac29076228d76d&_anon=true",
     "status": 204,
     "content_type": null,
     "length": 0
   },
   {
-    "url": "https://pippio.com/api/sync?pid=5324&it=1&iv=82533c2802e48ff891dc09f722156855ccc3f46f712a1fe25558ec452409e77a791426b5417dce21&_=2",
-    "status": 307,
-    "content_type": null,
-    "length": 0
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=152eba13-c562-45fe-bff2-8425056d0688&batch_time=1791304415680",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
   },
   {
     "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otFlat.json",
@@ -852,16 +858,10 @@
     "length": 15345
   },
   {
-    "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=ebe9e5af-f173-4ddb-aefb-ff2a97a2fac8",
-    "status": 307,
-    "content_type": "text/html; charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://px.ads.linkedin.com/db_sync?pid=10339&puuid=82533c2802e48ff891dc09f722156855ccc3f46f712a1fe25558ec452409e77a791426b5417dce21&rand=01882418",
-    "status": 302,
-    "content_type": null,
-    "length": 0
+    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/v2/otPcPanel.json",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 70088
   },
   {
     "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otCommonStyles.css",
@@ -870,10 +870,10 @@
     "length": 26228
   },
   {
-    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/v2/otPcPanel.json",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 70088
+    "url": "https://idpix.media6degrees.com/orbserv/hbpix?pixId=69060&pcv=78&ptid=87&tpuv=01&tpu=adb0da29-d37b-47d4-9088-6e6b2c8e2b69&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dyjn0gup",
+    "status": 302,
+    "content_type": null,
+    "length": 0
   },
   {
     "url": "https://cdn.cookielaw.org/logos/static/ot_close.svg",
@@ -882,9 +882,15 @@
     "length": 651
   },
   {
-    "url": "https://secure-gl.imrworldwide.com/cgi-bin/m?ci=tradedesk&cg=ebe9e5af-f173-4ddb-aefb-ff2a97a2fac8",
+    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=d0tro1j",
     "status": 200,
     "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://cdn.cookielaw.org/logos/613d75ce-3c5b-4623-bcef-a0d3694b4214/bf4ae24d-5943-447c-b877-b2d51014c1d9/99f44d86-2f61-4b30-ac59-6bb3ee62db1c/SiriusXM-White.png",
+    "status": 200,
+    "content_type": "image/png",
     "length": 0
   },
   {
@@ -894,22 +900,40 @@
     "length": 5445
   },
   {
-    "url": "https://cdn.cookielaw.org/logos/613d75ce-3c5b-4623-bcef-a0d3694b4214/bf4ae24d-5943-447c-b877-b2d51014c1d9/99f44d86-2f61-4b30-ac59-6bb3ee62db1c/SiriusXM-White.png",
-    "status": 200,
-    "content_type": "image/png",
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=992886989.1791244985&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tid=DC-9170879&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=621495555.1791244985&navt=n&npa=0&gtm=45fe6a21v9181637395za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&tft=1791244985127&tfd=3053&tids=DC-9170879&fmt=8",
+    "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=1&auid=1990370308.1791304416&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tid=DC-9170879&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=920916181.1791304416&navt=n&npa=0&gtm=45fe6a50v9181637395za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791304416013&tfd=2989&tids=DC-9170879&fmt=8",
     "status": 200,
     "content_type": null,
     "length": 0
   },
   {
-    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=992886989.1791244985&gtm=45fe6a21v9181637395za200zb869737875zd869737875xecxf1&fmt=8",
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1990370308.1791304416&gtm=45fe6a50v9181637395za200zb869737875zd869737875xecxf1&fmt=8",
     "status": 204,
     "content_type": null,
     "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=e3cc3abc-a6bc-46b3-96cd-240a3b5b977a&batch_time=1791304415663",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=6e1f9255-2d5e-4075-b101-3dd0ab2dd1e5&batch_time=1791304415665",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=9e529235-786a-4803-b8cb-2606c5f8565c&batch_time=1791304415660",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=9cf89a3d-ba28-48e2-95fa-ebb94ec3b7c5&batch_time=1791304415667",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
   },
   {
     "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
@@ -918,15 +942,45 @@
     "length": 497
   },
   {
-    "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3Debe9e5af-f173-4ddb-aefb-ff2a97a2fac8",
-    "status": 302,
-    "content_type": "text/html; charset=utf-8",
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=ea537d41-6bb4-4a4b-8807-39be0ce08515&batch_time=1791304416052",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=e0462b7f-861f-460a-bc66-540f407e70e7&batch_time=1791304416056",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=231732ef-1e4e-4fed-968e-4fb878133d3a&batch_time=1791304416057",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=e67c9449-80e0-4a0c-98a8-f26a7aa83c8d&batch_time=1791304416055",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=yjn0gup",
+    "status": 200,
+    "content_type": "image/gif",
     "length": 0
   },
   {
-    "url": "https://px.ads.linkedin.com/db_sync?pid=10339&puuid=82533c2802e48ff891dc09f722156855ccc3f46f712a1fe25558ec452409e77a791426b5417dce21&rand=01882418&expected_cookie=ba062c8b-4493-4bf7-86c8-e2167b57e59e",
+    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=0&auid=1990370308.1791304416&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=920916181.1791304416&navt=n&npa=0&gtm=45be6a50v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791304416244&tfd=3221&tids=AW-1066622487&fmt=8",
     "status": 200,
     "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6a50v873651601za200zb869737875zd869737875xf1&_p=1791304414410&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AEA&ae=a&cid=675729261.1791304416&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&sid=1791304416&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&en=scroll&_fv=1&_nsi=1&_ss=1&ep.conversion_linker=true&ep.conversion_cookie_prefix=&epn.percent_scrolled=90&tfd=3258",
+    "status": 204,
+    "content_type": "text/plain",
     "length": 0
   },
   {
@@ -936,52 +990,40 @@
     "length": 2844
   },
   {
-    "url": "https://www.googletagmanager.com/gtag/js?id=AW-808791726&cx=c&gtm=4e6a21",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 508674
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791244984313&v=1791244984406&P=0&N=0&S=0&b=1572&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 90
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1791244985476&cv=11&fst=1791244985476&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=6604214848641194323&ttd_tdid=ebe9e5af-f173-4ddb-aefb-ff2a97a2fac8",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=0&auid=992886989.1791244985&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=621495555.1791244985&navt=n&npa=0&gtm=45be6a21v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791244985504&tfd=3429&tids=AW-1066622487&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=0&auid=992886989.1791244985&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=621495555.1791244985&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6a21v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791244985505&tfd=3430&tids=AW-1066622487&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6a21v873651601za200zb869737875zd869737875xf1&_p=1791244983509&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&cid=1804618123.1791244985&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&sid=1791244985&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=3427",
+    "url": "https://www.googletagmanager.com/td?id=G-Q5DE4FXP41&v=3&t=t&pid=134847586&gtm=45je6a50v869737875za200zd869737875xf1&seq=2&exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&dl=www.siriusxm.com%2Fsports%2Fcollege-football&tdp=G-Q5DE4FXP41;69737875;0;0;0&mde=AW-1066622487;0_1~AW-808791726;0_1~DC-9170879;0_1~G-Q5DE4FXP41;61_1&idcc=1&z=0",
     "status": 204,
     "content_type": "text/plain",
     "length": 0
   },
   {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1791244985476&cv=11&fst=1791244985476&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1791304416409&cv=11&fst=1791304416409&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1791304416409&cv=11&fst=1791304416409&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
     "status": 200,
     "content_type": "text/javascript; charset=UTF-8",
-    "length": 5323
+    "length": 5315
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-Q5DE4FXP41&l=dataLayer&is_td=1&v=3&t=t&pid=134847586&gtm=45je6a50v869737875za200zd869737875xf1&seq=2&exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&dl=www.siriusxm.com%2Fsports%2Fcollege-football&tdp=G-Q5DE4FXP41;69737875;0;0;0&mde=AW-1066622487;0_1~AW-808791726;0_1~DC-9170879;0_1~G-Q5DE4FXP41;61_1&idcc=1&z=0",
+    "status": 204,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=0&auid=1990370308.1791304416&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=920916181.1791304416&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6a50v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791304416431&tfd=3408&tids=AW-1066622487&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791304415587&v=1791304415681&P=0&N=0&S=0&b=2857&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 90
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RC239abf77723141ae9c0f9e452ac13259-source.min.js",
@@ -990,40 +1032,16 @@
     "length": 1824
   },
   {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10933071182/?random=1791244985648&cv=11&fst=1791244985648&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246027~121246035&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=8&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 5352
-  },
-  {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/808791726/?random=1791244985682&cv=11&fst=1791244985682&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246027~121246035&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=8&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 5350
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/10933071182/?random=1791244985648&cv=11&fst=1791244985648&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246027~121246035&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=8&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&auid=992886989.1791244985&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tid=AW-10933071182&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=621495555.1791244985&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6a21v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246027~121246035&tft=1791244985708&tfd=3634&tids=AW-10933071182~AW-808791726&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/808791726/?random=1791244985682&cv=11&fst=1791244985682&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246027~121246035&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=8&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1791244985476&cv=11&fst=1791244800000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3Lp50FChgwhOIMArnhtzR4zRQuitY-2eArffXS5JLUJRfMN9kqQPbcAzBqLtfGTVaE7ebciObEuoM4n0ZsvKZLqKbWxLqjJW2eU0W18XIPrO_M2bPqZN45gd_lbgo-Qll6qdN_hzLvU6vlp5cRWmT-2pfJlIZCnDymLwXOgC0S7PlPgCOZyujN46kWxCTz2ZkvmInieMOBjcFXTytS-Pg5BhGZYTfWqpiJuIB6LIvgLV4789ZZyR57CuhbNp08wDnKeK8P7J5zNzL29GNMNyfQ&random=403483334&rmt_tld=0&ipr=y",
+    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1791304416409&cv=11&fst=1791302400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3JcXT4zfSYyTzESp3IV2SWAQH3JsgPgLmSXNZHlv5tLi-yganBK8-aKrsnDAI9WDzYzr2d5B_Oc15oC7ht40p_OWk4qCAR1UNx7IF75Jp1IuNQ_PvoBBjNqfh4b0EBi5qSNfk3gz2koQhGd9v9e8fjjgYVslfqfgNtko5-4Gm404QcKwqUwxEHIzBM7HFeR7Vg1hpUkz7asSobFV3RP42vzbjzM0u-cnIWIM6cSi9Ln0mhFblxSi40VCEB7gkknDOLECePUW2x7l0ss1HA6uew&random=3131359858&rmt_tld=0&ipr=y",
     "status": 200,
     "content_type": "image/gif",
     "length": 0
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-808791726&cx=c&gtm=4e6a50",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 508654
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RC25f0eacf86964870ac8f7f18c470198d-source.min.js",
@@ -1032,34 +1050,52 @@
     "length": 578
   },
   {
-    "url": "https://www.google.com/pagead/1p-user-list/10933071182/?random=1791244985648&cv=11&fst=1791244800000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246027~121246035&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=8&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3OyZ44JbbeYlZz0MMuU2l1nmBap7amDs5EvePVjZecfEYaU6hY-U-9CtU6PR-x7D4SywU4Qu9dysOD88nxHDCTClyoE04iRCGXb41qzccbPWN-e_uy16MRmkh7TASOZGYNvtTAez-RUkz1JVAs8CtECWURcTWhVXUVSitEfkeJqpW-Sdm26pj2jlD7AANPNPgjgRDD1UmIW4ZeMCaTE42FAbNf5ETwpNsLLdjNfWvuEdTzSGWbAnVHTi-WaA6zHcdjSLRBA8D7h2vxYymidei3vJFw5qzUXhdnU_2HrD&random=2039071958&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/808791726/?random=1791244985682&cv=11&fst=1791244800000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246027~121246035&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=8&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Gt8MYPYdC6idDfK6UM15MfEnXDyp2aJTHZiWvnBNiviPVLjPmjhCicQSUi7dXjYtBNDD-SmuwPgnCWNkdqnr2Q1cvdxLhWjhgjA4eH2X_voONBDKDfkMl_NUL32E71YTe2bg0RwSUxPiE-verXeOEjp0lIyo7cQXDfYtZClsRVrh-PgULBN8AY3eRZaf5G3O2-JD-DmGLbw7GTlL6kUUWkhfeQnMD91wP-zkyW0ado1_xIftDK2Xp7cnkqAecQpy9YIHsl0sCxZVhf7Ttq_B2mmKWvVU2Ue20nlRPRm&random=3766292797&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791244984313&v=1791244984897&H=b93ac46aa01ccdd5e35ba5fe&s=1b8afdeecda141fe9a0ac45d71658deb&U=3600135fad63b1a8f3966ec35a8207ff&Q=1&Y=1&X=0f97864883c6448c97f8262ebd694e12&S=0&b=314777&z=1",
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791304415587&v=1791304415808&H=e022c56aa694dd8f42078f70&s=0fc286af48ad40f2bc82d42f9b7fa3f0&U=11aaa56bd90425f5be415307584bac02&Q=1&Y=1&X=c9ba51568c2547debb1e04278d371561&S=0&b=340099&z=1",
     "status": 200,
     "content_type": "application/json",
     "length": 0
   },
   {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791244984313&v=1791244984913&H=b93ac46aa01ccdd5e35ba5fe&s=1b8afdeecda141fe9a0ac45d71658deb&P=1&N=1&S=0&b=30032&z=1",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10933071182/?random=1791304416620&cv=11&fst=1791304416620&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118012007~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=0&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 5353
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791304415587&v=1791304415816&H=e022c56aa694dd8f42078f70&s=0fc286af48ad40f2bc82d42f9b7fa3f0&U=11aaa56bd90425f5be415307584bac02&N=0&Q=2&S=0&b=4627&z=1",
     "status": 200,
     "content_type": "application/json",
     "length": 0
   },
   {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791244984313&v=1791244984913&H=b93ac46aa01ccdd5e35ba5fe&s=1b8afdeecda141fe9a0ac45d71658deb&U=3600135fad63b1a8f3966ec35a8207ff&N=0&Q=2&S=0&b=4830&z=1",
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791304415587&v=1791304415816&H=e022c56aa694dd8f42078f70&s=0fc286af48ad40f2bc82d42f9b7fa3f0&P=1&N=1&S=0&b=8459&z=1",
     "status": 200,
     "content_type": "application/json",
     "length": 0
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/10933071182/?random=1791304416620&cv=11&fst=1791304416620&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118012007~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=0&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=0&auid=1990370308.1791304416&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tid=AW-10933071182&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=920916181.1791304416&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6a50v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118012007~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&tft=1791304416667&tfd=3643&tids=AW-10933071182~AW-808791726&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/808791726/?random=1791304416650&cv=11&fst=1791304416650&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118012007~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=0&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/808791726/?random=1791304416650&cv=11&fst=1791304416650&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118012007~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=0&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 5351
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCfc8463f1d16f4ecfa0124913845311c4-source.min.js",
@@ -1068,16 +1104,22 @@
     "length": 2270
   },
   {
+    "url": "https://www.google.com/pagead/1p-user-list/10933071182/?random=1791304416620&cv=11&fst=1791302400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118012007~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=0&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3J4XKi0p9kXTwfdMrTYmT5PLGB4IAbUhPL-kg3WhCFNGVj_qZKnsaZgP-bBZRpJZSFO1aELoN7F7-7R-1kVvf91vDrsorebVdl5FT3lsF3UHc0n17gfaJIoVDq_h_SU8W9I4dhoV6Bt7slaOrlxyQQ4dm1he8SmssM2gz9NwlH2Sx_hMH-_j0hNipDF9RyG7DqaQjaLxmEbCNveI7foZvHkHZds0gniPMESF8jgkzEbzH5tgcIdLYtEnKgcZ3LXuIDQoI8CCWScTJ6_97a5EolX_BXMbAFQKRxybtlgm&random=3458596243&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/808791726/?random=1791304416650&cv=11&fst=1791302400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v895058477za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118012007~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=0&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3DEowikuUiP56-rK5G5pWvmNB4dwizj3FIHHaUFsYTi-naSLbrulU6I3MHDwZ_3hY_PD-JkTKM4f-vzKt-nVvU9fzYliiXd9B00wovCnVh7KcMQNkTctf0S92DlzUICwpNETw65msy2JQKcd1xAIADSunAXMBwBB-epV0DpF_RqFAPEqzN0sbQrz-cke8j2w6_ueOZPAbzzoxnyoZ-22BPvmKOsbIXYuCBkNu6QJks0QS5bNTY-95F5bH7Vrf-2iRn4rXH7vz_1lmN-emWsqNwcocmMXQHUpU2Kjg_ok&random=1854300889&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCc6f3054b247946dcadead645fc767e13-source.min.js",
     "status": 200,
     "content_type": "application/x-javascript",
     "length": 615
-  },
-  {
-    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=sitew0;cat=ix-dc0;u4=%PromoCode%;u9=%Page%20Name%20(processed)%;u13=%URL%20(non-PII)%;u14=%utm_source%;u15=%utm_medium%;u16=%utm_campaign%;u17=%utm_term%;u18=%UTM%20Segment%;ord=1;num=%axel%?",
-    "status": 302,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 0
   },
   {
     "url": "https://insight.adsrvr.org/track/realtimeconversion",
@@ -1098,10 +1140,10 @@
     "length": 326
   },
   {
-    "url": "https://www.googleadservices.com/pagead/conversion.js",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 67710
+    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=sitew0;cat=ix-dc0;u4=%PromoCode%;u9=%Page%20Name%20(processed)%;u13=%URL%20(non-PII)%;u14=%utm_source%;u15=%utm_medium%;u16=%utm_campaign%;u17=%utm_term%;u18=%UTM%20Segment%;ord=1;num=%axel%?",
+    "status": 302,
+    "content_type": "text/html; charset=UTF-8",
+    "length": 0
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCe795ea50fa1b484f8044e41e9a6cf408-source.min.js",
@@ -1110,34 +1152,10 @@
     "length": 1059
   },
   {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1791244986000&cv=9&fst=1791244986000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=376635470%2C375603261%2C466465926%2C512247838%2C658953495&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=4",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 5022
-  },
-  {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCdc712f5961974701808374e47a5a4c71-source.min.js",
     "status": 200,
     "content_type": "application/x-javascript",
     "length": 1653
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1791244986000&cv=9&fst=1791244800000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=376635470%2C375603261%2C466465926%2C512247838%2C658953495&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3BaPx1LhU5c2kXzScWdGiy-sLbPRdWppqrjSyIGpHiUUYbQPATKjrlkfV5GdDCHptKDbX5T3W-qkHRJhaFI_qtrm29jWS80Ti4kKisw8kdnheP6EjoeilzgnVx-zfEPEoCdrikwFpsx03ezETOwKC54e_clDdDYsx0kjEq5883Ycnz2QQcGXAB1kp-Z97toope0AdJhnRKM8RPhBSGVGKsQXT36j5TcSWJasBtNtge2cjq0UgqcLp2O7JIFJB1SLYZG9114OEOtcoqEzEiVX_lykDRnShju0Y1il8rPx&random=2478648265&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://c.hrzn-nxt.com/js/v2.12.0/connect.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 101519
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCe7f6d5a2591e41c2a43353f850480fa7-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 595
   },
   {
     "url": "https://connect.facebook.net/en_US/fbevents.js",
@@ -1146,28 +1164,76 @@
     "length": 428544
   },
   {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCe7f6d5a2591e41c2a43353f850480fa7-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 595
+  },
+  {
+    "url": "https://c.hrzn-nxt.com/js/v2.12.0/connect.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 101519
+  },
+  {
+    "url": "https://www.googleadservices.com/pagead/conversion.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 67710
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=34e24ec9-be7e-40d8-82bd-5e2d8053ce6b&batch_time=1791304416684",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=dcdec7ba-a065-4e8e-81a3-00ff0f901971&batch_time=1791304416721",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=1c2ba108-7f6f-48b3-8c31-e953c9a63a1b&batch_time=1791304416720",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=7c3e9802-3eda-4748-8bb6-2116033bbcc5&batch_time=1791304416737",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/1568087270153240?v=2.9.414&r=stable&domain=www.siriusxm.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "length": 366912
+  },
+  {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RC8ab85b77f99141ec91b60a5df9c6eacd-source.min.js",
     "status": 200,
     "content_type": "application/x-javascript",
     "length": 684
   },
   {
-    "url": "https://l.hrzn-nxt.com/pxl?stm=1791244986102&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&page=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tv=js-2.12.0&tna=nf0&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=522f2438-ce05-40cb-88b4-3d464604f242&dtm=1791244986101&vp=1280x720&ds=1280x3978&vid=1&sid=9a5d114e-93c4-4e38-b3c9-ea09fa577abd&duid=e757e37d-fa39-4749-aaa8-9e9d0a1d3782&fp=2876729029",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://connect.facebook.net/signals/config/1568087270153240?v=2.9.414&r=stable&domain=www.siriusxm.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188",
-    "status": 200,
-    "content_type": "application/x-javascript; charset=utf-8",
-    "length": 362552
-  },
-  {
-    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=uppfu00;cat=gener0;rcb=8;ord=5790121065423;npa=0;auiddc=992886989.1791244985;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a21v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271;epver=2;dc_random=1791244986_D4Yv4NCfUgN-TvQukKm8-FJGBh1t8WkToQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football?",
+    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=uppfu00;cat=gener0;rcb=3;ord=7982207197590;npa=0;auiddc=1990370308.1791304416;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a50v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271;epver=2;dc_random=1791304417_SLro0_yGNEQQkH9oyb289ACQovCOZHExZQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football?",
     "status": 302,
     "content_type": "text/html; charset=UTF-8",
     "length": 0
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1791304417009&cv=9&fst=1791304417009&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247839%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 5009
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=971d4537-fc78-4e38-ad8c-06dfe8cf6bae&batch_time=1791304416846",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCd649e041e0c949acaa45aad6d6b5af0f-source.min.js",
@@ -1176,16 +1242,16 @@
     "length": 724
   },
   {
-    "url": "https://www.redditstatic.com/ads/pixel.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 88449
-  },
-  {
     "url": "https://connect.facebook.net/signals/config/1225677084239985?v=2.9.414&r=stable&domain=www.siriusxm.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C229%2C224%2C227%2C228%2C206%2C222%2C387%2C205%2C225%2C226%2C250%2C223%2C221%2C338%2C234%2C233%2C232%2C277%2C241%2C219%2C220%2C218%2C380%2C372%2C373%2C364%2C369%2C366%2C368%2C367%2C365%2C374%2C376%2C371%2C377%2C370%2C375%2C363%2C230",
     "status": 200,
     "content_type": "application/x-javascript; charset=utf-8",
-    "length": 245718
+    "length": 245637
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1791304417009&cv=9&fst=1791302400000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247839%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3K6KlGAXiQkbdYEAm8sqSKvbAWD396EhZ1pgLS86NeezBCJSuOSkLtBn64EjdP-QpMK9p1QgGMjDKLB8QZJT9udL9_jdNf2919lBsNTiepQcqDzblYq47TggwoqO9BoDK4MuekbKisJqaTZPejc8pVl_cAme3vx_bizvZlM-ctHKBzYCMqWEuWchhLNho7bRQEFMIkCpg5GJEM8nuS-gjp-2QIitcBXO0eYn_H3eX3DXMVRBI8yVZaAUfZMt1caWkvqCuuSsrcgu6Ymt7RUTikCShtaZdiARaQjrQXeJ&random=679075589&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCa35b48832199467b871844b0fe7849a0-source.min.js",
@@ -1194,10 +1260,22 @@
     "length": 3173
   },
   {
-    "url": "https://pixel-config.reddit.com/pixels/t2_17cv3mpk/config",
+    "url": "https://www.redditstatic.com/ads/pixel.js",
     "status": 200,
-    "content_type": "application/json",
-    "length": 902
+    "content_type": "application/javascript",
+    "length": 88449
+  },
+  {
+    "url": "https://l.hrzn-nxt.com/pxl?stm=1791304417003&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&page=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tv=js-2.12.0&tna=nf0&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=aa0e56af-eb8c-43b6-9dae-41a6ffb927f2&dtm=1791304417001&vp=1280x720&ds=1280x3978&vid=1&sid=38036996-86de-4dbc-a7e3-14ac73159a67&duid=22f94b10-fc0f-402f-91f4-54e8f06c0953&fp=2876729029",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://www.facebook.com/tr/?id=1568087270153240&ev=PageView&dl=https%3A%2F%2Fwww.siriusxm.com&rl=&if=false&ts=1791304417179&iw=false&sw=1280&sh=720&v=2.9.414&r=stable&ec=0&o=12318&aems=0%3B0&fbp=fb.1.1791304417176.6791247468845753&pm=1&hrl=94b8db&ler=empty&plt=572.8000000000175&ups[pv]=%7B%7D&ups[rpv]=%7B%7D&it=1791304416952&coo=false&cs_cc=1&cas=1313112115444652%2C1331775646914282%2C1175231442604230%2C27925763907095976%2C27589162074048205%2C32473461002300984%2C8863323160428962%2C8915292338552897%2C8394134470614040%2C7103430986451982%2C7439106376154512%2C8411249828903491%2C7182887261838687%2C7503679319668180%2C28305177402468353%2C9980382442066358%2C8913209118753865%2C8833976973377626%2C29199906402943260%2C10077553238940864%2C3754944767919850&dlc=1&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im0&expv2[6]=hf0&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=md1&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&rqm=GET",
+    "status": 200,
+    "content_type": "text/plain",
+    "length": 0
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RC2641dddefc224ec9a38276fffde2e9e7-source.min.js",
@@ -1206,22 +1284,10 @@
     "length": 778
   },
   {
-    "url": "https://alb.reddit.com/rp?id=t2_17cv3mpk&event=PageVisit",
-    "status": 200,
-    "content_type": "text/plain; charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://www.facebook.com/tr/?id=1568087270153240&ev=PageView&dl=https%3A%2F%2Fwww.siriusxm.com&rl=&if=false&ts=1791244986524&iw=false&sw=1280&sh=720&v=2.9.414&r=stable&ec=0&o=12318&aems=0%3B0&fbp=fb.1.1791244986519.35802586053231237&pm=1&hrl=94b8db&ler=empty&plt=634.6000000000058&ups[pv]=%7B%7D&ups[rpv]=%7B%7D&it=1791244986235&coo=false&cs_cc=1&cas=1313112115444652%2C1331775646914282%2C1175231442604230%2C27925763907095976%2C27589162074048205%2C32473461002300984%2C8863323160428962%2C8915292338552897%2C8394134470614040%2C7103430986451982%2C7439106376154512%2C8411249828903491%2C7182887261838687%2C7503679319668180%2C28305177402468353%2C9980382442066358%2C8913209118753865%2C8833976973377626%2C29199906402943260%2C10077553238940864%2C3754944767919850&dlc=1&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=ct2&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=mt0&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah1&rqm=GET",
-    "status": 200,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://9170879.fls.doubleclick.net/activityi;dc_pre=CIPo_MiLpJcDFbnGuAgdHq01qg;src=9170879;type=uppfu00;cat=gener0;rcb=8;ord=5790121065423;npa=0;auiddc=992886989.1791244985;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a21v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271;epver=2;dc_random=1791244986_D4Yv4NCfUgN-TvQukKm8-FJGBh1t8WkToQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football?",
+    "url": "https://9170879.fls.doubleclick.net/activityi;dc_pre=CO2D3_vopZcDFc4dRAgddOU4tQ;src=9170879;type=uppfu00;cat=gener0;rcb=3;ord=7982207197590;npa=0;auiddc=1990370308.1791304416;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a50v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271;epver=2;dc_random=1791304417_SLro0_yGNEQQkH9oyb289ACQovCOZHExZQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football?",
     "status": 200,
     "content_type": "text/html; charset=UTF-8",
-    "length": 877
+    "length": 887
   },
   {
     "url": "https://www.facebook.com/tr/",
@@ -1236,16 +1302,22 @@
     "length": 644
   },
   {
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CO2D3_vopZcDFc4dRAgddOU4tQ;src=9170879;type=uppfu00;cat=gener0;rcb=3;ord=7982207197590;npa=0;auiddc=*;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a50v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271;epver=2;dc_random=1791304417_SLro0_yGNEQQkH9oyb289ACQovCOZHExZQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RC6ee6cbf67e3e4ba98ee9ed7ee3bd7620-source.min.js",
     "status": 200,
     "content_type": "application/x-javascript",
     "length": 1004
   },
   {
-    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CIPo_MiLpJcDFbnGuAgdHq01qg;src=9170879;type=uppfu00;cat=gener0;rcb=8;ord=5790121065423;npa=0;auiddc=*;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a21v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271;epver=2;dc_random=1791244986_D4Yv4NCfUgN-TvQukKm8-FJGBh1t8WkToQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football",
+    "url": "https://pixel-config.reddit.com/pixels/t2_17cv3mpk/config",
     "status": 200,
-    "content_type": "image/gif",
-    "length": 0
+    "content_type": "application/json",
+    "length": 902
   },
   {
     "url": "https://s.yimg.com/wi/ytc.js",
@@ -1260,22 +1332,10 @@
     "length": 376
   },
   {
-    "url": "https://ad.doubleclick.net/activity;src=9170879;type=uppfu00;cat=gener0;rcb=8;ord=5790121065423;npa=0;auiddc=992886989.1791244985;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a21v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271;epver=2;dc_random=1791244986_D4Yv4NCfUgN-TvQukKm8-FJGBh1t8WkToQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football?",
-    "status": 302,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 0
-  },
-  {
-    "url": "https://ad.doubleclick.net/activity;dc_pre=CKO5_MiLpJcDFR-pjggdLfEfrQ;src=9170879;type=uppfu00;cat=gener0;rcb=8;ord=5790121065423;npa=0;auiddc=992886989.1791244985;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a21v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271;epver=2;dc_random=1791244986_D4Yv4NCfUgN-TvQukKm8-FJGBh1t8WkToQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football?",
-    "status": 302,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=14994942294057458562;_dc_ptd=ChAI8JWN1gYQvK-8iP-Mu8FKEh8AfKyDoQ3XHHyMfOzfj8GZaiz30HUEeX3hqHrWd1cR;_dc_time=1791244986;cid=CAQS4gEAQM4h3MPH0k3Ys2_kQRCxxNyzgJuwtA0Xb0X8nB9jDJ1fzBpapbg1kxeVpXZY9TqQKiYD_cjnjSixu-8-K6lvXR1JB9ze9OePMb8-TwckUrSYvWgvP02wL44dhk_ORUkM6f_aL0HGhcMDFbm8eW_qWrn0DbvU5vrsB2I25zER3XnxaTpi4BSPLt1Z2ylYvLlvQml3cL6WLtUyCj4z459ssd7ytV7mARksmpPgpP1Ra_xIEzoFZchzEYF5l7br0hYGWmqyhB_dHUW_z1lu0nliGk2Vp46uf331bXd8uZI5zryj;eps=AHas8cCm_-RWs8XLNuINEurLxjO8eBOum88JVPSL-EPt0SE4rSuqNUuuXc5vHsyW-OGKSi8WjVnknlWyQHa9HGmgWZs-MrIEX2pmXUlGhQRgbFuq2A;dc_pre=CKO5_MiLpJcDFR-pjggdLfEfrQ;src=9170879;type=uppfu00;cat=gener0;rcb=8;ord=5790121065423;npa=0;auiddc=992886989.1791244985;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a21v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271;epver=2;dc_random=1791244986_D4Yv4NCfUgN-TvQukKm8-FJGBh1t8WkToQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football?",
+    "url": "https://apps.rokt-api.com/js/v2/us2-7978a58b69d80940a19b7521195c1341/app.js?env=0&",
     "status": 200,
-    "content_type": "image/gif",
-    "length": 0
+    "content_type": "application/javascript",
+    "length": 277663
   },
   {
     "url": "https://c-dev.hrzn-nxt.com/js/v2.12.0/connect.min.js",
@@ -1284,10 +1344,10 @@
     "length": 101519
   },
   {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCc624fd7e60ea497982d5ea25f0295bd9-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 361
+    "url": "https://ad.doubleclick.net/activity;src=9170879;type=uppfu00;cat=gener0;rcb=3;ord=7982207197590;npa=0;auiddc=1990370308.1791304416;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a50v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271;epver=2;dc_random=1791304417_SLro0_yGNEQQkH9oyb289ACQovCOZHExZQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football?",
+    "status": 302,
+    "content_type": "text/html; charset=UTF-8",
+    "length": 0
   },
   {
     "url": "https://s.yimg.com/wi/config/10212831.json",
@@ -1296,10 +1356,22 @@
     "length": 46
   },
   {
-    "url": "https://apps.rokt-api.com/js/v2/us2-7978a58b69d80940a19b7521195c1341/app.js?env=0&",
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCc624fd7e60ea497982d5ea25f0295bd9-source.min.js",
     "status": 200,
-    "content_type": "application/javascript",
-    "length": 277796
+    "content_type": "application/x-javascript",
+    "length": 361
+  },
+  {
+    "url": "https://alb.reddit.com/rp?id=t2_17cv3mpk&event=PageVisit",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/integrations/launcher.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 98706
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RC76a971dfbb9f4d2dad6cfaed0dbdf23d-source.min.js",
@@ -1308,10 +1380,46 @@
     "length": 1455
   },
   {
-    "url": "https://apps.rokt-api.com/wsdk/integrations/launcher.js",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CIDg3vvopZcDFVy7igcdDccgRg;src=9170879;type=uppfu00;cat=gener0;rcb=3;ord=7982207197590;npa=0;auiddc=1990370308.1791304416;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a50v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271;epver=2;dc_random=1791304417_SLro0_yGNEQQkH9oyb289ACQovCOZHExZQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football?",
+    "status": 302,
+    "content_type": "text/html; charset=UTF-8",
+    "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=599aad43-6577-4095-bd75-69a762b94470&batch_time=1791304417273",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Tue%2C%2006%20Oct%202026%2016%3A33%3A37%20GMT&n=0&b=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&.yp=10212831&f=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&enc=UTF-8&yv=1.17.1&tagmgr=gtm%2Cadobe",
     "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 98464
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=7855413905422662682;_dc_ptd=ChEI8LiS1gYQnJnDjozGuYyGARIfAG-KpMgV2R9OZOIUO4sMxq3Gm5ORfgKRyVKlUrSvVg;_dc_time=1791304417;cid=CAQS4gEAQM4h3OdvI9zympcUgAlldNaYKYhZGNoGT6ouUYJh75k2SLJ9D_-cY20JiIXv6qZYrGnJymSYDzVD3A6Lyd-wFQe5Kuxilw06wcIRKlB51Hv-uyqRtnTQ8cxKPkE0P608AE2oV91lj1WyIEm7zRXbihzfw-BtvA3LxIRg-dE3cOgSX-8aiShDddVkKBsDY9lWeDfBxhlBJHgUXauTZtruvudVzBSsP5l2bq0_zSByQgZMBFPwdz0HnbuBqzbBDoAdqVgkD-jZlxAFxvnURRCLffWkLZiwq3F0D2e6qHVMaY_t;eps=AHas8cA9CVpVnEZ16wsrSWzfI6AxHErPMWhzeSxOBBmaCGsFfFs6xNKFaHeMzLKBrzcbGngkInLZBZzAZPkcXsET-mbH2EoaymLUpR-bei_2MQri4w;dc_pre=CIDg3vvopZcDFVy7igcdDccgRg;src=9170879;type=uppfu00;cat=gener0;rcb=3;ord=7982207197590;npa=0;auiddc=1990370308.1791304416;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6a50v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271;epver=2;dc_random=1791304417_SLro0_yGNEQQkH9oyb289ACQovCOZHExZQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football?",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/controller/index.2.14854.0.html",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "length": 336657
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=78951528-a4b9-492f-9460-c3029a0325ce&batch_time=1791304417277",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s13455666425497?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%2016%3A33%3A37%202%200&mid=47915883081537866655215296461206522171&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&c.&getPreviousValue=3.0.1&.c&cc=USD&ch=SiriusXM.com%20Flow&events=event1%2Cevent247&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v10=www%3Asports%3Acollege-football&c13=D%3Dv32&c21=D%3Dv21&v21=new&c22=D%3Dv22&v22=1&c23=D%3Dv23&v23=First%20page%20view%20or%20cookies%20not%20supported&v25=undefined&v29=%20%3E%20%20%3E%20&v32=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&v33=Not%20Targeted&c35=www%3Asports%3Acollege-football&c44=year%3D2026%20%7C%20month%3DOctober%20%7C%20date%3D6%20%7C%20day%3DTuesday%20%7C%20time%3D12%3A33%20PM&c45=25&c66=47915883081537866655215296461206522171&v79=0fc286af48ad40f2bc82d42f9b7fa3f0&v80=Learn%20%7C%20Content&v82=na_na_na&v89=47915883081537866655215296461206522171&v143=true&v152=PHX&v164=1280x720&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&AQE=1",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCeafe253eaa134f8f9711a58c411fbe36-source.min.js",
@@ -1320,52 +1428,16 @@
     "length": 341
   },
   {
-    "url": "https://l-dev.hrzn-nxt.com/pxl?stm=1791244986781&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&page=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tv=js-2.12.0&tna=nf00&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=cbfa674b-2e0d-42ce-b8f1-bdc83be67d40&dtm=1791244986779&vp=1280x720&ds=1280x3978&vid=1&sid=9a5d114e-93c4-4e38-b3c9-ea09fa577abd&duid=e757e37d-fa39-4749-aaa8-9e9d0a1d3782&fp=2876729029",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s67783337750397?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%200%3A3%3A6%202%200&mid=23927332258446975147790082998447678641&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&c.&getPreviousValue=3.0.1&.c&cc=USD&ch=SiriusXM.com%20Flow&events=event1%2Cevent247&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v10=www%3Asports%3Acollege-football&c13=D%3Dv32&c21=D%3Dv21&v21=new&c22=D%3Dv22&v22=1&c23=D%3Dv23&v23=First%20page%20view%20or%20cookies%20not%20supported&v25=undefined&v29=%20%3E%20%20%3E%20&v32=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&v33=Not%20Targeted&c35=www%3Asports%3Acollege-football&c44=year%3D2026%20%7C%20month%3DOctober%20%7C%20date%3D5%20%7C%20day%3DMonday%20%7C%20time%3D8%3A03%20PM&c45=25&c66=23927332258446975147790082998447678641&v79=1b8afdeecda141fe9a0ac45d71658deb&v80=Learn%20%7C%20Content&v82=na_na_na&v89=23927332258446975147790082998447678641&v143=true&v152=PHX&v164=1280x720&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&AQE=1",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://apps.rokt-api.com/wsdk/controller/index.2.14801.0.html",
-    "status": 200,
-    "content_type": "text/html; charset=utf-8",
-    "length": 338291
-  },
-  {
-    "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Tue%2C%2006%20Oct%202026%2000%3A03%3A06%20GMT&n=0&b=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&.yp=10212831&f=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&enc=UTF-8&yv=1.17.1&tagmgr=gtm%2Cadobe",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://apps.rokt-api.com/wsdk/controller/services.2.14801.0.js",
+    "url": "https://apps.rokt-api.com/wsdk/controller/services.2.14854.0.js",
     "status": 200,
     "content_type": "application/javascript; charset=utf-8",
-    "length": 103244
+    "length": 103353
   },
   {
-    "url": "https://apps.rokt.com/icons/rokt-icons.woff",
+    "url": "https://l-dev.hrzn-nxt.com/pxl?stm=1791304417387&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&page=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tv=js-2.12.0&tna=nf00&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=7cc1b1ed-87cb-4457-b99b-99d1a7e4b065&dtm=1791304417386&vp=1280x720&ds=1280x3978&vid=1&sid=38036996-86de-4dbc-a7e3-14ac73159a67&duid=22f94b10-fc0f-402f-91f4-54e8f06c0953&fp=2876729029",
     "status": 200,
-    "content_type": "font/woff",
+    "content_type": "image/gif",
     "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCdbe7726476a24710b91d5febe9613cc9-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 966
-  },
-  {
-    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/index.html",
-    "status": 200,
-    "content_type": "text/html; charset=utf-8",
-    "length": 910
   },
   {
     "url": "https://apps.rokt-api.com/identity/v1/identify",
@@ -1374,75 +1446,147 @@
     "length": 176
   },
   {
-    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/global-reporter.e9b4c3f8b51e59bcd7e2.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 12906
-  },
-  {
-    "url": "https://apps.rokt.com/sync?redir=https%3A%2F%2Fcookiesync.us2.mparticle.com%2Fv1%2Fsync%3Fesid%3D11723%26MPID%3D-5197976262898776398%26ID%3D%24%7BRoktRecogniser%7D%26Key%3Dus2-7978a58b69d80940a19b7521195c1341%26env%3D2",
+    "url": "https://apps.rokt.com/sync?redir=https%3A%2F%2Fcookiesync.us2.mparticle.com%2Fv1%2Fsync%3Fesid%3D11723%26MPID%3D-3388911616930443284%26ID%3D%24%7BRoktRecogniser%7D%26Key%3Dus2-7978a58b69d80940a19b7521195c1341%26env%3D2",
     "status": 302,
     "content_type": "text/html",
     "length": 0
   },
   {
-    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/index.d14bc16ab03c42c407ca.js",
+    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/index.html",
     "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 618034
+    "content_type": "text/html; charset=utf-8",
+    "length": 910
   },
   {
-    "url": "https://apps.rokt.com/wsdk/session-transfer/index.2.14801.0.html",
+    "url": "https://apps.rokt.com/icons/rokt-icons.woff",
+    "status": 200,
+    "content_type": "font/woff",
+    "length": 0
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/global-reporter.9d25662e26e03242323c.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 12906
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/952439794560/RCdbe7726476a24710b91d5febe9613cc9-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 966
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/index.10d2fe4170ebba1f9bdd.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 618043
+  },
+  {
+    "url": "https://apps.rokt.com/wsdk/session-transfer/index.2.14854.0.html",
     "status": 200,
     "content_type": "text/html; charset=utf-8",
     "length": 16654
   },
   {
-    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1791244987496&cv=11&fst=1791244987496&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 42
+  },
+  {
+    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 42
+  },
+  {
+    "url": "https://cookiesync.us2.mparticle.com/v1/sync?esid=11723&MPID=-3388911616930443284&ID=a80f200b-99bb-4dc5-b676-deba67e1ca52&Key=us2-7978a58b69d80940a19b7521195c1341&env=2",
+    "status": 204,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1791304417948&cv=11&fst=1791304417948&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
     "status": 200,
     "content_type": null,
     "length": 0
   },
   {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6a21v873651601za200zb869737875zd869737875xf1&_p=1791244983509&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AEAAAAQ&ae=a&cid=1804618123.1791244985&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=2&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&sid=1791244985&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&_tu=AAI&en=scroll&epn.percent_scrolled=90&_et=34&tfd=5449",
+    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=0&auid=1990370308.1791304416&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=920916181.1791304416&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6a50v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791304417970&tfd=4947&tids=AW-1066622487&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6a50v873651601za200zb869737875zd869737875xf1&_p=1791304414410&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAAAAAQ&cid=675729261.1791304416&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&sid=1791304416&sct=1&seg=1&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&_tu=AAI&en=page_view&_ee=1&_et=142&tfd=4945",
     "status": 204,
     "content_type": "text/plain",
     "length": 0
   },
   {
-    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=0&auid=992886989.1791244985&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=621495555.1791244985&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6a21v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791244987527&tfd=5453&tids=AW-1066622487&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1791244987496&cv=11&fst=1791244987496&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1791304417948&cv=11&fst=1791304417948&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
     "status": 200,
     "content_type": "text/javascript; charset=UTF-8",
-    "length": 5342
+    "length": 5332
   },
   {
-    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 42
-  },
-  {
-    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 42
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1791244987496&cv=11&fst=1791244800000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a21v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=992886989.1791244985&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3PH9Jz_0VK1LiTxloQKE37tP5HImQgXB44qThFA5x36REGDY5TNVuRnTYV1leIdKHWWwGZWTZ1r6yXdWQnZISBSivasCV8VjsUAPn2u3ElpoOFrkh4A48FV_ewkj6TSa201j7ChM6bpskaL1FN9jtaKGTmD3AbKZr6Q8d2OzvAFbHr5phIut8LlGOElb_0BkzqH24iYNh6A7fMBfDERcqDw1wYdBE6IlB7JJMSEJoekFOxmPy3STrFkr6UptXE-8iuEtfmHjDOoazY34TWHW-RaS6xTrI86GzFu5yICf&random=1615011813&rmt_tld=0&ipr=y",
+    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1791304417948&cv=11&fst=1791302400000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v873651601za200zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&rcb=19&frm=0&tiba=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1990370308.1791304416&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3KNJGlh09uG3-E7G1KYKB_09fNRSOu9X2OhR4EiByPM5r2mZaW05tRN-TmOxMN92DDN0RXbMywO1FYR_i2rnoOZeSFsRfuKOXl7fNwDd0u9TMcM2cTo5A9oz7yA9hp1ar15hld5CAgpaO6KC_bEmq0mjWVUjPS14y29Vq9LUyh6ZJsV_Z_LP5orKe7Qq57gk2lwtOnQMOM6YM1oNzQvSJ4AtocCZl6_QzdSyLPJY85HpKZ1xNXMi1P3hXMJdOX12HsmGFxscm923uIsc7MnEXZQij-tvRmbsKaUN42Jw&random=592265526&rmt_tld=0&ipr=y",
     "status": 200,
     "content_type": "image/gif",
     "length": 0
   },
   {
-    "url": "https://cookiesync.us2.mparticle.com/v1/sync?esid=11723&MPID=-5197976262898776398&ID=5720afaf-5788-486a-920f-4b49b3ef8c66&Key=us2-7978a58b69d80940a19b7521195c1341&env=2",
-    "status": 204,
-    "content_type": null,
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=39ff8a81-a70b-4df2-9bd8-be27535dd2c4&batch_time=1791304418046",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=90b80563-d51b-4045-8a13-fdd1d13e2988&batch_time=1791304418048",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://www.facebook.com/tr/",
+    "status": 200,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=5fd43ad3-8cb4-4a50-9772-7e58e386d9b2&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=3475&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s14754658512504?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%2016%3A33%3A39%202%200&mid=47915883081537866655215296461206522171&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&cc=USD&events=event3&c6=www%3Asports%3Acollege-football&c7=filter%20games%20by%20date&c8=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date&c9=contextualComponent&c10=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date%20%7C%20contextualComponent&v10=www%3Asports%3Acollege-football&pe=lnk_o&pev2=filter%20games%20by%20date&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=272&AQE=1",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=5fd43ad3-8cb4-4a50-9772-7e58e386d9b2&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=3475&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=0c19fb90-40ca-4ad2-bd4a-f6083ffb48a3&batch_time=1791304419121",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791304415587&v=1791304419182&H=e022c56aa694dd8f42078f70&s=0fc286af48ad40f2bc82d42f9b7fa3f0&P=2&N=2&S=8459&b=33483&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791304415587&v=1791304419182&H=e022c56aa694dd8f42078f70&s=0fc286af48ad40f2bc82d42f9b7fa3f0&N=1&Q=2&S=4627&b=10195&z=1",
+    "status": 200,
+    "content_type": "application/json",
     "length": 0
   },
   {
@@ -1452,79 +1596,55 @@
     "length": 0
   },
   {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791244984313&v=1791244987907&H=b93ac46aa01ccdd5e35ba5fe&s=1b8afdeecda141fe9a0ac45d71658deb&N=1&Q=2&S=4830&b=7181&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791244984313&v=1791244987906&H=b93ac46aa01ccdd5e35ba5fe&s=1b8afdeecda141fe9a0ac45d71658deb&P=2&N=2&S=30032&b=31351&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=5cf7059b-205c-4119-90de-308bfcc7acca&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=4006&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s11342570373986?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%2016%3A33%3A40%202%200&mid=47915883081537866655215296461206522171&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&cc=USD&events=event3&c6=www%3Asports%3Acollege-football&c7=Deny%20Non-Essential%20Cookies&c8=www%3Asports%3Acollege-football%20%7C%20Deny%20Non-Essential%20Cookies&c9=OneTrust%20Banner&c10=www%3Asports%3Acollege-football%20%7C%20Deny%20Non-Essential%20Cookies%20%7C%20OneTrust%20Banner&v10=www%3Asports%3Acollege-football&pe=lnk_o&pev2=Deny%20Non-Essential%20Cookies&c.&a.&activitymap.&page=www%3Asports%3Acollege-football&link=Deny%20Non-Essential%20Cookies&region=onetrust-button-group&pageIDType=1&.activitymap&.a&.c&pid=www%3Asports%3Acollege-football&pidt=1&oid=Deny%20Non-Essential%20Cookies&oidt=3&ot=SUBMIT&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=31&AQE=1",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=5cf7059b-205c-4119-90de-308bfcc7acca&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=4006&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=5c1435e6-48b0-40ea-9a40-7d95e7ea42cb&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=4811&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s65556605584832?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%200%3A3%3A8%202%200&mid=23927332258446975147790082998447678641&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&cc=USD&events=event3&c6=www%3Asports%3Acollege-football&c7=filter%20games%20by%20date&c8=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date&c9=contextualComponent&c10=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date%20%7C%20contextualComponent&v10=www%3Asports%3Acollege-football&pe=lnk_o&pev2=filter%20games%20by%20date&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=510&AQE=1",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=5c1435e6-48b0-40ea-9a40-7d95e7ea42cb&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=4811&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://www.facebook.com/tr/",
-    "status": 200,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s61745008126244?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%200%3A3%3A10%202%200&mid=23927332258446975147790082998447678641&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&cc=USD&events=event3&c6=www%3Asports%3Acollege-football&c7=Deny%20Non-Essential%20Cookies&c8=www%3Asports%3Acollege-football%20%7C%20Deny%20Non-Essential%20Cookies&c9=OneTrust%20Banner&c10=www%3Asports%3Acollege-football%20%7C%20Deny%20Non-Essential%20Cookies%20%7C%20OneTrust%20Banner&v10=www%3Asports%3Acollege-football&pe=lnk_o&pev2=Deny%20Non-Essential%20Cookies&c.&a.&activitymap.&page=www%3Asports%3Acollege-football&link=Deny%20Non-Essential%20Cookies&region=onetrust-button-group&pageIDType=1&.activitymap&.a&.c&pid=www%3Asports%3Acollege-football&pidt=1&oid=Deny%20Non-Essential%20Cookies&oidt=3&ot=SUBMIT&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=62&AQE=1",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=ed8ef906-5d5f-4c92-a702-8346cfa974ca&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=5459&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=ed8ef906-5d5f-4c92-a702-8346cfa974ca&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=5459&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6a21v873651601za200zb869737875zd869737875xf1&_p=1791244983509&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAACAAQ&cid=1804618123.1791244985&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=3&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&sid=1791244985&sct=1&seg=1&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&_tu=AAI&en=page_view&_ee=1&_et=1981&tfd=8239",
+    "url": "https://www.googletagmanager.com/td?id=G-Q5DE4FXP41&v=3&t=t&pid=134847586&gtm=45je6a50v869737875za200zd869737875xf1&seq=3&exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&dl=www.siriusxm.com%2Fsports%2Fcollege-football&tdp=G-Q5DE4FXP41;69737875;0;0;0&mbc=1&z=0",
     "status": 204,
     "content_type": "text/plain",
     "length": 0
   },
   {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6a21v873651601za200zb869737875zd869737875xf1&_p=1791244983509&gcs=G100&gcd=13m3m3m3m5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_eu=AAAC&cid=262344601.1791244990&frm=0&ngs=1&pscdl=denied&rcb=19&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=4&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&sid=1791244990&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=8240",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6a50v873651601za200zb869737875zd869737875xf1&_p=1791304414410&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAACAAQ&cid=675729261.1791304416&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=3&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&sid=1791304416&sct=1&seg=1&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&_tu=AAI&en=page_view&_ee=1&_et=1537&tfd=7423",
     "status": 204,
     "content_type": "text/plain",
     "length": 0
   },
   {
-    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=19&frm=0&apvc=0&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=621495555.1791244985&navt=n&npa=1&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6a21v873651601za200zb869737875zd869737875xecxf1&gcs=G100&gcd=13m3m3m3m5l1&dma_cps=-&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791244990319&tfd=8244&tids=AW-1066622487&fmt=8",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6a50v873651601za200zb869737875zd869737875xf1&_p=1791304414410&gcs=G100&gcd=13m3m3m3m5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_eu=AAAC&cid=478276352.1791304420&frm=0&ngs=1&pscdl=denied&rcb=19&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=4&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&sid=1791304420&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&dt=Today%27s%20College%20Football%20Games%3A%20Listen%20Live%20on%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=7424",
+    "status": 204,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=19&frm=0&apvc=0&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&scrsrc=www.googletagmanager.com&rnd=920916181.1791304416&navt=n&npa=1&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6a50v873651601za200zb869737875zd869737875xecxf1&gcs=G100&gcd=13m3m3m3m5l1&dma_cps=-&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791304420449&tfd=7426&tids=AW-1066622487&fmt=8",
     "status": 200,
     "content_type": null,
     "length": 0
   },
   {
-    "url": "https://siriusxmradioinc.us-6.evergage.com/api2/event/prod_us?event=eyJpbnRlcmFjdGlvbiI6eyJuYW1lIjoiU2FsZXNmbG93IERhdGEgQ2FwdHVyZSJ9LCJ1c2VyIjp7ImF0dHJpYnV0ZXMiOnt9LCJpZGVudGl0aWVzIjp7fSwiYW5vbnltb3VzSWQiOiI2M2M1ZDliZGRhZmZlOTAyIn0sInNvdXJjZSI6eyJwYWdlVHlwZSI6IkxlYWd1ZSBQYWdlIiwidXJsIjoiaHR0cHM6Ly93d3cuc2lyaXVzeG0uY29tL3Nwb3J0cy9jb2xsZWdlLWZvb3RiYWxsIiwidXJsUmVmZXJyZXIiOiIiLCJjaGFubmVsIjoiV2ViIiwiYmVhY29uVmVyc2lvbiI6MTYsImNvbmZpZ1ZlcnNpb24iOiIzODUiLCJjb250ZW50Wm9uZXMiOltdfSwiY29uc2VudHMiOltdLCJhY2NvdW50Ijp7fSwicGVyZm9ybWFuY2UiOnsic2RrUGFyc2VUaW1lIjoyLCJzZGtMb2FkVGltZSI6MTM1fSwiX3Rvb2xzRXZlbnRMaW5rSWQiOiIxNDc0NjA1NjU1NzU5NTg2NiIsImV4cGxhaW4iOnRydWV9",
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=9a277e8a-b756-44b3-81e4-b7d80da747b2&batch_time=1791304420498",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://siriusxmradioinc.us-6.evergage.com/api2/event/prod_us?event=eyJpbnRlcmFjdGlvbiI6eyJuYW1lIjoiU2FsZXNmbG93IERhdGEgQ2FwdHVyZSJ9LCJ1c2VyIjp7ImF0dHJpYnV0ZXMiOnt9LCJpZGVudGl0aWVzIjp7fSwiYW5vbnltb3VzSWQiOiI2MmFjMjkwNzYyMjhkNzZkIn0sInNvdXJjZSI6eyJwYWdlVHlwZSI6IkxlYWd1ZSBQYWdlIiwidXJsIjoiaHR0cHM6Ly93d3cuc2lyaXVzeG0uY29tL3Nwb3J0cy9jb2xsZWdlLWZvb3RiYWxsIiwidXJsUmVmZXJyZXIiOiIiLCJjaGFubmVsIjoiV2ViIiwiYmVhY29uVmVyc2lvbiI6MTYsImNvbmZpZ1ZlcnNpb24iOiIzODUiLCJjb250ZW50Wm9uZXMiOltdfSwiY29uc2VudHMiOltdLCJhY2NvdW50Ijp7fSwicGVyZm9ybWFuY2UiOnsic2RrUGFyc2VUaW1lIjozLCJzZGtMb2FkVGltZSI6NTZ9LCJfdG9vbHNFdmVudExpbmtJZCI6IjUwNTgyODQ0Mjk5OTQxOTMiLCJleHBsYWluIjp0cnVlfQ%3D%3D",
     "status": 200,
     "content_type": "application/json;charset=UTF-8",
     "length": 137
@@ -1536,55 +1656,19 @@
     "length": 0
   },
   {
-    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s61590847034025?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%200%3A3%3A11%202%200&mid=23927332258446975147790082998447678641&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&cc=USD&events=event3&c6=www%3Asports%3Acollege-football&c7=filter%20games%20by%20date&c8=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date&c9=contextualComponent&c10=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date%20%7C%20contextualComponent&v10=www%3Asports%3Acollege-football&pe=lnk_o&pev2=filter%20games%20by%20date&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=97&AQE=1",
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s14979969363447?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%2016%3A33%3A41%202%200&mid=47915883081537866655215296461206522171&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&cc=USD&events=event3&c6=www%3Asports%3Acollege-football&c7=filter%20games%20by%20date&c8=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date&c9=contextualComponent&c10=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date%20%7C%20contextualComponent&v10=www%3Asports%3Acollege-football&pe=lnk_o&pev2=filter%20games%20by%20date&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=65&AQE=1",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=9577d073-d0d7-400d-a1c8-63f6247ce175&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=6927&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=6cbd4b91-b713-4a8c-95f1-961a43bf2343&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=6229&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=9577d073-d0d7-400d-a1c8-63f6247ce175&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=6927&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791244984313&v=1791244991407&H=b93ac46aa01ccdd5e35ba5fe&s=1b8afdeecda141fe9a0ac45d71658deb&N=2&Q=2&S=12011&b=8656&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791244984313&v=1791244991407&H=b93ac46aa01ccdd5e35ba5fe&s=1b8afdeecda141fe9a0ac45d71658deb&P=3&N=3&S=61383&b=20748&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://www.facebook.com/tr/",
-    "status": 200,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s68534537860633?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%200%3A3%3A13%202%200&mid=23927332258446975147790082998447678641&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&cc=USD&events=event3&c6=www%3Asports%3Acollege-football&c7=filter%20games%20by%20date&c8=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date&c9=contextualComponent&c10=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date%20%7C%20contextualComponent&v10=www%3Asports%3Acollege-football&pe=lnk_o&pev2=filter%20games%20by%20date&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=48&AQE=1",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=75daaf39-b38d-4e11-ba3b-68664c812eb0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=8264&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=75daaf39-b38d-4e11-ba3b-68664c812eb0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=8264&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=6cbd4b91-b713-4a8c-95f1-961a43bf2343&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=6229&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
@@ -1596,33 +1680,81 @@
     "length": 0
   },
   {
-    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s62088400933174?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%200%3A3%3A14%202%200&mid=23927332258446975147790082998447678641&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&cc=USD&events=event3&c6=www%3Asports%3Acollege-football&c7=filter%20games%20by%20date&c8=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date&c9=contextualComponent&c10=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date%20%7C%20contextualComponent&v10=www%3Asports%3Acollege-football&pe=lnk_o&pev2=filter%20games%20by%20date&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=48&AQE=1",
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=d9c2930e-6586-44b0-9e0b-f3a53691b1da&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=7600&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=8af6937d-a289-42d2-bc8e-b4cc54fc3418&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=9580&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s15408650200411?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%2016%3A33%3A43%202%200&mid=47915883081537866655215296461206522171&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&cc=USD&events=event3&c6=www%3Asports%3Acollege-football&c7=filter%20games%20by%20date&c8=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date&c9=contextualComponent&c10=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date%20%7C%20contextualComponent&v10=www%3Asports%3Acollege-football&pe=lnk_o&pev2=filter%20games%20by%20date&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=27&AQE=1",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=8af6937d-a289-42d2-bc8e-b4cc54fc3418&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=9580&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=d9c2930e-6586-44b0-9e0b-f3a53691b1da&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=7600&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=e3ee0613-d51e-441c-a36b-5589bc06f679&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=10002&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=a5943b44-a47f-46bc-bb14-5a19ceafcd9e&batch_time=1791304423225",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791304415587&v=1791304422683&H=e022c56aa694dd8f42078f70&s=0fc286af48ad40f2bc82d42f9b7fa3f0&P=3&N=3&S=41942&b=19850&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&t=1791304415587&v=1791304422683&H=e022c56aa694dd8f42078f70&s=0fc286af48ad40f2bc82d42f9b7fa3f0&N=2&Q=2&S=14822&b=8695&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://www.facebook.com/tr/",
+    "status": 200,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=5da9b0f0-ac4b-4567-b63a-e91f25bed4a4&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=8995&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=e3ee0613-d51e-441c-a36b-5589bc06f679&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90babc70-976b-4f63-8725-cb3b184c1560&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=10002&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791244984759-534614136&twpid=tw.1791244984759.247814520336726998&txn_id=o37dn&type=javascript&version=2.4.11",
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s17478541923958?AQB=1&ndh=1&pf=1&t=6%2F9%2F2026%2016%3A33%3A44%202%200&mid=47915883081537866655215296461206522171&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Acollege-football&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&cc=USD&events=event3&c6=www%3Asports%3Acollege-football&c7=filter%20games%20by%20date&c8=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date&c9=contextualComponent&c10=www%3Asports%3Acollege-football%20%7C%20filter%20games%20by%20date%20%7C%20contextualComponent&v10=www%3Asports%3Acollege-football&pe=lnk_o&pev2=filter%20games%20by%20date&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=52&AQE=1",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
+  },
+  {
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=5da9b0f0-ac4b-4567-b63a-e91f25bed4a4&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Oct%201%20-%207%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=8995&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=910889b1-f5c8-4452-990d-0e41f7af90e0&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=10002&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na&eci=2&event_id=910889b1-f5c8-4452-990d-0e41f7af90e0&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8c53a4-08e7-4d0e-ab91-6c31d5a7528c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fcollege-football&tw_engaged_ms=10002&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791304415573-457380126&twpid=tw.1791304415573.235993446186444773&txn_id=o37dn&type=javascript&version=2.4.11",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3A1.0.0&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=4608774f-56de-409e-b475-b78843105e80&batch_time=1791304425563",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
   }
 ]

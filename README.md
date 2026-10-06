@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2026-10-05 20:04 EDT_
+_Last updated: 2026-10-06 12:34 EDT_
 
 ## College Football — Upcoming Week
 2026-10-05 to 2026-10-11  
@@ -90,28 +90,42 @@ _All times ET_
 | 10/10/2026 | Boise State | Fresno State | 10:30 PM | CW | Valley Children's Stadium, Fresno, CA | Away 85 |  |  |
 
 ## NFL — Upcoming Week
-2026-09-30 to 2026-10-06  
+2026-10-07 to 2026-10-13  
 _All times ET_  
 
-### Monday October 5th
+### Thursday October 8th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/5/2026 | Atlanta Falcons | New Orleans Saints | 8:15 PM | ESPN | Caesars Superdome, New Orleans, LA | Home 192 / 88; Away 193 / 88 |  |  |
+| 10/8/2026 | Tampa Bay Buccaneers | Dallas Cowboys | 8:15 PM | Prime Video | AT&T Stadium, Arlington, TX |  |  |  |
+
+### Sunday October 11th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/11/2026 | Philadelphia Eagles | Jacksonville Jaguars | 9:30 AM | NFL Net | Tottenham Hotspur Stadium, London |  |  |  |
+| 10/11/2026 | Chicago Bears | Green Bay Packers | 1:00 PM | Fox | Lambeau Field, Green Bay, WI |  |  |  |
+| 10/11/2026 | Houston Texans | Tennessee Titans | 1:00 PM | CBS | Nissan Stadium, Nashville, TN |  |  |  |
+| 10/11/2026 | Cincinnati Bengals | Miami Dolphins | 1:00 PM | Fox | Hard Rock Stadium, Miami Gardens, FL |  |  |  |
+| 10/11/2026 | Las Vegas Raiders | New England Patriots | 1:00 PM | CBS | Gillette Stadium, Foxborough, MA |  |  |  |
+| 10/11/2026 | Minnesota Vikings | New Orleans Saints | 1:00 PM | Fox | Caesars Superdome, New Orleans, LA |  |  |  |
+| 10/11/2026 | Cleveland Browns | New York Jets | 1:00 PM | CBS | MetLife Stadium, East Rutherford, NJ |  |  |  |
+| 10/11/2026 | **Indianapolis Colts** | Pittsburgh Steelers | 1:00 PM | CBS | Acrisure Stadium, Pittsburgh, PA |  |  |  |
+| 10/11/2026 | New York Giants | Washington Commanders | 1:00 PM | Fox | Northwest Stadium, Landover, MD |  |  |  |
+| 10/11/2026 | Denver Broncos | Los Angeles Chargers | 4:05 PM | CBS | SoFi Stadium, Inglewood, CA |  |  |  |
+| 10/11/2026 | Detroit Lions | Arizona Cardinals | 4:25 PM | Fox | State Farm Stadium, Glendale, AZ |  |  |  |
+| 10/11/2026 | San Francisco 49ers | Seattle Seahawks | 4:25 PM | Fox | Lumen Field, Seattle, WA |  |  |  |
+| 10/11/2026 | Baltimore Ravens | Atlanta Falcons | 8:20 PM | NBC | Mercedes-Benz Stadium, Atlanta, GA |  |  |  |
+
+### Monday October 12th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/12/2026 | Buffalo Bills | Los Angeles Rams | 8:15 PM | ABC, ESPN, ESPN/ABC | SoFi Stadium, Inglewood, CA |  |  |  |
 
 ## NBA — Upcoming Week
-2026-10-05 to 2026-10-11  
+2026-10-06 to 2026-10-12  
 _All times ET_  
-
-### Monday October 5th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/5/2026 | Memphis Grizzlies | Atlanta Hawks | 7:00 PM |  | State Farm Arena, Atlanta, GA | Away ONLINE |  |  |
-| 10/5/2026 | Phoenix Suns | Detroit Pistons | 7:00 PM |  | Little Caesars Arena, Detroit, MI | Home 170; Away ONLINE |  |  |
-| 10/5/2026 | New York Knicks | Philadelphia 76ers | 7:00 PM | NBA TV | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
-| 10/5/2026 | Minnesota Timberwolves | Milwaukee Bucks | 8:00 PM |  | Fiserv Forum, Milwaukee, WI | Home ONLINE |  |  |
-| 10/5/2026 | Los Angeles Lakers | Sacramento Kings | 10:00 PM | NBA TV | Golden 1 Center, Sacramento, CA | Home ONLINE; Away ONLINE |  |  |
 
 ### Tuesday October 6th
 
@@ -171,23 +185,26 @@ _All times ET_
 | 10/11/2026 | Milwaukee Bucks | Charlotte Hornets | 7:00 PM |  | Spectrum Center, Charlotte, NC | Home ONLINE; Away ONLINE |  |  |
 | 10/11/2026 | Chicago Bulls | Denver Nuggets | 9:00 PM | ESPN | Ball Arena, Denver, CO | Home ONLINE |  |  |
 
-## MLB — Upcoming Week
-2026-10-05 to 2026-10-11  
-_All times ET_  
+### Monday October 12th
 
-### Monday October 5th
-
-| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/5/2026 | Chicago White Sox | **Cleveland Guardians** | 5:00 PM | TBS, TBS/truTV, truTV | Progressive Field, Cleveland, Ohio | Home 203 / 81 |  |  |
-| 10/5/2026 | New York Yankees | Tampa Bay Rays | 8:00 PM | TBS, TBS/truTV, truTV | Tropicana Field, St. Petersburg, Florida | Home 205 / 80 / 24 / 365; Away 204 / 80 |  |  |
+| 10/12/2026 | London Lions | Portland Trail Blazers | 4:00 PM |  | Moda Center, Portland, OR |  |  |  |
+| 10/12/2026 | Oklahoma City Thunder | Atlanta Hawks | 7:00 PM |  | State Farm Arena, Atlanta, GA | Away ONLINE |  |  |
+| 10/12/2026 | Brooklyn Nets | Washington Wizards | 7:00 PM | MNMT | Capital One Arena, Washington, DC | Home ONLINE |  |  |
+| 10/12/2026 | Minnesota Timberwolves | New York Knicks | 7:30 PM | NBA TV | Madison Square Garden, New York, NY |  |  |  |
+| 10/12/2026 | San Antonio Spurs | Utah Jazz | 9:00 PM |  | Delta Center, Salt Lake City, UT | Home ONLINE; Away ONLINE |  |  |
+
+## MLB — Upcoming Week
+2026-10-06 to 2026-10-12  
+_All times ET_  
 
 ### Tuesday October 6th
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10/6/2026 | Los Angeles Dodgers | Atlanta Braves | 6:00 PM | FS1 | Truist Park, Atlanta, Georgia | Home 203 / 81; Away 202 / 81 |  |  |
-| 10/6/2026 | Milwaukee Brewers | San Diego Padres | 9:30 PM | FS1 | Petco Park, San Diego, California | Home 205 / 80; Away 204 / 80 |  |  |
+| 10/6/2026 | Milwaukee Brewers | San Diego Padres | 9:30 PM | FS1 | Petco Park, San Diego, California | Home 205 / 80 / 24 / 365; Away 204 / 80 |  |  |
 
 ### Wednesday October 7th
 
@@ -210,7 +227,7 @@ _All times ET_
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10/9/2026 | San Diego Padres | Milwaukee Brewers | 4:30 PM | FS1 | American Family Field, Milwaukee, Wisconsin | Home 203 / 81; Away 202 / 81 |  |  |
-| 10/9/2026 | Atlanta Braves | Los Angeles Dodgers | 8:00 PM | FOX | Dodger Stadium, Los Angeles, California | Home 205 / 80; Away 204 / 80 |  |  |
+| 10/9/2026 | Atlanta Braves | Los Angeles Dodgers | 8:00 PM | Fox | Dodger Stadium, Los Angeles, California | Home 205 / 80; Away 204 / 80 |  |  |
 
 ### Saturday October 10th
 
@@ -223,10 +240,17 @@ _All times ET_
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/11/2026 | TBD | TBD | 12:00 AM | FOX, FOX/FS1, FS1 |  |  |  |  |
+| 10/11/2026 | TBD | TBD | 12:00 AM | FS1, Fox, Fox/FS1 |  |  |  |  |
+
+### Monday October 12th
+
+| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/12/2026 | TBD | TBD | 12:00 AM | TBS, TBS/truTV, truTV |  |  |  |  |
+| 10/12/2026 | TBD | TBD | 12:00 AM | FS1, Fox, Fox/FS1 |  |  |  |  |
 
 ## MLS — Upcoming Week
-2026-10-05 to 2026-10-11  
+2026-10-06 to 2026-10-12  
 _All times ET_  
 
 ### Tuesday October 6th
@@ -261,7 +285,7 @@ _All times ET_
 | 10/11/2026 | LA Galaxy | St. Louis CITY SC | 7:00 PM | Apple TV | Energizer Park, St. Louis, Missouri | Home 188 |  |  |
 
 ## Premier League — Upcoming Week
-2026-10-05 to 2026-10-11  
+2026-10-06 to 2026-10-12  
 _All times ET_  
 
 ### Saturday October 10th
@@ -283,18 +307,15 @@ _All times ET_
 | 10/11/2026 | Everton | Hull City | 9:00 AM |  | The MKM Stadium, Hull |  |  |  |
 | 10/11/2026 | Manchester City | Liverpool | 11:30 AM |  | Anfield, Liverpool | Home 188; Away 188 |  |  |
 
-## FIFA International Friendlies — Upcoming Week
-2026-10-05 to 2026-10-11  
-_All times ET_  
-
-### Monday October 5th
+### Monday October 12th
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/5/2026 | Congo DR | Uganda | 9:00 AM |  | FNB Training Pitch, Johannesburg |  |  |  |
-| 10/5/2026 | Sri Lanka | Mauritius | 11:00 AM |  | Cote d'Or National Sports Complex, Saint Pierre |  |  |  |
-| 10/5/2026 | Kenya | Rwanda | 12:00 PM |  | Stade Amahoro, Kigali |  |  |  |
-| 10/5/2026 | Gibraltar | Liechtenstein | 2:45 PM |  | Rheinpark Stadion, Vaduz |  |  |  |
+| 10/12/2026 | Newcastle United | Coventry City | 3:00 PM |  | Coventry Building Society Arena, Coventry | Home 188; Away 188 |  |  |
+
+## FIFA International Friendlies — Upcoming Week
+2026-10-06 to 2026-10-12  
+_All times ET_  
 
 ### Tuesday October 6th
 
@@ -307,6 +328,6 @@ _All times ET_
 | 10/6/2026 | Niger | Algeria | 1:00 PM |  | Hocine Aït Ahmed Stadium, Tizi Ouzou |  |  |  |
 | 10/6/2026 | Venezuela | Jordan | 1:00 PM |  | King Abdullah II Stadium, Amman |  |  |  |
 | 10/6/2026 | Benin | Argentina | 7:00 PM |  | Estadio Más Monumental, Buenos Aires |  |  |  |
-| 10/6/2026 | Peru | Colombia | 7:45 PM |  | Hard Rock Stadium, Miami Gardens, Florida |  |  |  |
+| 10/6/2026 | Peru | Colombia | 7:45 PM |  | Nu Stadium, Miami, Florida |  |  |  |
 | 10/6/2026 | Canada | United States | 8:00 PM | HBO Max, Peacock, TNT, Tele, Universo, truTV | Allianz Field, Saint Paul, Minnesota |  |  |  |
 | 10/6/2026 | Chile | Mexico | 10:30 PM |  | Los Angeles Memorial Coliseum, Los Angeles, California |  |  |  |
