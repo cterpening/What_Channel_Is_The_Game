@@ -1,20 +1,10 @@
 # Sports Schedules
 
-_Last updated: 2026-10-09 12:52 EDT_
+_Last updated: 2026-10-10 11:47 EDT_
 
 ## College Football — Upcoming Week
 2026-10-05 to 2026-10-11  
 _All times ET_  
-
-### Friday October 9th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/9/2026 | Florida State | Louisville | 7:00 PM | ESPN | L&N Federal Credit Union Stadium, Louisville, KY | Home 84; Away 258 |  |  |
-| 10/9/2026 | Iowa | Washington | 9:00 PM |  | Husky Stadium, Seattle, WA | Home 257; Away 83 |  |  |
-| 10/9/2026 | Washington State | Utah State | 9:00 PM | CW | Maverik Stadium, Logan, UT | Home 262 / 257; Away 261 |  |  |
-| 10/9/2026 | Wyoming | San José State | 9:00 PM | CBSSN | CEFCU Stadium, San Jose, CA | Away 263 |  |  |
-| 10/9/2026 | Iowa State | BYU | 10:15 PM | ESPN | LaVell Edwards Stadium, Provo, UT | Home 166; Away 264 |  |  |
 
 ### Saturday October 10th
 
@@ -22,7 +12,7 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10/10/2026 | **Indiana** | Nebraska | 12:00 PM | Fox | Memorial Stadium (Lincoln, NE), Lincoln, NE | Home 82 / 97; Away 85 / 97 |  |  |
 | 10/10/2026 | Texas A&M | Missouri | 12:00 PM | ABC | Memorial Stadium, Columbia, MO | Home 84; Away 265 |  |  |
-| 10/10/2026 | UCF | Oklahoma State | 12:00 PM | ESPN2 | Boone Pickens Stadium, Stillwater, OK | Home 83 / 84; Away 261 |  |  |
+| 10/10/2026 | UCF | Oklahoma State | 12:00 PM | ESPN2 | Boone Pickens Stadium, Stillwater, OK | Home 83; Away 261 |  |  |
 | 10/10/2026 | North Carolina | Pittsburgh | 12:00 PM | ESPN | Acrisure Stadium, Pittsburgh, PA | Home 234; Away 258 |  |  |
 | 10/10/2026 | Arizona | West Virginia | 12:00 PM | TNT | Milan Puskar Stadium, Morgantown, WV | Home 237; Away 262 |  |  |
 | 10/10/2026 | Wake Forest | NC State | 12:00 PM | CW | Carter-Finley Stadium, Raleigh, NC | Home 235; Away 263 |  |  |
@@ -30,8 +20,8 @@ _All times ET_
 | 10/10/2026 | Sacramento State | Bowling Green | 12:00 PM | ESPN+ | Doyt L. Perry Stadium, Bowling Green, OH | Home ONLINE |  |  |
 | 10/10/2026 | **Ball State** | Northwestern | 12:30 PM | BTN | Ryan Field, Evanston, IL | Home 231 |  |  |
 | 10/10/2026 | South Carolina | Florida | 12:45 PM | SEC Network | Ben Hill Griffin Stadium, Gainesville, FL | Home 228 / 249; Away 256 / 249 |  |  |
-| 10/10/2026 | Old Dominion | App State | 1:00 PM | ESPN+ | Kidd Brewer Stadium, Boone, NC |  |  |  |
 | 10/10/2026 | Rice | East Carolina | 1:00 PM | ESPN+ | Dowdy-Ficklen Stadium, Greenville, NC | Away 271 |  |  |
+| 10/10/2026 | Old Dominion | App State | 1:00 PM | ESPN+ | Kidd Brewer Stadium, Boone, NC |  |  |  |
 | 10/10/2026 | Miami (OH) | Massachusetts | 2:00 PM | ESPN+ | Warren McGuirk Alumni Stadium, Amherst, MA |  |  |  |
 | 10/10/2026 | Texas | Oklahoma | 3:30 PM | ABC | Cotton Bowl, Dallas, TX | Home 247; Away 229 |  |  |
 | 10/10/2026 | Stanford | **Notre Dame** | 3:30 PM | NBC | Notre Dame Stadium, Notre Dame, IN | Home 129; Away 85 |  |  |
@@ -52,18 +42,18 @@ _All times ET_
 | 10/10/2026 | Tennessee | Arkansas | 4:15 PM | SEC Network | Donald W. Reynolds Razorback Stadium, Fayetteville, AR | Home 228; Away 230 |  |  |
 | 10/10/2026 | San Diego State | Oregon State | 6:00 PM | USA Net | Reser Stadium, Corvallis, OR | Home 262; Away 261 |  |  |
 | 10/10/2026 | LSU | Kentucky | 7:00 PM | ESPN | Kroger Field, Lexington, KY | Home 83; Away 229 |  |  |
-| 10/10/2026 | UAB | Memphis | 7:00 PM | ESPN2 | Simmons Bank Liberty Stadium, Memphis, TN | Home 272; Away ONLINE |  |  |
-| 10/10/2026 | Nevada | UTEP | 7:00 PM | FS1 | Sun Bowl, El Paso, TX | Home 272; Away 264 |  |  |
+| 10/10/2026 | UAB | Memphis | 7:00 PM | ESPN2 | Simmons Bank Liberty Stadium, Memphis, TN | Home 272 / 263; Away ONLINE |  |  |
+| 10/10/2026 | Nevada | UTEP | 7:00 PM | FS1 | Sun Bowl, El Paso, TX | Away 264 |  |  |
 | 10/10/2026 | North Dakota State | UNLV | 7:00 PM | CW | Allegiant Stadium, Las Vegas, NV | Home 263 |  |  |
 | 10/10/2026 | Coastal Carolina | Marshall | 7:00 PM | ESPN+ | Joan C. Edwards Stadium, Huntington, WV | Home ONLINE |  |  |
 | 10/10/2026 | Georgia | Alabama | 7:30 PM | ABC | Bryant-Denny Stadium, Tuscaloosa, AL | Home 84; Away 82 |  |  |
-| 10/10/2026 | USC | Penn State | 7:30 PM | NBC | Beaver Stadium, University Park, PA | Home 85 / 249 / 234; Away 232 / 249 |  |  |
+| 10/10/2026 | USC | Penn State | 7:30 PM | NBC | Beaver Stadium, University Park, PA | Home 85 / 249; Away 232 / 249 |  |  |
 | 10/10/2026 | Syracuse | Virginia | 7:30 PM | ACC Network | Scott Stadium, Charlottesville, VA | Home 234; Away 258 |  |  |
 | 10/10/2026 | Air Force | Northern Illinois | 7:30 PM | CBSSN | Huskie Stadium, Dekalb, IL | Home 266; Away 265 |  |  |
 | 10/10/2026 | James Madison | Georgia Southern | 7:30 PM | ESPNU | Allen E. Paulson Stadium, Statesboro, GA | Home ONLINE; Away ONLINE |  |  |
 | 10/10/2026 | Louisiana | Louisiana Tech | 7:30 PM | ESPN+ | Joe Aillet Stadium, Ruston, LA | Home ONLINE |  |  |
-| 10/10/2026 | **Minnesota** | Purdue | 8:00 PM | BTN | Ross-Ade Stadium, West Lafayette, IN | Home 231; Away 257 |  |  |
-| 10/10/2026 | Kansas | Utah | 10:15 PM | ESPN | Rice-Eccles Stadium, Salt Lake City, UT | Home 83; Away 267 |  |  |
+| 10/10/2026 | Kansas | Utah | 8:00 PM |  | Rice-Eccles Stadium, Salt Lake City, UT | Home 238; Away 267 |  |  |
+| 10/10/2026 | **Minnesota** | Purdue | 8:00 PM | BTN | Ross-Ade Stadium, West Lafayette, IN | Home 231 / 238; Away 257 |  |  |
 | 10/10/2026 | Boise State | Fresno State | 10:30 PM | CW | Valley Children's Stadium, Fresno, CA | Home 237; Away 85 |  |  |
 | 10/10/2026 | Hawai'i | Arizona State | 10:30 PM | FS1 | Mountain America Stadium, Tempe, AZ | Home 237 |  |  |
 
@@ -96,15 +86,8 @@ _All times ET_
 | 10/12/2026 | Buffalo Bills | Los Angeles Rams | 8:15 PM | ABC, ESPN, ESPN/ABC | SoFi Stadium, Inglewood, CA | Home 192; Away 193 / 88 |  |  |
 
 ## NBA — Upcoming Week
-2026-10-09 to 2026-10-15  
+2026-10-10 to 2026-10-16  
 _All times ET_  
-
-### Friday October 9th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/9/2026 | Houston Rockets | Dallas Mavericks | 8:00 AM | NBA TV | Venetian Arena | Home 99 |  |  |
-| 10/9/2026 | Memphis Grizzlies | Chicago Bulls | 8:00 PM | NBA TV | United Center, Chicago, IL | Home 96; Away ONLINE |  |  |
 
 ### Saturday October 10th
 
@@ -125,7 +108,7 @@ _All times ET_
 | 10/11/2026 | Dallas Mavericks | Houston Rockets | 6:00 AM | NBA TV | Venetian Arena | Home ONLINE; Away 99 |  |  |
 | 10/11/2026 | Orlando Magic | Cleveland Cavaliers | 6:30 PM | ESPN | Rocket Arena, Cleveland, OH | Home ONLINE |  |  |
 | 10/11/2026 | Milwaukee Bucks | Charlotte Hornets | 7:00 PM |  | Spectrum Center, Charlotte, NC | Home ONLINE; Away ONLINE |  |  |
-| 10/11/2026 | Chicago Bulls | Denver Nuggets | 9:00 PM | ESPN | Ball Arena, Denver, CO | Home ONLINE; Away ONLINE |  |  |
+| 10/11/2026 | Chicago Bulls | Denver Nuggets | 9:00 PM | ESPN | Ball Arena, Denver, CO | Home ONLINE |  |  |
 
 ### Monday October 12th
 
@@ -155,7 +138,7 @@ _All times ET_
 | 10/14/2026 | Charlotte Hornets | Boston Celtics | 7:30 PM |  | TD Garden, Boston, MA | Away ONLINE |  |  |
 | 10/14/2026 | Phoenix Suns | San Antonio Spurs | 8:00 PM |  | Frost Bank Center, San Antonio, TX | Home ONLINE; Away ONLINE |  |  |
 | 10/14/2026 | New Orleans Pelicans | Dallas Mavericks | 8:00 PM | NBA TV | American Airlines Center, Dallas, TX | Home 99; Away ONLINE |  |  |
-| 10/14/2026 | Chicago Bulls | Milwaukee Bucks | 8:00 PM |  | Fiserv Forum, Milwaukee, WI | Home ONLINE; Away ONLINE |  |  |
+| 10/14/2026 | Chicago Bulls | Milwaukee Bucks | 8:00 PM |  | Fiserv Forum, Milwaukee, WI | Home ONLINE |  |  |
 | 10/14/2026 | Detroit Pistons | Minnesota Timberwolves | 8:00 PM |  | Target Center, Minneapolis, MN | Away 170 |  |  |
 | 10/14/2026 | Denver Nuggets | LA Clippers | 10:30 PM | NBA TV | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
 
@@ -163,11 +146,28 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/15/2026 | Toronto Raptors | New York Knicks | 7:30 PM |  | Madison Square Garden, New York, NY |  |  |  |
+| 10/15/2026 | Toronto Raptors | New York Knicks | 7:30 PM |  | Madison Square Garden, New York, NY | Away ONLINE |  |  |
 | 10/15/2026 | Oklahoma City Thunder | Houston Rockets | 8:30 PM | NBA TV | Toyota Center (Houston), Houston, TX | Home ONLINE; Away ONLINE |  |  |
 
+### Friday October 16th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/16/2026 | Miami Heat | Orlando Magic | 7:00 PM |  | Kia Center, Orlando, FL | Home ONLINE; Away ONLINE |  |  |
+| 10/16/2026 | Boston Celtics | Philadelphia 76ers | 7:00 PM | NBA TV | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
+| 10/16/2026 | Toronto Raptors | Detroit Pistons | 7:00 PM |  | Little Caesars Arena, Detroit, MI | Home 170; Away ONLINE |  |  |
+| 10/16/2026 | Milwaukee Bucks | **Indiana Pacers** | 7:00 PM |  | Gainbridge Fieldhouse, Indianapolis, IN | Home ONLINE; Away ONLINE |  |  |
+| 10/16/2026 | Atlanta Hawks | Dallas Mavericks | 8:00 PM |  | American Airlines Center, Dallas, TX | Home 99; Away ONLINE |  |  |
+| 10/16/2026 | Sacramento Kings | San Antonio Spurs | 8:00 PM |  | Frost Bank Center, San Antonio, TX | Home ONLINE; Away ONLINE |  |  |
+| 10/16/2026 | Charlotte Hornets | Memphis Grizzlies | 8:00 PM |  | FedExForum, Memphis, TN | Home ONLINE; Away ONLINE |  |  |
+| 10/16/2026 | Washington Wizards | New Orleans Pelicans | 8:00 PM | MNMT | Smoothie King Center, New Orleans, LA | Home ONLINE; Away ONLINE |  |  |
+| 10/16/2026 | Minnesota Timberwolves | Chicago Bulls | 8:00 PM |  | United Center, Chicago, IL | Home 96 |  |  |
+| 10/16/2026 | Portland Trail Blazers | Golden State Warriors | 10:00 PM |  | Chase Center, San Francisco, CA | Home ONLINE |  |  |
+| 10/16/2026 | Utah Jazz | Phoenix Suns | 10:00 PM |  | Mortgage Matchup Center, Phoenix, AZ | Home ONLINE; Away ONLINE |  |  |
+| 10/16/2026 | Denver Nuggets | Los Angeles Lakers | 10:30 PM | ESPN | crypto.com Arena, Los Angeles, CA | Home ONLINE; Away ONLINE |  |  |
+
 ## MLB — Upcoming Week
-2026-10-09 to 2026-10-15  
+2026-10-10 to 2026-10-16  
 _All times ET_  
 
 ### Saturday October 10th
@@ -208,8 +208,15 @@ _All times ET_
 | 10/15/2026 | Tampa Bay Rays | CLE/CHW | 6:00 PM | TBS, TBS/truTV, truTV |  |  |  |  |
 | 10/15/2026 | Milwaukee Brewers | Los Angeles Dodgers | 9:00 PM | FS1, Fox, Fox/FS1 | Dodger Stadium, Los Angeles, California |  |  |  |
 
+### Friday October 16th
+
+| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/16/2026 | Tampa Bay Rays | CLE/CHW | 6:00 PM | TBS, TBS/truTV, truTV |  |  |  |  |
+| 10/16/2026 | Milwaukee Brewers | Los Angeles Dodgers | 9:00 PM | FS1, Fox, Fox/FS1 | Dodger Stadium, Los Angeles, California |  |  |  |
+
 ## MLS — Upcoming Week
-2026-10-09 to 2026-10-15  
+2026-10-10 to 2026-10-16  
 _All times ET_  
 
 ### Saturday October 10th
@@ -258,14 +265,14 @@ _All times ET_
 | 10/14/2026 | Houston Dynamo FC | San Diego FC | 10:30 PM | Apple TV | Snapdragon Stadium, San Diego, California |  |  |  |
 
 ## Premier League — Upcoming Week
-2026-10-09 to 2026-10-15  
+2026-10-10 to 2026-10-16  
 _All times ET_  
 
 ### Saturday October 10th
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/10/2026 | Leeds United | Arsenal | 7:30 AM | USA Net, Universo | Emirates Stadium, London | Home 188; Away 188 |  |  |
+| 10/10/2026 | Leeds United | Arsenal | 7:30 AM | USA Net, Universo | Emirates Stadium, London |  |  |  |
 | 10/10/2026 | Brentford | Aston Villa | 10:00 AM | USA Net, Universo | Villa Park, Birmingham |  |  |  |
 | 10/10/2026 | AFC Bournemouth | Chelsea | 10:00 AM | Peacock | Stamford Bridge, London | Home 188; Away 188 |  |  |
 | 10/10/2026 | Fulham | Ipswich Town | 10:00 AM | Peacock | Portman Road, Ipswich |  |  |  |
