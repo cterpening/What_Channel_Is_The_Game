@@ -1,17 +1,10 @@
 # Sports Schedules
 
-_Last updated: 2026-10-13 13:26 EDT_
+_Last updated: 2026-10-14 10:56 EDT_
 
 ## College Football — Upcoming Week
 2026-10-12 to 2026-10-18  
 _All times ET_  
-
-### Tuesday October 13th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/13/2026 | Delaware | Middle Tennessee | 7:00 PM | CBSSN | Johnny "Red" Floyd Stadium, Murfreesboro, TN | Home 261 |  |  |
-| 10/13/2026 | Florida International | Jacksonville State | 8:00 PM | ESPNU | AmFirst Stadium, Jacksonville, AL |  |  |  |
 
 ### Wednesday October 14th
 
@@ -101,44 +94,34 @@ _All times ET_
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/15/2026 | Seattle Seahawks | Denver Broncos | 8:15 PM | Prime Video | Empower Field at Mile High, Denver, CO |  |  |  |
+| 10/15/2026 | Seattle Seahawks | Denver Broncos | 8:15 PM | Prime Video | Empower Field at Mile High, Denver, CO | Home 192 / 88; Away 193 / 88 |  |  |
 
 ### Sunday October 18th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/18/2026 | Houston Texans | Jacksonville Jaguars | 9:30 AM | NFL Net | Wembley Stadium, London |  |  |  |
-| 10/18/2026 | Chicago Bears | Atlanta Falcons | 1:00 PM | Fox | Mercedes-Benz Stadium, Atlanta, GA |  |  |  |
-| 10/18/2026 | Baltimore Ravens | Cleveland Browns | 1:00 PM | Fox | Huntington Bank Field, Cleveland, OH |  |  |  |
-| 10/18/2026 | Tennessee Titans | **Indianapolis Colts** | 1:00 PM | Fox | Lucas Oil Stadium, Indianapolis, IN |  |  |  |
-| 10/18/2026 | New York Jets | New England Patriots | 1:00 PM | CBS | Gillette Stadium, Foxborough, MA |  |  |  |
-| 10/18/2026 | New Orleans Saints | New York Giants | 1:00 PM | Fox | MetLife Stadium, East Rutherford, NJ |  |  |  |
-| 10/18/2026 | Carolina Panthers | Philadelphia Eagles | 1:00 PM | CBS | Lincoln Financial Field, Philadelphia, PA |  |  |  |
-| 10/18/2026 | Pittsburgh Steelers | Tampa Bay Buccaneers | 1:00 PM | CBS | Raymond James Stadium, Tampa, FL |  |  |  |
-| 10/18/2026 | Arizona Cardinals | Los Angeles Rams | 4:05 PM | Fox | SoFi Stadium, Inglewood, CA |  |  |  |
-| 10/18/2026 | Los Angeles Chargers | Kansas City Chiefs | 4:25 PM | CBS | Arrowhead Stadium, Kansas City, MO |  |  |  |
-| 10/18/2026 | Buffalo Bills | Las Vegas Raiders | 4:25 PM | CBS | Allegiant Stadium, Las Vegas, NV |  |  |  |
-| 10/18/2026 | Dallas Cowboys | Green Bay Packers | 8:20 PM | NBC | Lambeau Field, Green Bay, WI |  |  |  |
+| 10/18/2026 | Houston Texans | Jacksonville Jaguars | 9:30 AM | NFL Net | Wembley Stadium, London | Home 194 / 88; Away 263 / 88 |  |  |
+| 10/18/2026 | Chicago Bears | Atlanta Falcons | 1:00 PM | Fox | Mercedes-Benz Stadium, Atlanta, GA | Home 192; Away 261 |  |  |
+| 10/18/2026 | Baltimore Ravens | Cleveland Browns | 1:00 PM | Fox | Huntington Bank Field, Cleveland, OH | Home 193; Away 262 |  |  |
+| 10/18/2026 | Tennessee Titans | **Indianapolis Colts** | 1:00 PM | Fox | Lucas Oil Stadium, Indianapolis, IN | Home 196; Away 265 |  |  |
+| 10/18/2026 | New York Jets | New England Patriots | 1:00 PM | CBS | Gillette Stadium, Foxborough, MA | Home 197 |  |  |
+| 10/18/2026 | New Orleans Saints | New York Giants | 1:00 PM | Fox | MetLife Stadium, East Rutherford, NJ | Away 267 |  |  |
+| 10/18/2026 | Carolina Panthers | Philadelphia Eagles | 1:00 PM | CBS | Lincoln Financial Field, Philadelphia, PA | Home 199 / 198; Away 268 |  |  |
+| 10/18/2026 | Pittsburgh Steelers | Tampa Bay Buccaneers | 1:00 PM | CBS | Raymond James Stadium, Tampa, FL | Home 195; Away 264 |  |  |
+| 10/18/2026 | Arizona Cardinals | Los Angeles Rams | 4:05 PM | Fox | SoFi Stadium, Inglewood, CA | Home 194; Away 263 |  |  |
+| 10/18/2026 | Los Angeles Chargers | Kansas City Chiefs | 4:25 PM | CBS | Arrowhead Stadium, Kansas City, MO | Home 200 / 192; Away 264 |  |  |
+| 10/18/2026 | Buffalo Bills | Las Vegas Raiders | 4:25 PM | CBS | Allegiant Stadium, Las Vegas, NV | Home 192; Away 261 |  |  |
+| 10/18/2026 | Dallas Cowboys | Green Bay Packers | 8:20 PM | NBC | Lambeau Field, Green Bay, WI | Home 192 / 88; Away 193 / 88 |  |  |
 
 ### Monday October 19th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/19/2026 | Washington Commanders | San Francisco 49ers | 8:15 PM | ABC, ESPN, ESPN/ABC | Levi's Stadium, Santa Clara, CA |  |  |  |
+| 10/19/2026 | Washington Commanders | San Francisco 49ers | 8:15 PM | ABC, ESPN, ESPN/ABC | Levi's Stadium, Santa Clara, CA | Home 192 / 88; Away 193 / 88 |  |  |
 
 ## NBA — Upcoming Week
-2026-10-13 to 2026-10-19  
+2026-10-14 to 2026-10-20  
 _All times ET_  
-
-### Tuesday October 13th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/13/2026 | Cleveland Cavaliers | Orlando Magic | 7:00 PM | NBCSN, Peacock, Peacock/NBCSN | Kia Center, Orlando, FL | Home ONLINE; Away ONLINE |  |  |
-| 10/13/2026 | New York Knicks | Toronto Raptors | 7:00 PM |  | Scotiabank Arena, Toronto, ON |  |  |  |
-| 10/13/2026 | **Indiana Pacers** | Oklahoma City Thunder | 8:00 PM |  | Paycom Center, Oklahoma City, OK | Home ONLINE; Away ONLINE |  |  |
-| 10/13/2026 | Golden State Warriors | Los Angeles Lakers | 10:00 PM | NBA TV | T-Mobile Arena, Las Vegas, NV | Home 95; Away ONLINE |  |  |
-| 10/13/2026 | Portland Trail Blazers | Sacramento Kings | 10:00 PM |  | Golden 1 Center, Sacramento, CA | Home ONLINE |  |  |
 
 ### Wednesday October 14th
 
@@ -146,7 +129,7 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10/14/2026 | Brooklyn Nets | Miami Heat | 7:30 PM |  | Kaseya Center, Miami, FL | Home ONLINE |  |  |
 | 10/14/2026 | Charlotte Hornets | Boston Celtics | 7:30 PM |  | TD Garden, Boston, MA | Away ONLINE |  |  |
-| 10/14/2026 | Phoenix Suns | San Antonio Spurs | 8:00 PM |  | Frost Bank Center, San Antonio, TX | Home ONLINE; Away ONLINE |  |  |
+| 10/14/2026 | Phoenix Suns | San Antonio Spurs | 8:00 PM |  | Frost Bank Center, San Antonio, TX | Home 99; Away ONLINE |  |  |
 | 10/14/2026 | New Orleans Pelicans | Dallas Mavericks | 8:00 PM | NBA TV | American Airlines Center, Dallas, TX | Home 99; Away ONLINE |  |  |
 | 10/14/2026 | Chicago Bulls | Milwaukee Bucks | 8:00 PM |  | Fiserv Forum, Milwaukee, WI | Home ONLINE |  |  |
 | 10/14/2026 | Detroit Pistons | Minnesota Timberwolves | 8:00 PM |  | Target Center, Minneapolis, MN | Away 170 |  |  |
@@ -176,21 +159,23 @@ _All times ET_
 | 10/16/2026 | Utah Jazz | Phoenix Suns | 10:00 PM |  | Mortgage Matchup Center, Phoenix, AZ | Home ONLINE; Away ONLINE |  |  |
 | 10/16/2026 | Denver Nuggets | Los Angeles Lakers | 10:30 PM | ESPN | crypto.com Arena, Los Angeles, CA | Home 95; Away ONLINE |  |  |
 
-## MLB — Upcoming Week
-2026-10-13 to 2026-10-19  
-_All times ET_  
+### Tuesday October 20th
 
-### Tuesday October 13th
-
-| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/13/2026 | **Cleveland Guardians** | Tampa Bay Rays | 8:00 PM | TBS, TBS/truTV, truTV | Tropicana Field, St. Petersburg, Florida | Home 206 / 80 / 24 / 365; Away 205 / 80 |  |  |
+| 10/20/2026 | Boston Celtics | Detroit Pistons | 3:00 PM | NBC | Little Caesars Arena, Detroit, MI | Home 217; Away ONLINE |  |  |
+| 10/20/2026 | Philadelphia 76ers | New York Knicks | 7:00 PM | NBC | Madison Square Garden, New York, NY | Home 86 / 81; Away 81 |  |  |
+| 10/20/2026 | Oklahoma City Thunder | San Antonio Spurs | 9:30 PM | NBC | Frost Bank Center, San Antonio, TX | Home 86; Away ONLINE |  |  |
+
+## MLB — Upcoming Week
+2026-10-14 to 2026-10-20  
+_All times ET_  
 
 ### Wednesday October 14th
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/14/2026 | Milwaukee Brewers | Los Angeles Dodgers | 8:00 PM | FS1 | Dodger Stadium, Los Angeles, California | Home 202 / 80; Away 203 / 80 |  |  |
+| 10/14/2026 | Milwaukee Brewers | Los Angeles Dodgers | 8:00 PM | FS1 | Dodger Stadium, Los Angeles, California | Home 202 / 80 / 24 / 365; Away 203 / 80 |  |  |
 
 ### Thursday October 15th
 
@@ -225,8 +210,14 @@ _All times ET_
 | 10/19/2026 | **Cleveland Guardians** | Tampa Bay Rays | 5:00 PM | TBS, TBS/truTV, truTV | Tropicana Field, St. Petersburg, Florida | Home 206 / 80; Away 205 / 80 |  |  |
 | 10/19/2026 | Los Angeles Dodgers | Milwaukee Brewers | 8:00 PM | FS1, Fox, Fox/FS1 | American Family Field, Milwaukee, Wisconsin | Home 203 / 81; Away 202 / 81 |  |  |
 
+### Tuesday October 20th
+
+| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/20/2026 | **Cleveland Guardians** | Tampa Bay Rays | 8:00 PM | TBS, TBS/truTV, truTV | Tropicana Field, St. Petersburg, Florida | Home 206 / 80; Away 205 / 80 |  |  |
+
 ## MLS — Upcoming Week
-2026-10-13 to 2026-10-19  
+2026-10-14 to 2026-10-20  
 _All times ET_  
 
 ### Wednesday October 14th
@@ -275,7 +266,7 @@ _All times ET_
 | 10/18/2026 | Columbus Crew | FC Cincinnati | 5:00 PM | Apple TV | TQL Stadium, Cincinnati, Ohio |  |  |  |
 
 ## Premier League — Upcoming Week
-2026-10-13 to 2026-10-19  
+2026-10-14 to 2026-10-20  
 _All times ET_  
 
 ### Saturday October 17th
@@ -292,13 +283,13 @@ _All times ET_
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/18/2026 | Sunderland | AFC Bournemouth | 9:00 AM |  | Vitality Stadium, Bournemouth |  |  |  |
-| 10/18/2026 | Crystal Palace | Brighton & Hove Albion | 9:00 AM |  | American Express Stadium, Falmer |  |  |  |
-| 10/18/2026 | Manchester United | Leeds United | 9:00 AM |  | Elland Road, Leeds | Home 188; Away 188 |  |  |
-| 10/18/2026 | Arsenal | Nottingham Forest | 11:30 AM |  | The City Ground, Nottingham | Home 188; Away 188 |  |  |
+| 10/18/2026 | Sunderland | AFC Bournemouth | 9:00 AM | Peacock | Vitality Stadium, Bournemouth |  |  |  |
+| 10/18/2026 | Crystal Palace | Brighton & Hove Albion | 9:00 AM | Peacock | American Express Stadium, Falmer |  |  |  |
+| 10/18/2026 | Manchester United | Leeds United | 9:00 AM | Tele, USA Net | Elland Road, Leeds | Home 188; Away 188 |  |  |
+| 10/18/2026 | Arsenal | Nottingham Forest | 11:30 AM | Peacock | The City Ground, Nottingham | Home 188; Away 188 |  |  |
 
 ### Monday October 19th
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/19/2026 | Coventry City | Tottenham Hotspur | 3:00 PM |  | Tottenham Hotspur Stadium, London | Home 188; Away 188 |  |  |
+| 10/19/2026 | Coventry City | Tottenham Hotspur | 3:00 PM | USA Net, Universo | Tottenham Hotspur Stadium, London | Home 188; Away 188 |  |  |
