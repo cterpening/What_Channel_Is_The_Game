@@ -2,20 +2,6 @@
   "schema_version": 1,
   "builds": [
     {
-      "generated_at": "2026-09-04T14:06:31Z",
-      "total_games": 227,
-      "sports": {
-        "cfb": 80,
-        "epl": 10,
-        "fifa_world": 0,
-        "mlb": 92,
-        "mls": 29,
-        "nba": 0,
-        "ncaab": 0,
-        "nfl": 16
-      }
-    },
-    {
       "generated_at": "2026-09-05T13:19:31Z",
       "total_games": 216,
       "sports": {
@@ -435,6 +421,21 @@
         "nba": 28,
         "ncaab": 0,
         "nfl": 14
+      }
+    },
+    {
+      "generated_at": "2026-10-16T14:38:31Z",
+      "total_games": 126,
+      "sports": {
+        "cfb": 55,
+        "epl": 10,
+        "fifa_friendly": 0,
+        "fifa_world": 0,
+        "mlb": 4,
+        "mls": 16,
+        "nba": 28,
+        "ncaab": 0,
+        "nfl": 13
       }
     }
   ]
