@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2026-10-19 12:51 EDT_
+_Last updated: 2026-10-20 10:47 EDT_
 
 ## College Football — Upcoming Week
 2026-10-19 to 2026-10-25  
@@ -88,24 +88,47 @@ _All times ET_
 | 10/24/2026 | Houston | Utah | 10:15 PM | ESPN | Rice-Eccles Stadium, Salt Lake City, UT | Home 81; Away 238 |  |  |
 
 ## NFL — Upcoming Week
-2026-10-14 to 2026-10-20  
+2026-10-21 to 2026-10-27  
 _All times ET_  
 
-### Monday October 19th
+### Thursday October 22nd
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/19/2026 | Washington Commanders | San Francisco 49ers | 8:15 PM | ABC, ESPN, ESPN/ABC | Levi's Stadium, Santa Clara, CA | Home 192 / 88; Away 193 / 88 |  |  |
+| 10/22/2026 | New England Patriots | Chicago Bears | 8:15 PM | Prime Video | Soldier Field, Chicago, IL |  |  |  |
+
+### Sunday October 25th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/25/2026 | Pittsburgh Steelers | New Orleans Saints | 9:30 AM | NFL Net | Stade de France, Saint-Denis |  |  |  |
+| 10/25/2026 | San Francisco 49ers | Atlanta Falcons | 1:00 PM | Fox | Mercedes-Benz Stadium, Atlanta, GA |  |  |  |
+| 10/25/2026 | Cleveland Browns | Tennessee Titans | 1:00 PM | CBS | Nissan Stadium, Nashville, TN |  |  |  |
+| 10/25/2026 | **Indianapolis Colts** | Minnesota Vikings | 1:00 PM | CBS | U.S. Bank Stadium, Minneapolis, MN |  |  |  |
+| 10/25/2026 | Miami Dolphins | New York Jets | 1:00 PM | CBS | MetLife Stadium, East Rutherford, NJ |  |  |  |
+| 10/25/2026 | Tampa Bay Buccaneers | Carolina Panthers | 1:00 PM | Fox | Bank of America Stadium, Charlotte, NC |  |  |  |
+| 10/25/2026 | Cincinnati Bengals | Baltimore Ravens | 1:00 PM | CBS | M&T Bank Stadium, Baltimore, MD |  |  |  |
+| 10/25/2026 | New York Giants | Houston Texans | 1:00 PM | Fox | Reliant Stadium, Houston, TX |  |  |  |
+| 10/25/2026 | Denver Broncos | Arizona Cardinals | 4:05 PM | CBS | State Farm Stadium, Glendale, AZ |  |  |  |
+| 10/25/2026 | Green Bay Packers | Detroit Lions | 4:25 PM | Fox | Ford Field, Detroit, MI |  |  |  |
+| 10/25/2026 | Los Angeles Rams | Las Vegas Raiders | 4:25 PM | Fox | Allegiant Stadium, Las Vegas, NV |  |  |  |
+| 10/25/2026 | Kansas City Chiefs | Seattle Seahawks | 8:20 PM | NBC | Lumen Field, Seattle, WA |  |  |  |
+
+### Monday October 26th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/26/2026 | Dallas Cowboys | Philadelphia Eagles | 8:15 PM | ABC, Disney+, ESPN, ESPN/ABC/Disney+ | Lincoln Financial Field, Philadelphia, PA |  |  |  |
 
 ## NBA — Upcoming Week
-2026-10-19 to 2026-10-25  
+2026-10-20 to 2026-10-26  
 _All times ET_  
 
 ### Tuesday October 20th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/20/2026 | Boston Celtics | Detroit Pistons | 3:00 PM | NBC | Little Caesars Arena, Detroit, MI | Home 217; Away ONLINE |  |  |
+| 10/20/2026 | Boston Celtics | Detroit Pistons | 3:00 PM | NBC | Little Caesars Arena, Detroit, MI | Home 86; Away ONLINE |  |  |
 | 10/20/2026 | Philadelphia 76ers | New York Knicks | 7:00 PM | NBC | Madison Square Garden, New York, NY | Home 86 / 81; Away 81 |  |  |
 | 10/20/2026 | Oklahoma City Thunder | San Antonio Spurs | 9:30 PM | NBC | Frost Bank Center, San Antonio, TX | Home 86; Away ONLINE |  |  |
 
@@ -113,17 +136,17 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/21/2026 | Atlanta Hawks | Orlando Magic | 7:00 PM |  | Kia Center, Orlando, FL | Home 217; Away ONLINE |  |  |
-| 10/21/2026 | Milwaukee Bucks | Washington Wizards | 7:00 PM | MNMT | Capital One Arena, Washington, DC | Home 218; Away ONLINE |  |  |
+| 10/21/2026 | Atlanta Hawks | Orlando Magic | 7:00 PM | NBA League Pass | Kia Center, Orlando, FL | Home 217; Away ONLINE |  |  |
+| 10/21/2026 | Milwaukee Bucks | Washington Wizards | 7:00 PM | MNMT, NBA League Pass | Capital One Arena, Washington, DC | Home 218; Away ONLINE |  |  |
 | 10/21/2026 | Minnesota Timberwolves | Miami Heat | 7:30 PM | ESPN | Kaseya Center, Miami, FL | Home 86; Away ONLINE |  |  |
-| 10/21/2026 | Charlotte Hornets | Brooklyn Nets | 7:30 PM |  | Barclays Center, Brooklyn, NY | Home 219; Away ONLINE |  |  |
-| 10/21/2026 | Chicago Bulls | Toronto Raptors | 7:30 PM |  | Scotiabank Arena, Toronto, ON | Home 160; Away 96 |  |  |
-| 10/21/2026 | Utah Jazz | Memphis Grizzlies | 8:00 PM |  | FedExForum, Memphis, TN | Home 220; Away ONLINE |  |  |
-| 10/21/2026 | **Indiana Pacers** | New Orleans Pelicans | 8:00 PM |  | Smoothie King Center, New Orleans, LA | Home 221; Away ONLINE |  |  |
-| 10/21/2026 | Dallas Mavericks | Houston Rockets | 8:30 PM |  | Toyota Center (Houston), Houston, TX | Home 222; Away 99 |  |  |
+| 10/21/2026 | Charlotte Hornets | Brooklyn Nets | 7:30 PM | NBA League Pass | Barclays Center, Brooklyn, NY | Home 219; Away ONLINE |  |  |
+| 10/21/2026 | Chicago Bulls | Toronto Raptors | 7:30 PM | NBA League Pass | Scotiabank Arena, Toronto, ON | Home 160; Away 96 |  |  |
+| 10/21/2026 | Utah Jazz | Memphis Grizzlies | 8:00 PM | NBA League Pass | FedExForum, Memphis, TN | Home 220; Away ONLINE |  |  |
+| 10/21/2026 | **Indiana Pacers** | New Orleans Pelicans | 8:00 PM | NBA League Pass | Smoothie King Center, New Orleans, LA | Home 221; Away ONLINE |  |  |
+| 10/21/2026 | Dallas Mavericks | Houston Rockets | 8:30 PM | NBA League Pass | Toyota Center (Houston), Houston, TX | Home 222; Away 99 |  |  |
 | 10/21/2026 | Golden State Warriors | Los Angeles Lakers | 10:00 PM | ESPN | crypto.com Arena, Los Angeles, CA | Home 86 / 218; Away ONLINE |  |  |
-| 10/21/2026 | Phoenix Suns | Portland Trail Blazers | 10:00 PM |  | Moda Center, Portland, OR | Away ONLINE |  |  |
-| 10/21/2026 | Sacramento Kings | LA Clippers | 10:30 PM |  | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
+| 10/21/2026 | Phoenix Suns | Portland Trail Blazers | 10:00 PM | NBA League Pass | Moda Center, Portland, OR | Away ONLINE |  |  |
+| 10/21/2026 | Sacramento Kings | LA Clippers | 10:30 PM | NBA League Pass | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
 
 ### Thursday October 22nd
 
@@ -136,74 +159,82 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/23/2026 | Chicago Bulls | Milwaukee Bucks | 4:00 PM |  | Fiserv Forum, Milwaukee, WI | Home 221; Away 96 |  |  |
+| 10/23/2026 | Chicago Bulls | Milwaukee Bucks | 4:00 PM | NBA League Pass | Fiserv Forum, Milwaukee, WI | Home 221; Away 96 |  |  |
 | 10/23/2026 | New York Knicks | Boston Celtics | 7:00 PM | Prime Video | TD Garden, Boston, MA | Home 86; Away ONLINE |  |  |
-| 10/23/2026 | Atlanta Hawks | Charlotte Hornets | 7:00 PM |  | Spectrum Center, Charlotte, NC | Home 217; Away ONLINE |  |  |
-| 10/23/2026 | Dallas Mavericks | **Indiana Pacers** | 7:00 PM |  | Gainbridge Fieldhouse, Indianapolis, IN | Home 218; Away 99 |  |  |
-| 10/23/2026 | Minnesota Timberwolves | Orlando Magic | 7:00 PM |  | Kia Center, Orlando, FL | Home 219; Away ONLINE |  |  |
-| 10/23/2026 | Toronto Raptors | Washington Wizards | 7:00 PM | MNMT | Capital One Arena, Washington, DC | Home 220; Away ONLINE |  |  |
-| 10/23/2026 | Detroit Pistons | Miami Heat | 8:00 PM |  | Kaseya Center, Miami, FL | Home 167; Away 170 |  |  |
+| 10/23/2026 | Atlanta Hawks | Charlotte Hornets | 7:00 PM | NBA League Pass | Spectrum Center, Charlotte, NC | Home 217; Away ONLINE |  |  |
+| 10/23/2026 | Dallas Mavericks | **Indiana Pacers** | 7:00 PM | NBA League Pass | Gainbridge Fieldhouse, Indianapolis, IN | Home 218; Away 99 |  |  |
+| 10/23/2026 | Minnesota Timberwolves | Orlando Magic | 7:00 PM | NBA League Pass | Kia Center, Orlando, FL | Home 219; Away ONLINE |  |  |
+| 10/23/2026 | Toronto Raptors | Washington Wizards | 7:00 PM | MNMT, NBA League Pass | Capital One Arena, Washington, DC | Home 220; Away ONLINE |  |  |
+| 10/23/2026 | Detroit Pistons | Miami Heat | 8:00 PM | NBA League Pass | Kaseya Center, Miami, FL | Home 167; Away 170 |  |  |
 | 10/23/2026 | Houston Rockets | San Antonio Spurs | 9:30 PM | Prime Video | Moody Center, Austin, TX | Home 86; Away ONLINE |  |  |
-| 10/23/2026 | New Orleans Pelicans | Utah Jazz | 9:30 PM |  | Delta Center, Salt Lake City, UT | Home 222; Away ONLINE |  |  |
-| 10/23/2026 | Memphis Grizzlies | Golden State Warriors | 10:00 PM |  | Chase Center, San Francisco, CA | Home 217; Away ONLINE |  |  |
-| 10/23/2026 | LA Clippers | Los Angeles Lakers | 10:00 PM |  | crypto.com Arena, Los Angeles, CA | Home 218 |  |  |
-| 10/23/2026 | Portland Trail Blazers | Sacramento Kings | 10:00 PM |  | Golden 1 Center, Sacramento, CA | Home 219 |  |  |
+| 10/23/2026 | New Orleans Pelicans | Utah Jazz | 9:30 PM | NBA League Pass | Delta Center, Salt Lake City, UT | Home 222; Away ONLINE |  |  |
+| 10/23/2026 | Memphis Grizzlies | Golden State Warriors | 10:00 PM | NBA League Pass | Chase Center, San Francisco, CA | Home 217; Away ONLINE |  |  |
+| 10/23/2026 | LA Clippers | Los Angeles Lakers | 10:00 PM | NBA League Pass | crypto.com Arena, Los Angeles, CA | Home 218 |  |  |
+| 10/23/2026 | Portland Trail Blazers | Sacramento Kings | 10:00 PM | NBA League Pass | Golden 1 Center, Sacramento, CA | Home 219 |  |  |
 
 ### Saturday October 24th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/24/2026 | Miami Heat | Charlotte Hornets | 6:00 PM |  | Spectrum Center, Charlotte, NC | Home 217; Away ONLINE |  |  |
-| 10/24/2026 | Brooklyn Nets | Cleveland Cavaliers | 7:30 PM |  | Rocket Arena, Cleveland, OH | Home 218; Away 94 |  |  |
+| 10/24/2026 | Miami Heat | Charlotte Hornets | 6:00 PM | NBA League Pass | Spectrum Center, Charlotte, NC | Home 217; Away ONLINE |  |  |
+| 10/24/2026 | Brooklyn Nets | Cleveland Cavaliers | 7:30 PM | NBA League Pass | Rocket Arena, Cleveland, OH | Home 218; Away 94 |  |  |
 | 10/24/2026 | Milwaukee Bucks | Philadelphia 76ers | 7:30 PM | NBA TV | Xfinity Mobile Arena, Philadelphia, PA | Home 86; Away ONLINE |  |  |
-| 10/24/2026 | Washington Wizards | Chicago Bulls | 8:00 PM | MNMT | United Center, Chicago, IL | Home 221; Away ONLINE |  |  |
-| 10/24/2026 | San Antonio Spurs | Dallas Mavericks | 8:00 PM |  | American Airlines Center, Dallas, TX | Home 219; Away ONLINE |  |  |
-| 10/24/2026 | Houston Rockets | Atlanta Hawks | 8:30 PM |  | State Farm Arena, Atlanta, GA | Home 220; Away ONLINE |  |  |
-| 10/24/2026 | New Orleans Pelicans | Denver Nuggets | 9:00 PM |  | Ball Arena, Denver, CO | Home 217; Away ONLINE |  |  |
+| 10/24/2026 | Washington Wizards | Chicago Bulls | 8:00 PM | MNMT, NBA League Pass | United Center, Chicago, IL | Home 221; Away ONLINE |  |  |
+| 10/24/2026 | San Antonio Spurs | Dallas Mavericks | 8:00 PM | NBA League Pass | American Airlines Center, Dallas, TX | Home 219; Away ONLINE |  |  |
+| 10/24/2026 | Houston Rockets | Atlanta Hawks | 8:30 PM | NBA League Pass | State Farm Arena, Atlanta, GA | Home 220; Away ONLINE |  |  |
+| 10/24/2026 | New Orleans Pelicans | Denver Nuggets | 9:00 PM | NBA League Pass | Ball Arena, Denver, CO | Home 217; Away ONLINE |  |  |
 | 10/24/2026 | Golden State Warriors | Phoenix Suns | 10:00 PM | NBA TV | Mortgage Matchup Center, Phoenix, AZ | Home 86; Away ONLINE |  |  |
 
 ### Sunday October 25th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/25/2026 | Los Angeles Lakers | Utah Jazz | 5:00 PM |  | Delta Center, Salt Lake City, UT | Home 86; Away ONLINE |  |  |
-| 10/25/2026 | **Indiana Pacers** | Brooklyn Nets | 6:00 PM |  | Barclays Center, Brooklyn, NY | Home 217; Away ONLINE |  |  |
-| 10/25/2026 | Orlando Magic | New York Knicks | 7:00 PM |  | Madison Square Garden, New York, NY | Home 218; Away ONLINE |  |  |
+| 10/25/2026 | Los Angeles Lakers | Utah Jazz | 5:00 PM | NBA League Pass | Delta Center, Salt Lake City, UT | Home 86; Away ONLINE |  |  |
+| 10/25/2026 | **Indiana Pacers** | Brooklyn Nets | 6:00 PM | NBA League Pass | Barclays Center, Brooklyn, NY | Home 217; Away ONLINE |  |  |
+| 10/25/2026 | Orlando Magic | New York Knicks | 7:00 PM | NBA League Pass | Madison Square Garden, New York, NY | Home 218; Away ONLINE |  |  |
 | 10/25/2026 | Toronto Raptors | Minnesota Timberwolves | 7:00 PM | NBA TV | Target Center, Minneapolis, MN | Home 160; Away ONLINE |  |  |
-| 10/25/2026 | LA Clippers | Oklahoma City Thunder | 7:00 PM |  | Paycom Center, Oklahoma City, OK | Home 219 |  |  |
-| 10/25/2026 | Detroit Pistons | Philadelphia 76ers | 7:30 PM |  | Xfinity Mobile Arena, Philadelphia, PA | Home 86; Away ONLINE |  |  |
-| 10/25/2026 | Memphis Grizzlies | Sacramento Kings | 9:00 PM |  | Golden 1 Center, Sacramento, CA | Home 217; Away ONLINE |  |  |
+| 10/25/2026 | LA Clippers | Oklahoma City Thunder | 7:00 PM | NBA League Pass | Paycom Center, Oklahoma City, OK | Home 219 |  |  |
+| 10/25/2026 | Detroit Pistons | Philadelphia 76ers | 7:30 PM | NBA League Pass | Xfinity Mobile Arena, Philadelphia, PA | Home 86; Away ONLINE |  |  |
+| 10/25/2026 | Memphis Grizzlies | Sacramento Kings | 9:00 PM | NBA League Pass | Golden 1 Center, Sacramento, CA | Home 217; Away ONLINE |  |  |
+
+### Monday October 26th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/26/2026 | Washington Wizards | Charlotte Hornets | 7:00 PM | MNMT, NBA League Pass | Spectrum Center, Charlotte, NC | Home 217; Away ONLINE |  |  |
+| 10/26/2026 | Minnesota Timberwolves | Cleveland Cavaliers | 7:00 PM | NBA League Pass | Rocket Arena, Cleveland, OH | Home 86; Away ONLINE |  |  |
+| 10/26/2026 | Chicago Bulls | Boston Celtics | 7:30 PM | NBA League Pass | TD Garden, Boston, MA | Home 218; Away 96 |  |  |
+| 10/26/2026 | Dallas Mavericks | Miami Heat | 7:30 PM | NBA TV | Kaseya Center, Miami, FL | Home 219; Away ONLINE |  |  |
+| 10/26/2026 | **Indiana Pacers** | Milwaukee Bucks | 8:00 PM | NBA League Pass | Fiserv Forum, Milwaukee, WI | Home 220; Away ONLINE |  |  |
+| 10/26/2026 | Phoenix Suns | Oklahoma City Thunder | 8:00 PM | NBA League Pass | Paycom Center, Oklahoma City, OK | Home 221; Away ONLINE |  |  |
+| 10/26/2026 | Atlanta Hawks | Houston Rockets | 8:30 PM | NBA League Pass | Toyota Center (Houston), Houston, TX | Home 222; Away ONLINE |  |  |
+| 10/26/2026 | Memphis Grizzlies | Utah Jazz | 9:00 PM | NBA League Pass | Delta Center, Salt Lake City, UT | Home 85; Away ONLINE |  |  |
+| 10/26/2026 | Golden State Warriors | Denver Nuggets | 10:00 PM | NBCSN | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
 
 ## MLB — Upcoming Week
-2026-10-19 to 2026-10-25  
+2026-10-20 to 2026-10-26  
 _All times ET_  
-
-### Monday October 19th
-
-| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/19/2026 | **Cleveland Guardians** | Tampa Bay Rays | 8:00 PM | TBS, TBS/truTV, truTV | Tropicana Field, St. Petersburg, Florida | Home 206 / 80 / 24 / 365; Away 205 / 80 |  |  |
-
-### Tuesday October 20th
-
-| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/20/2026 | **Cleveland Guardians** | Tampa Bay Rays | 8:00 PM | TBS, TBS/truTV, truTV | Tropicana Field, St. Petersburg, Florida | Home 206 / 80; Away 205 / 80 |  |  |
 
 ### Friday October 23rd
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/23/2026 | Rays/Guardians | Milwaukee Brewers | 8:00 PM | Fox | American Family Field, Milwaukee, Wisconsin |  |  |  |
+| 10/23/2026 | Tampa Bay Rays | Milwaukee Brewers | 8:00 PM | Fox | American Family Field, Milwaukee, Wisconsin |  |  |  |
 
 ### Saturday October 24th
 
 | Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/24/2026 | Rays/Guardians | Milwaukee Brewers | 8:00 PM | Fox | American Family Field, Milwaukee, Wisconsin |  |  |  |
+| 10/24/2026 | Tampa Bay Rays | Milwaukee Brewers | 8:00 PM | Fox | American Family Field, Milwaukee, Wisconsin |  |  |  |
+
+### Monday October 26th
+
+| Date | Away | Home | First Pitch (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/26/2026 | Milwaukee Brewers | Tampa Bay Rays | 8:00 PM | Fox | Tropicana Field, St. Petersburg, Florida |  |  |  |
 
 ## MLS — Upcoming Week
-2026-10-19 to 2026-10-25  
+2026-10-20 to 2026-10-26  
 _All times ET_  
 
 ### Wednesday October 21st
@@ -238,14 +269,8 @@ _All times ET_
 | 10/25/2026 | LA Galaxy | LAFC | 9:00 PM | Apple TV | BMO Stadium, Los Angeles, California | Home 95 |  |  |
 
 ## Premier League — Upcoming Week
-2026-10-19 to 2026-10-25  
+2026-10-20 to 2026-10-26  
 _All times ET_  
-
-### Monday October 19th
-
-| Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/19/2026 | Coventry City | Tottenham Hotspur | 3:00 PM | USA Net, Universo | Tottenham Hotspur Stadium, London | Home 188; Away 188 |  |  |
 
 ### Friday October 23rd
 
