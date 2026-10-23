@@ -3,31 +3,7 @@
     "url": "https://www.siriusxm.com/sports/nba",
     "status": 200,
     "content_type": "text/html; charset=utf-8",
-    "length": 317154
-  },
-  {
-    "url": "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
-    "status": 200,
-    "content_type": "text/javascript",
-    "length": 165701
-  },
-  {
-    "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 60277
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/launch-fa4d8a34177c.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 445890
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3q7eiftcr7rbc.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 72448
+    "length": 419741
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/19zjreyz125wo.css",
@@ -42,10 +18,10 @@
     "length": 112671
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0ryuffj26y690.css",
+    "url": "https://www.siriusxm.com/_next/static/chunks/3q7eiftcr7rbc.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
-    "length": 43502
+    "length": 72448
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/0hr4ajusyzl56.css",
@@ -60,6 +36,18 @@
     "length": 107828
   },
   {
+    "url": "https://www.siriusxm.com/_next/static/chunks/0ryuffj26y690.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 43502
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 60277
+  },
+  {
     "url": "https://www.siriusxm.com/_next/static/chunks/1uhrf08sycd0r.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
@@ -70,6 +58,12 @@
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
     "length": 120880
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/18rewop40_d8d.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 118305
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/1n-q3diq294g4.css",
@@ -108,28 +102,16 @@
     "length": 576
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2ofegzq1_712-.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 5878
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/15v3heiv2m73t.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 4441
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/18rewop40_d8d.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 118305
-  },
-  {
     "url": "https://www.siriusxm.com/_next/static/chunks/1o6egajuc2pde.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
     "length": 2363
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/2ofegzq1_712-.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 5878
   },
   {
     "url": "https://www.siriusxm.com/ns/optimizations/ot/OneTrustCookieConsolidator.v1.0.min.js",
@@ -142,6 +124,18 @@
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
     "length": 1447
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/15v3heiv2m73t.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 4441
+  },
+  {
+    "url": "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "length": 165701
   },
   {
     "url": "https://www.siriusxm.com/app-download/fonts/geist/Geist-Regular.woff2",
@@ -162,12 +156,6 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/app-download/fonts/geist/Geist-Black.woff2",
-    "status": 200,
-    "content_type": "font/woff2",
-    "length": 0
-  },
-  {
     "url": "https://www.siriusxm.com/content/dam/sxm-com/hero-background/sports/NBA-court-hero-background.jpg",
     "status": 200,
     "content_type": "image/jpeg",
@@ -180,22 +168,22 @@
     "length": 1793
   },
   {
+    "url": "https://www.siriusxm.com/app-download/fonts/geist/Geist-Black.woff2",
+    "status": 200,
+    "content_type": "font/woff2",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/launch-fa4d8a34177c.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 445890
+  },
+  {
     "url": "https://www.siriusxm.com/_next/static/chunks/3dh0radjukhxw.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
     "length": 12724
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/turbopack-1r2--12v6_ixg.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 10250
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2ys1scj5a7m_7.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 162846
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/10e9dg7m1zza0.js",
@@ -204,34 +192,10 @@
     "length": 28084
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3jmhrmqud4utw.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/turbopack-1r2--12v6_ixg.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 49585
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2j33yjlks0tdo.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 26882
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3j55mxgk0vurk.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 49629
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/04e4_urbj_bcu.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 47055
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/14_adf0014afz.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 54619
+    "length": 10250
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/1cst4-4_tdx0j.js",
@@ -240,70 +204,10 @@
     "length": 34348
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2jsjy15i_in1h.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 49782
-  },
-  {
     "url": "https://www.siriusxm.com/_next/static/chunks/372pkbknzvo60.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
     "length": 32976
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/OKCThunder_Primary_Icon_rgb.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 9107
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/DNuggets_Primary_Icon_rgb.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 2929
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/icons/sports/AddtoCalendar.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 1096
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/CCavaliers_Primary_Icon_rgb.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 5196
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0o-0oaewqc29p.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 102499
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0mt-0rigjn623.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 39644
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-NBA-Radio/SiriusXMNBARadio-126-500x400-P.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 7660
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/P76ers_Primary_Icon_rgb.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 3346
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/1c3piek4tbpwd.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 99513
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/0sg2irux0wayl.js",
@@ -312,16 +216,28 @@
     "length": 35384
   },
   {
-    "url": "https://www.siriusxm.com/ns/cms/static/global/widget/ui-nav/sxm-ui-navigation.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1962359
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/1jt353qm0dap0.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/2ys1scj5a7m_7.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 181641
+    "length": 162846
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/0mt-0rigjn623.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 39644
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/04e4_urbj_bcu.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 47055
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/2j33yjlks0tdo.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 26882
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/3wuteqbir82l0.js",
@@ -330,10 +246,100 @@
     "length": 228387
   },
   {
+    "url": "https://www.siriusxm.com/_next/static/chunks/1c3piek4tbpwd.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 99513
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/3j55mxgk0vurk.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 49629
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/2jsjy15i_in1h.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 49782
+  },
+  {
     "url": "https://www.siriusxm.com/_next/static/chunks/0rnedq2yzaot-.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
     "length": 132515
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/3jmhrmqud4utw.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 49585
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/14_adf0014afz.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 54619
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/1jt353qm0dap0.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 181641
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/0o-0oaewqc29p.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 102499
+  },
+  {
+    "url": "https://www.siriusxm.com/ns/cms/static/global/widget/ui-nav/sxm-ui-navigation.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1962359
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-NBA-Radio/SiriusXMNBARadio-126-500x400-P.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 7660
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/TRaptors_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 10001
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/MBucks_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 5389
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/NOPelicans_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 15246
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/SKings_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 3801
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/CHornets_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 9525
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/OrlandoMagic-126-500x400-P.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 7806
   },
   {
     "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL3Nwb3J0cy10YWxrL21hZC1kb2ctcmFkaW8vTWFkLURvZy0xNng5LmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjYwMCwiaGVpZ2h0IjozMzh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
@@ -342,15 +348,189 @@
     "length": 0
   },
   {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/MHeat_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 6661
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/LALakers_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 25470
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/CBulls_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 11426
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/icons/sports/AddtoCalendar.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 1096
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/DPistons_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 5668
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/minnesota-timberwolves/MinnesotaTimberwolves-126-500x400-P.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 11537
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/WWizards_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 3204
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/PTrailBlazers_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 2181
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/UtahJazz-126-500x400-P.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 3601
+  },
+  {
     "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL25iYS9TWE1OQkFSYWRpby0xNng5LUNFQ00tMzY5MDItdjEuanBnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6NjAwLCJoZWlnaHQiOjMzOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
     "content_type": "image/avif",
     "length": 0
   },
   {
-    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=horiz0;cat=sxmsp0;u13=https://www.siriusxm.com/sports/nba;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=7332892786578.419?",
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/BCeltics_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 37431
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/GoldenStateWarriors-127-500x400-N.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 9012
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/IndianaPacers-126-500x400-P.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 6943
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/NYKnicks_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 7493
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/AHawks_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 1919
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/la-clippers/LAClippers-126-500x400-P.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 9917
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/houston-rockets/HoustonRockets-126-500x400-P.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 8621
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/SASpurs_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 2319
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/MGrizzlies_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 3397
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/nba/DMavericks_Primary_Icon_rgb.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 12203
+  },
+  {
+    "url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 3284
+  },
+  {
+    "url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 36178
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCa49be69f0b79440d86fc2095dac20537-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1047
+  },
+  {
+    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=horiz0;cat=sxmsp0;u13=https://www.siriusxm.com/sports/nba;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=6864894575581.684?",
     "status": 302,
     "content_type": "text/html; charset=UTF-8",
+    "length": 0
+  },
+  {
+    "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 46138
+  },
+  {
+    "url": "https://static.ads-twitter.com/uwt.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 62052
+  },
+  {
+    "url": "https://cdn.cookielaw.org/consent/a94ca794-e01f-45f7-a5c0-0cae5107e46e/a94ca794-e01f-45f7-a5c0-0cae5107e46e.json",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 5194
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi8xZi8xZjI2Zjg2MDU2ODgzNDg1Yjc1OGU3NzNkYTE0NjM1Y18xNzg1NzI2MDM5LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1792766626715",
+    "status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "length": 185
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMTUvMTU0MzY0ZWEwOWM0NWU5ODBkYmQ0M2RkYjU5NWIyMzlfMTY5OTM2NjY4MC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
     "length": 0
   },
   {
@@ -366,67 +546,43 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "url": "https://cdn.evgnet.com/beacon/siriusxmradioinc/prod_us/scripts/evergage.min.js",
     "status": 200,
-    "content_type": "image/avif",
-    "length": 0
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 260607
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwLCJoZWlnaHQiOjEwMH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "url": "https://www.siriusxm.com/_next/static/chunks/3xj34r_va4996.js",
     "status": 200,
-    "content_type": "image/avif",
-    "length": 0
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 526962
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL25mbC9DaEVudC1ORkxCYWxsMi0xeDEtNjQwLUNFQ00tMzIxMzUtdjIuanBnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6NDUwLCJoZWlnaHQiOjQ1MH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "url": "https://sierra.chat/agent/nulaz9wBijgxP-EBkS6Nez8dnG3Z2ycudo9sHsEgwGA/sxm",
     "status": 200,
-    "content_type": "image/avif",
-    "length": 0
+    "content_type": "application/javascript",
+    "length": 7554
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi82Mi82MjNlOGIwNDQ3YjIzMDJjOWU4ZTUxZWE2YzMwMDI0MF8xNzgyMDU0MTQ0LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "url": "https://cdn.quantummetric.com/qscripts/quantum-siriusxm.js",
     "status": 200,
-    "content_type": "image/avif",
-    "length": 0
+    "content_type": "text/javascript",
+    "length": 359726
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi8xZi8xZjI2Zjg2MDU2ODgzNDg1Yjc1OGU3NzNkYTE0NjM1Y18xNzg1NzI2MDM5LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC7401b0f0a1614681bae0c0cff51ba0b7-source.min.js",
     "status": 200,
-    "content_type": "image/avif",
-    "length": 0
+    "content_type": "application/x-javascript",
+    "length": 530
+  },
+  {
+    "url": "https://www.siriusxm.com/resources/js/analytics.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 7994
   },
   {
     "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNWMvNWM2MmFjNDFmNDg2Yzc0OGE2YzU1MmI1Yzk0ZmQxMjFfMTczOTIwMzIxNy5wbmciLCJlZGl0cyI6W3sicmVzaXplIjp7IndpZHRoIjoxMjgsImhlaWdodCI6MTI4fX0seyJmb3JtYXQiOnsidHlwZSI6ImF2aWYifX1dfQ==",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi83Yi83YjJmOTMzZjQ4NjMzOWU3YjViNjY4MjM0MjFlODRkZV8xNzgyMTg2NTU2LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9jYWxsLWhlci1kYWRkeS9DYWxsSGVyRGFkeVBvZGNhc3RGUE8uanBlZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMGMvMGMzZjM0ZjgyZDdlYzk5MGM1ZGVkZDE1MGM1OWIzNmRfMTcxOTUwMzE2OS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi8yNC8yNDdkNzJjZWNhNDUzMmYwODM4YTExOTViNGQxMjEzOF8xNzU0MDM1NDUzLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9yb3R0ZW4vcm90dGVuLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
     "status": 200,
     "content_type": "image/avif",
     "length": 0
@@ -438,7 +594,37 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMTUvMTU0MzY0ZWEwOWM0NWU5ODBkYmQ0M2RkYjU5NWIyMzlfMTY5OTM2NjY4MC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi82Ni82NjliNjZmNzM0MWIzYzYyYTI2MDk1YTk3ZmQ5OGI2MV8xNzgzMTEyNzI4LmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9yb3R0ZW4vcm90dGVuLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMGMvMGMzZjM0ZjgyZDdlYzk5MGM1ZGVkZDE1MGM1OWIzNmRfMTcxOTUwMzE2OS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/banners/Google_Play_Store_badge_EN.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 7145
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi83Yi83YjJmOTMzZjQ4NjMzOWU3YjViNjY4MjM0MjFlODRkZV8xNzgyMTg2NTU2LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwLCJoZWlnaHQiOjEwMH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
     "content_type": "image/avif",
     "length": 0
@@ -450,88 +636,40 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi82Ni82NjliNjZmNzM0MWIzYzYyYTI2MDk1YTk3ZmQ5OGI2MV8xNzgzMTEyNzI4LmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/banners/Download_on_the_App_Store_Badge.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 12353
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi82Mi82MjNlOGIwNDQ3YjIzMDJjOWU4ZTUxZWE2YzMwMDI0MF8xNzgyMDU0MTQ0LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
     "status": 200,
     "content_type": "image/avif",
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3xj34r_va4996.js",
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL25mbC9DaEVudC1ORkxCYWxsMi0xeDEtNjQwLUNFQ00tMzIxMzUtdjIuanBnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6NDUwLCJoZWlnaHQiOjQ1MH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 526962
+    "content_type": "image/avif",
+    "length": 0
   },
   {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCa49be69f0b79440d86fc2095dac20537-source.min.js",
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi8yNC8yNDdkNzJjZWNhNDUzMmYwODM4YTExOTViNGQxMjEzOF8xNzU0MDM1NDUzLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
     "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1047
+    "content_type": "image/avif",
+    "length": 0
   },
   {
-    "url": "https://static.ads-twitter.com/uwt.js",
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9jYWxsLWhlci1kYWRkeS9DYWxsSGVyRGFkeVBvZGNhc3RGUE8uanBlZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
     "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 62052
+    "content_type": "image/avif",
+    "length": 0
   },
   {
-    "url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js",
+    "url": "https://9170879.fls.doubleclick.net/activityi;dc_pre=CKTa1o-w0JcDFQ7JuAgdFNQz0A;src=9170879;type=horiz0;cat=sxmsp0;u13=https://www.siriusxm.com/sports/nba;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=6864894575581.684?",
     "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 3284
-  },
-  {
-    "url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 36178
-  },
-  {
-    "url": "https://sierra.chat/agent/nulaz9wBijgxP-EBkS6Nez8dnG3Z2ycudo9sHsEgwGA/sxm",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 7554
-  },
-  {
-    "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 46138
-  },
-  {
-    "url": "https://www.siriusxm.com/resources/js/analytics.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 7994
-  },
-  {
-    "url": "https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1792681544854",
-    "status": 200,
-    "content_type": "application/json;charset=utf-8",
-    "length": 185
-  },
-  {
-    "url": "blob:https://www.siriusxm.com/ecb64fab-5c30-4770-83ee-5d9f8f51e2a0",
-    "status": 200,
-    "content_type": "",
-    "length": 25136
-  },
-  {
-    "url": "https://cdn.evgnet.com/beacon/siriusxmradioinc/prod_us/scripts/evergage.min.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 260607
-  },
-  {
-    "url": "https://cdn.quantummetric.com/qscripts/quantum-siriusxm.js",
-    "status": 200,
-    "content_type": "text/javascript",
-    "length": 313268
-  },
-  {
-    "url": "https://www.siriusxm.com/ns/cms/static/global/widget/ui-nav/sxm-ui-navigation.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1962359
+    "content_type": "text/html; charset=UTF-8",
+    "length": 623
   },
   {
     "url": "https://www.siriusxm.com/api/mountain/2lbIj4IXq7gEwj0F3sCkhG",
@@ -540,64 +678,28 @@
     "length": 288
   },
   {
-    "url": "https://cdn.cookielaw.org/consent/a94ca794-e01f-45f7-a5c0-0cae5107e46e/a94ca794-e01f-45f7-a5c0-0cae5107e46e.json",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 5194
-  },
-  {
     "url": "https://www.googletagmanager.com/gtag/js?id=G-Q5DE4FXP41&l=dataLayer",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 528576
+    "length": 529002
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/banners/Download_on_the_App_Store_Badge.svg",
+    "url": "https://www.siriusxm.com/ns/cms/static/global/widget/ui-nav/sxm-ui-navigation.js",
     "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 12353
+    "content_type": "application/x-javascript",
+    "length": 1962359
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/banners/Google_Play_Store_badge_EN.svg",
+    "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
     "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 7145
+    "content_type": "application/json",
+    "length": 66
   },
   {
-    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=13600472477082825495;_dc_ptd=ChAI8Ojm1gYQ4Je1yvWE5M4zEh8ACL6xfgblIvVNbJ7CEj0WEqvmqcVcVafmISOdSg4Z;_dc_time=1792681545;dc_pre=CPChvZXzzZcDFcSoOgUdfsg0qQ;src=9170879;type=horiz0;cat=sxmsp0;u13=https://www.siriusxm.com/sports/nba;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=7332892786578.419?",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://9170879.fls.doubleclick.net/activityi;dc_pre=CPChvZXzzZcDFcSoOgUdfsg0qQ;src=9170879;type=horiz0;cat=sxmsp0;u13=https://www.siriusxm.com/sports/nba;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=7332892786578.419?",
-    "status": 200,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 624
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/aN4VmmvZx5M2B-XmmdjkeaMjbcU.js",
+    "url": "https://sierra.chat/-/cdn/ORXxfFAXdq_UAftXnwVSw-iCvBM.js",
     "status": 200,
     "content_type": "application/javascript",
-    "length": 12640
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/lgrTdLOh-1PJUw7UetIS6FbNEBs.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 17731
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/1wb8Q7ZvPRCfYRSD0fj7sXXoWXo.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 1331
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/dViwhTHc2Gb9fVmOLfuvcN5rgOM.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 9232
+    "length": 7720
   },
   {
     "url": "https://sierra.chat/-/cdn/WDDNt5vvyww7L0kPjSrb4h4q1d4.js",
@@ -606,16 +708,46 @@
     "length": 2103
   },
   {
-    "url": "https://sierra.chat/-/cdn/FrXDeoYFf4-Wcxgi7q7vkrMCBCk.js",
+    "url": "https://sierra.chat/-/cdn/dViwhTHc2Gb9fVmOLfuvcN5rgOM.js",
     "status": 200,
     "content_type": "application/javascript",
-    "length": 884
+    "length": 9232
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/aN4VmmvZx5M2B-XmmdjkeaMjbcU.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 12640
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/1wb8Q7ZvPRCfYRSD0fj7sXXoWXo.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 1331
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/lgrTdLOh-1PJUw7UetIS6FbNEBs.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 17731
   },
   {
     "url": "https://sierra.chat/-/cdn/xDOkhtrXRmUoVw9Q39TJHT-Uf_I.js",
     "status": 200,
     "content_type": "application/javascript",
     "length": 1308
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/FrXDeoYFf4-Wcxgi7q7vkrMCBCk.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 884
+  },
+  {
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=9284803007549984228;_dc_ptd=ChAI8Ivs1gYQsuOyv970u4VDEh8AMw3lM0ETtK5o2imxS69XlIXsZd4vIdJqERPOSN2R;_dc_time=1792766626;dc_pre=CKTa1o-w0JcDFQ7JuAgdFNQz0A;src=9170879;type=horiz0;cat=sxmsp0;u13=https://www.siriusxm.com/sports/nba;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=6864894575581.684?",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
   },
   {
     "url": "https://sierra.chat/-/cdn/_ONj_ytE-6KwSFNmHWe9Ut6rwKg.js",
@@ -630,12 +762,6 @@
     "length": 80465
   },
   {
-    "url": "https://sierra.chat/-/cdn/ORXxfFAXdq_UAftXnwVSw-iCvBM.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 7720
-  },
-  {
     "url": "https://sierra.chat/-/cdn/K-yX_wYXJr6zK7WoDKpr8aRR01s.js",
     "status": 200,
     "content_type": "application/javascript",
@@ -648,16 +774,22 @@
     "length": 213368
   },
   {
-    "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 71
-  },
-  {
     "url": "https://sierra.chat/-/cdn/rWMzmkdDR-D4RRp9BhfVm1N7NYc.js",
     "status": 200,
     "content_type": "application/javascript",
     "length": 461247
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/otBannerSdk.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 511525
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/mv93itp7uEOSmolYmFJa9w6yp0o.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 470203
   },
   {
     "url": "https://sierra.chat/-/cdn/dh7mUyELRTrsZ_9pZ2ekvjr9y3w.js",
@@ -670,12 +802,6 @@
     "status": 200,
     "content_type": "application/json; charset=utf-8",
     "length": 22
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/mv93itp7uEOSmolYmFJa9w6yp0o.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 470203
   },
   {
     "url": "https://api.edge-gateway.siriusxm.com/device/v1/devices",
@@ -702,18 +828,6 @@
     "length": 22
   },
   {
-    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/otBannerSdk.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 511525
-  },
-  {
-    "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
-    "status": 200,
-    "content_type": "application/json; charset=utf-8",
-    "length": 22
-  },
-  {
     "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
     "status": 200,
     "content_type": "application/json; charset=utf-8",
@@ -723,31 +837,13 @@
     "url": "https://api.edge-gateway.siriusxm.com/session/v1/sessions/anonymous",
     "status": 200,
     "content_type": "application/json",
-    "length": 1277
-  },
-  {
-    "url": "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=ed5400ec-0d8c-428b-9274-e71757435d46&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6a710815-a558-4013-8fa7-b980fe22b0e2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792681546062-91649219&tw_session_start=1&twpid=tw.1792681546062.383444129675389048&txn_id=o37dn&type=javascript&version=2.4.12",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=ed5400ec-0d8c-428b-9274-e71757435d46&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6a710815-a558-4013-8fa7-b980fe22b0e2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792681546062-91649219&tw_session_start=1&twpid=tw.1792681546062.383444129675389048&txn_id=o37dn&type=javascript&version=2.4.12",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
+    "length": 1214
   },
   {
     "url": "https://api.edge-gateway.siriusxm.com/session/v1/sessions/anonymous",
     "status": 200,
     "content_type": "application/json",
-    "length": 1235
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC7401b0f0a1614681bae0c0cff51ba0b7-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 530
+    "length": 1256
   },
   {
     "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
@@ -756,34 +852,28 @@
     "length": 22
   },
   {
-    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=hf70aa0&cookie_sync=1&upv=3.0.0&upid=wabf9tv&ref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba",
-    "status": 302,
-    "content_type": "text/html",
+    "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "length": 22
+  },
+  {
+    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=c96d05a0-edcf-4051-8365-6a6ef2ad13da&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d4720ae7-fa04-4348-a107-86ce0096dff2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792766628067-76316820&tw_session_start=1&twpid=tw.1792766628067.978864954894134914&txn_id=o37dn&type=javascript&version=2.4.12",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://match.adsrvr.org/track/cei?advertiser_id=hf70aa0&cookie_sync=1&upv=3.0.0&upid=wabf9tv&ref=https%3a%2f%2fwww.siriusxm.com&redirect=1",
+    "url": "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=c96d05a0-edcf-4051-8365-6a6ef2ad13da&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d4720ae7-fa04-4348-a107-86ce0096dff2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792766628067-76316820&tw_session_start=1&twpid=tw.1792766628067.978864954894134914&txn_id=o37dn&type=javascript&version=2.4.12",
     "status": 200,
-    "content_type": "text/html",
-    "length": 1247
-  },
-  {
-    "url": "https://js.adsrvr.org/universal_pixel.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 482
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/d",
-    "status": 200,
-    "content_type": null,
+    "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://match.sharethrough.com/sync/v1?source_id=5b286190338513af73f09c28&source_user_id=d76e6e7f-1e39-4546-9af6-cc014b0f377f",
+    "url": "https://siriusxmradioinc.us-6.evergage.com/api2/event/prod_us?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJMZWFndWUgUGFnZSIsInVybCI6Imh0dHBzOi8vd3d3LnNpcml1c3htLmNvbS9zcG9ydHMvbmJhIiwidXJsUmVmZXJyZXIiOiIiLCJjaGFubmVsIjoiV2ViIiwiYmVhY29uVmVyc2lvbiI6MTYsImNvbmZpZ1ZlcnNpb24iOiIzODYiLCJjb250ZW50Wm9uZXMiOlsiY2FfaW5mb2Jhcl90b3Bfb2ZfcGFnZSIsImNhX2luZm9iYXJfYWNjb3VudGNlbnRlcl9sb2dpbiIsIlRhYiBMaXN0IiwiR2xvYmFsIE5hdiBUZXN0IiwiUHJpbWFyeSBQYWNrYWdlIENhcmQgT2ZmZXIiXX0sInVzZXIiOnsiYW5vbnltb3VzSWQiOiI0YmJmMzg5MmMzZjA0NTE0IiwiaWRlbnRpdGllcyI6e30sImF0dHJpYnV0ZXMiOnt9fSwiaW50ZXJhY3Rpb24iOnsibmFtZSI6IlZpZXcgQ2F0YWxvZyBPYmplY3QiLCJjYXRhbG9nT2JqZWN0Ijp7InR5cGUiOiJMZWFndWUiLCJpZCI6Ik5CQSIsImF0dHJpYnV0ZXMiOnsibmFtZSI6Ik5CQSIsInVybCI6Imh0dHBzOi8vd3d3LnNpcml1c3htLmNvbS9zcG9ydHMvbmJhIiwiaW1hZ2VVcmwiOiJodHRwczovL3d3dy5zaXJpdXN4bS5jb20vY29udGVudC9kYW0vc3htLWNvbS9sb2dvcy9zeG0vU1hNR2VuZXJpYy1PcGVuR3JhcGgtdjEuanBnIiwiZGVzY3JpcHRpb24iOiJOZXZlciBtaXNzIGEgYmFza2V0YmFsbCBnYW1lIGFnYWluISBMaXZlIE5CQSBnYW1lcywgZXZlcnkgZGF5LiJ9fX0sInBhZ2VWaWV3Ijp0cnVlLCJjb25zZW50cyI6W10sImFjY291bnQiOnt9LCJfdG9vbHNFdmVudExpbmtJZCI6IjYxODQ5MTkxMzI1MjM3MzEiLCJleHBsYWluIjp0cnVlfQ%3D%3D",
     "status": 200,
-    "content_type": "image/png",
-    "length": 0
+    "content_type": "application/json;charset=UTF-8",
+    "length": 137
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCd14bbfe5793148748e8a012912e7e0ea-source.min.js",
@@ -792,40 +882,22 @@
     "length": 767
   },
   {
-    "url": "https://secure-gl.imrworldwide.com/cgi-bin/m?ci=tradedesk&cg=d76e6e7f-1e39-4546-9af6-cc014b0f377f",
+    "url": "https://ingest.quantummetric.com/horizon/d",
     "status": 200,
-    "content_type": "image/gif",
+    "content_type": null,
     "length": 0
   },
   {
-    "url": "https://browser-intake-datadoghq.com/api/v2/replay?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=ca0e6ab1-0909-49bf-a5b7-ad861c0102a7",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
+    "url": "https://siriusxmradioinc.us-6.evergage.com/pr?.top=409&item=%7B%22type%22%3A%22League%22%2C%22_id%22%3A%22NBA%22%7D&action=View%20Catalog%20Object&.tt=128&.ttdns=2&.dt=484&.lt=1032&.btdns=2&.bv=16&_ak=siriusxmradioinc&_ds=prod_us&.scv=386&channel=Web&_r=315819&.anonId=4bbf3892c3f04514&_anon=true",
+    "status": 204,
+    "content_type": null,
+    "length": 0
   },
   {
-    "url": "https://www.googletagmanager.com/gtag/js?id=AW-1066622487&cx=c&gtm=4e6ak1",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 590023
-  },
-  {
-    "url": "https://www.googletagmanager.com/gtag/js?id=DC-9170879&cx=c&gtm=4e6ak1",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 421886
-  },
-  {
-    "url": "https://siriusxmradioinc.us-6.evergage.com/api2/event/prod_us?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJMZWFndWUgUGFnZSIsInVybCI6Imh0dHBzOi8vd3d3LnNpcml1c3htLmNvbS9zcG9ydHMvbmJhIiwidXJsUmVmZXJyZXIiOiIiLCJjaGFubmVsIjoiV2ViIiwiYmVhY29uVmVyc2lvbiI6MTYsImNvbmZpZ1ZlcnNpb24iOiIzODYiLCJjb250ZW50Wm9uZXMiOlsiY2FfaW5mb2Jhcl90b3Bfb2ZfcGFnZSIsImNhX2luZm9iYXJfYWNjb3VudGNlbnRlcl9sb2dpbiIsIlRhYiBMaXN0IiwiR2xvYmFsIE5hdiBUZXN0IiwiUHJpbWFyeSBQYWNrYWdlIENhcmQgT2ZmZXIiXX0sInVzZXIiOnsiYW5vbnltb3VzSWQiOiI0ODQxYjg4ZWY2ZDBlMGUzIiwiaWRlbnRpdGllcyI6e30sImF0dHJpYnV0ZXMiOnt9fSwiaW50ZXJhY3Rpb24iOnsibmFtZSI6IlZpZXcgQ2F0YWxvZyBPYmplY3QiLCJjYXRhbG9nT2JqZWN0Ijp7InR5cGUiOiJMZWFndWUiLCJpZCI6Ik5CQSIsImF0dHJpYnV0ZXMiOnsibmFtZSI6Ik5CQSIsInVybCI6Imh0dHBzOi8vd3d3LnNpcml1c3htLmNvbS9zcG9ydHMvbmJhIiwiaW1hZ2VVcmwiOiJodHRwczovL3d3dy5zaXJpdXN4bS5jb20vY29udGVudC9kYW0vc3htLWNvbS9sb2dvcy9zeG0vU1hNR2VuZXJpYy1PcGVuR3JhcGgtdjEuanBnIiwiZGVzY3JpcHRpb24iOiJOZXZlciBtaXNzIGEgYmFza2V0YmFsbCBnYW1lIGFnYWluISBMaXZlIE5CQSBnYW1lcywgZXZlcnkgZGF5LiJ9fX0sInBhZ2VWaWV3Ijp0cnVlLCJjb25zZW50cyI6W10sImFjY291bnQiOnt9LCJfdG9vbHNFdmVudExpbmtJZCI6IjA1NTMzNDc3NjA1ODkxMDAyIiwiZXhwbGFpbiI6dHJ1ZX0%3D",
-    "status": 200,
-    "content_type": "application/json;charset=UTF-8",
-    "length": 137
-  },
-  {
-    "url": "https://cdn.cookielaw.org/consent/a94ca794-e01f-45f7-a5c0-0cae5107e46e/019987be-da81-75ee-902e-b1dc56a7e4ef/en.json",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 140538
+    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=hf70aa0&cookie_sync=1&upv=3.0.0&upid=wabf9tv&ref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba",
+    "status": 302,
+    "content_type": "text/html",
+    "length": 0
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCd09af1cb32ab407f9e9820e0dbf0c629-source.min.js",
@@ -834,20 +906,116 @@
     "length": 2844
   },
   {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=0d71edd3-36a2-4137-b742-d95533943874&batch_time=1792681546255",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
+    "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=6bafefa3-cc20-47f3-bff7-8eaabd60d7b0&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
+    "status": 302,
+    "content_type": null,
+    "length": 0
   },
   {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=9c218936-928e-48bf-b100-9ff865d0d2b8&batch_time=1792681546281",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
+    "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=6bafefa3-cc20-47f3-bff7-8eaabd60d7b0",
+    "status": 307,
+    "content_type": "text/html; charset=utf-8",
+    "length": 0
   },
   {
-    "url": "https://siriusxmradioinc.us-6.evergage.com/pr?.top=269&item=%7B%22type%22%3A%22League%22%2C%22_id%22%3A%22NBA%22%7D&action=View%20Catalog%20Object&.tt=242&.ttdns=4&.dt=679&.lt=868&.btdns=13&.bv=16&_ak=siriusxmradioinc&_ds=prod_us&.scv=386&channel=Web&_r=095341&.anonId=4841b88ef6d0e0e3&_anon=true",
+    "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=903&dpuuid=6bafefa3-cc20-47f3-bff7-8eaabd60d7b0&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
+    "status": 302,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=6bafefa3-cc20-47f3-bff7-8eaabd60d7b0&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
+    "status": 302,
+    "content_type": "text/html",
+    "length": 0
+  },
+  {
+    "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3D6bafefa3-cc20-47f3-bff7-8eaabd60d7b0",
+    "status": 302,
+    "content_type": "text/html; charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-1066622487&cx=c&gtm=4e6al1",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 590513
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=DC-9170879&cx=c&gtm=4e6al1",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 422294
+  },
+  {
+    "url": "https://cdn.cookielaw.org/consent/a94ca794-e01f-45f7-a5c0-0cae5107e46e/019987be-da81-75ee-902e-b1dc56a7e4ef/en.json",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 140538
+  },
+  {
+    "url": "https://match.adsrvr.org/track/cei?advertiser_id=hf70aa0&cookie_sync=1&upv=3.0.0&upid=wabf9tv&ref=https%3a%2f%2fwww.siriusxm.com&redirect=1",
+    "status": 200,
+    "content_type": "text/html",
+    "length": 1349
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC239abf77723141ae9c0f9e452ac13259-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1824
+  },
+  {
+    "url": "https://js.adsrvr.org/universal_pixel.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 482
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-808791726&cx=c&gtm=4e6al1",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 510420
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1792766628981&cv=11&fst=1792766628981&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=12&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 6778
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1792766628981&cv=11&fst=1792766628981&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=12&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=1&auid=1035546127.1792766629&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=1137400393.1792766629&navt=n&npa=0&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792766629016&tfd=3640&tids=AW-1066622487&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=0&auid=1035546127.1792766629&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=1137400393.1792766629&navt=n&npa=0&_tu=AAI&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792766629018&tfd=3641&tids=AW-1066622487&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6al1v873651601za208zb869737875zd869737875xf1&_p=1792766626733&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=489125179.1792766629&frm=0&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792766629&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=3634",
     "status": 204,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1035546127.1792766629&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&fmt=8",
+    "status": 204,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=0&auid=1035546127.1792766629&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tid=DC-9170879&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=1137400393.1792766629&navt=n&npa=0&gtm=45fe6al1v9181637395za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792766629124&tfd=3748&tids=DC-9170879&fmt=8",
+    "status": 200,
     "content_type": null,
     "length": 0
   },
@@ -858,10 +1026,10 @@
     "length": 70088
   },
   {
-    "url": "https://www.googletagmanager.com/gtag/js?id=AW-808791726&cx=c&gtm=4e6ak1",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otFlat.json",
     "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 509930
+    "content_type": "application/json",
+    "length": 15345
   },
   {
     "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otCommonStyles.css",
@@ -870,22 +1038,34 @@
     "length": 26228
   },
   {
-    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otFlat.json",
+    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=aam",
     "status": 200,
-    "content_type": "application/json",
-    "length": 15345
+    "content_type": "image/gif",
+    "length": 0
   },
   {
-    "url": "https://pixel.tapad.com/idsync/ex/receive?partner_id=1830&partner_device_id=d76e6e7f-1e39-4546-9af6-cc014b0f377f&partner_url=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dtapad",
-    "status": 403,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 134
+    "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
   },
   {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=2bd4fb0e-48d7-4691-a211-7c7e74c43e1a&batch_time=1792681546258",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
+    "url": "https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=6815696317816818953&ttd_tdid=6bafefa3-cc20-47f3-bff7-8eaabd60d7b0",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC25f0eacf86964870ac8f7f18c470198d-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 578
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1792766628981&cv=11&fst=1792764000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=12&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3N3IORjTUT8uwpHYcF2-UXHjT-wwkyE_IBYpJ4rj3drufS0caqBkg6R0akf77ML86lgj_0_h-YfdZmnKsPS2zcdh3_fw673OEb8OTLZsEM0D9N_YA0unm9W9EUmPDR5uVwZOeI_2oBYMsjBGBgSQ5mZDHy_Ij7q3IaTfQ-ghQ_Y-_OkAL5KPf8salULuG-QQ709oZLVH4y4c5ZOu_SaKmpFiEdalYON_vHKHpp8Mnk4TnLenvRY1MYNUX_x2TwV0owFyKUMfa35Q6PohsLHOF146a_HAfKuWa5-PeXbJ&random=1946839439&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
   },
   {
     "url": "https://cdn.cookielaw.org/logos/static/ot_close.svg",
@@ -900,178 +1080,40 @@
     "length": 5445
   },
   {
+    "url": "https://www.google.com/rmkt/collect/10933071182/?random=1792766629338&cv=11&fst=1792766629338&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=2&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
     "url": "https://cdn.cookielaw.org/logos/613d75ce-3c5b-4623-bcef-a0d3694b4214/bf4ae24d-5943-447c-b877-b2d51014c1d9/99f44d86-2f61-4b30-ac59-6bb3ee62db1c/SiriusXM-White.png",
     "status": 200,
     "content_type": "image/png",
     "length": 0
   },
   {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=4e85daea-17a5-4a9a-8eca-010a8a3da274&batch_time=1792681546571",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=db507672-99a5-4a96-968f-78f8104b188d&batch_time=1792681546260",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=48963a68-d40e-4529-94d6-a5571250d9e6&batch_time=1792681546261",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
-    "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 497
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=9da3d45e-bb40-4f4b-826f-6bbdc767e05d&batch_time=1792681546673",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=1f9169de-c27d-4190-857c-8e2e94eaeedb&batch_time=1792681546670",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=32730ee7-c52c-401e-b55a-9af903425855&batch_time=1792681546674",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792681546386&v=1792681546456&P=0&N=0&S=0&b=1562&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 90
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1792681546977&cv=11&fst=1792681546977&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=5&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=5&frm=0&apvc=1&auid=2034498433.1792681547&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=514158028.1792681547&navt=n&npa=0&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&tft=1792681547006&tfd=3372&tids=AW-1066622487&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=5&frm=0&apvc=0&auid=2034498433.1792681547&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=514158028.1792681547&navt=n&npa=0&_tu=AAI&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&tft=1792681547008&tfd=3374&tids=AW-1066622487&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6ak1v873651601za208zb869737875zd869737875xf1&_p=1792681544886&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=767611425.1792681547&frm=0&ngs=1&pscdl=noapi&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&sid=1792681546&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=3366",
-    "status": 204,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=2034498433.1792681547&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&fmt=8",
-    "status": 204,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1792681546977&cv=11&fst=1792681546977&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=5&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10933071182/?random=1792766629338&cv=11&fst=1792766629338&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=2&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
     "status": 200,
     "content_type": "text/javascript; charset=UTF-8",
-    "length": 6796
+    "length": 6778
   },
   {
-    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1792681546977&cv=11&fst=1792681200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=5&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3HH_RK3YLohsU8fZI8HlCUQ_Cfl8eLMie09vGxyUqRRCol46t3_UxlQzflxdNYRdLfl-dhOAbEx2l1F2jffVgIbTNietpJaMcMugVz5aHVRSPhmVkXA04LZ7RmO02wpt-6ZSL0TXVH48S3zYFw6bXoA2eeGRwhwRskgMfEjLU4o4gCLtMsDvmH5tU4pYwy90HZPpfO0DRBhWXhAU3JVDC1uojqa0J7UAYWeLHaEDomueL7nXWakxdNkEujfOLZTPXO0KS9MfhJDIeNNGe5xA4itXfAwyne2TfEBOOkM&random=3162090722&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792681546386&v=1792681546683&H=4a26da6ac877ffcc75eafb3f&s=eb0e8b3469674699b56e9b8a63e7a8b8&U=738452fb793f5e34e703d0ae530d7930&N=0&Q=2&S=0&b=4174&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792681546386&v=1792681546683&H=4a26da6ac877ffcc75eafb3f&s=eb0e8b3469674699b56e9b8a63e7a8b8&P=1&N=1&S=0&b=4460&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792681546386&v=1792681546675&H=4a26da6ac877ffcc75eafb3f&s=eb0e8b3469674699b56e9b8a63e7a8b8&U=738452fb793f5e34e703d0ae530d7930&Q=1&Y=1&X=af153b69df4a4e208828362c28c68666&S=0&b=249372&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=14&frm=0&apvc=0&auid=2034498433.1792681547&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tid=DC-9170879&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=514158028.1792681547&navt=n&npa=0&gtm=45fe6ak1v9181637395za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034&tft=1792681547174&tfd=3540&tids=DC-9170879&fmt=8",
+    "url": "https://www.google.com/rmkt/collect/808791726/?random=1792766629364&cv=11&fst=1792766629364&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=2&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
     "status": 200,
     "content_type": null,
     "length": 0
   },
   {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC239abf77723141ae9c0f9e452ac13259-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1824
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/10933071182/?random=1792681547269&cv=11&fst=1792681547269&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=4&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "url": "https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=0&auid=1035546127.1792766629&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tid=AW-10933071182&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=1137400393.1792766629&navt=n&npa=0&_tu=AAI&gtm=45be6al1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792766629388&tfd=4012&tids=AW-10933071182~AW-808791726&fmt=8",
     "status": 200,
     "content_type": null,
     "length": 0
   },
   {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10933071182/?random=1792681547269&cv=11&fst=1792681547269&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=4&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/808791726/?random=1792766629364&cv=11&fst=1792766629364&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=2&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
     "status": 200,
     "content_type": "text/javascript; charset=UTF-8",
-    "length": 6777
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/808791726/?random=1792681547295&cv=11&fst=1792681547295&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=4&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/808791726/?random=1792681547295&cv=11&fst=1792681547295&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=4&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 6775
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&apvc=0&auid=2034498433.1792681547&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tid=AW-10933071182&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=514158028.1792681547&navt=n&npa=0&_tu=AAI&gtm=45be6ak1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034&tft=1792681547315&tfd=3681&tids=AW-10933071182~AW-808791726&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC25f0eacf86964870ac8f7f18c470198d-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 578
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/10933071182/?random=1792681547269&cv=11&fst=1792681200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=4&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3N6Zd4CLBlKwJYepsFUiZletxxT-8RsAQK_BhlLvXOTCbIL5vHKgcVuJ_5ELFgJ0Co4V9-yYGoov46Kb1Rkoeve71bPb0EHSyCDGAeV00A1brbgUxa2rxGYVCxR-h_CPxMW1i0WkGAB1qS70IfiqBjLlYhzSemYnm8UWHxOc6kGj3GbUJEL7IlakppM3IdK5aqflZ_Byj0AC79yQakxaGhNhn526xiP5cza9q04xVE_hhK8bGYsiJpThyHaBC_mGzyjWO4ZUPDQwMtwNeVikdC4JBo3wDWuh-m5yo-I&random=1254162688&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/808791726/?random=1792681547295&cv=11&fst=1792681200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=4&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3PnjiZvzPoCmQ0tEFZ3iyLtE-rV25gvk_4_6H__NwLMF_wdIB-GYyEi2MGC4pncggDtyBRbU6qSQszbvwv1sIeegb1DaH-Y3aUkH_uKOZTEIawGGPU8B6O0vYFr8Z6WwIlAzgH2xXWMGhmSUBVhIE4Rc_nBQkQecncQiVrS2Ekwy3fqSWrhClBg_QtIrDlIt3qydOZ-Gn5ws50vXfI_jB7gcJs_EJXmrX9ysMrIutXQL2VeRyI_ViV20NKxKC9rhA7sy_VuKDe9mTlLy2gKgL9rQpar3NtQjBD2m8VY&random=3450209295&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
+    "length": 6776
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCfc8463f1d16f4ecfa0124913845311c4-source.min.js",
@@ -1080,10 +1122,34 @@
     "length": 2270
   },
   {
+    "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 497
+  },
+  {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC8d53d8d33e2f44589505fcbfdba4af56-source.min.js",
     "status": 200,
     "content_type": "application/x-javascript",
     "length": 615
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/10933071182/?random=1792766629338&cv=11&fst=1792764000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=2&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Bw4Pst1d2EyeUU6qymAwnK0m1m4ZJloQjJcgTLsP9qZw7mJyMfveN4vd09po0n7wg7Pj_aIAs0AKVey3wTpYXnqWQHObEBzlQtML5Dz12o5rjmPB__zovLr_RJwEpyXcvwGfxArOR_4A7F2PEU5lkiWBczkDcmUp8WpBOjxE03iOHRiYw83u9P6BMFGdbtwds8hY4FZzeeBQhXrN83BQH5aetwfRdmczsBmLPck2K24xeTjrv5N1lOLt7PvMdGQay2jhgWt21JLIYAiNhK1SRT6Aj1auVATuF1hStYR&random=2583921646&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/808791726/?random=1792766629364&cv=11&fst=1792764000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=2&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3PnB_ad6mE_a6zCeS8uDU3bTuXSc69z-JFDZYJqB-Ox2_M-bUCX7ax2ft76jatcN9Q-VeXUnp3ap7YWfggWcOvBJIphYbyowZ9LSy8jLGFDpLfyRM0BU36E3_oVyHytdSsB7CsVnQV96EwMz0x7921YaiOaKgdv_WSOLzbKT87676cYXvI40cHaMUuf4X0rDgT7rsuohl27aGcSCXEPIfQnrR2OKsDbn4LJbleRA9unjSgfWheIlE3jsApGf4UiCkXg2JNWmxNq8PaY43NIUEsx-hxx4dT_nSlMTd889&random=3080558360&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792766629173&v=1792766629178&P=0&N=0&S=0&b=6087&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 90
   },
   {
     "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=sitew0;cat=ix-dc0;u4=%PromoCode%;u9=%Page%20Name%20(processed)%;u13=%URL%20(non-PII)%;u14=%utm_source%;u15=%utm_medium%;u16=%utm_campaign%;u17=%utm_term%;u18=%UTM%20Segment%;ord=1;num=%axel%?",
@@ -1098,16 +1164,40 @@
     "length": 903
   },
   {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCba671f15b85048348ba88d98868d97c0-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 326
+  },
+  {
+    "url": "https://www.googleadservices.com/pagead/conversion.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 67303
+  },
+  {
     "url": "https://insight.adsrvr.org/track/realtimeconversion",
     "status": 200,
     "content_type": "application/json",
     "length": 36
   },
   {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCba671f15b85048348ba88d98868d97c0-source.min.js",
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792766629173&v=1792766629253&H=a572db6aabe582855887748a&s=62112f1aae75448892fbe0b68a2d4995&U=0e057b14c8ff577be17c280362ca2bbb&N=0&Q=2&S=0&b=7251&z=1",
     "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 326
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792766629173&v=1792766629255&H=a572db6aabe582855887748a&s=62112f1aae75448892fbe0b68a2d4995&U=0e057b14c8ff577be17c280362ca2bbb&Q=1&Y=1&X=70cdd08a6d4e4221a0cd08cf5cc304d7&S=0&b=312811&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792766629173&v=1792766629265&H=a572db6aabe582855887748a&s=62112f1aae75448892fbe0b68a2d4995&P=1&N=1&S=0&b=3655&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCf346fe7a6faf4885b9ab82f82a4434a9-source.min.js",
@@ -1119,13 +1209,7 @@
     "url": "https://connect.facebook.net/en_US/fbevents.js",
     "status": 200,
     "content_type": "application/x-javascript; charset=utf-8",
-    "length": 435054
-  },
-  {
-    "url": "https://www.googleadservices.com/pagead/conversion.js",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 67303
+    "length": 435232
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC85209933a4564d06ada419fe7fed9127-source.min.js",
@@ -1134,10 +1218,28 @@
     "length": 1653
   },
   {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1792766629783&cv=9&fst=1792766629783&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247839%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 6482
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792766629173&v=1792766629369&H=a572db6aabe582855887748a&s=62112f1aae75448892fbe0b68a2d4995&N=1&Q=2&S=7251&b=984&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
     "url": "https://c.hrzn-nxt.com/js/v2.12.0/connect.min.js",
     "status": 200,
     "content_type": "application/x-javascript",
     "length": 101519
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/1568087270153240?v=2.9.427&r=stable&domain=www.siriusxm.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "length": 373871
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC8299f7b8de9d4353ad652e7fe6b35445-source.min.js",
@@ -1146,10 +1248,10 @@
     "length": 595
   },
   {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1792681547521&cv=9&fst=1792681547521&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247838%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=4",
+    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1792766629783&cv=9&fst=1792764000000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247839%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3JP6GqYqf9CrleQM2_QNOJZkFDH0KMLkMx7nItoxoq7NnDHGDXEAuGeLKMNVwSbzGTurO3xLJY4iJXCYOJTjaJCyuvxvo37cCXaY4r14vDgdnJCZRWFVmNWdbkHncbBRe9QisMKM2HWngju0Yl0TAovHruJtR1-vQG6KwI3go3UzYyHynrKt2bzMHSgnAvJgBbv6PDQgGrB-fsT2B6S21aXXm2YjSsNsFaH1d4g2c3ZbHSlQGSQHPhf5Jsh-nSS-FqhdgLDlHZWOtGQh2IkDnak6WpIZz3f9v2fTsAwT&random=1365127685&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
     "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 6481
+    "content_type": "image/gif",
+    "length": 0
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC2a9cee0f04914d42b438482d84f74304-source.min.js",
@@ -1158,10 +1260,16 @@
     "length": 684
   },
   {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=9834c6ba-55f6-4867-ae91-1f837a50cb95&batch_time=1792681547398",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
+    "url": "https://connect.facebook.net/signals/config/1225677084239985?v=2.9.427&r=stable&domain=www.siriusxm.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C268%2C266%2C261%2C263%2C264%2C265%2C262%2C260%2C247%2C267%2C269%2C259%2C217%2C218%2C270%2C271%2C258%2C257%2C230%2C225%2C228%2C229%2C207%2C223%2C390%2C206%2C226%2C227%2C251%2C224%2C222%2C341%2C235%2C234%2C233%2C278%2C242%2C220%2C221%2C219%2C383%2C375%2C376%2C367%2C372%2C369%2C371%2C370%2C368%2C377%2C379%2C374%2C380%2C373%2C378%2C366%2C231",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "length": 247808
+  },
+  {
+    "url": "https://l.hrzn-nxt.com/pxl?stm=1792766629905&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&page=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tv=js-2.12.0&tna=nf0&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=a40e792f-88e9-44c4-a344-fa28df2e886d&dtm=1792766629902&vp=1280x720&ds=1280x3073&vid=1&sid=e5732b43-2530-4006-9eda-6d14e79b4bba&duid=2bf11b62-2d1d-4c6b-b0f3-716f571ccd20&fp=2876729029",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC5fabb38e50eb43328d8d6065908d7433-source.min.js",
@@ -1170,33 +1278,21 @@
     "length": 724
   },
   {
-    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1792681547521&cv=9&fst=1792681200000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247838%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3BMVosyWmnf0H6GwTkKYEej9MNBSyrdxk4OORHfaLrFEPJ-grF0u8EzWTNrwmitSj5AKOVUBngnR06m-AxUgaPtC0exQrI5_pAyUMLpqckofu8RSE_JrSdJjBt9uy8lpKw6U4ecvZ9XgKohNzdgJ6jkdBN6TL7agl1nySoyVPuV6E8p-frMgl0m33uA4aae3v8lD2Zg0nuPyZLb9BgpvxxWKEcDpfaESAnePEarHRSYW9wboBA2bm4zhoAYwAo8TbtNtgpO6CemTyZToE4ajLh9wr33Vvi9Yv0vJYss&random=2750002943&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=8fe09e0a-c8d7-48e3-8e24-15e10af22237&batch_time=1792681547397",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=b3e89d31-08d7-43c0-9d48-d5712464e561&batch_time=1792681547395",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
     "url": "https://www.redditstatic.com/ads/pixel.js",
     "status": 200,
     "content_type": "application/javascript",
     "length": 88449
   },
   {
-    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=uppfu00;cat=gener0;rcb=14;ord=2441348718399;npa=0;auiddc=2034498433.1792681547;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6ak1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034;epver=2;dc_random=1792681547_1qwGMvO775EFBThsp511G4p7QFODX3qJmw;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba?",
-    "status": 302,
-    "content_type": "text/html; charset=UTF-8",
+    "url": "https://www.facebook.com/tr/?id=1568087270153240&ev=PageView&dl=https%3A%2F%2Fwww.siriusxm.com&rl=&if=false&ts=1792766630040&iw=false&sw=1280&sh=720&v=2.9.427&r=stable&ec=0&o=12318&aems=0%3B0&fbp=fb.1.1792766630037.5984204700323341&pm=1&hrl=04070a&ler=empty&plt=484.3999999999942&ups[pv]=%7B%7D&ups[rpv]=%7B%7D&it=1792766629857&coo=false&cs_cc=1&cas=1313112115444652%2C1331775646914282%2C1175231442604230%2C27925763907095976%2C27589162074048205%2C32473461002300984%2C8863323160428962%2C8915292338552897%2C8394134470614040%2C7103430986451982%2C7439106376154512%2C8411249828903491%2C7182887261838687%2C7503679319668180%2C28305177402468353%2C9980382442066358%2C8913209118753865%2C8833976973377626%2C29199906402943260%2C10077553238940864%2C3754944767919850&dlc=1&expv2[0]=pl0&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf0&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&expv2[51]=oq0&rqm=GET",
+    "status": 200,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://www.facebook.com/tr/",
+    "status": 200,
+    "content_type": "text/plain",
     "length": 0
   },
   {
@@ -1206,16 +1302,16 @@
     "length": 3193
   },
   {
+    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=uppfu00;cat=gener0;rcb=19;ord=1989700474238;npa=0;auiddc=1035546127.1792766629;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6al1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792766630_l0jv-AlRy_CohAbZjq7jmimsjHzy71WWxQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba?",
+    "status": 302,
+    "content_type": "text/html; charset=UTF-8",
+    "length": 0
+  },
+  {
     "url": "https://pixel-config.reddit.com/pixels/t2_17cv3mpk/config",
     "status": 200,
     "content_type": "application/json",
     "length": 902
-  },
-  {
-    "url": "https://9170879.fls.doubleclick.net/activityi;dc_pre=CIOF35bzzZcDFXuqOgUd9O4Zog;src=9170879;type=uppfu00;cat=gener0;rcb=14;ord=2441348718399;npa=0;auiddc=2034498433.1792681547;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6ak1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034;epver=2;dc_random=1792681547_1qwGMvO775EFBThsp511G4p7QFODX3qJmw;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba?",
-    "status": 200,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 885
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCe21385d6188b4fe489e4b4db2bfacb9c-source.min.js",
@@ -1230,10 +1326,16 @@
     "length": 644
   },
   {
-    "url": "https://s.yimg.com/wi/ytc.js",
+    "url": "https://alb.reddit.com/rp?id=t2_17cv3mpk&event=PageVisit",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://apps.rokt-api.com/js/v2/us2-7978a58b69d80940a19b7521195c1341/app.js?env=0&",
     "status": 200,
     "content_type": "application/javascript",
-    "length": 19829
+    "length": 336035
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC8a09fe16c1bf48cea84c79639d2a34b9-source.min.js",
@@ -1242,46 +1344,16 @@
     "length": 1004
   },
   {
-    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CIOF35bzzZcDFXuqOgUd9O4Zog;src=9170879;type=uppfu00;cat=gener0;rcb=14;ord=2441348718399;npa=0;auiddc=*;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6ak1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034;epver=2;dc_random=1792681547_1qwGMvO775EFBThsp511G4p7QFODX3qJmw;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba",
+    "url": "https://9170879.fls.doubleclick.net/activityi;dc_pre=CNepn5Gw0JcDFR_O_QUd-vscpQ;src=9170879;type=uppfu00;cat=gener0;rcb=19;ord=1989700474238;npa=0;auiddc=1035546127.1792766629;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6al1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792766630_l0jv-AlRy_CohAbZjq7jmimsjHzy71WWxQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba?",
     "status": 200,
-    "content_type": "image/gif",
-    "length": 0
+    "content_type": "text/html; charset=UTF-8",
+    "length": 865
   },
   {
-    "url": "https://alb.reddit.com/rp?id=t2_17cv3mpk&event=PageVisit",
-    "status": 200,
-    "content_type": "text/plain; charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://s.yimg.com/wi/config/10212831.json",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 46
-  },
-  {
-    "url": "https://apps.rokt-api.com/js/v2/us2-7978a58b69d80940a19b7521195c1341/app.js?env=0&",
+    "url": "https://s.yimg.com/wi/ytc.js",
     "status": 200,
     "content_type": "application/javascript",
-    "length": 323426
-  },
-  {
-    "url": "https://l.hrzn-nxt.com/pxl?stm=1792681547560&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&page=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tv=js-2.12.0&tna=nf0&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=8e2fe791-e08d-4eac-aa93-0664c2da69da&dtm=1792681547558&vp=1280x720&ds=1280x2736&vid=1&sid=f6f7ada2-98e3-4c6c-8650-4ff2ce693c1b&duid=2579492e-d8a1-4ca0-ad6c-9017a2ab0fb2&fp=2876729029",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://ad.doubleclick.net/activity;src=9170879;type=uppfu00;cat=gener0;rcb=14;ord=2441348718399;npa=0;auiddc=2034498433.1792681547;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6ak1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034;epver=2;dc_random=1792681547_1qwGMvO775EFBThsp511G4p7QFODX3qJmw;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba?",
-    "status": 302,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 0
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=ae127489-7aa8-4627-a6e3-3f1cae5f3559&batch_time=1792681547578",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
+    "length": 19829
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCc7314751362a495a8ef877eefc067fb4-source.min.js",
@@ -1290,40 +1362,22 @@
     "length": 376
   },
   {
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CNepn5Gw0JcDFR_O_QUd-vscpQ;src=9170879;type=uppfu00;cat=gener0;rcb=19;ord=1989700474238;npa=0;auiddc=*;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6al1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792766630_l0jv-AlRy_CohAbZjq7jmimsjHzy71WWxQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
     "url": "https://c-dev.hrzn-nxt.com/js/v2.12.0/connect.min.js",
     "status": 200,
     "content_type": "application/x-javascript",
     "length": 101519
   },
   {
-    "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Thu%2C%2022%20Oct%202026%2015%3A05%3A47%20GMT&n=0&b=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&.yp=10212831&f=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&enc=UTF-8&yv=1.17.1&tagmgr=gtm%2Cadobe",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=0723af32-8497-4d0a-a39d-465223836f57&batch_time=1792681547681",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
     "url": "https://apps.rokt-api.com/wsdk/integrations/launcher.js",
     "status": 200,
     "content_type": "application/javascript; charset=utf-8",
-    "length": 111105
-  },
-  {
-    "url": "https://connect.facebook.net/signals/config/1568087270153240?v=2.9.427&r=c2&domain=www.siriusxm.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
-    "status": 200,
-    "content_type": "application/x-javascript; charset=utf-8",
-    "length": 373871
-  },
-  {
-    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s92239444163421?AQB=1&ndh=1&pf=1&t=22%2F9%2F2026%2015%3A5%3A47%204%200&mid=63895698909429251527878689068987056674&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Anba&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&c.&getPreviousValue=3.0.1&.c&cc=USD&ch=SiriusXM.com%20Flow&events=event1%2Cevent247&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v10=www%3Asports%3Anba&c13=D%3Dv32&c21=D%3Dv21&v21=new&c22=D%3Dv22&v22=1&c23=D%3Dv23&v23=First%20page%20view%20or%20cookies%20not%20supported&v25=undefined&v29=%20%3E%20%20%3E%20&v32=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&v33=Not%20Targeted&c35=www%3Asports%3Anba&c44=year%3D2026%20%7C%20month%3DOctober%20%7C%20date%3D22%20%7C%20day%3DThursday%20%7C%20time%3D11%3A05%20AM&c45=24&c66=63895698909429251527878689068987056674&v79=eb0e8b3469674699b56e9b8a63e7a8b8&v80=Learn%20%7C%20Content&v82=na_na_na&v89=63895698909429251527878689068987056674&v143=true&v152=PHX&v164=1280x720&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&AQE=1",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
+    "length": 111077
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCc624fd7e60ea497982d5ea25f0295bd9-source.min.js",
@@ -1332,16 +1386,58 @@
     "length": 361
   },
   {
-    "url": "https://ad.doubleclick.net/activity;dc_pre=CM6a35bzzZcDFV4n-QAdtD0nuQ;src=9170879;type=uppfu00;cat=gener0;rcb=14;ord=2441348718399;npa=0;auiddc=2034498433.1792681547;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6ak1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034;epver=2;dc_random=1792681547_1qwGMvO775EFBThsp511G4p7QFODX3qJmw;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba?",
+    "url": "https://s.yimg.com/wi/config/10212831.json",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 46
+  },
+  {
+    "url": "https://ad.doubleclick.net/activity;src=9170879;type=uppfu00;cat=gener0;rcb=19;ord=1989700474238;npa=0;auiddc=1035546127.1792766629;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6al1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792766630_l0jv-AlRy_CohAbZjq7jmimsjHzy71WWxQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba?",
     "status": 302,
     "content_type": "text/html; charset=UTF-8",
     "length": 0
   },
   {
-    "url": "https://apps.rokt-api.com/wsdk/controller/index.2.22092.0.html",
+    "url": "https://apps.rokt-api.com/identity/v1/identify",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "length": 176
+  },
+  {
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CI6rnpGw0JcDFYPKuAgdyMMuow;src=9170879;type=uppfu00;cat=gener0;rcb=19;ord=1989700474238;npa=0;auiddc=1035546127.1792766629;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6al1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792766630_l0jv-AlRy_CohAbZjq7jmimsjHzy71WWxQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba?",
+    "status": 302,
+    "content_type": "text/html; charset=UTF-8",
+    "length": 0
+  },
+  {
+    "url": "https://l-dev.hrzn-nxt.com/pxl?stm=1792766630430&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&page=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tv=js-2.12.0&tna=nf00&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=4c9aa0c0-15b3-4971-9082-0d89dbf27d17&dtm=1792766630426&vp=1280x720&ds=1280x3073&vid=1&sid=e5732b43-2530-4006-9eda-6d14e79b4bba&duid=2bf11b62-2d1d-4c6b-b0f3-716f571ccd20&fp=2876729029",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://apps.rokt.com/sync?redir=https%3A%2F%2Fcookiesync.us2.mparticle.com%2Fv1%2Fsync%3Fesid%3D11723%26MPID%3D-7549197651225595669%26ID%3D%24%7BRoktRecogniser%7D%26Key%3Dus2-7978a58b69d80940a19b7521195c1341%26env%3D2",
+    "status": 302,
+    "content_type": "text/html",
+    "length": 0
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/controller/index.2.22207.0.html",
     "status": 200,
     "content_type": "text/html; charset=utf-8",
-    "length": 371496
+    "length": 375189
+  },
+  {
+    "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Fri%2C%2023%20Oct%202026%2014%3A43%3A50%20GMT&n=0&b=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&.yp=10212831&f=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&enc=UTF-8&yv=1.17.1&tagmgr=gtm%2Cadobe",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/controller/services.2.22207.0.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 109612
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC76a971dfbb9f4d2dad6cfaed0dbdf23d-source.min.js",
@@ -1350,15 +1446,9 @@
     "length": 1455
   },
   {
-    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=4311215419189183502;_dc_ptd=ChAI8Ojm1gYQ4Je1yvWE5M4zEh8ACL6xfihVrn91O0V0UZawNpgeFUFFwE0chyg-FYw6;_dc_time=1792681547;cid=CAQS4QEAQM4h3BJ_Jx0rsyPDjlzbjeeb9bbURT1xp30m4km48M3Zcj32Or6h8rMeNnUdgUG5CauUweKv7Ik7e-0B8I_0GP5yqbExDBrBAF1KMaf11EKZ_qkxPJVV6QvXLzZHPHRjbLKiK8kkAowIXtGez5Wz7FGQ98wTdIoecw_21snknDLwyaVHCdJKZTxAk2RTHFmDZ_IoI04vCf86Ic1ajzjoXTa_Oe62KrsOvTNCn0l-ElVkly280gCKsysKdIrebkY98pnvn5ysi2zzq-w_1kfjOXhfZW1drU4yl3NvjoNVQEk;eps=AHas8cBdmHA_rhsP1Ii9H3YLywcXsRs8wTBQMKq0PT3h94QYATGcg6pABc1sc07yyYSHaPwk_HNbuxuHZmVIfQ37JKFJ_dIh3GigygfZU4VRO60euw;dc_pre=CM6a35bzzZcDFV4n-QAdtD0nuQ;src=9170879;type=uppfu00;cat=gener0;rcb=14;ord=2441348718399;npa=0;auiddc=2034498433.1792681547;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6ak1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121191153~121246026~121246034;epver=2;dc_random=1792681547_1qwGMvO775EFBThsp511G4p7QFODX3qJmw;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba?",
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s65653403154522?AQB=1&ndh=1&pf=1&t=23%2F9%2F2026%2014%3A43%3A50%205%200&mid=29632055072042936484273878209471160011&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Anba&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&c.&getPreviousValue=3.0.1&.c&cc=USD&ch=SiriusXM.com%20Flow&events=event1%2Cevent247&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v10=www%3Asports%3Anba&c13=D%3Dv32&c21=D%3Dv21&v21=new&c22=D%3Dv22&v22=1&c23=D%3Dv23&v23=First%20page%20view%20or%20cookies%20not%20supported&v25=undefined&v29=%20%3E%20%20%3E%20&v32=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&v33=Not%20Targeted&c35=www%3Asports%3Anba&c44=year%3D2026%20%7C%20month%3DOctober%20%7C%20date%3D23%20%7C%20day%3DFriday%20%7C%20time%3D10%3A43%20AM&c45=14&c66=29632055072042936484273878209471160011&v79=62112f1aae75448892fbe0b68a2d4995&v80=Learn%20%7C%20Content&v82=na_na_na&v89=29632055072042936484273878209471160011&v143=true&v152=PHX&v164=1280x720&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&AQE=1",
     "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://l-dev.hrzn-nxt.com/pxl?stm=1792681547926&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&page=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tv=js-2.12.0&tna=nf00&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=76ad9e11-eb21-4b58-a15d-86fc3f8f7eac&dtm=1792681547925&vp=1280x720&ds=1280x2736&vid=1&sid=f6f7ada2-98e3-4c6c-8650-4ff2ce693c1b&duid=2579492e-d8a1-4ca0-ad6c-9017a2ab0fb2&fp=2876729029",
-    "status": 200,
-    "content_type": "image/gif",
+    "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
@@ -1368,10 +1458,28 @@
     "length": 910
   },
   {
-    "url": "https://apps.rokt-api.com/wsdk/controller/services.2.22092.0.js",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=13618848983558475551;_dc_ptd=ChAI8Ivs1gYQsuOyv970u4VDEh8AMw3lMw7KF5kPrWMZ4dlu-j2vkodmMoHk7ls72yI0;_dc_time=1792766630;cid=CAQS4gEAQM4h3IpyMuxU0NAc_p045mNEPfIcijWV8rm7aSZdyrAPIqyahqYtBKNbe7BlOV_gUjNDXFR_-uxGsitqaB6AJ33MyCo7tiMhj9MfsBFSyArWE5iw3xmIH_J45D24yvyDUDQdEsXPksasri56G_pCIGkITBzxEhS6isHcoq8Y5aACBuPVtQfgFrrg1L0iIVT6voP1oU0ue_K9iqCrfDp894dK1R65c12f-1BuMJwMQsCrXSX3O8CApAn4XQKRVrZJHwKvX9fVqbv-L1XEFknYf69MJqBcxXgSM1wt-VkPBWVs;eps=AHas8cBA88rlOs_mZGX9kHgJaA0EnQ9Ldu9yfrXy4widgfvGQRJX3wXcUeyetD82-N6FFAZYjzDoC_DCGqbZ6Q12FseInU-pacWkmLMKONbX51n8OA;dc_pre=CI6rnpGw0JcDFYPKuAgdyMMuow;src=9170879;type=uppfu00;cat=gener0;rcb=19;ord=1989700474238;npa=0;auiddc=1035546127.1792766629;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6al1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792766630_l0jv-AlRy_CohAbZjq7jmimsjHzy71WWxQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba?",
     "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 109299
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 42
+  },
+  {
+    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 42
+  },
+  {
+    "url": "https://apps.rokt.com/wsdk/session-transfer/index.2.22207.0.html",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "length": 16703
   },
   {
     "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCeafe253eaa134f8f9711a58c411fbe36-source.min.js",
@@ -1380,10 +1488,10 @@
     "length": 341
   },
   {
-    "url": "https://apps.rokt-api.com/identity/v1/identify",
+    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/global-reporter.0380b1075b77d7a1dafc.js",
     "status": 200,
-    "content_type": "application/json; charset=utf-8",
-    "length": 175
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 12944
   },
   {
     "url": "https://apps.rokt.com/icons/rokt-icons.woff",
@@ -1392,34 +1500,10 @@
     "length": 0
   },
   {
-    "url": "https://apps.rokt.com/sync?redir=https%3A%2F%2Fcookiesync.us2.mparticle.com%2Fv1%2Fsync%3Fesid%3D11723%26MPID%3D4640359166095554234%26ID%3D%24%7BRoktRecogniser%7D%26Key%3Dus2-7978a58b69d80940a19b7521195c1341%26env%3D2",
-    "status": 302,
-    "content_type": "text/html",
+    "url": "https://cookiesync.us2.mparticle.com/v1/sync?esid=11723&MPID=-7549197651225595669&ID=8e6f1b8b-85e3-4134-a37d-88941077af0f&Key=us2-7978a58b69d80940a19b7521195c1341&env=2",
+    "status": 204,
+    "content_type": null,
     "length": 0
-  },
-  {
-    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/global-reporter.0380b1075b77d7a1dafc.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 12944
-  },
-  {
-    "url": "https://connect.facebook.net/signals/config/1225677084239985?v=2.9.427&r=c2&domain=www.siriusxm.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C268%2C266%2C261%2C263%2C264%2C265%2C262%2C260%2C247%2C267%2C269%2C259%2C217%2C218%2C270%2C271%2C258%2C257%2C230%2C225%2C228%2C229%2C207%2C223%2C390%2C206%2C226%2C227%2C251%2C224%2C222%2C341%2C235%2C234%2C233%2C278%2C242%2C220%2C221%2C219%2C383%2C375%2C376%2C367%2C372%2C369%2C371%2C370%2C368%2C377%2C379%2C374%2C380%2C373%2C378%2C366%2C231",
-    "status": 200,
-    "content_type": "application/x-javascript; charset=utf-8",
-    "length": 247720
-  },
-  {
-    "url": "https://apps.rokt.com/wsdk/session-transfer/index.2.22092.0.html",
-    "status": 200,
-    "content_type": "text/html; charset=utf-8",
-    "length": 16703
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCdbe7726476a24710b91d5febe9613cc9-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 966
   },
   {
     "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/index.745f6d79203583b9c5c2.js",
@@ -1428,139 +1512,91 @@
     "length": 656977
   },
   {
-    "url": "https://www.facebook.com/tr/?id=1568087270153240&ev=PageView&dl=https%3A%2F%2Fwww.siriusxm.com&rl=&if=false&ts=1792681548366&iw=false&sw=1280&sh=720&v=2.9.427&r=c2&ec=0&o=12318&aems=0%3B0&fbp=fb.1.1792681548363.113136047598851571&pm=1&hrl=04070a&ler=empty&plt=679.4000000000233&ups[pv]=%7B%7D&ups[rpv]=%7B%7D&it=1792681547513&coo=false&cs_cc=1&cas=1313112115444652%2C1331775646914282%2C1175231442604230%2C27925763907095976%2C27589162074048205%2C32473461002300984%2C8863323160428962%2C8915292338552897%2C8394134470614040%2C7103430986451982%2C7439106376154512%2C8411249828903491%2C7182887261838687%2C7503679319668180%2C28305177402468353%2C9980382442066358%2C8913209118753865%2C8833976973377626%2C29199906402943260%2C10077553238940864%2C3754944767919850&dlc=1&exp=c0&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=ct2&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&rqm=GET",
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCdbe7726476a24710b91d5febe9613cc9-source.min.js",
     "status": 200,
-    "content_type": "text/plain",
-    "length": 0
+    "content_type": "application/x-javascript",
+    "length": 966
   },
   {
-    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 41
-  },
-  {
-    "url": "https://www.facebook.com/tr/",
-    "status": 200,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 41
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1792681548509&cv=11&fst=1792681548509&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=5&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1792766630955&cv=11&fst=1792766630955&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=12&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
     "status": 200,
     "content_type": null,
     "length": 0
   },
   {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1792681548509&cv=11&fst=1792681548509&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=5&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6al1v873651601za200zb869737875zd869737875xf1&_p=1792766626733&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AEAAAAQ&ae=a&cid=489125179.1792766629&frm=0&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=2&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792766629&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&_tu=AAI&en=scroll&epn.percent_scrolled=90&_et=204&tfd=5607",
+    "status": 204,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1792766630955&cv=11&fst=1792766630955&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=12&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
     "status": 200,
     "content_type": "text/javascript; charset=UTF-8",
-    "length": 6832
+    "length": 6815
   },
   {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6ak1v873651601za200zb869737875zd869737875xf1&_p=1792681544886&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AEAAAAQ&ae=a&cid=767611425.1792681547&frm=0&ngs=1&pscdl=noapi&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=2&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&sid=1792681546&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&_tu=AAI&en=scroll&epn.percent_scrolled=90&_et=39&tfd=4900",
-    "status": 204,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=5&frm=0&apvc=0&auid=2034498433.1792681547&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=514158028.1792681547&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&tft=1792681548545&tfd=4911&tids=AW-1066622487&fmt=8",
+    "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=0&auid=1035546127.1792766629&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=1137400393.1792766629&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792766630998&tfd=5622&tids=AW-1066622487&fmt=8",
     "status": 200,
     "content_type": null,
     "length": 0
   },
   {
-    "url": "https://cookiesync.us2.mparticle.com/v1/sync?esid=11723&MPID=4640359166095554234&ID=0dadf4d0-fde6-463d-82ca-755644da84b3&Key=us2-7978a58b69d80940a19b7521195c1341&env=2",
-    "status": 204,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1792681548509&cv=11&fst=1792681200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=5&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=2034498433.1792681547&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3EFLfAUw0b-DCc3a2YJUvnHgUMf4xaYyLMbAycgw277OeKSoht_IPhbLwokPSeeUlTfc8B3krtWmVFljjRWKN0LXZeLaZzvv029XFj6icF6UtAeOgtcv4pA4QhfV3sSNtlGZDAGjdHpRcvoybTlgSi1CrPpYNyD55J0M53UhQ-YdxCdWKnsTySxMb_swSExcs-AKtsncgrbz9jpgf5LHePXKAJWI6YYHfHyVsJg36pAZTSiy-YVYD4ZTIz9vfnDD-LK1tGrmyQTwzB-cgNvS1HiHwlmxc5OG96R4PRk&random=249110831&rmt_tld=0&ipr=y",
+    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1792766630955&cv=11&fst=1792764000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&rcb=12&frm=0&tiba=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1035546127.1792766629&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3LkBTvjiOpXqM-tDuUQZBcQxYljQiGgfGYKzoIK5-fbRUTQ0Q_aLW0Yk4KXw2w7DO8LdfWUJN4XQuvcted-OOCeV4NRR3JnVi-oiN4u00xQr6Hn3_3LRX2MCd95PFmy9IKiHE58od2739KUaGyDYNr1PV3fNpxk-5XVg6AuuDakpmC9qccskQS63lqsDD_WCcQddtO1kOskp4mzRdaAzTlanh0Div7f22_LVjKKw27GRd_c3h-FJkLSIKDWrJ1lF1Il3OiMvAsWHGMdrYUWL0cs-T27eB-IzvSUfibSa&random=1944741971&rmt_tld=0&ipr=y",
     "status": 200,
     "content_type": "image/gif",
     "length": 0
   },
   {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=d054effd-ede4-4879-beef-3869cf66619e&batch_time=1792681548594",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=bb3122bd-f4b9-44de-a175-854203222fd8&batch_time=1792681548598",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=4cff61f9-b836-4502-a656-a98639101846&batch_time=1792681548596",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
     "url": "https://www.facebook.com/tr/",
     "status": 200,
     "content_type": "text/plain",
     "length": 0
   },
   {
-    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s95951389714716?AQB=1&ndh=1&pf=1&t=22%2F9%2F2026%2015%3A5%3A49%204%200&mid=63895698909429251527878689068987056674&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Anba&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&cc=USD&events=event3&c6=www%3Asports%3Anba&c7=Deny%20Non-Essential%20Cookies&c8=www%3Asports%3Anba%20%7C%20Deny%20Non-Essential%20Cookies&c9=OneTrust%20Banner&c10=www%3Asports%3Anba%20%7C%20Deny%20Non-Essential%20Cookies%20%7C%20OneTrust%20Banner&v10=www%3Asports%3Anba&pe=lnk_o&pev2=Deny%20Non-Essential%20Cookies&c.&a.&activitymap.&page=www%3Asports%3Anba&link=Deny%20Non-Essential%20Cookies&region=onetrust-button-group&pageIDType=1&.activitymap&.a&.c&pid=www%3Asports%3Anba&pidt=1&oid=Deny%20Non-Essential%20Cookies&oidt=3&ot=SUBMIT&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=205&AQE=1",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=2&event_id=315ee433-b424-476e-8c71-3ac6837142ed&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d4720ae7-fa04-4348-a107-86ce0096dff2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tw_engaged_ms=3587&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792766628067-76316820&twpid=tw.1792766628067.978864954894134914&txn_id=o37dn&type=javascript&version=2.4.12",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=2&event_id=19553d16-9cdc-4b76-a427-593b2858c6c5&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6a710815-a558-4013-8fa7-b980fe22b0e2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tw_engaged_ms=3524&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792681546062-91649219&twpid=tw.1792681546062.383444129675389048&txn_id=o37dn&type=javascript&version=2.4.12",
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=2&event_id=315ee433-b424-476e-8c71-3ac6837142ed&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d4720ae7-fa04-4348-a107-86ce0096dff2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tw_engaged_ms=3587&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792766628067-76316820&twpid=tw.1792766628067.978864954894134914&txn_id=o37dn&type=javascript&version=2.4.12",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=2&event_id=19553d16-9cdc-4b76-a427-593b2858c6c5&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6a710815-a558-4013-8fa7-b980fe22b0e2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&tw_engaged_ms=3524&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792681546062-91649219&twpid=tw.1792681546062.383444129675389048&txn_id=o37dn&type=javascript&version=2.4.12",
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s67356873822175?AQB=1&ndh=1&pf=1&t=23%2F9%2F2026%2014%3A43%3A51%205%200&mid=29632055072042936484273878209471160011&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Anba&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&cc=USD&events=event3&c6=www%3Asports%3Anba&c7=Deny%20Non-Essential%20Cookies&c8=www%3Asports%3Anba%20%7C%20Deny%20Non-Essential%20Cookies&c9=OneTrust%20Banner&c10=www%3Asports%3Anba%20%7C%20Deny%20Non-Essential%20Cookies%20%7C%20OneTrust%20Banner&v10=www%3Asports%3Anba&pe=lnk_o&pev2=Deny%20Non-Essential%20Cookies&c.&a.&activitymap.&page=www%3Asports%3Anba&link=Deny%20Non-Essential%20Cookies&region=onetrust-button-group&pageIDType=1&.activitymap&.a&.c&pid=www%3Asports%3Anba&pidt=1&oid=Deny%20Non-Essential%20Cookies&oidt=3&ot=SUBMIT&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=226&AQE=1",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6ak1v873651601za208zb869737875zd869737875xf1&_p=1792681544886&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAACAAQ&cid=767611425.1792681547&frm=0&ngs=1&pscdl=noapi&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=3&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&sid=1792681546&sct=1&seg=1&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&_tu=AAI&en=page_view&_ee=1&_et=1485&tfd=6013",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6al1v873651601za208zb869737875zd869737875xf1&_p=1792766626733&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAACAAQ&cid=489125179.1792766629&frm=0&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=3&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792766629&sct=1&seg=1&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&_tu=AAI&en=page_view&_ee=1&_et=1754&tfd=6355",
     "status": 204,
     "content_type": "text/plain",
     "length": 0
   },
   {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6ak1v873651601za208zb869737875zd869737875xf1&_p=1792681544886&gcs=G100&gcd=13m3m3m3m5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_eu=AAAC&cid=345968116.1792681550&frm=0&ngs=1&pscdl=denied&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=4&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&sid=1792681549&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=6014",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6al1v873651601za208zb869737875zd869737875xf1&_p=1792766626733&gcs=G100&gcd=13m3m3m3m5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_eu=AAAC&cid=1838500885.1792766632&frm=0&ngs=1&pscdl=denied&rcb=12&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=4&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792766631&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&dt=Today%27s%20NBA%20Games%3A%20Listen%20to%20Live%20Radio%20Play-by-Play%20on%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=6356",
     "status": 204,
     "content_type": "text/plain",
     "length": 0
   },
   {
-    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=5&frm=0&apvc=0&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=514158028.1792681547&navt=n&npa=1&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6ak1v873651601za208zb869737875zd869737875xecxf1&gcs=G100&gcd=13m3m3m3m5l1&dma_cps=-&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121191153~121246026~121246034~123548194&tft=1792681549661&tfd=6027&tids=AW-1066622487&fmt=8",
+    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=12&frm=0&apvc=0&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&scrsrc=www.googletagmanager.com&rnd=1137400393.1792766629&navt=n&npa=1&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6al1v873651601za208zb869737875zd869737875xecxf1&gcs=G100&gcd=13m3m3m3m5l1&dma_cps=-&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792766631743&tfd=6367&tids=AW-1066622487&fmt=8",
     "status": 200,
     "content_type": null,
     "length": 0
   },
   {
-    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6740&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=19c48281-896a-45fa-bc0e-c4e94eb324b2&batch_time=1792681549687",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 53
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792681546386&v=1792681549957&H=4a26da6ac877ffcc75eafb3f&s=eb0e8b3469674699b56e9b8a63e7a8b8&N=1&Q=2&S=4174&b=11208&z=1",
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792766629173&v=1792766632682&H=a572db6aabe582855887748a&s=62112f1aae75448892fbe0b68a2d4995&P=2&N=2&S=3655&b=31063&z=1",
     "status": 200,
     "content_type": "application/json",
     "length": 0
   },
   {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792681546386&v=1792681549957&H=4a26da6ac877ffcc75eafb3f&s=eb0e8b3469674699b56e9b8a63e7a8b8&P=2&N=2&S=4460&b=38948&z=1",
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fnba&t=1792766629173&v=1792766632682&H=a572db6aabe582855887748a&s=62112f1aae75448892fbe0b68a2d4995&N=2&Q=2&S=8235&b=7705&z=1",
     "status": 200,
     "content_type": "application/json",
     "length": 0
