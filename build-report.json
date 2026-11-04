@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T17:37:42Z",
+  "generated_at": "2026-11-04T17:50:36Z",
   "sports": {
     "cfb": {
-      "games": 63,
-      "sxm_games": 8,
-      "tv_games": 62,
-      "venue_games": 63,
+      "games": 61,
+      "sxm_games": 7,
+      "tv_games": 61,
+      "venue_games": 61,
       "odds_games": 0
     },
     "epl": {
       "games": 10,
       "sxm_games": 7,
-      "tv_games": 0,
+      "tv_games": 10,
       "venue_games": 10,
       "odds_games": 0
     },
@@ -45,26 +45,26 @@
       "odds_games": 0
     },
     "nba": {
-      "games": 47,
-      "sxm_games": 47,
-      "tv_games": 41,
-      "venue_games": 47,
+      "games": 53,
+      "sxm_games": 53,
+      "tv_games": 46,
+      "venue_games": 53,
       "odds_games": 0
     },
     "ncaab": {
-      "games": 59,
-      "sxm_games": 33,
-      "tv_games": 52,
-      "venue_games": 59,
+      "games": 63,
+      "sxm_games": 37,
+      "tv_games": 60,
+      "venue_games": 63,
       "odds_games": 0
     },
     "nfl": {
       "games": 15,
-      "sxm_games": 0,
+      "sxm_games": 15,
       "tv_games": 15,
       "venue_games": 15,
       "odds_games": 0
     }
   },
-  "total_games": 209
+  "total_games": 217
 }

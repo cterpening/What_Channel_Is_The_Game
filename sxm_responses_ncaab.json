@@ -3,13 +3,13 @@
     "url": "https://www.siriusxm.com/sports/mens-college-basketball",
     "status": 200,
     "content_type": "text/html; charset=utf-8",
-    "length": 612257
+    "length": 463603
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/19zjreyz125wo.css",
+    "url": "https://www.siriusxm.com/_next/static/chunks/3q7eiftcr7rbc.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
-    "length": 114053
+    "length": 72448
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/0obh18hddofkp.css",
@@ -24,6 +24,18 @@
     "length": 111577
   },
   {
+    "url": "https://www.siriusxm.com/_next/static/chunks/19zjreyz125wo.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 114053
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/3mgzowjq4ky0q.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 107828
+  },
+  {
     "url": "https://www.siriusxm.com/_next/static/chunks/1uhrf08sycd0r.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
@@ -36,10 +48,10 @@
     "length": 43502
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/18rewop40_d8d.css",
+    "url": "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
     "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 118305
+    "content_type": "text/javascript",
+    "length": 165701
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/1n-q3diq294g4.css",
@@ -48,58 +60,10 @@
     "length": 32441
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/icons/ccpa-opt-out-icon/privacyoptions.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 1793
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3q7eiftcr7rbc.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 72448
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3mgzowjq4ky0q.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 107828
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/168tf_9zhfsjn.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 120880
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0rqntpckth9sq.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 2605
-  },
-  {
     "url": "https://www.siriusxm.com/_next/static/chunks/0-ljbaba01gah.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
     "length": 2169
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2q2pk2pz3zxq5.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 992
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0otg1n_lek1bi.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 576
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/1o6egajuc2pde.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 2363
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/2ofegzq1_712-.css",
@@ -108,16 +72,52 @@
     "length": 5878
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/1sza7uu6serbz.css",
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/icons/ccpa-opt-out-icon/privacyoptions.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 1793
+  },
+  {
+    "url": "https://www.siriusxm.com/resources/js/sxm.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 1447
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/0c4dub4c2thg9.css",
     "status": 200,
     "content_type": "text/css; charset=UTF-8",
-    "length": 4690
+    "length": 229
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/0rqntpckth9sq.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 2605
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/2q2pk2pz3zxq5.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 992
   },
   {
     "url": "https://www.siriusxm.com/app-download/fonts/geist/Geist-Regular.woff2",
     "status": 200,
     "content_type": "font/woff2",
     "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/hero-background/sports/NCAA-BK-Hero-Image_export1.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/168tf_9zhfsjn.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 120880
   },
   {
     "url": "https://www.siriusxm.com/app-download/fonts/geist/Geist-SemiBold.woff2",
@@ -138,36 +138,6 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0c4dub4c2thg9.css",
-    "status": 200,
-    "content_type": "text/css; charset=UTF-8",
-    "length": 229
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/hero-background/sports/NCAA-BK-Hero-Image_export1.jpg",
-    "status": 200,
-    "content_type": "image/jpeg",
-    "length": 0
-  },
-  {
-    "url": "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js",
-    "status": 200,
-    "content_type": "text/javascript",
-    "length": 165701
-  },
-  {
-    "url": "https://www.siriusxm.com/resources/js/sxm.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 1447
-  },
-  {
-    "url": "https://www.siriusxm.com/ns/optimizations/ot/OneTrustCookieConsolidator.v1.0.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1596
-  },
-  {
     "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
     "status": 200,
     "content_type": "application/javascript",
@@ -180,142 +150,40 @@
     "length": 445890
   },
   {
+    "url": "https://www.siriusxm.com/_next/static/chunks/0otg1n_lek1bi.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 576
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/1o6egajuc2pde.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 2363
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/1sza7uu6serbz.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 4690
+  },
+  {
+    "url": "https://www.siriusxm.com/ns/optimizations/ot/OneTrustCookieConsolidator.v1.0.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1596
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/18rewop40_d8d.css",
+    "status": 200,
+    "content_type": "text/css; charset=UTF-8",
+    "length": 118305
+  },
+  {
     "url": "https://www.siriusxm.com/_next/static/chunks/3dh0radjukhxw.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
     "length": 12724
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/UofTennessee.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 1307
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/icons/sports/CollegeBasketball.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 2081
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Wofford.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 8176
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-126-500x400-P.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 19319
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3j55mxgk0vurk.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 49629
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/UofSouthCarolina.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 65653
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/UofVirginia.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 2677
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/1cst4-4_tdx0j.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 34348
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Hampton.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 28634
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/BostonCollege.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 11482
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/SamHouston-logo.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 2540
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/VirginiaTech.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 1977
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Alabama-logo.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 1289
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/GeorgiaTech-Logo.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 3315
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/turbopack-1r2--12v6_ixg.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 10250
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2ys1scj5a7m_7.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 162846
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0sg2irux0wayl.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 35384
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/0mt-0rigjn623.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 39644
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2jsjy15i_in1h.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 49782
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/UofKentucky.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 2725
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Drexel.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 29562
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2j33yjlks0tdo.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 26882
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/10e9dg7m1zza0.js",
@@ -324,22 +192,16 @@
     "length": 28084
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/372pkbknzvo60.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/1cst4-4_tdx0j.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 32976
+    "length": 34348
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3jmhrmqud4utw.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/3wuteqbir82l0.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 49585
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/1c3piek4tbpwd.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 99513
+    "length": 228387
   },
   {
     "url": "https://www.siriusxm.com/_next/static/chunks/1qqalp_vmu5on.js",
@@ -348,115 +210,49 @@
     "length": 54704
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/1jq_lo6-sh6ys.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/2ys1scj5a7m_7.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 181655
+    "length": 162846
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/04e4_urbj_bcu.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/turbopack-1r2--12v6_ixg.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 47055
+    "length": 10250
   },
   {
-    "url": "https://www.siriusxm.com/_next/static/chunks/2n-8i-2ndiloi.js",
+    "url": "https://www.siriusxm.com/_next/static/chunks/2jsjy15i_in1h.js",
     "status": 200,
     "content_type": "application/javascript; charset=UTF-8",
-    "length": 133647
+    "length": 49782
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Manhattan.svg",
+    "url": "https://www.siriusxm.com/_next/static/chunks/3j55mxgk0vurk.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 49629
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/FairleighDickinson.svg",
     "status": 200,
     "content_type": "image/svg+xml",
-    "length": 10773
+    "length": 7987
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Alabama-State.svg",
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-126-500x400-P.svg",
     "status": 200,
     "content_type": "image/svg+xml",
-    "length": 30200
+    "length": 19319
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/TexasAM-logo.svg",
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Butler.svg",
     "status": 200,
     "content_type": "image/svg+xml",
-    "length": 3530
+    "length": 13271
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Lipscomb.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 1002
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Iowa-logo.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 1607
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/UofMissouri.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 12342
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMDYvMDZiYWNiOGZiZTJmMTQxNTRkODllNGZjMjU4YzU3YzlfMTcxMjg2MTUxNC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vOTkvOTk1NmRmNWIxNjYzOGNkNzgwMjk5MDBhMjhjNDJkMWRfMTY5OTkxNDI4My5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
-    "status": 200,
-    "content_type": "image/jpeg",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/LouisianaStateUniversity.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 2935
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/UofArkansas.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 21924
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMGMvMGMzZjM0ZjgyZDdlYzk5MGM1ZGVkZDE1MGM1OWIzNmRfMTcxOTUwMzE2OS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNDYvNDY4NTQ5OWE0MDJmMmY2NzNhNzA4ZDMxZGVhNWJiZDFfMTcxMjg2MTUyNS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vZjQvZjRhNDY2YWU0NzhkODBkM2Y2NzE5OWViNjEyYjg0ZmRfMTcxMjg2MTUyOS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/NorthernArizona.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 2738
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/KansasState.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 3269
-  },
-  {
-    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vMGMvMGNkMTE3MDBkNTIwZGEzZGQwNDdkN2RkNmU4M2FiNDNfMTcwMzExOTM0Ni5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
+    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vYTQvYTQ4NWU1ZTE5MGU5MjVhMDkxZTBjODZhMDA0OTBjNmRfMTcwMzI3Njc1NS5qcGVnIiwiZWRpdHMiOlt7ImZvcm1hdCI6eyJ0eXBlIjoianBlZyJ9fSx7InJlc2l6ZSI6eyJ3aWR0aCI6MzE5LCJoZWlnaHQiOjMxOX19XX0=",
     "status": 200,
     "content_type": "image/jpeg",
     "length": 0
@@ -468,87 +264,39 @@
     "length": 0
   },
   {
-    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vMzIvMzIwMTZjZDJjN2Q0MTgzYTYyNDk1ZTUzZjU5NmMyZGFfMTcwMjU4NTEzMy5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
+    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vMGMvMGNkMTE3MDBkNTIwZGEzZGQwNDdkN2RkNmU4M2FiNDNfMTcwMzExOTM0Ni5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
     "status": 200,
     "content_type": "image/jpeg",
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/UNLV.svg",
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vZjQvZjRhNDY2YWU0NzhkODBkM2Y2NzE5OWViNjEyYjg0ZmRfMTcxMjg2MTUyOS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 12419
+    "content_type": "image/avif",
+    "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/UAPB.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 58878
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/SouthDakotaState.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 63053
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/icons/sports/AddtoCalendar.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 1096
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/01f17z0x0v28r.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 102287
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3wuteqbir82l0.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 228387
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/NewOrleansPrivateers.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 35864
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Wagner.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 7212
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/San-Diego-State.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 4312
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/ClevelandState.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 95518
-  },
-  {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/CalState-Fullerton.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 12000
-  },
-  {
-    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vYTQvYTQ4NWU1ZTE5MGU5MjVhMDkxZTBjODZhMDA0OTBjNmRfMTcwMzI3Njc1NS5qcGVnIiwiZWRpdHMiOlt7ImZvcm1hdCI6eyJ0eXBlIjoianBlZyJ9fSx7InJlc2l6ZSI6eyJ3aWR0aCI6MzE5LCJoZWlnaHQiOjMxOX19XX0=",
+    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vOTkvOTk1NmRmNWIxNjYzOGNkNzgwMjk5MDBhMjhjNDJkMWRfMTY5OTkxNDI4My5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
     "status": 200,
     "content_type": "image/jpeg",
     "length": 0
   },
   {
-    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vOTgvOTg0NGZiNmIxZDJjNTIzZTZjMzUzMzZiODRhMjY3YzdfMTc2Mjg5MDA3NS5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL3Nwb3J0cy10YWxrL2ZhbnRhc3ktc3BvcnRzLXJhZGlvL0ZhbnRhc3lTcG9ydHNSYWRpby0xNng5LmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0IjoyMjV9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
     "status": 200,
-    "content_type": "image/jpeg",
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL25iYS9Mb2dvLVNpcml1c1hNTkJBUmFkaW8tMTZ4OS1QRC00NjYzLXYxLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0IjoyMjV9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMGMvMGMzZjM0ZjgyZDdlYzk5MGM1ZGVkZDE1MGM1OWIzNmRfMTcxOTUwMzE2OS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
     "length": 0
   },
   {
@@ -558,10 +306,16 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL3Nwb3J0cy10YWxrL2ZhbnRhc3ktc3BvcnRzLXJhZGlvL0ZhbnRhc3lTcG9ydHNSYWRpby0xNng5LmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0IjoyMjV9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "url": "https://imgsrv-sxm-prod-device.streaming.siriusxm.com/eyJrZXkiOiJhZW0vOTgvOTg0NGZiNmIxZDJjNTIzZTZjMzUzMzZiODRhMjY3YzdfMTc2Mjg5MDA3NS5wbmciLCJlZGl0cyI6W3siZm9ybWF0Ijp7InR5cGUiOiJqcGVnIn19LHsicmVzaXplIjp7IndpZHRoIjozMTksImhlaWdodCI6MzE5fX1dfQ==",
     "status": 200,
-    "content_type": "image/avif",
+    "content_type": "image/jpeg",
     "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Auburn.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 14962
   },
   {
     "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vYTYvYTYwMzI3MDFjNzU3MzRlYzYxOGIyZTY2MjVjMjNiMzhfMTY5OTM3NTc5Mi5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
@@ -576,9 +330,1239 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL25iYS9Mb2dvLVNpcml1c1hNTkJBUmFkaW8tMTZ4OS1QRC00NjYzLXYxLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0IjoyMjV9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/CAL-logo-yellow.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 1715
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/SELouisiana.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 129916
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNDYvNDY4NTQ5OWE0MDJmMmY2NzNhNzA4ZDMxZGVhNWJiZDFfMTcxMjg2MTUyNS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
     "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNDYvNDY4NTQ5OWE0MDJmMmY2NzNhNzA4ZDMxZGVhNWJiZDFfMTcxMjg2MTUyNS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6OTYsImhlaWdodCI6OTZ9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMDYvMDZiYWNiOGZiZTJmMTQxNTRkODllNGZjMjU4YzU3YzlfMTcxMjg2MTUxNC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTEyLCJoZWlnaHQiOjExMn19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/icons/sports/AddtoCalendar.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 1096
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Radford.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 7666
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/3jmhrmqud4utw.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 49585
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/2n-8i-2ndiloi.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 133647
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/04e4_urbj_bcu.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 47055
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/2j33yjlks0tdo.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 26882
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/372pkbknzvo60.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 32976
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/1c3piek4tbpwd.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 99513
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/0sg2irux0wayl.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 35384
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/1jq_lo6-sh6ys.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 181655
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/01f17z0x0v28r.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 102287
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/0mt-0rigjn623.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 39644
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/WakeForest.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 2895
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/SetonHall.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 26061
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/banners/Download_on_the_App_Store_Badge.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 12353
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/banners/Google_Play_Store_badge_EN.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 7145
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/PennState-logo.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 2222
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Indiana-logo.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 1034
+  },
+  {
+    "url": "https://www.siriusxm.com/_next/static/chunks/3xj34r_va4996.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 526962
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Chattanooga.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 3788
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Bellarmine.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 11694
+  },
+  {
+    "url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 3284
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/Vanderbilt-logo.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 3133
+  },
+  {
+    "url": "https://www.siriusxm.com/api/mountain/3vJ0XztHyNwda4ckpGBhue",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 288
+  },
+  {
+    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/ncaa/LIUSharks.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 14523
+  },
+  {
+    "url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 36178
+  },
+  {
+    "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 46138
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCa49be69f0b79440d86fc2095dac20537-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1047
+  },
+  {
+    "url": "https://cdn.evgnet.com/beacon/siriusxmradioinc/prod_us/scripts/evergage.min.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 264130
+  },
+  {
+    "url": "https://static.ads-twitter.com/uwt.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 62052
+  },
+  {
+    "url": "https://www.siriusxm.com/resources/js/analytics.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 7994
+  },
+  {
+    "url": "https://cdn.cookielaw.org/consent/a94ca794-e01f-45f7-a5c0-0cae5107e46e/a94ca794-e01f-45f7-a5c0-0cae5107e46e.json",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 5194
+  },
+  {
+    "url": "https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1793814601765",
+    "status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "length": 185
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-Q5DE4FXP41&l=dataLayer",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 531212
+  },
+  {
+    "url": "https://sierra.chat/agent/nulaz9wBijgxP-EBkS6Nez8dnG3Z2ycudo9sHsEgwGA/sxm",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 12019
+  },
+  {
+    "url": "https://cdn.quantummetric.com/qscripts/quantum-siriusxm.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "length": 359724
+  },
+  {
+    "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 68
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/tNbvX1OtgNAB_Fz2yE_aLEecSGY.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 17790
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC7401b0f0a1614681bae0c0cff51ba0b7-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 530
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/7Kz--JKWpRieuylUBt18iXQayZI.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 9229
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/A9bY4--QiHNhQTLixZ1ExNuxbJY.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 12704
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/fiFjctMNsOZLqSa-i2BMYM5PM6k.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 29303
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/NjLTC_maWtpQdirmtH5aA6O7rDc.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 10920
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/_QzdA7CjPNy3edE5tKSYr13Ascw.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 1347
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/UviS4TBJjgWfSrEajcYI4hyELR4.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 560
+  },
+  {
+    "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "length": 22
+  },
+  {
+    "url": "https://api.edge-gateway.siriusxm.com/device/v1/devices",
+    "status": 201,
+    "content_type": "application/json",
+    "length": 741
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/sPzFez-VtebH8NmOT7_uOwrrkpA.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 154946
+  },
+  {
+    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=hf70aa0&cookie_sync=1&upv=3.0.0&upid=wabf9tv&ref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball",
+    "status": 302,
+    "content_type": "text/html",
+    "length": 0
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/otBannerSdk.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 511525
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/0YU53_kPgQwbVMPbTC0Eqwh69AA.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 224503
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/uNbHPFpP0cRALFzzw3q_JfcqVfs.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 451953
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/haRVLhvvUqFu73JvO3WaiwhTDMQ.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 178663
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/-6qVY5qLs2DPgGHq5q3gmItOgaU.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 12989
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/4QiJwJjm6ReI-HQfREqLtBZahW0.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 135883
+  },
+  {
+    "url": "https://sierra.chat/-/cdn/8RiZN5cnMo_9GF_geHHuDxh8SJg.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 813703
+  },
+  {
+    "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "length": 22
+  },
+  {
+    "url": "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=ce35894e-b7b2-47cc-b7ca-a5a62031de3d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=049f15d6-cf48-4a4f-9809-8d61bf3aa8bf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793814602152-993422497&tw_session_start=1&twpid=tw.1793814602152.393651263946565880&txn_id=o37dn&type=javascript&version=2.4.12",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=ce35894e-b7b2-47cc-b7ca-a5a62031de3d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=049f15d6-cf48-4a4f-9809-8d61bf3aa8bf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793814602152-993422497&tw_session_start=1&twpid=tw.1793814602152.393651263946565880&txn_id=o37dn&type=javascript&version=2.4.12",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "length": 22
+  },
+  {
+    "url": "https://match.adsrvr.org/track/cei?advertiser_id=hf70aa0&cookie_sync=1&upv=3.0.0&upid=wabf9tv&ref=https%3a%2f%2fwww.siriusxm.com&redirect=1",
+    "status": 200,
+    "content_type": "text/html",
+    "length": 1371
+  },
+  {
+    "url": "https://js.adsrvr.org/universal_pixel.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 482
+  },
+  {
+    "url": "https://uipglob.semasio.net/tradedesk/1/get?sType=sync&sExtCookieId=d00a7154-dcc7-4991-8f21-55d3018f8ecd&gdpr=0&gdpr_consent=&sInitiator=external&_url=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dsemasio%26gdpr%3D0%26gdpr_consent%3D",
+    "status": 302,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://api.edge-gateway.siriusxm.com/session/v1/sessions/anonymous",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 1261
+  },
+  {
+    "url": "https://siriusxmradioinc.us-6.evergage.com/api2/event/prod_us?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJMZWFndWUgUGFnZSIsInVybCI6Imh0dHBzOi8vd3d3LnNpcml1c3htLmNvbS9zcG9ydHMvbWVucy1jb2xsZWdlLWJhc2tldGJhbGwiLCJ1cmxSZWZlcnJlciI6IiIsImNoYW5uZWwiOiJXZWIiLCJiZWFjb25WZXJzaW9uIjoxNiwiY29uZmlnVmVyc2lvbiI6IjM5MyIsImNvbnRlbnRab25lcyI6WyJjYV9pbmZvYmFyX3RvcF9vZl9wYWdlIiwiY2FfaW5mb2Jhcl9hY2NvdW50Y2VudGVyX2xvZ2luIiwiVGFiIExpc3QiLCJHbG9iYWwgTmF2IFRlc3QiLCJQcmltYXJ5IFBhY2thZ2UgQ2FyZCBPZmZlciJdfSwidXNlciI6eyJhbm9ueW1vdXNJZCI6ImQ3OGM2Y2I5OTg2YzVkZWQiLCJpZGVudGl0aWVzIjp7fSwiYXR0cmlidXRlcyI6e319LCJpbnRlcmFjdGlvbiI6eyJuYW1lIjoiVmlldyBDYXRhbG9nIE9iamVjdCIsImNhdGFsb2dPYmplY3QiOnsidHlwZSI6IkxlYWd1ZSIsImlkIjoiTWVuJ3MgQ29sbGVnZSBCYXNrZXRiYWxsIiwiYXR0cmlidXRlcyI6eyJuYW1lIjoiTWVuJ3MgQ29sbGVnZSBCYXNrZXRiYWxsIiwidXJsIjoiaHR0cHM6Ly93d3cuc2lyaXVzeG0uY29tL3Nwb3J0cy9tZW5zLWNvbGxlZ2UtYmFza2V0YmFsbCIsImltYWdlVXJsIjoiaHR0cHM6Ly93d3cuc2lyaXVzeG0uY29tL2NvbnRlbnQvZGFtL3N4bS1jb20vbG9nb3Mvc3htL1NYTUdlbmVyaWMtT3BlbkdyYXBoLXYxLmpwZyIsImRlc2NyaXB0aW9uIjoiU2lyaXVzWE0gYnJpbmdzIGxpdmUgcmFkaW8gcGxheS1ieS1wbGF5IG9mIGV2ZXJ5IGdhbWUgb2YgTWFyY2ggTWFkbmVzcy4gRnJvbSB0aGUgRmlyc3QgRm91ciB0byB0aGUgRmluYWwgRm91ciwgU2lyaXVzWE0gaGFzIHlvdXIgTWFyY2ggTWFkbmVzcyBjb3ZlcmVkLiJ9fX0sInBhZ2VWaWV3Ijp0cnVlLCJjb25zZW50cyI6W10sImFjY291bnQiOnt9LCJfdG9vbHNFdmVudExpbmtJZCI6IjY5MDk5NTExNjkyMzkwMzkiLCJleHBsYWluIjp0cnVlfQ%3D%3D",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "length": 137
+  },
+  {
+    "url": "https://uipglob.semasio.net/tradedesk/1/get2?sType=sync&sExtCookieId=d00a7154-dcc7-4991-8f21-55d3018f8ecd&gdpr=0&gdpr_consent=&sInitiator=external&_url=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dsemasio%26gdpr%3D0%26gdpr_consent%3D",
+    "status": 302,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://match.sync.ad.cpe.dotomi.com/w/user.sync?ptrid=13&gdpr=0&userid=d00a7154-dcc7-4991-8f21-55d3018f8ecd&redirect=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3D6szhitj",
+    "status": 302,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://secure-gl.imrworldwide.com/cgi-bin/m?ci=tradedesk&cg=d00a7154-dcc7-4991-8f21-55d3018f8ecd",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://siriusxmradioinc.us-6.evergage.com/pr?.top=303&item=%7B%22type%22%3A%22League%22%2C%22_id%22%3A%22Men%27s%20College%20Basketball%22%7D&action=View%20Catalog%20Object&.tt=220&.ttdns=6&.dt=782&.lt=1030&.btdns=1&.bv=16&_ak=siriusxmradioinc&_ds=prod_us&.scv=393&channel=Web&_r=475377&.anonId=d78c6cb9986c5ded&_anon=true",
+    "status": 204,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCd14bbfe5793148748e8a012912e7e0ea-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 767
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=DC-9170879&cx=c&gtm=4e6b30",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 424268
+  },
+  {
+    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=semasio&gdpr=0&gdpr_consent=",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=6szhitj",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-1066622487&cx=c&gtm=4e6b30",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 593043
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/d",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCd09af1cb32ab407f9e9820e0dbf0c629-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 2844
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-808791726&cx=c&gtm=4e6b30",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "length": 512724
+  },
+  {
+    "url": "https://cdn.cookielaw.org/consent/a94ca794-e01f-45f7-a5c0-0cae5107e46e/019987be-da81-75ee-902e-b1dc56a7e4ef/en.json",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 140538
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=1&auid=283262078.1793814603&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tid=DC-9170879&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=2086350252.1793814603&navt=n&npa=0&gtm=45fe6b30v9181637395za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123692835~123814185~123814946&tft=1793814602608&tfd=2209&tids=DC-9170879&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/v2/otPcPanel.json",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 70088
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otFlat.json",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 15345
+  },
+  {
+    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otCommonStyles.css",
+    "status": 200,
+    "content_type": "text/css",
+    "length": 26228
+  },
+  {
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=283262078.1793814603&gtm=45fe6b30v9181637395za208zb869737875zd869737875xecxf1&fmt=8",
+    "status": 204,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1793814602747&cv=11&fst=1793814602747&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=0&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=0&auid=283262078.1793814603&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=2086350252.1793814603&navt=n&npa=0&gtm=45be6b30v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&tft=1793814602771&tfd=2372&tids=AW-1066622487&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=0&auid=283262078.1793814603&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=2086350252.1793814603&navt=n&npa=0&_tu=AAI&gtm=45be6b30v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&tft=1793814602771&tfd=2372&tids=AW-1066622487&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1793814602747&cv=11&fst=1793814602747&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=0&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 6745
+  },
+  {
+    "url": "https://cdn.cookielaw.org/logos/static/ot_close.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 651
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6b30v873651601za208zb869737875zd869737875xf1&_p=1793814601784&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1835986835.1793814603&frm=0&ngs=1&pscdl=noapi&rcb=0&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&sid=1793814602&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=2367",
+    "status": 204,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 5445
+  },
+  {
+    "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "status": 200,
+    "content_type": "image/svg+xml",
+    "length": 497
+  },
+  {
+    "url": "https://cdn.cookielaw.org/logos/613d75ce-3c5b-4623-bcef-a0d3694b4214/bf4ae24d-5943-447c-b877-b2d51014c1d9/99f44d86-2f61-4b30-ac59-6bb3ee62db1c/SiriusXM-White.png",
+    "status": 200,
+    "content_type": "image/png",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC239abf77723141ae9c0f9e452ac13259-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1824
+  },
+  {
+    "url": "https://care.siriusxm.com/services/utility/env-info",
+    "status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "length": 409
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/10933071182/?random=1793814602922&cv=11&fst=1793814602922&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814944&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1793814602747&cv=11&fst=1793811600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=0&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3Ls2VS6WiV3eAufvT9auV9ILmHRO3OnByFSpW13UBricWWDkH4Cp_yjFLbzyN6X7tBFO3pN68uj834p46Lemg7_7AYzht6iAp612w3_3JtEQqMniZ8bZ_w-HZFO6mwN4_1xCT7T7J46vKUEzBJ8z2zPjiSNyMibhCKt5jLO3OTpvsdE6JYknUDNqdAshDYF680BGQs9Nel09l_EHxT2bzzirM4Sw50ml46rzMvCQbwYUTbzh_eaYwsFm5fPe1cnJMbQcNHrq-U0GdamYAWOCmA&random=4099244179&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10933071182/?random=1793814602922&cv=11&fst=1793814602922&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814944&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 6755
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/808791726/?random=1793814602944&cv=11&fst=1793814602944&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814944&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 6753
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/808791726/?random=1793814602944&cv=11&fst=1793814602944&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814944&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=0&auid=283262078.1793814603&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tid=AW-10933071182&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=2086350252.1793814603&navt=n&npa=0&_tu=AAI&gtm=45be6b30v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814944&tft=1793814602960&tfd=2561&tids=AW-10933071182~AW-808791726&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC25f0eacf86964870ac8f7f18c470198d-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 578
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/808791726/?random=1793814602944&cv=11&fst=1793811600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814944&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3GUrsVSzhzeFKP-nYzLjVpiXGAzrhOCeWwsnJ62ea9LH5-g6EQLA_lugKVxWeQnGDSfzdJ5TgzqLODYGwQSLGuDtWeF_QPwmKzjlT1AjQFWwPbF5EKOOziqKhx197PgDh7DtQTH8qGBR3ySCl5iD5vrXhIegMQ6qWEXhTLxB4kx7vjpFV9ksSkxhrzJqTVzec0aLaH9y1bfCxkgtSw4BkMaRY1jnzC_cJzMfM3OXYFwEsIQGrSW35hC0zlzegWIpT_eP_KMjZ0dNp7F9LeQCuA1IqKP6CEI7S5XAdEt8&random=2729606442&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/10933071182/?random=1793814602922&cv=11&fst=1793811600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814944&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3EPPMOcu6t1uZD0oi8jDrsYMZj6ocZMp9jxrVtk4H5IfRp80I7YCVMqHCzB7--h4GIYzQqx3DnZ0KdZvDlGjQRR7hGxWW29FF3wLwht4-3BQ-FCoYhDYFG-YFDG5p3NvUVW_xnB1pDiB1YBN9C4OeUiEN8bnjwcNkjsmvh_EuBwnqgTLJ4cbp4AxdqmJpTEHPVxVeTpw3K2x0dgheEuEsITwdK9FyPvNtU8PvUX3VX0BmVPll3XlDL10vbHPoErIy1IHKT4FEVkyp9izaNuzAHARNSYHk4Y0O9jxgavv&random=2863269238&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCfc8463f1d16f4ecfa0124913845311c4-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 2270
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793814602557&v=1793814602561&P=0&N=0&S=0&b=6593&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 90
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC8d53d8d33e2f44589505fcbfdba4af56-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 615
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCfb6f18cc2c7b44f78a8dbee7b16cf3c9-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 903
+  },
+  {
+    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=sitew0;cat=ix-dc0;u4=%PromoCode%;u9=%Page%20Name%20(processed)%;u13=%URL%20(non-PII)%;u14=%utm_source%;u15=%utm_medium%;u16=%utm_campaign%;u17=%utm_term%;u18=%UTM%20Segment%;ord=1;num=%axel%?",
+    "status": 302,
+    "content_type": "text/html; charset=UTF-8",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCba671f15b85048348ba88d98868d97c0-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 326
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCf346fe7a6faf4885b9ab82f82a4434a9-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1059
+  },
+  {
+    "url": "https://www.googleadservices.com/pagead/conversion.js",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 67303
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC85209933a4564d06ada419fe7fed9127-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1653
+  },
+  {
+    "url": "https://insight.adsrvr.org/track/realtimeconversion",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 36
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793814602557&v=1793814602656&H=4b70eb6ae0abe6c99d02606f&s=e0a4ae81f35e476996cb13ff78a45f42&U=4cea164ff4a28721dcd14630384cf32a&N=0&Q=2&S=0&b=7974&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793814602557&v=1793814602666&H=4b70eb6ae0abe6c99d02606f&s=e0a4ae81f35e476996cb13ff78a45f42&P=1&N=1&S=0&b=2895&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://c.hrzn-nxt.com/js/v2.12.0/connect.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 101519
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1793814603212&cv=9&fst=1793814603212&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247838%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 6409
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC8299f7b8de9d4353ad652e7fe6b35445-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 595
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793814602557&v=1793814602658&H=4b70eb6ae0abe6c99d02606f&s=e0a4ae81f35e476996cb13ff78a45f42&U=4cea164ff4a28721dcd14630384cf32a&Q=1&Y=1&X=09f33dc46ead43edbf5feba77e00a102&S=0&b=363005&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC2a9cee0f04914d42b438482d84f74304-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 684
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1793814603212&cv=9&fst=1793811600000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247838%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3C97uR8TWCyVQk_PbUgzQFXu5dYIcWyX0W0_Msz9spFYdP65czuPQ_MVrQhuXipAbPxQhBZ-zikMyJcz3O83YqUxH7w43rlGky-Xrfp9klzlbR7JfhhFyN2WrFoRNweDxNOS0yf9QLLSozdjWojbnAVKpY_YEYmcQFu7zlQPOTEvRSkbtlpAURhzBIhh9wJqhKF_UzcEg_fe2YNWpfM1FHMVov65oGrZVqEFOZ2JePZrH_5lgXlisDO-MjzoJ0Y16rfND2qTJ2FNBUoL3JwGk5Z-txdV4HedwbUAxw5v&random=1253293572&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC5fabb38e50eb43328d8d6065908d7433-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 724
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793814602557&v=1793814602751&H=4b70eb6ae0abe6c99d02606f&s=e0a4ae81f35e476996cb13ff78a45f42&N=1&Q=2&S=7974&b=1045&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=cbc20f6d-83d0-40e7-ae69-6f4b12658e5d&batch_time=1793814603049",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=7fb07f81-97c9-4e82-8fbc-9c91b0a96088&batch_time=1793814603073",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=fe291aed-cdae-4173-a89e-ecb330d77e3a&batch_time=1793814603053",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=uppfu00;cat=gener0;rcb=17;ord=5261284273838;npa=0;auiddc=283262078.1793814603;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6b30v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123692835~123814185~123814946;epver=2;dc_random=1793814603_w3aCeKzPDyb9VBuzG6xfP1rb4lRx7MK6TQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball?",
+    "status": 302,
+    "content_type": "text/html; charset=UTF-8",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCd678386d3a134f4994a223b7d1b247b9-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 3193
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=c4891c55-ed2b-494b-b25d-a097feae332b&batch_time=1793814603055",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://www.redditstatic.com/ads/pixel.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 88449
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCe21385d6188b4fe489e4b4db2bfacb9c-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 778
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=0e91a078-1812-4a24-a523-c98284bcb590&batch_time=1793814603054",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://l.hrzn-nxt.com/pxl?stm=1793814603254&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&page=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tv=js-2.12.0&tna=nf0&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=fab49828-fb30-406e-b204-e65f8a08570d&dtm=1793814603253&vp=1280x720&ds=1280x4467&vid=1&sid=50a1004c-2cc2-4b7d-9701-7309e0532642&duid=95698107-1de3-4ff7-9403-876340716395&fp=2876729029",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://9170879.fls.doubleclick.net/activityi;dc_pre=COPZ5ZHw7pcDFXXOSQAdCzYmyA;src=9170879;type=uppfu00;cat=gener0;rcb=17;ord=5261284273838;npa=0;auiddc=283262078.1793814603;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6b30v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123692835~123814185~123814946;epver=2;dc_random=1793814603_w3aCeKzPDyb9VBuzG6xfP1rb4lRx7MK6TQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball?",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "length": 965
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCfdd740d58b084ee3992b57661e2d2b22-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 644
+  },
+  {
+    "url": "https://pixel-config.reddit.com/pixels/t2_17cv3mpk/config",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 902
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC8a09fe16c1bf48cea84c79639d2a34b9-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1004
+  },
+  {
+    "url": "https://s.yimg.com/wi/ytc.js",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 19829
+  },
+  {
+    "url": "https://alb.reddit.com/rp?id=t2_17cv3mpk&event=PageVisit",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCc7314751362a495a8ef877eefc067fb4-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 376
+  },
+  {
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=COPZ5ZHw7pcDFXXOSQAdCzYmyA;src=9170879;type=uppfu00;cat=gener0;rcb=17;ord=5261284273838;npa=0;auiddc=*;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6b30v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123692835~123814185~123814946;epver=2;dc_random=1793814603_w3aCeKzPDyb9VBuzG6xfP1rb4lRx7MK6TQ;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=dd3a1ace-918b-4040-9275-31f40d1b5869&batch_time=1793814603328",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://c-dev.hrzn-nxt.com/js/v2.12.0/connect.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 101519
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=e877421b-ff43-4ad0-9cbe-8a1ea27109c4&batch_time=1793814603336",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCc624fd7e60ea497982d5ea25f0295bd9-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 361
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=42941348-3b2d-4329-aa54-6a6d11c9fd03&batch_time=1793814603351",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=fdc4bc2e-a8b3-4514-b6ef-c6ae5d8608f9&batch_time=1793814603330",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://s.yimg.com/wi/config/10212831.json",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 46
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=501133e8-35a9-4042-855d-8cd0a094af99&batch_time=1793814603373",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "length": 432815
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC76a971dfbb9f4d2dad6cfaed0dbdf23d-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 1455
+  },
+  {
+    "url": "https://apps.rokt-api.com/js/v2/us2-7978a58b69d80940a19b7521195c1341/app.js?env=0&",
+    "status": 200,
+    "content_type": "application/javascript",
+    "length": 367096
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=6a9afe42-ab38-4475-b64a-c8cafb68daf7&batch_time=1793814603508",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=563ea0fd-8667-4ce7-9c01-4173b98efaa9&batch_time=1793814603502",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=73c48e63-c87f-40a5-8b51-2cd1642f23d4&batch_time=1793814603468",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Axhr%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=f3479286-493f-4438-92d9-7da6a09f54f5&batch_time=1793814603503",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://ad.doubleclick.net/activity;src=9170879;type=uppfu00;cat=gener0;rcb=17;ord=5261284273838;npa=0;auiddc=283262078.1793814603;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6b30v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123692835~123814185~123814946;epver=2;dc_random=1793814603_w3aCeKzPDyb9VBuzG6xfP1rb4lRx7MK6TQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball?",
+    "status": 302,
+    "content_type": "text/html; charset=UTF-8",
+    "length": 0
+  },
+  {
+    "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Wed%2C%2004%20Nov%202026%2017%3A50%3A03%20GMT&n=0&b=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&.yp=10212831&f=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&enc=UTF-8&yv=1.17.1&tagmgr=gtm%2Cadobe",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCeafe253eaa134f8f9711a58c411fbe36-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 341
+  },
+  {
+    "url": "https://ad.doubleclick.net/activity;_dc_ptd=ChEIgMyr1wYQ2v7a1qKW-ae5ARIfABILospDgpvcE_DY3ZqGALuM8SBZBNw2UwL4GfkVNw;dc_pre=CIjA5ZHw7pcDFaQOhAgdkwMG9Q;src=9170879;type=uppfu00;cat=gener0;rcb=17;ord=5261284273838;npa=0;auiddc=283262078.1793814603;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6b30v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123692835~123814185~123814946;epver=2;dc_random=1793814603_w3aCeKzPDyb9VBuzG6xfP1rb4lRx7MK6TQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball?",
+    "status": 302,
+    "content_type": "text/html; charset=UTF-8",
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=11342916622360528716;_dc_ptd=ChEIgMyr1wYQ2v7a1qKW-ae5ARIlABILosoowRCdnh9lHveqcgr1Kdjy8AulLyJfps1MJphp30siAA;_dc_time=1793814603;cid=CAQS4gEAQM4h3JnGeBpms8NsNxlHDY7oYDnPn49dIitJqQnmhG-xQJtBdVahcnhz28fZ35-QVjbouWrYkApZnJybM8erVAolddRiNAb1KTDiE-tESJBxfeXy_DxJEiy3t-HZDHyAKuZ469-QR5aBNd6VSV7pkL_3SheiAOfvC6y5GdDgXdm0Q5i_6cJx34hfC-BlVojldr1wYBfnai-5tUaz1ltM8UZBvXoLQ0k7nPMW5qhCaGjr8q5ikGGqhZc6T08kgmXZeomQJOB-2sF1S7roMvBCYFq1zXyQTS9R7FFoELYmAA78;eps=AHas8cAMBqJcHJsp8xZN-tagRQCfnP8IKbr6hizGka97t9qn9MN-Drhf7cmnBR1n-SslNaxQzdB5Ys5ovFsyVo0QaIBxbT9nPcqgZw4NkzTULW0ONQ;dc_pre=CIjA5ZHw7pcDFaQOhAgdkwMG9Q;src=9170879;type=uppfu00;cat=gener0;rcb=17;ord=5261284273838;npa=0;auiddc=283262078.1793814603;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6b30v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123692835~123814185~123814946;epver=2;dc_random=1793814603_w3aCeKzPDyb9VBuzG6xfP1rb4lRx7MK6TQ;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball?",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s37046511024670?AQB=1&ndh=1&pf=1&t=4%2F10%2F2026%2017%3A50%3A3%203%200&mid=89660665019369375688774131455799237668&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Amens-college-basketball&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&c.&getPreviousValue=3.0.1&.c&cc=USD&ch=SiriusXM.com%20Flow&events=event1%2Cevent247&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v10=www%3Asports%3Amens-college-basketball&c13=D%3Dv32&c21=D%3Dv21&v21=new&c22=D%3Dv22&v22=1&c23=D%3Dv23&v23=First%20page%20view%20or%20cookies%20not%20supported&v25=undefined&v29=%20%3E%20%20%3E%20&v32=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&v33=Not%20Targeted&c35=www%3Asports%3Amens-college-basketball&c44=year%3D2026%20%7C%20month%3DNovember%20%7C%20date%3D4%20%7C%20day%3DWednesday%20%7C%20time%3D12%3A50%20PM&c45=16&c66=89660665019369375688774131455799237668&v79=e0a4ae81f35e476996cb13ff78a45f42&v80=Learn%20%7C%20Content&v82=na_na_na&v89=89660665019369375688774131455799237668&v143=true&v152=PHX&v164=1280x720&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&AQE=1",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCdbe7726476a24710b91d5febe9613cc9-source.min.js",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "length": 966
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/integrations/launcher.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 114039
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/1568087270153240?v=2.9.435&r=stable&domain=www.siriusxm.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "length": 385691
+  },
+  {
+    "url": "https://l-dev.hrzn-nxt.com/pxl?stm=1793814603484&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&page=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tv=js-2.12.0&tna=nf00&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=d35a06cc-2733-488c-a4d4-8d932abea9c0&dtm=1793814603483&vp=1280x720&ds=1280x4467&vid=1&sid=50a1004c-2cc2-4b7d-9701-7309e0532642&duid=95698107-1de3-4ff7-9403-876340716395&fp=2876729029",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1793814603715&cv=11&fst=1793814603715&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=0&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "status": 200,
+    "content_type": "text/javascript; charset=UTF-8",
+    "length": 6799
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6b30v873651601za200zb869737875zd869737875xf1&_p=1793814601784&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AEAAAAQ&ae=a&cid=1835986835.1793814603&frm=0&ngs=1&pscdl=noapi&rcb=0&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=2&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&sid=1793814602&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&_tu=AAI&en=scroll&epn.percent_scrolled=90&_et=26&tfd=3342",
+    "status": 204,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1793814603715&cv=11&fst=1793814603715&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=0&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=0&auid=283262078.1793814603&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=2086350252.1793814603&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6b30v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&tft=1793814603751&tfd=3353&tids=AW-1066622487&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=538ca9a3-12fb-4ae8-a301-1783394c1553&batch_time=1793814603677",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://apps.rokt-api.com/identity/v1/identify",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "length": 176
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/controller/index.2.23696.0.html",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "length": 394103
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/controller/services.2.23696.0.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 121413
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/index.html",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "length": 908
+  },
+  {
+    "url": "https://apps.rokt.com/sync?redir=https%3A%2F%2Fcookiesync.us2.mparticle.com%2Fv1%2Fsync%3Fesid%3D11723%26MPID%3D-3341233754123794715%26ID%3D%24%7BRoktRecogniser%7D%26Key%3Dus2-7978a58b69d80940a19b7521195c1341%26env%3D2",
+    "status": 302,
+    "content_type": "text/html",
+    "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=78978673-8651-4d98-8631-e775ac63a8bb&batch_time=1793814603761",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/global-reporter.82b12a15b9607871074b.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 12944
+  },
+  {
+    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 42
+  },
+  {
+    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 42
+  },
+  {
+    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/index.012c9713155a9557f0c3.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "length": 680186
+  },
+  {
+    "url": "https://apps.rokt.com/icons/rokt-icons.woff",
+    "status": 200,
+    "content_type": "font/woff",
+    "length": 0
+  },
+  {
+    "url": "https://apps.rokt.com/wsdk/session-transfer/index.2.23696.0.html",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "length": 16703
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1793814603715&cv=11&fst=1793811600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b30v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=0&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=283262078.1793814603&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Jq4FitbokbAC1TiJIoZq3AGYh5lh6SAcNcij3zfi1Z8A9coJJ5nY0cQLdH2upCDJP-3Pym9-e4b0DwcB9ra2dvgd3cLyAERU_gPs1b43TBMSpaq3oUd6wYN0HmU9rT1Nnghl3rrhkFjejBi5XFB4ltdNcd9XGIhyN21M1zikVZRXZjC5aWGNyp8aWrPJgMiMkxC8dkvB7S3Z_qth10ZujkTFryk-z4MLUPTjYhMTA3C-yrP-0yX5Vxjg_I256rpO0twbEWL8Gspe4UXLfrHTarlP0_siLggAp3ddBq8&random=181748431&rmt_tld=0&ipr=y",
+    "status": 200,
+    "content_type": "image/gif",
+    "length": 0
+  },
+  {
+    "url": "https://cookiesync.us2.mparticle.com/v1/sync?esid=11723&MPID=-3341233754123794715&ID=4a6bfddf-9b15-420f-95b6-eda171fc876f&Key=us2-7978a58b69d80940a19b7521195c1341&env=2",
+    "status": 204,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=aae5a6be-bed7-4ee4-b813-a8d0e0a34a61&batch_time=1793814604179",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/1225677084239985?v=2.9.435&r=stable&domain=www.siriusxm.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C276%2C274%2C269%2C271%2C272%2C273%2C270%2C268%2C255%2C275%2C277%2C267%2C218%2C219%2C279%2C278%2C280%2C266%2C265%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C350%2C236%2C235%2C234%2C287%2C243%2C221%2C222%2C220%2C392%2C384%2C385%2C376%2C381%2C378%2C380%2C379%2C377%2C386%2C388%2C383%2C389%2C382%2C387%2C375%2C232",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "length": 402227
+  },
+  {
+    "url": "https://mpc-prod-21-1053047382554.us-central1.run.app/events?cee=no",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://www.facebook.com/tr/?id=1568087270153240&ev=PageView&dl=https%3A%2F%2Fwww.siriusxm.com&rl=&if=false&ts=1793814604364&iw=false&sw=1280&sh=720&v=2.9.435&r=stable&ec=0&o=77854&aems=0%3B0&fbp=fb.1.1793814604361.59562355550512627&pm=1&hrl=ca990f&ler=empty&plt=782&ups[pv]=%7B%7D&ups[rpv]=%7B%7D&it=1793814603614&coo=false&cs_cc=1&cas=1313112115444652%2C1331775646914282%2C1175231442604230%2C27925763907095976%2C27589162074048205%2C32473461002300984%2C8863323160428962%2C8915292338552897%2C8394134470614040%2C7103430986451982%2C7439106376154512%2C8411249828903491%2C7182887261838687%2C7503679319668180%2C28305177402468353%2C9980382442066358%2C8913209118753865%2C8833976973377626%2C29199906402943260%2C10077553238940864%2C3754944767919850&dlc=1&expv2[0]=mr1&expv2[1]=pl0&expv2[2]=el2&expv2[3]=bc1&expv2[4]=ra0&expv2[5]=rp0&expv2[6]=im1&expv2[7]=hf0&expv2[8]=dp1&expv2[9]=fw1&expv2[10]=cn1&expv2[11]=tz1&expv2[12]=pe1&expv2[13]=ee1&expv2[14]=bu1&expv2[15]=ta1&expv2[16]=ot1&expv2[17]=hv1&expv2[18]=ep1&expv2[19]=rh0&expv2[20]=ah0&expv2[21]=nv1&expv2[22]=oq0&rqm=GET",
+    "status": 200,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://www.facebook.com/tr/",
+    "status": 200,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=2d29b13f-7502-4800-9454-1ac4eb615475&batch_time=1793814604986",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s33840429621211?AQB=1&ndh=1&pf=1&t=4%2F10%2F2026%2017%3A50%3A5%203%200&mid=89660665019369375688774131455799237668&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Amens-college-basketball&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&cc=USD&events=event3&c6=www%3Asports%3Amens-college-basketball&c7=Deny%20Non-Essential%20Cookies&c8=www%3Asports%3Amens-college-basketball%20%7C%20Deny%20Non-Essential%20Cookies&c9=OneTrust%20Banner&c10=www%3Asports%3Amens-college-basketball%20%7C%20Deny%20Non-Essential%20Cookies%20%7C%20OneTrust%20Banner&v10=www%3Asports%3Amens-college-basketball&pe=lnk_o&pev2=Deny%20Non-Essential%20Cookies&c.&a.&activitymap.&page=www%3Asports%3Amens-college-basketball&link=Deny%20Non-Essential%20Cookies&region=onetrust-button-group&pageIDType=1&.activitymap&.a&.c&pid=www%3Asports%3Amens-college-basketball&pidt=1&oid=Deny%20Non-Essential%20Cookies&oidt=3&ot=SUBMIT&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=138&AQE=1",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=2&event_id=6e589705-9199-4d51-9290-866d79554cfa&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=049f15d6-cf48-4a4f-9809-8d61bf3aa8bf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tw_engaged_ms=3066&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793814602152-993422497&twpid=tw.1793814602152.393651263946565880&txn_id=o37dn&type=javascript&version=2.4.12",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://www.facebook.com/tr/",
+    "status": 200,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6b30v873651601za208zb869737875zd869737875xf1&_p=1793814601784&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAACAAQ&cid=1835986835.1793814603&frm=0&ngs=1&pscdl=noapi&rcb=0&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=3&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&sid=1793814602&sct=1&seg=1&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&_tu=AAI&en=page_view&_ee=1&_et=943&tfd=4875",
+    "status": 204,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6b30v873651601za208zb869737875zd869737875xf1&_p=1793814601784&gcs=G100&gcd=13m3m3m3m5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_eu=AAAC&cid=1967678876.1793814605&frm=0&ngs=1&pscdl=denied&rcb=0&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=4&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&sid=1793814605&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=4876",
+    "status": 204,
+    "content_type": "text/plain",
+    "length": 0
+  },
+  {
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=2&event_id=6e589705-9199-4d51-9290-866d79554cfa&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=049f15d6-cf48-4a4f-9809-8d61bf3aa8bf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tw_engaged_ms=3066&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793814602152-993422497&twpid=tw.1793814602152.393651263946565880&txn_id=o37dn&type=javascript&version=2.4.12",
+    "status": 200,
+    "content_type": "image/gif;charset=utf-8",
+    "length": 0
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=0&frm=0&apvc=0&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=2086350252.1793814603&navt=n&npa=1&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6b30v873651601za208zb869737875zd869737875xecxf1&gcs=G100&gcd=13m3m3m3m5l1&dma_cps=-&dma=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121191153~121246026~121246034~123691370~123814185~123814946&tft=1793814605284&tfd=4885&tids=AW-1066622487&fmt=8",
+    "status": 200,
+    "content_type": null,
+    "length": 0
+  },
+  {
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=72475ae7-b850-44af-987e-5ba86dfe5c22&batch_time=1793814606218",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793814602557&v=1793814606064&H=4b70eb6ae0abe6c99d02606f&s=e0a4ae81f35e476996cb13ff78a45f42&P=2&N=2&S=2895&b=33571&z=1",
+    "status": 200,
+    "content_type": "application/json",
+    "length": 0
+  },
+  {
+    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793814602557&v=1793814606064&H=4b70eb6ae0abe6c99d02606f&s=e0a4ae81f35e476996cb13ff78a45f42&N=2&Q=2&S=9019&b=8340&z=1",
+    "status": 200,
+    "content_type": "application/json",
     "length": 0
   },
   {
@@ -588,61 +1572,25 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9yb3R0ZW4vcm90dGVuLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=2&event_id=37365d81-a413-48cf-9daf-505c95ccb956&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Thursday%2C%20November%205%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=049f15d6-cf48-4a4f-9809-8d61bf3aa8bf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tw_engaged_ms=4467&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793814602152-993422497&twpid=tw.1793814602152.393651263946565880&txn_id=o37dn&type=javascript&version=2.4.12",
     "status": 200,
-    "content_type": "image/avif",
+    "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNWMvNWM2MmFjNDFmNDg2Yzc0OGE2YzU1MmI1Yzk0ZmQxMjFfMTczOTIwMzIxNy5wbmciLCJlZGl0cyI6W3sicmVzaXplIjp7IndpZHRoIjoxMjgsImhlaWdodCI6MTI4fX0seyJmb3JtYXQiOnsidHlwZSI6ImF2aWYifX1dfQ==",
+    "url": "https://www.facebook.com/tr/",
     "status": 200,
-    "content_type": "image/avif",
+    "content_type": "text/plain",
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vY2YvY2Y5MGVhZGRjNGVkMDc0Zjk5OWYyYmE4OGQyZGIyMTdfMTcwMTM2MTI5Ny5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=2&event_id=37365d81-a413-48cf-9daf-505c95ccb956&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Thursday%2C%20November%205%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=049f15d6-cf48-4a4f-9809-8d61bf3aa8bf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tw_engaged_ms=4467&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793814602152-993422497&twpid=tw.1793814602152.393651263946565880&txn_id=o37dn&type=javascript&version=2.4.12",
     "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vOTcvOTc4M2EwY2Q3MzkzOWNmYzcyOWIwMTMyYmY3NWVkZmNfMTY5OTM3NjA4MC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL25mbC9DaEVudC1ORkxCYWxsMi0xeDEtNjQwLUNFQ00tMzIxMzUtdjIuanBnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6NDUwLCJoZWlnaHQiOjQ1MH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9jYWxsLWhlci1kYWRkeS9DYWxsSGVyRGFkeVBvZGNhc3RGUE8uanBlZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi8yNC8yNDdkNzJjZWNhNDUzMmYwODM4YTExOTViNGQxMjEzOF8xNzU0MDM1NDUzLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
+    "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
     "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi83Yi83YjJmOTMzZjQ4NjMzOWU3YjViNjY4MjM0MjFlODRkZV8xNzgyMTg2NTU2LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi82Mi82MjNlOGIwNDQ3YjIzMDJjOWU4ZTUxZWE2YzMwMDI0MF8xNzgyMDU0MTQ0LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
-    "status": 200,
-    "content_type": "image/avif",
-    "length": 0
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMTUvMTU0MzY0ZWEwOWM0NWU5ODBkYmQ0M2RkYjU5NWIyMzlfMTY5OTM2NjY4MC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
     "content_type": "image/avif",
     "length": 0
@@ -660,10 +1608,40 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/banners/Google_Play_Store_badge_EN.svg",
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 7145
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvc3BvcnRzL25mbC9DaEVudC1ORkxCYWxsMi0xeDEtNjQwLUNFQ00tMzIxMzUtdjIuanBnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6NDUwLCJoZWlnaHQiOjQ1MH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9yb3R0ZW4vcm90dGVuLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi82Mi82MjNlOGIwNDQ3YjIzMDJjOWU4ZTUxZWE2YzMwMDI0MF8xNzgyMDU0MTQ0LnBuZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJpZi8yNC8yNDdkNzJjZWNhNDUzMmYwODM4YTExOTViNGQxMjEzOF8xNzU0MDM1NDUzLmpwZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vY2YvY2Y5MGVhZGRjNGVkMDc0Zjk5OWYyYmE4OGQyZGIyMTdfMTcwMTM2MTI5Ny5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
   },
   {
     "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwLCJoZWlnaHQiOjEwMH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
@@ -672,7 +1650,25 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMjUvMjVjOWM5YmQ1YzIxNWMwZTUwMzg4YTdlZTJhNmU5ZTZfMTczODk1MjAxMS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMTUvMTU0MzY0ZWEwOWM0NWU5ODBkYmQ0M2RkYjU5NWIyMzlfMTY5OTM2NjY4MC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMGMvMGMzZjM0ZjgyZDdlYzk5MGM1ZGVkZDE1MGM1OWIzNmRfMTcxOTUwMzE2OS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJjb250ZW50L2RhbS9zeG0tY29tL3Byb2dyYW1taW5nLWNvbnRlbnQvcG9kY2FzdC9jYWxsLWhlci1kYWRkeS9DYWxsSGVyRGFkeVBvZGNhc3RGUE8uanBlZyIsImVkaXRzIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyOCwiaGVpZ2h0IjoxMjh9fSx7ImZvcm1hdCI6eyJ0eXBlIjoiYXZpZiJ9fV19",
+    "status": 200,
+    "content_type": "image/avif",
+    "length": 0
+  },
+  {
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vNWMvNWM2MmFjNDFmNDg2Yzc0OGE2YzU1MmI1Yzk0ZmQxMjFfMTczOTIwMzIxNy5wbmciLCJlZGl0cyI6W3sicmVzaXplIjp7IndpZHRoIjoxMjgsImhlaWdodCI6MTI4fX0seyJmb3JtYXQiOnsidHlwZSI6ImF2aWYifX1dfQ==",
     "status": 200,
     "content_type": "image/avif",
     "length": 0
@@ -684,993 +1680,33 @@
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/content/dam/sxm-com/logos/banners/Download_on_the_App_Store_Badge.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 12353
-  },
-  {
-    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vMGMvMGMzZjM0ZjgyZDdlYzk5MGM1ZGVkZDE1MGM1OWIzNmRfMTcxOTUwMzE2OS5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
+    "url": "https://www.siriusxm.com/imgo/eyJrZXkiOiJhZW0vOTcvOTc4M2EwY2Q3MzkzOWNmYzcyOWIwMTMyYmY3NWVkZmNfMTY5OTM3NjA4MC5qcGVnIiwiZWRpdHMiOlt7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4LCJoZWlnaHQiOjEyOH19LHsiZm9ybWF0Ijp7InR5cGUiOiJhdmlmIn19XX0=",
     "status": 200,
     "content_type": "image/avif",
     "length": 0
   },
   {
-    "url": "https://www.siriusxm.com/api/mountain/3vJ0XztHyNwda4ckpGBhue",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 288
-  },
-  {
-    "url": "https://www.siriusxm.com/_next/static/chunks/3xj34r_va4996.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 526962
-  },
-  {
-    "url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement_Module_ActivityMap.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 3284
-  },
-  {
-    "url": "https://assets.adobedtm.com/extensions/EP31dbb9c60e404ba1aa6e746d49be6f29/AppMeasurement.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 36178
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCa49be69f0b79440d86fc2095dac20537-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1047
-  },
-  {
-    "url": "https://www.siriusxm.com/resources/js/analytics.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 7994
-  },
-  {
-    "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 46138
-  },
-  {
-    "url": "https://static.ads-twitter.com/uwt.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 62052
-  },
-  {
-    "url": "https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&d_nsid=0&d_coppa=true&ts=1793727428192",
-    "status": 200,
-    "content_type": "application/json;charset=utf-8",
-    "length": 185
-  },
-  {
-    "url": "https://cdn.evgnet.com/beacon/siriusxmradioinc/prod_us/scripts/evergage.min.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 264130
-  },
-  {
-    "url": "https://cdn.cookielaw.org/consent/a94ca794-e01f-45f7-a5c0-0cae5107e46e/a94ca794-e01f-45f7-a5c0-0cae5107e46e.json",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 5194
-  },
-  {
-    "url": "https://sierra.chat/agent/nulaz9wBijgxP-EBkS6Nez8dnG3Z2ycudo9sHsEgwGA/sxm",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 12085
-  },
-  {
-    "url": "https://cdn.quantummetric.com/qscripts/quantum-siriusxm.js",
-    "status": 200,
-    "content_type": "text/javascript",
-    "length": 359721
-  },
-  {
-    "url": "https://www.googletagmanager.com/gtag/js?id=G-Q5DE4FXP41&l=dataLayer",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 531916
-  },
-  {
-    "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
-    "status": 200,
-    "content_type": "application/json; charset=utf-8",
-    "length": 22
-  },
-  {
-    "url": "https://api.edge-gateway.siriusxm.com/device/v1/devices",
-    "status": 201,
-    "content_type": "application/json",
-    "length": 741
-  },
-  {
-    "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
-    "status": 200,
-    "content_type": "application/json; charset=utf-8",
-    "length": 22
-  },
-  {
-    "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 69
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC7401b0f0a1614681bae0c0cff51ba0b7-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 530
-  },
-  {
-    "url": "https://api.edge-gateway.siriusxm.com/time/v1/metronome",
-    "status": 200,
-    "content_type": "application/json; charset=utf-8",
-    "length": 22
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/_GBcjmTYAs-FRLKn9EI4yY5gbHs.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 12713
-  },
-  {
-    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=hf70aa0&cookie_sync=1&upv=3.0.0&upid=wabf9tv&ref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball",
-    "status": 302,
-    "content_type": "text/html",
-    "length": 0
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/tJEhCaUQQ3LivQwoSv7oA5bP_S8.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 1353
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/fSPOl1590Jtgg0CPlNwwH-CGH0s.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 12775
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/TvnB6RWKDPEFl4BdeIKpnmJo7pE.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 9232
-  },
-  {
-    "url": "https://api.edge-gateway.siriusxm.com/session/v1/sessions/anonymous",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 1263
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/1V4FoTcaYyGsnKpH0lmJzbItqCw.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 2212
-  },
-  {
-    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=387e1193-5ff1-4a00-bb12-c82e384e1983&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=01899f44-7841-4a68-845b-33045d12224f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tw_engaged_ms=4&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793727428560-863492250&tw_session_start=1&twpid=tw.1793727428560.527405135242432996&txn_id=o37dn&type=javascript&version=2.4.12",
+    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s3670545480581?AQB=1&ndh=1&pf=1&t=4%2F10%2F2026%2017%3A50%3A6%203%200&mid=89660665019369375688774131455799237668&aamlh=9&ce=UTF-8&pageName=www%3Asports%3Amens-college-basketball&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&cc=USD&events=event3&c6=www%3Asports%3Amens-college-basketball&c7=filter%20games%20by%20date&c8=www%3Asports%3Amens-college-basketball%20%7C%20filter%20games%20by%20date&c9=contextualComponent&c10=www%3Asports%3Amens-college-basketball%20%7C%20filter%20games%20by%20date%20%7C%20contextualComponent&v10=www%3Asports%3Amens-college-basketball&pe=lnk_o&pev2=filter%20games%20by%20date&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=55&AQE=1",
     "status": 200,
     "content_type": "image/gif;charset=utf-8",
     "length": 0
   },
   {
-    "url": "https://sierra.chat/-/cdn/pAGDP3QrKj3Sp8XpvWxIRAegfx4.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 7979
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=be9e91da-3a47-440f-97c3-3f4474819bf0&batch_time=1793814606769",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
   },
   {
-    "url": "https://sierra.chat/-/cdn/jXT2tWz6_4ripBlZlM1LHQoXgVM.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 17794
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&ddtags=sdk_version%3A5.35.1%2Capi%3Afetch%2Cenv%3Aproddelv%2Cservice%3Asxm-cecm-web-www%2Cversion%3AMX_6755&dd-api-key=pub2efebd86de973d3161e20023ac07e68a&dd-evp-origin-version=5.35.1&dd-evp-origin=browser&dd-request-id=5b4a8ba1-c81b-4d2c-ac02-bc14d7c31aa1&batch_time=1793814606792",
+    "status": 202,
+    "content_type": "application/json",
+    "length": 53
   },
   {
-    "url": "https://sierra.chat/-/cdn/bXx2Afro6iLFG7GIsmMEYPJVQjI.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 135713
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/S_o98tYpxxEVQtpIwkzGE6arBpA.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 491
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/NfN5KkCrxi07dbsCypfUHFCLrr4.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 29304
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/OGfhO5wtngvRA_K6v4N1CXST4F8.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 177187
-  },
-  {
-    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/otBannerSdk.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 511525
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/aQ9etNsv-qXe5bZQDequfSDQMh8.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 224499
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/cQaK5R1nfDCz95BDCXu9Wt14p2Q.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 468468
-  },
-  {
-    "url": "https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=387e1193-5ff1-4a00-bb12-c82e384e1983&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=01899f44-7841-4a68-845b-33045d12224f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tw_engaged_ms=4&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793727428560-863492250&tw_session_start=1&twpid=tw.1793727428560.527405135242432996&txn_id=o37dn&type=javascript&version=2.4.12",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/L3mTpGTTRhWd051BR_wAoCJNlbw.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 495615
-  },
-  {
-    "url": "https://sierra.chat/-/cdn/Br8NewMvqaMaomxmflGta_iOvRc.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 453831
-  },
-  {
-    "url": "https://match.adsrvr.org/track/cei?advertiser_id=hf70aa0&cookie_sync=1&upv=3.0.0&upid=wabf9tv&ref=https%3a%2f%2fwww.siriusxm.com&redirect=1",
-    "status": 200,
-    "content_type": "text/html",
-    "length": 1349
-  },
-  {
-    "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=55d523fb-b6ec-45ed-952e-773705f907bf&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
-    "status": 302,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=903&dpuuid=55d523fb-b6ec-45ed-952e-773705f907bf&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
-    "status": 302,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://js.adsrvr.org/universal_pixel.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 482
-  },
-  {
-    "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=55d523fb-b6ec-45ed-952e-773705f907bf&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
-    "status": 302,
-    "content_type": "text/html",
-    "length": 0
-  },
-  {
-    "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=55d523fb-b6ec-45ed-952e-773705f907bf",
-    "status": 307,
-    "content_type": "text/html; charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3D55d523fb-b6ec-45ed-952e-773705f907bf",
-    "status": 302,
-    "content_type": "text/html; charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://care.siriusxm.com/services/utility/env-info",
-    "status": 200,
-    "content_type": "application/json;charset=utf-8",
-    "length": 409
-  },
-  {
-    "url": "https://siriusxmradioinc.us-6.evergage.com/api2/event/prod_us?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJMZWFndWUgUGFnZSIsInVybCI6Imh0dHBzOi8vd3d3LnNpcml1c3htLmNvbS9zcG9ydHMvbWVucy1jb2xsZWdlLWJhc2tldGJhbGwiLCJ1cmxSZWZlcnJlciI6IiIsImNoYW5uZWwiOiJXZWIiLCJiZWFjb25WZXJzaW9uIjoxNiwiY29uZmlnVmVyc2lvbiI6IjM5MyIsImNvbnRlbnRab25lcyI6WyJjYV9pbmZvYmFyX3RvcF9vZl9wYWdlIiwiY2FfaW5mb2Jhcl9hY2NvdW50Y2VudGVyX2xvZ2luIiwiVGFiIExpc3QiLCJHbG9iYWwgTmF2IFRlc3QiLCJQcmltYXJ5IFBhY2thZ2UgQ2FyZCBPZmZlciJdfSwidXNlciI6eyJhbm9ueW1vdXNJZCI6IjJlZTgyOWY2M2M4YzU5ZGMiLCJpZGVudGl0aWVzIjp7fSwiYXR0cmlidXRlcyI6e319LCJpbnRlcmFjdGlvbiI6eyJuYW1lIjoiVmlldyBDYXRhbG9nIE9iamVjdCIsImNhdGFsb2dPYmplY3QiOnsidHlwZSI6IkxlYWd1ZSIsImlkIjoiTWVuJ3MgQ29sbGVnZSBCYXNrZXRiYWxsIiwiYXR0cmlidXRlcyI6eyJuYW1lIjoiTWVuJ3MgQ29sbGVnZSBCYXNrZXRiYWxsIiwidXJsIjoiaHR0cHM6Ly93d3cuc2lyaXVzeG0uY29tL3Nwb3J0cy9tZW5zLWNvbGxlZ2UtYmFza2V0YmFsbCIsImltYWdlVXJsIjoiaHR0cHM6Ly93d3cuc2lyaXVzeG0uY29tL2NvbnRlbnQvZGFtL3N4bS1jb20vbG9nb3Mvc3htL1NYTUdlbmVyaWMtT3BlbkdyYXBoLXYxLmpwZyIsImRlc2NyaXB0aW9uIjoiU2lyaXVzWE0gYnJpbmdzIGxpdmUgcmFkaW8gcGxheS1ieS1wbGF5IG9mIGV2ZXJ5IGdhbWUgb2YgTWFyY2ggTWFkbmVzcy4gRnJvbSB0aGUgRmlyc3QgRm91ciB0byB0aGUgRmluYWwgRm91ciwgU2lyaXVzWE0gaGFzIHlvdXIgTWFyY2ggTWFkbmVzcyBjb3ZlcmVkLiJ9fX0sInBhZ2VWaWV3Ijp0cnVlLCJjb25zZW50cyI6W10sImFjY291bnQiOnt9LCJfdG9vbHNFdmVudExpbmtJZCI6IjE2OTc1MDA4NDA2NjIwODQiLCJleHBsYWluIjp0cnVlfQ%3D%3D",
+    "url": "https://siriusxmradioinc.us-6.evergage.com/api2/event/prod_us?event=eyJpbnRlcmFjdGlvbiI6eyJuYW1lIjoiU2FsZXNmbG93IERhdGEgQ2FwdHVyZSJ9LCJ1c2VyIjp7ImF0dHJpYnV0ZXMiOnt9LCJpZGVudGl0aWVzIjp7fSwiYW5vbnltb3VzSWQiOiJkNzhjNmNiOTk4NmM1ZGVkIn0sInNvdXJjZSI6eyJwYWdlVHlwZSI6IkxlYWd1ZSBQYWdlIiwidXJsIjoiaHR0cHM6Ly93d3cuc2lyaXVzeG0uY29tL3Nwb3J0cy9tZW5zLWNvbGxlZ2UtYmFza2V0YmFsbCIsInVybFJlZmVycmVyIjoiIiwiY2hhbm5lbCI6IldlYiIsImJlYWNvblZlcnNpb24iOjE2LCJjb25maWdWZXJzaW9uIjoiMzkzIiwiY29udGVudFpvbmVzIjpbXX0sImNvbnNlbnRzIjpbXSwiYWNjb3VudCI6e30sInBlcmZvcm1hbmNlIjp7InNka1BhcnNlVGltZSI6NSwic2RrTG9hZFRpbWUiOjM3fSwiX3Rvb2xzRXZlbnRMaW5rSWQiOiI2MjQzOTQ1ODY0NjQ5NzE4IiwiZXhwbGFpbiI6dHJ1ZX0%3D",
     "status": 200,
     "content_type": "application/json;charset=UTF-8",
     "length": 137
-  },
-  {
-    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=aam",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/d",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=1160447955884412708&ttd_tdid=55d523fb-b6ec-45ed-952e-773705f907bf",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://siriusxmradioinc.us-6.evergage.com/pr?.top=184&item=%7B%22type%22%3A%22League%22%2C%22_id%22%3A%22Men%27s%20College%20Basketball%22%7D&action=View%20Catalog%20Object&.tt=137&.ttdns=1&.dt=735&.lt=867&.btdns=2&.bv=16&_ak=siriusxmradioinc&_ds=prod_us&.scv=393&channel=Web&_r=856816&.anonId=2ee829f63c8c59dc&_anon=true",
-    "status": 204,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCd14bbfe5793148748e8a012912e7e0ea-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 767
-  },
-  {
-    "url": "https://www.googletagmanager.com/gtag/js?id=DC-9170879&cx=c&gtm=4e6au1",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 424784
-  },
-  {
-    "url": "https://www.googletagmanager.com/gtag/js?id=AW-1066622487&cx=c&gtm=4e6au1",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 593431
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCd09af1cb32ab407f9e9820e0dbf0c629-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 2844
-  },
-  {
-    "url": "https://cdn.cookielaw.org/consent/a94ca794-e01f-45f7-a5c0-0cae5107e46e/019987be-da81-75ee-902e-b1dc56a7e4ef/en.json",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 140538
-  },
-  {
-    "url": "https://www.googletagmanager.com/gtag/js?id=AW-808791726&cx=c&gtm=4e6au1",
-    "status": 200,
-    "content_type": "application/javascript; charset=UTF-8",
-    "length": 513223
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=1&auid=1559550029.1793727429&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tid=DC-9170879&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=1738502539.1793727429&navt=n&npa=0&gtm=45fe6au1v9181637395za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118131808~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370~123814945&tft=1793727429233&tfd=2478&tids=DC-9170879&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1559550029.1793727429&gtm=45fe6au1v9181637395za208zb869737875zd869737875xecxf1&fmt=8",
-    "status": 204,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otFlat.json",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 15345
-  },
-  {
-    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/otCommonStyles.css",
-    "status": 200,
-    "content_type": "text/css",
-    "length": 26228
-  },
-  {
-    "url": "https://cdn.cookielaw.org/scripttemplates/202508.2.0/assets/v2/otPcPanel.json",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 70088
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=14&frm=0&apvc=0&auid=1559550029.1793727429&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=1738502539.1793727429&navt=n&npa=0&gtm=45be6au1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&tft=1793727429434&tfd=2679&tids=AW-1066622487&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://cdn.cookielaw.org/logos/static/ot_close.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 651
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=14&frm=0&apvc=0&auid=1559550029.1793727429&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=1738502539.1793727429&navt=n&npa=0&_tu=AAI&gtm=45be6au1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&tft=1793727429435&tfd=2680&tids=AW-1066622487&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1793727429402&cv=11&fst=1793727429402&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=14&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6au1v873651601za208zb869737875zd869737875xf1&_p=1793727428221&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1398142673.1793727429&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&sid=1793727429&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=2673",
-    "status": 204,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1793727429402&cv=11&fst=1793727429402&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=14&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 6794
-  },
-  {
-    "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 5445
-  },
-  {
-    "url": "https://cdn.cookielaw.org/logos/613d75ce-3c5b-4623-bcef-a0d3694b4214/bf4ae24d-5943-447c-b877-b2d51014c1d9/99f44d86-2f61-4b30-ac59-6bb3ee62db1c/SiriusXM-White.png",
-    "status": 200,
-    "content_type": "image/png",
-    "length": 0
-  },
-  {
-    "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
-    "status": 200,
-    "content_type": "image/svg+xml",
-    "length": 497
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC239abf77723141ae9c0f9e452ac13259-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1824
-  },
-  {
-    "url": "https://insight.adsrvr.org/track/realtimeconversion",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 36
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793727429630&v=1793727429634&P=0&N=0&S=0&b=5409&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 90
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/10933071182/?random=1793727429733&cv=11&fst=1793727429733&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~120213116~120385423~120420415~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/808791726/?random=1793727429758&cv=11&fst=1793727429758&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~120213116~120385423~120420415~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=0&auid=1559550029.1793727429&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tid=AW-10933071182&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=1738502539.1793727429&navt=n&npa=0&_tu=AAI&gtm=45be6au1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~120213116~120385423~120420415~120469145~120469153~121246026~121246034~123691370&tft=1793727429777&tfd=3022&tids=AW-10933071182~AW-808791726&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC25f0eacf86964870ac8f7f18c470198d-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 578
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1793727429402&cv=11&fst=1793725200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=14&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS0wEAQM4h3KvPNzKpCIgR63Na9JOuQ_CuxCln0wZdH4YQXN9WbZ3g1u4ywtcmUUi4dQeP-WlYRcccFz4iW0ejIWo9nLnutzRiFoKGqI6isZOByi62jrMy3N19Rxis7nh0JrBrME7x_UX-2ki0OiwlI6kNme9cx_26crTx9Qn2Rg-ZQuDA7cYy_A0vigXm2FDe_PPaiwoWks_CN4Cbpc5FM_Q_2z-Tu_u7PFnxf-x5WPFhDxqa-0swZHLpkmt0vyr7LDSUC6btQ5S0yHybQRAcXwRrbOLf&random=327341730&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCfc8463f1d16f4ecfa0124913845311c4-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 2270
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC8d53d8d33e2f44589505fcbfdba4af56-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 615
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793727429630&v=1793727429802&H=c51bea6a5138acf1cb7aea10&s=fa30140aa79b4dc293c1a35899e98aa3&U=1f594a230fa6a353a9fce224f7efc124&N=0&Q=2&S=0&b=5998&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCfb6f18cc2c7b44f78a8dbee7b16cf3c9-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 903
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793727429630&v=1793727429814&H=c51bea6a5138acf1cb7aea10&s=fa30140aa79b4dc293c1a35899e98aa3&P=1&N=1&S=0&b=8222&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCba671f15b85048348ba88d98868d97c0-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 326
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCf346fe7a6faf4885b9ab82f82a4434a9-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1059
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793727429630&v=1793727429805&H=c51bea6a5138acf1cb7aea10&s=fa30140aa79b4dc293c1a35899e98aa3&U=1f594a230fa6a353a9fce224f7efc124&Q=1&Y=1&X=ae2e745e6f974b07b6b3c25d34967cfe&S=0&b=282525&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC85209933a4564d06ada419fe7fed9127-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1653
-  },
-  {
-    "url": "https://www.googleadservices.com/pagead/conversion.js",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 67303
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC8299f7b8de9d4353ad652e7fe6b35445-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 595
-  },
-  {
-    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=sitew0;cat=ix-dc0;u4=%PromoCode%;u9=%Page%20Name%20(processed)%;u13=%URL%20(non-PII)%;u14=%utm_source%;u15=%utm_medium%;u16=%utm_campaign%;u17=%utm_term%;u18=%UTM%20Segment%;ord=1;num=%axel%?",
-    "status": 302,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 0
-  },
-  {
-    "url": "https://c.hrzn-nxt.com/js/v2.12.0/connect.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 101519
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793727429630&v=1793727429883&H=c51bea6a5138acf1cb7aea10&s=fa30140aa79b4dc293c1a35899e98aa3&N=1&Q=2&S=5998&b=2771&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC2a9cee0f04914d42b438482d84f74304-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 684
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC5fabb38e50eb43328d8d6065908d7433-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 724
-  },
-  {
-    "url": "https://9170879.fls.doubleclick.net/activityi;src=9170879;type=uppfu00;cat=gener0;rcb=7;ord=5308311171013;npa=0;auiddc=1559550029.1793727429;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6au1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938468~118131808~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370~123814945;epver=2;dc_random=1793727430_32ksOxthIalmGbPJH3TMo3bD5CPg2i-Szg;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball?",
-    "status": 302,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 0
-  },
-  {
-    "url": "https://connect.facebook.net/en_US/fbevents.js",
-    "status": 200,
-    "content_type": "application/x-javascript; charset=utf-8",
-    "length": 437741
-  },
-  {
-    "url": "https://l.hrzn-nxt.com/pxl?stm=1793727429956&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&page=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tv=js-2.12.0&tna=nf0&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=9966b894-a9f7-4273-95b9-c6b99abecbb7&dtm=1793727429955&vp=1280x720&ds=1280x3819&vid=1&sid=5abd6f71-77d7-4136-9b52-1d1609621708&duid=eeffe060-f1a1-4638-aae9-71f711964210&fp=2876729029",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/808791726/?random=1793727429758&cv=11&fst=1793727429758&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~120213116~120385423~120420415~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 6813
-  },
-  {
-    "url": "https://www.redditstatic.com/ads/pixel.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 88449
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCd678386d3a134f4994a223b7d1b247b9-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 3193
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/808791726/?random=1793727429758&cv=11&fst=1793725200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~120213116~120385423~120420415~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3L51tylPf83Qp72l3pidpXySaNvoCzu9ijsjPq4b67RZvDJyjTZes2pq8ImrsHISN9nEsJnHI5yhEUwVQDCMap8IX0FlP4FAaFgSarKEItFyrOdqxVShj6ZRHyH8QAu6NHRV0yTCRiMHuJhAJ36tkp62i9b8-N3bgyNyZGLzcRPKSWq9gKeXmF4MkHyGu0oJIUClfKcfmjkXhloDp-0I1wsO6YpotigC6IMOiYmler7zEwJ21efxmSFE-nP5gLj7Ss5xRjfpsG4MkDZ4x_4u_n2tEk6lPeLrBwsBzEc&random=2898476189&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://pixel-config.reddit.com/pixels/t2_17cv3mpk/config",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 902
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCe21385d6188b4fe489e4b4db2bfacb9c-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 778
-  },
-  {
-    "url": "https://connect.facebook.net/signals/config/1568087270153240?v=2.9.433&r=stable&domain=www.siriusxm.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
-    "status": 200,
-    "content_type": "application/x-javascript; charset=utf-8",
-    "length": 383540
-  },
-  {
-    "url": "https://9170879.fls.doubleclick.net/activityi;dc_pre=CKrkq7Kr7JcDFUmn-wAd3xATvQ;src=9170879;type=uppfu00;cat=gener0;rcb=7;ord=5308311171013;npa=0;auiddc=1559550029.1793727429;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6au1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938468~118131808~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370~123814945;epver=2;dc_random=1793727430_32ksOxthIalmGbPJH3TMo3bD5CPg2i-Szg;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball?",
-    "status": 200,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 924
-  },
-  {
-    "url": "https://alb.reddit.com/rp?id=t2_17cv3mpk&event=PageVisit",
-    "status": 200,
-    "content_type": "text/plain; charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CKrkq7Kr7JcDFUmn-wAd3xATvQ;src=9170879;type=uppfu00;cat=gener0;rcb=7;ord=5308311171013;npa=0;auiddc=*;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6au1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938468~118131808~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370~123814945;epver=2;dc_random=1793727430_32ksOxthIalmGbPJH3TMo3bD5CPg2i-Szg;_dc_test=1;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1793727429929&cv=9&fst=1793727429929&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247838%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=4",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 6498
-  },
-  {
-    "url": "https://apps.rokt-api.com/js/v2/us2-7978a58b69d80940a19b7521195c1341/app.js?env=0&",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 367096
-  },
-  {
-    "url": "https://s.yimg.com/wi/ytc.js",
-    "status": 200,
-    "content_type": "application/javascript",
-    "length": 19829
-  },
-  {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10933071182/?random=1793727429733&cv=11&fst=1793727429733&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~120213116~120385423~120420415~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 6815
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCfdd740d58b084ee3992b57661e2d2b22-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 644
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1793727429929&cv=9&fst=1793725200000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247838%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&uaa=x86&uab=64&uam=&uap=Windows&uapv=10.0&uaw=0&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3LGL8Z2PJyPFPv1QrVP05uwtAoXjVW2KSr767xPVxzMeEqOFsHTG8VACFn2ugwgYCEexOUxPCNgm7tIGndWDcDw96XK2wqlB0NGxkXWxrQi3frYT6GeVw0bywnKXGo_IoaWzRjWcV56-NrAbOC_v5MEcfQe30Y_RoDkHyB7qpf6A0brR2kqh5YxPgcVcKt8Bn1ambmGbx7-1Nc8a4zf6uJX6N94xuI-Pnt1LWKyxtNsfvPIbhnQOWdoPFwpj2c-IlIeOsLga0NfJnzEPcFjQl81DmktwUhRbSwM1t6E&random=1839569693&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://connect.facebook.net/signals/config/1225677084239985?v=2.9.433&r=stable&domain=www.siriusxm.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C276%2C274%2C269%2C271%2C272%2C273%2C270%2C268%2C255%2C275%2C277%2C267%2C218%2C219%2C279%2C278%2C280%2C266%2C265%2C231%2C226%2C229%2C230%2C208%2C224%2C399%2C207%2C227%2C228%2C259%2C225%2C223%2C350%2C236%2C235%2C234%2C287%2C243%2C221%2C222%2C220%2C392%2C384%2C385%2C376%2C381%2C378%2C380%2C379%2C377%2C386%2C388%2C383%2C389%2C382%2C387%2C375%2C232",
-    "status": 200,
-    "content_type": "application/x-javascript; charset=utf-8",
-    "length": 401440
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/10933071182/?random=1793727429733&cv=11&fst=1793725200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v895058477za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~120213116~120385423~120420415~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=19&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3MoCZ-tZTipzDFOdvqGwFipH7WXKQlVUxAd57rI-vJcW49gNv83WjgM5ZcxA8J6bYNG9CAq8qJCfetzGWnV3hEzPIRbALdBKRLnMF7hWTLrqDj52WpLk8jinndk8zeEQyh_iTrT44_RcDcsqprhJZWnrmNwU4CKKAR6tpfQr2LyCDhNndmWVro6UPgcK9Ks__wgu6oN3D_Q4aGFeeTv7dUvrvHoAzvQh42iF08wCBFrehJwgjcPHSv9ap8dAW05G58dXnaBI2O2QEtfZqNuv4QmyO_U_Dm96wSisv0E&random=1175815153&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC8a09fe16c1bf48cea84c79639d2a34b9-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1004
-  },
-  {
-    "url": "https://s.yimg.com/wi/config/10212831.json",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 46
-  },
-  {
-    "url": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Tue%2C%2003%20Nov%202026%2017%3A37%3A10%20GMT&n=0&b=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&.yp=10212831&f=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&enc=UTF-8&yv=1.17.1&tagmgr=gtm%2Cadobe",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://www.facebook.com/tr/?id=1568087270153240&ev=PageView&dl=https%3A%2F%2Fwww.siriusxm.com&rl=&if=false&ts=1793727430411&iw=false&sw=1280&sh=720&v=2.9.433&r=stable&ec=0&o=77854&aems=0%3B0&fbp=fb.1.1793727430402.312607063467066683&pm=1&hrl=ca990f&ler=empty&plt=734.5&ups[pv]=%7B%7D&ups[rpv]=%7B%7D&it=1793727430066&coo=false&cs_cc=1&cas=1313112115444652%2C1331775646914282%2C1175231442604230%2C27925763907095976%2C27589162074048205%2C32473461002300984%2C8863323160428962%2C8915292338552897%2C8394134470614040%2C7103430986451982%2C7439106376154512%2C8411249828903491%2C7182887261838687%2C7503679319668180%2C28305177402468353%2C9980382442066358%2C8913209118753865%2C8833976973377626%2C29199906402943260%2C10077553238940864%2C3754944767919850&dlc=1&expv2[0]=mr0&expv2[1]=pl1&expv2[2]=el2&expv2[3]=bc1&expv2[4]=ra0&expv2[5]=rp0&expv2[6]=ct3&expv2[7]=hf0&expv2[8]=sd1&expv2[9]=sp1&expv2[10]=ek1&expv2[11]=pc1&expv2[12]=gs1&expv2[13]=zs1&expv2[14]=cp1&expv2[15]=es1&expv2[16]=ac1&expv2[17]=so1&expv2[18]=wc1&expv2[19]=la1&expv2[20]=sf1&expv2[21]=da1&expv2[22]=io1&expv2[23]=ae1&expv2[24]=sx1&expv2[25]=if1&expv2[26]=fd1&expv2[27]=bg1&expv2[28]=mg1&expv2[29]=kl1&expv2[30]=sg1&expv2[31]=mk1&expv2[32]=sn1&expv2[33]=ec1&expv2[34]=mp1&expv2[35]=ps1&expv2[36]=fx1&expv2[37]=vt1&expv2[38]=dp1&expv2[39]=fw1&expv2[40]=cn1&expv2[41]=tz1&expv2[42]=pe1&expv2[43]=ee1&expv2[44]=bu1&expv2[45]=ta1&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep1&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&expv2[52]=oq0&rqm=GET",
-    "status": 200,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://apps.rokt-api.com/wsdk/integrations/launcher.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 114043
-  },
-  {
-    "url": "https://ad.doubleclick.net/activity;src=9170879;type=uppfu00;cat=gener0;rcb=7;ord=5308311171013;npa=0;auiddc=1559550029.1793727429;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6au1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~118131808~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370~123814945;epver=2;dc_random=1793727430_32ksOxthIalmGbPJH3TMo3bD5CPg2i-Szg;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball?",
-    "status": 302,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 0
-  },
-  {
-    "url": "https://ad.doubleclick.net/activity;dc_pre=CIW2rrKr7JcDFU0RNAgdTfoAvA;src=9170879;type=uppfu00;cat=gener0;rcb=7;ord=5308311171013;npa=0;auiddc=1559550029.1793727429;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6au1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~118131808~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370~123814945;epver=2;dc_random=1793727430_32ksOxthIalmGbPJH3TMo3bD5CPg2i-Szg;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball?",
-    "status": 302,
-    "content_type": "text/html; charset=UTF-8",
-    "length": 0
-  },
-  {
-    "url": "https://apps.rokt-api.com/identity/v1/identify",
-    "status": 200,
-    "content_type": "application/json; charset=utf-8",
-    "length": 175
-  },
-  {
-    "url": "https://www.facebook.com/tr/",
-    "status": 200,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCc7314751362a495a8ef877eefc067fb4-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 376
-  },
-  {
-    "url": "https://c-dev.hrzn-nxt.com/js/v2.12.0/connect.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 101519
-  },
-  {
-    "url": "https://mpc-prod-21-1053047382554.us-central1.run.app/events?cee=no",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s52272446983353?AQB=1&ndh=1&pf=1&t=3%2F10%2F2026%2017%3A37%3A10%202%200&mid=82773003598213692673611271471910401879&aamlh=7&ce=UTF-8&pageName=www%3Asports%3Amens-college-basketball&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&c.&getPreviousValue=3.0.1&.c&cc=USD&ch=SiriusXM.com%20Flow&events=event1%2Cevent247&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&v10=www%3Asports%3Amens-college-basketball&c13=D%3Dv32&c21=D%3Dv21&v21=new&c22=D%3Dv22&v22=1&c23=D%3Dv23&v23=First%20page%20view%20or%20cookies%20not%20supported&v25=undefined&v29=%20%3E%20%20%3E%20&v32=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&v33=Not%20Targeted&c35=www%3Asports%3Amens-college-basketball&c44=year%3D2026%20%7C%20month%3DNovember%20%7C%20date%3D3%20%7C%20day%3DTuesday%20%7C%20time%3D12%3A37%20PM&c45=17&c66=82773003598213692673611271471910401879&v79=fa30140aa79b4dc293c1a35899e98aa3&v80=Learn%20%7C%20Content&v82=na_na_na&v89=82773003598213692673611271471910401879&v143=true&v152=PHX&v164=1280x720&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&AQE=1",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCc624fd7e60ea497982d5ea25f0295bd9-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 361
-  },
-  {
-    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=8690143129008474411;_dc_ptd=ChAIgKmm1wYQxPmSu6qUyKQyEh8A1kaD8rjcJNLscmnDlgL_kmBUR79c2oKVlwTIhttc;_dc_time=1793727430;cid=CAQS4QEAQM4h3G_4OwgJBdKaDnVpqXf1cbrIJxPQIBBHH6yth9xlUTeXioXSSWRhFGTZVstfeh3x315TLJT_DYpi4HKoDkRhMZJ9z9ZQvdFM_mAPgjqYtnEQJM4KFw6UM7XEQUzMjQbQubiMfGN98hv4akdq4O2xOXG3-rz8vQ9I0KSefUpwKmQrHDmt5uB-sifF1FBO3V5XYmiFG3xxWS096wQiLmaIPmNQPYiTZ_EaIy-SE5uZ7rE1BP_aD1p9tEGTyrzTdX39kUqQSCrwmx3I1lTtOkHVPFLBOqPWePTbNl4P-VE;eps=AHas8cA47TmTFlWdOOMSXAJOK_iWpG0b55zGSouOm_-5f-oL1LLxYbuDnmoumpBza6e9k_lVhfzsK76ExRFpCZRIR0zv7pJq926A3dy-QeN_ofm2PQ;dc_pre=CIW2rrKr7JcDFU0RNAgdTfoAvA;src=9170879;type=uppfu00;cat=gener0;rcb=7;ord=5308311171013;npa=0;auiddc=1559550029.1793727429;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6au1v9181637395za200zb869737875zd869737875xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~118131808~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370~123814945;epver=2;dc_random=1793727430_32ksOxthIalmGbPJH3TMo3bD5CPg2i-Szg;~oref=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball?",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://apps.rokt-api.com/wsdk/controller/index.2.23526.0.html",
-    "status": 200,
-    "content_type": "text/html; charset=utf-8",
-    "length": 390707
-  },
-  {
-    "url": "https://apps.rokt.com/sync?redir=https%3A%2F%2Fcookiesync.us2.mparticle.com%2Fv1%2Fsync%3Fesid%3D11723%26MPID%3D8845168379745298206%26ID%3D%24%7BRoktRecogniser%7D%26Key%3Dus2-7978a58b69d80940a19b7521195c1341%26env%3D2",
-    "status": 302,
-    "content_type": "text/html",
-    "length": 0
-  },
-  {
-    "url": "https://l-dev.hrzn-nxt.com/pxl?stm=1793727430663&e=pv&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&page=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tv=js-2.12.0&tna=nf00&aid=siriusxm-6542f182-3b65-4441-b262-2c691314a59a&p=web&tz=UTC&lang=en-US&cs=UTF-8&res=1280x720&cd=24&eid=3aa3e731-4234-4139-bd0c-502c416e1f4e&dtm=1793727430662&vp=1280x720&ds=1280x3819&vid=1&sid=5abd6f71-77d7-4136-9b52-1d1609621708&duid=eeffe060-f1a1-4638-aae9-71f711964210&fp=2876729029",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://apps.rokt-api.com/wsdk/controller/services.2.23526.0.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 121421
-  },
-  {
-    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/index.html",
-    "status": 200,
-    "content_type": "text/html; charset=utf-8",
-    "length": 910
-  },
-  {
-    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/global-reporter.27abcc21bdac1b1b73d5.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 12944
-  },
-  {
-    "url": "https://apps.rokt-api.com/wsdk/plugins/dcui/index.8bc5f74a25bdef6f8a07.js",
-    "status": 200,
-    "content_type": "application/javascript; charset=utf-8",
-    "length": 664219
-  },
-  {
-    "url": "https://apps.rokt.com/icons/rokt-icons.woff",
-    "status": 200,
-    "content_type": "font/woff",
-    "length": 0
-  },
-  {
-    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 41
-  },
-  {
-    "url": "https://apps.rokt-api.com/webevents/v3/JS/us2-7978a58b69d80940a19b7521195c1341/events",
-    "status": 202,
-    "content_type": "application/json",
-    "length": 41
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RC76a971dfbb9f4d2dad6cfaed0dbdf23d-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 1455
-  },
-  {
-    "url": "https://apps.rokt.com/wsdk/session-transfer/index.2.23526.0.html",
-    "status": 200,
-    "content_type": "text/html; charset=utf-8",
-    "length": 16703
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCeafe253eaa134f8f9711a58c411fbe36-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 341
-  },
-  {
-    "url": "https://cookiesync.us2.mparticle.com/v1/sync?esid=11723&MPID=8845168379745298206&ID=f0ddc96f-63ec-48a3-87f7-49b8a0e57958&Key=us2-7978a58b69d80940a19b7521195c1341&env=2",
-    "status": 204,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://assets.adobedtm.com/98980a4572ae/f15a11e17c97/0ccef8baed66/RCdbe7726476a24710b91d5febe9613cc9-source.min.js",
-    "status": 200,
-    "content_type": "application/x-javascript",
-    "length": 966
-  },
-  {
-    "url": "https://www.google.com/rmkt/collect/1066622487/?random=1793727431024&cv=11&fst=1793727431024&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=14&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=68&gcp=5",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6au1v873651601za200zb869737875zd869737875xf1&_p=1793727428221&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AEAAAAQ&ae=a&cid=1398142673.1793727429&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=2&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&sid=1793727429&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&_tu=AAI&en=scroll&epn.percent_scrolled=90&_et=23&tfd=4292",
-    "status": 204,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://www.google.com/ccm/collect?rcb=14&frm=0&apvc=0&auid=1559550029.1793727429&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=1738502539.1793727429&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6au1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&tft=1793727431060&tfd=4305&tids=AW-1066622487&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066622487/?random=1793727431024&cv=11&fst=1793727431024&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=14&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
-    "status": 200,
-    "content_type": "text/javascript; charset=UTF-8",
-    "length": 6851
-  },
-  {
-    "url": "https://www.google.com/pagead/1p-user-list/1066622487/?random=1793727431024&cv=11&fst=1793725200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6au1v873651601za208zb869737875zd869737875xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&rcb=14&frm=0&tiba=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1559550029.1793727429&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=AAI&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4QEAQM4h3HSdLEioLPd26yeroP333lx0By_qD6bE-IQcyl0GAcKp_YIOTwY9kBxH0tuOwzM5qYJO7niRTXJ_asQ2CerDxtEcbGxceazttRN1WhfWUKyEnIiyCd-0qkdogKKwmVF07LOX7ZocLP9QzrmHxm5fWE7BLnQKDy2xt0aDf9O5jwbNp2ZB6BoqB0fAVGH1KjjeeUHHd6dbXDbPPLl1FNg3QSZh3LeSaacv0DKm6zA4RzGM1J_Nbjai7XWEwoS0QTLjit7MM4KZN7ABbZScrO9BKn0MSKS6jMPgCjFeHbw&random=4205827077&rmt_tld=0&ipr=y",
-    "status": 200,
-    "content_type": "image/gif",
-    "length": 0
-  },
-  {
-    "url": "https://www.facebook.com/tr/",
-    "status": 200,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=2&event_id=149e2770-101d-42e3-9b82-e2865fb8075f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=01899f44-7841-4a68-845b-33045d12224f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tw_engaged_ms=3517&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793727428560-863492250&twpid=tw.1793727428560.527405135242432996&txn_id=o37dn&type=javascript&version=2.4.12",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://t.co/i/adsct?bci=4&cv=100%261&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261280%26720%262%2624%261280%26720%260%26na%261&eci=2&event_id=149e2770-101d-42e3-9b82-e2865fb8075f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Deny%20Non-Essential%20Cookies%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=01899f44-7841-4a68-845b-33045d12224f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&tw_engaged_ms=3517&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1793727428560-863492250&twpid=tw.1793727428560.527405135242432996&txn_id=o37dn&type=javascript&version=2.4.12",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://smetrics.siriusxm.com/b/ss/sxmr.prod/1/JS-2.27.0-LGU4/s52879938539963?AQB=1&ndh=1&pf=1&t=3%2F10%2F2026%2017%3A37%3A12%202%200&mid=82773003598213692673611271471910401879&aamlh=7&ce=UTF-8&pageName=www%3Asports%3Amens-college-basketball&g=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&cc=USD&events=event3&c6=www%3Asports%3Amens-college-basketball&c7=Deny%20Non-Essential%20Cookies&c8=www%3Asports%3Amens-college-basketball%20%7C%20Deny%20Non-Essential%20Cookies&c9=OneTrust%20Banner&c10=www%3Asports%3Amens-college-basketball%20%7C%20Deny%20Non-Essential%20Cookies%20%7C%20OneTrust%20Banner&v10=www%3Asports%3Amens-college-basketball&pe=lnk_o&pev2=Deny%20Non-Essential%20Cookies&c.&a.&activitymap.&page=www%3Asports%3Amens-college-basketball&link=Deny%20Non-Essential%20Cookies&region=onetrust-button-group&pageIDType=1&.activitymap&.a&.c&pid=www%3Asports%3Amens-college-basketball&pidt=1&oid=Deny%20Non-Essential%20Cookies&oidt=3&ot=SUBMIT&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=AA6F3BC75245B3970A490D4D%40AdobeOrg&lrt=159&AQE=1",
-    "status": 200,
-    "content_type": "image/gif;charset=utf-8",
-    "length": 0
-  },
-  {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6au1v873651601za208zb869737875zd869737875xf1&_p=1793727428221&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAACAAQ&cid=1398142673.1793727429&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=3&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&sid=1793727429&sct=1&seg=1&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&_tu=AAI&en=page_view&_ee=1&_et=1589&tfd=5401",
-    "status": 204,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-GCXHT89C8T&gtm=45be6au1v873651601za208zb869737875zd869737875xf1&_p=1793727428221&gcs=G100&gcd=13m3m3m3m5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_eu=AAAC&cid=1568392265.1793727432&frm=0&ngs=1&pscdl=denied&rcb=14&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=4&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&sid=1793727432&sct=1&seg=0&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&dt=Men%27s%20College%20Basketball%20Radio%20%26%20Live%20Play-by-Play%20%7C%20SiriusXM&_tu=AAI&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=5402",
-    "status": 204,
-    "content_type": "text/plain",
-    "length": 0
-  },
-  {
-    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=14&frm=0&apvc=0&tid=AW-1066622487&en=page_view&dl=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&scrsrc=www.googletagmanager.com&rnd=1738502539.1793727429&navt=n&npa=1&did=dYWJhMj&gdid=dYWJhMj&_tu=AAI&gtm=45be6au1v873651601za208zb869737875zd869737875xecxf1&gcs=G100&gcd=13m3m3m3m5l1&dma_cps=-&dma=0&tag_exp=115616986~115938466~115938468~118131808~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&tft=1793727432169&tfd=5414&tids=AW-1066622487&fmt=8",
-    "status": 200,
-    "content_type": null,
-    "length": 0
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793727429630&v=1793727433135&H=c51bea6a5138acf1cb7aea10&s=fa30140aa79b4dc293c1a35899e98aa3&P=2&N=2&S=8222&b=34870&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
-  },
-  {
-    "url": "https://ingest.quantummetric.com/horizon/siriusxm?T=B&u=https%3A%2F%2Fwww.siriusxm.com%2Fsports%2Fmens-college-basketball&t=1793727429630&v=1793727433136&H=c51bea6a5138acf1cb7aea10&s=fa30140aa79b4dc293c1a35899e98aa3&N=2&Q=2&S=8769&b=7943&z=1",
-    "status": 200,
-    "content_type": "application/json",
-    "length": 0
   }
 ]
