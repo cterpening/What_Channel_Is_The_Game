@@ -1,17 +1,10 @@
 # Sports Schedules
 
-_Last updated: 2026-11-05 12:54 EST_
+_Last updated: 2026-11-06 12:14 EST_
 
 ## College Football — Upcoming Week
 2026-11-02 to 2026-11-08  
 _All times ET_  
-
-### Thursday November 5th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/5/2026 | UTSA | Florida Atlantic | 7:30 PM | ESPN | Flagler Credit Union Stadium, Boca Raton, FL |  |  |  |
-| 11/5/2026 | James Madison | Southern Miss | 8:00 PM | ESPN2 | M. M. Roberts Stadium, Hattiesburg, MS |  |  |  |
 
 ### Friday November 6th
 
@@ -83,12 +76,6 @@ _All times ET_
 2026-11-04 to 2026-11-10  
 _All times ET_  
 
-### Thursday November 5th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/5/2026 | Jacksonville Jaguars | Baltimore Ravens | 8:15 PM | Prime Video | M&T Bank Stadium, Baltimore, MD |  |  |  |
-
 ### Sunday November 8th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
@@ -114,21 +101,8 @@ _All times ET_
 | 11/9/2026 | Buffalo Bills | Minnesota Vikings | 8:15 PM | ABC, ESPN, ESPN/ABC | U.S. Bank Stadium, Minneapolis, MN |  |  |  |
 
 ## College Basketball — Upcoming Week
-2026-11-05 to 2026-11-11  
+2026-11-06 to 2026-11-12  
 _All times ET_  
-
-### Thursday November 5th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/5/2026 | Wake Forest | Vanderbilt | 6:00 PM | ESPN2 | Memorial Gymnasium (TN), Nashville, TN |  |  |  |
-| 11/5/2026 | Jacksonville | Florida | 8:00 PM | SECN+ | Stephen C. O'Connell Center, Gainesville, FL |  |  |  |
-| 11/5/2026 | Coastal Carolina | Duke | 8:00 PM | ACC Network | Cameron Indoor Stadium, Durham, NC |  |  |  |
-| 11/5/2026 | Toledo | Michigan State | 8:00 PM | Peacock | Breslin Center, East Lansing, MI |  |  |  |
-| 11/5/2026 | Gardner-Webb | Texas | 8:00 PM | SECN+ | Moody Center, Austin, TX |  |  |  |
-| 11/5/2026 | Pennsylvania | **Illinois** | 8:30 PM | FS1 | State Farm Center, Champaign, IL |  |  |  |
-| 11/5/2026 | Bethune-Cookman | Texas Tech | 9:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX |  |  |  |
-| 11/5/2026 | Cal Poly | Arizona | 10:30 PM | truTV | McKale Center at ALKEME Arena, Tucson, AZ |  |  |  |
 
 ### Friday November 6th
 
@@ -195,16 +169,15 @@ _All times ET_
 | 11/11/2026 | Robert Morris | Arkansas | 8:00 PM | SECN+ | Bud Walton Arena, Fayetteville, AR |  |  |  |
 | 11/11/2026 | USC | California | 11:00 PM | ESPN2 | Haas Pavilion, Berkeley, CA |  |  |  |
 
-## NBA — Upcoming Week
-2026-11-05 to 2026-11-11  
-_All times ET_  
-
-### Thursday November 5th
+### Thursday November 12th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/5/2026 | Orlando Magic | Phoenix Suns | 9:00 PM | Arizona's Family 3TV, Suns Live | Mortgage Matchup Center, Phoenix, AZ |  |  |  |
-| 11/5/2026 | Miami Heat | Golden State Warriors | 10:00 PM | NBA TV | Chase Center, San Francisco, CA |  |  |  |
+| 11/12/2026 | Montana State | BYU | 9:00 PM | ESPN+ | Marriott Center, Provo, UT |  |  |  |
+
+## NBA — Upcoming Week
+2026-11-06 to 2026-11-12  
+_All times ET_  
 
 ### Friday November 6th
 
@@ -283,8 +256,17 @@ _All times ET_
 | 11/11/2026 | Golden State Warriors | Houston Rockets | 9:30 PM | ESPN | Toyota Center (Houston), Houston, TX |  |  |  |
 | 11/11/2026 | Oklahoma City Thunder | Portland Trail Blazers | 10:00 PM | BlazerVision, KSBI, KUNP 16, Thunder App | Moda Center, Portland, OR |  |  |  |
 
+### Thursday November 12th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11/12/2026 | Toronto Raptors | Philadelphia 76ers | 7:00 PM |  | Xfinity Mobile Arena, Philadelphia, PA |  |  |  |
+| 11/12/2026 | Detroit Pistons | Washington Wizards | 7:00 PM | MNMT | Capital One Arena, Washington, DC |  |  |  |
+| 11/12/2026 | Dallas Mavericks | Minnesota Timberwolves | 8:00 PM | KFAA-TV, MavsTV, NBA TV | Target Center, Minneapolis, MN |  |  |  |
+| 11/12/2026 | Charlotte Hornets | Phoenix Suns | 9:00 PM | Arizona's Family 3TV, Suns Live | Mortgage Matchup Center, Phoenix, AZ |  |  |  |
+
 ## MLS — Upcoming Week
-2026-11-05 to 2026-11-11  
+2026-11-06 to 2026-11-12  
 _All times ET_  
 
 ### Saturday November 7th
@@ -308,7 +290,7 @@ _All times ET_
 | 11/7/2026 | LAFC | Seattle Sounders FC | 7:00 PM | Apple TV | Lumen Field, Seattle, Washington |  |  |  |
 
 ## Premier League — Upcoming Week
-2026-11-05 to 2026-11-11  
+2026-11-06 to 2026-11-12  
 _All times ET_  
 
 ### Friday November 6th
@@ -337,7 +319,7 @@ _All times ET_
 | 11/8/2026 | Aston Villa | Manchester United | 11:30 AM | Tele, USA Net | Old Trafford, Manchester |  |  |  |
 
 ## FIFA International Friendlies — Upcoming Week
-2026-11-05 to 2026-11-11  
+2026-11-06 to 2026-11-12  
 _All times ET_  
 
 ### Wednesday November 11th
@@ -345,3 +327,12 @@ _All times ET_
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/11/2026 | Chinese Taipei | Vietnam | 7:00 AM |  | Thien Truong Stadium, Nam Dinh |  |  |  |
+
+### Thursday November 12th
+
+| Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11/12/2026 | India | New Zealand | 1:00 AM |  | Go Media Stadium, Auckland |  |  |  |
+| 11/12/2026 | Russia | Uzbekistan | 10:00 AM |  | Pakhtakor Markaziy Stadium, Tashkent |  |  |  |
+| 11/12/2026 | Suriname | Lithuania | 12:00 PM |  | S. Darius and S. Gireno Stadium, Kaunas |  |  |  |
+| 11/12/2026 | Eswatini | Malta | 12:30 PM |  | Ta' Qali National Stadium, Attard |  |  |  |
