@@ -1,18 +1,10 @@
 # Sports Schedules
 
-_Last updated: 2026-11-11 12:45 EST_
+_Last updated: 2026-11-12 12:58 EST_
 
 ## College Football — Upcoming Week
 2026-11-09 to 2026-11-15  
 _All times ET_  
-
-### Wednesday November 11th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/11/2026 | Buffalo | **Ball State** | 7:30 PM | ESPN2 | Scheumann Stadium, Muncie, IN |  |  |  |
-| 11/11/2026 | Sacramento State | Central Michigan | 7:30 PM | ESPNU | Kelly/Shorts Stadium, Mount Pleasant, MI |  |  |  |
-| 11/11/2026 | Massachusetts | Toledo | 7:30 PM | CBSSN | Glass Bowl, Toledo, OH |  |  |  |
 
 ### Thursday November 12th
 
@@ -124,20 +116,8 @@ _All times ET_
 | 11/16/2026 | Los Angeles Chargers | Baltimore Ravens | 8:15 PM | ESPN | M&T Bank Stadium, Baltimore, MD |  |  |  |
 
 ## College Basketball — Upcoming Week
-2026-11-11 to 2026-11-17  
+2026-11-12 to 2026-11-18  
 _All times ET_  
-
-### Wednesday November 11th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/11/2026 | Colgate | St. John's | 7:00 PM | Peacock | Carnesecca Arena, Queens, NY |  |  |  |
-| 11/11/2026 | Marquette | Michigan | 7:00 PM | FS1 | Crisler Center, Ann Arbor, MI |  |  |  |
-| 11/11/2026 | Jacksonville State | Houston | 8:00 PM | ESPN+ | Fertitta Center, Houston, TX |  |  |  |
-| 11/11/2026 | Robert Morris | Arkansas | 8:00 PM | SECN+ | Bud Walton Arena, Fayetteville, AR |  |  |  |
-| 11/11/2026 | Arkansas-Pine Bluff | UCLA | 9:00 PM | Peacock | Pauley Pavilion, Los Angeles, CA |  |  |  |
-| 11/11/2026 | Lindenwood | Nebraska | 9:00 PM | FS1 | Pinnacle Bank Arena, Lincoln, NE |  |  |  |
-| 11/11/2026 | USC | California | 11:00 PM | ESPN2 | Haas Pavilion, Berkeley, CA |  |  |  |
 
 ### Thursday November 12th
 
@@ -204,24 +184,20 @@ _All times ET_
 | 11/17/2026 | UNLV | Kansas | 9:30 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
 | 11/17/2026 | Montana State | Gonzaga | 11:00 PM | CBSSN | McCarthey Athletic Center, Spokane, WA |  |  |  |
 
-## NBA — Upcoming Week
-2026-11-11 to 2026-11-17  
-_All times ET_  
-
-### Wednesday November 11th
+### Wednesday November 18th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/11/2026 | Washington Wizards | **Indiana Pacers** | 7:00 PM | DAZN IND, MNMT | Gainbridge Fieldhouse, Indianapolis, IN |  |  |  |
-| 11/11/2026 | Cleveland Cavaliers | New York Knicks | 7:00 PM | ESPN | Madison Square Garden, New York, NY |  |  |  |
-| 11/11/2026 | Boston Celtics | Toronto Raptors | 7:00 PM |  | Scotiabank Arena, Toronto, ON |  |  |  |
-| 11/11/2026 | San Antonio Spurs | Chicago Bulls | 8:00 PM | DAZN SAS | United Center, Chicago, IL |  |  |  |
-| 11/11/2026 | Denver Nuggets | Memphis Grizzlies | 8:00 PM |  | FedExForum, Memphis, TN |  |  |  |
-| 11/11/2026 | Los Angeles Lakers | Milwaukee Bucks | 8:00 PM | Bucks App, MyMi, Spectrum Sports Net, Spectrum Sports Net + | Fiserv Forum, Milwaukee, WI |  |  |  |
-| 11/11/2026 | Brooklyn Nets | New Orleans Pelicans | 8:00 PM | DAZN (YES), GCSEN, Pelicans.com | Smoothie King Center, New Orleans, LA |  |  |  |
-| 11/11/2026 | Orlando Magic | Utah Jazz | 9:00 PM | Jazz+, KJZZ-TV | Delta Center, Salt Lake City, UT |  |  |  |
-| 11/11/2026 | Golden State Warriors | Houston Rockets | 9:30 PM | ESPN | Toyota Center (Houston), Houston, TX |  |  |  |
-| 11/11/2026 | Oklahoma City Thunder | Portland Trail Blazers | 10:00 PM | BlazerVision, KSBI, KUNP 16, Thunder App | Moda Center, Portland, OR |  |  |  |
+| 11/18/2026 | Siena | St. John's | 7:00 PM | truTV | Carnesecca Arena, Queens, NY |  |  |  |
+| 11/18/2026 | LSU New Orleans | Texas Tech | 7:30 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX |  |  |  |
+| 11/18/2026 | South Dakota | Nebraska | 8:30 PM | BTN | Pinnacle Bank Arena, Lincoln, NE |  |  |  |
+| 11/18/2026 | UConn | Arizona | 9:00 PM | FS1 | McKale Center at ALKEME Arena, Tucson, AZ |  |  |  |
+| 11/18/2026 | Northern Colorado | BYU | 9:00 PM | ESPN+ | Marriott Center, Provo, UT |  |  |  |
+| 11/18/2026 | Cal State Fullerton | UCLA | 10:30 PM | BTN | Pauley Pavilion, Los Angeles, CA |  |  |  |
+
+## NBA — Upcoming Week
+2026-11-12 to 2026-11-18  
+_All times ET_  
 
 ### Thursday November 12th
 
@@ -293,21 +269,32 @@ _All times ET_
 | 11/17/2026 | Utah Jazz | LA Clippers | 10:30 PM | ClipperVision, Jazz+, KJZZ-TV | Intuit Dome, Inglewood, CA |  |  |  |
 | 11/17/2026 | Charlotte Hornets | Los Angeles Lakers | 11:00 PM | NBC, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA |  |  |  |
 
-## FIFA International Friendlies — Upcoming Week
-2026-11-11 to 2026-11-17  
-_All times ET_  
+### Wednesday November 18th
 
-### Wednesday November 11th
-
-| Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/11/2026 | Chinese Taipei | Vietnam | 7:00 AM |  | Thien Truong Stadium, Nam Dinh |  |  |  |
+| 11/18/2026 | Memphis Grizzlies | Cleveland Cavaliers | 7:00 PM | DAZN CLE, DAZN MEM | Rocket Arena, Cleveland, OH |  |  |  |
+| 11/18/2026 | Houston Rockets | **Indiana Pacers** | 7:00 PM | DAZN IND | Gainbridge Fieldhouse, Indianapolis, IN |  |  |  |
+| 11/18/2026 | Milwaukee Bucks | Miami Heat | 7:00 PM | Bucks App, ESPN, MyMi | Kaseya Center, Miami, FL |  |  |  |
+| 11/18/2026 | Philadelphia 76ers | Orlando Magic | 7:00 PM |  | Kia Center, Orlando, FL |  |  |  |
+| 11/18/2026 | Chicago Bulls | Brooklyn Nets | 7:30 PM | DAZN (YES) | Barclays Center, Brooklyn, NY |  |  |  |
+| 11/18/2026 | Washington Wizards | Toronto Raptors | 7:30 PM | MNMT | Scotiabank Arena, Toronto, ON |  |  |  |
+| 11/18/2026 | Detroit Pistons | New Orleans Pelicans | 8:00 PM | GCSEN, Pelicans.com | Smoothie King Center, New Orleans, LA |  |  |  |
+| 11/18/2026 | Atlanta Hawks | Oklahoma City Thunder | 8:00 PM | KSBI, Thunder App | Paycom Center, Oklahoma City, OK |  |  |  |
+| 11/18/2026 | Boston Celtics | Denver Nuggets | 9:00 PM |  | Ball Arena, Denver, CO |  |  |  |
+| 11/18/2026 | Golden State Warriors | Dallas Mavericks | 9:30 PM | ESPN, KFAA-TV, MavsTV | American Airlines Center, Dallas, TX |  |  |  |
+| 11/18/2026 | Utah Jazz | Los Angeles Lakers | 10:00 PM | Jazz+, KJZZ-TV, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA |  |  |  |
+| 11/18/2026 | Phoenix Suns | Sacramento Kings | 10:00 PM | Arizona's Family 3TV, Suns Live | Golden 1 Center, Sacramento, CA |  |  |  |
+
+## FIFA International Friendlies — Upcoming Week
+2026-11-12 to 2026-11-18  
+_All times ET_  
 
 ### Thursday November 12th
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/12/2026 | India | New Zealand | 1:10 AM |  | Go Media Stadium, Auckland |  |  |  |
+| 11/12/2026 | India | New Zealand | 1:00 AM |  | Go Media Stadium, Auckland |  |  |  |
 | 11/12/2026 | Russia | Uzbekistan | 10:00 AM |  | Pakhtakor Markaziy Stadium, Tashkent |  |  |  |
 | 11/12/2026 | Suriname | Lithuania | 12:00 PM |  | S. Darius and S. Gireno Stadium, Kaunas |  |  |  |
 | 11/12/2026 | Eswatini | Malta | 12:30 PM |  | Ta' Qali National Stadium, Attard |  |  |  |
@@ -317,11 +304,11 @@ _All times ET_
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/13/2026 | Paraguay | Singapore | 7:00 AM |  | Singapore National Stadium, Singapore |  |  |  |
-| 11/13/2026 | Syria | Kuwait | 9:00 AM |  | Al-Sadaqua Walsalam Stadium, Jaber Al-Ahmad International Stadium |  |  |  |
 | 11/13/2026 | Honduras | United Arab Emirates | 9:15 AM |  | Mohammed bin Zayed Stadium, Abu Dhabi |  |  |  |
 | 11/13/2026 | South Korea | Saudi Arabia | 9:30 AM |  | Jassim Bin Hamad Stadium, Doha |  |  |  |
 | 11/13/2026 | Australia | Qatar | 9:45 AM |  | Abdullah bin Khalifa Stadium, Ar-Rayyan |  |  |  |
 | 11/13/2026 | Lebanon | Iraq | 10:00 AM |  | Basra International Stadium, Basra |  |  |  |
+| 11/13/2026 | Syria | Kuwait | 11:30 AM |  | Al-Sadaqua Walsalam Stadium, Jaber Al-Ahmad International Stadium |  |  |  |
 | 11/13/2026 | Indonesia | Jordan | 3:00 PM |  | Amman International Stadium, Amman |  |  |  |
 | 11/13/2026 | Uruguay | Argentina | 6:00 PM |  | Alberto José Armando (La Bombonera), Buenos Aires |  |  |  |
 | 11/13/2026 | Chile | Colombia | 7:00 PM |  | Pascual Guerrero, Cali |  |  |  |
@@ -332,13 +319,13 @@ _All times ET_
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/14/2026 | Cook Islands | Tahiti | 12:30 AM |  |  |  |  |  |
+| 11/14/2026 | Cook Islands | Tahiti | 12:30 AM |  | Stade Louis Ganivet |  |  |  |
 | 11/14/2026 | Yemen | Bahrain | 1:00 AM |  | Tianhe Stadium, Guangzhou |  |  |  |
 | 11/14/2026 | Brazil | Japan | 5:15 AM |  | Singapore National Stadium, Singapore |  |  |  |
 | 11/14/2026 | Malaysia | China | 7:00 AM |  | Zhaoqing New District Sports Center Stadium, Zhaoqing |  |  |  |
 | 11/14/2026 | Kyrgyz Republic | Chinese Taipei | 7:00 AM |  | Thien Truong Stadium, Nam Dinh |  |  |  |
 | 11/14/2026 | Iran | Palestine | 10:00 AM |  | Basra International Stadium, Basra |  |  |  |
-| 11/14/2026 | India | New Zealand | 10:10 PM |  | One New Zealand Stadium, Christchurch |  |  |  |
+| 11/14/2026 | India | New Zealand | 10:00 PM |  | One New Zealand Stadium, Christchurch |  |  |  |
 
 ### Sunday November 15th
 
@@ -356,7 +343,7 @@ _All times ET_
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/17/2026 | Cook Islands | Tahiti | 12:30 AM |  |  |  |  |  |
+| 11/17/2026 | Cook Islands | Tahiti | 12:30 AM |  | Stade Louis Ganivet |  |  |  |
 | 11/17/2026 | Yemen | Malaysia | 1:00 AM |  | Zhaoqing New District Sports Center Stadium, Zhaoqing |  |  |  |
 | 11/17/2026 | Brazil | Singapore | 5:00 AM |  | Singapore National Stadium, Singapore |  |  |  |
 | 11/17/2026 | Bahrain | China | 7:00 AM |  | Zhaoqing New District Sports Center Stadium, Zhaoqing |  |  |  |
