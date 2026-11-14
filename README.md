@@ -1,18 +1,10 @@
 # Sports Schedules
 
-_Last updated: 2026-11-13 12:34 EST_
+_Last updated: 2026-11-14 11:26 EST_
 
 ## College Football — Upcoming Week
 2026-11-09 to 2026-11-15  
 _All times ET_  
-
-### Friday November 13th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/13/2026 | Florida State | Pittsburgh | 7:00 PM | ESPN | Acrisure Stadium, Pittsburgh, PA |  |  |  |
-| 11/13/2026 | **Illinois** | UCLA | 9:00 PM | Fox | Rose Bowl, Pasadena, CA |  |  |  |
-| 11/13/2026 | Houston | Colorado | 10:15 PM | ESPN | Folsom Field, Boulder, CO |  |  |  |
 
 ### Saturday November 14th
 
@@ -22,7 +14,6 @@ _All times ET_
 | 11/14/2026 | Wake Forest | SMU | 12:00 PM | Disney+, ESPN, ESPN/Disney+ | Gerald J. Ford Stadium, Dallas, TX |  |  |  |
 | 11/14/2026 | Northwestern | Ohio State | 12:00 PM | Fox | Ohio Stadium, Columbus, OH |  |  |  |
 | 11/14/2026 | Cincinnati | Iowa State | 12:00 PM | TNT | Jack Trice Stadium, Ames, IA |  |  |  |
-| 11/14/2026 | Auburn | Mississippi State | 12:00 PM | ESPN2 | Davis Wade Stadium, Starkville, MS |  |  |  |
 | 11/14/2026 | Syracuse | NC State | 12:00 PM | ACC Network | Carter-Finley Stadium, Raleigh, NC |  |  |  |
 | 11/14/2026 | Wisconsin | Maryland | 12:00 PM | FS1 | SECU Stadium, College Park, MD |  |  |  |
 | 11/14/2026 | James Madison | UConn | 12:00 PM | CBSSN | Pratt & Whitney Stadium, East Hartford, CT |  |  |  |
@@ -33,7 +24,6 @@ _All times ET_
 | 11/14/2026 | UAB | Temple | 1:00 PM | ESPN+ | Lincoln Financial Field, Philadelphia, PA |  |  |  |
 | 11/14/2026 | Arkansas State | Coastal Carolina | 1:00 PM | ESPN+ | Brooks Stadium (SC), Conway, SC |  |  |  |
 | 11/14/2026 | Kansas State | TCU | 2:00 PM | ESPNU | Amon G. Carter Stadium, Fort Worth, TX |  |  |  |
-| 11/14/2026 | Tulane | Rice | 2:00 PM | ESPN+ | First Community Stadium, Houston, TX |  |  |  |
 | 11/14/2026 | Kennesaw State | Sam Houston | 2:00 PM | ESPN+ | Elliott T. Bowers Stadium, Huntsville, TX |  |  |  |
 | 11/14/2026 | Tennessee | Texas A&M | 3:00 PM | ESPN | Kyle Field, College Station, TX |  |  |  |
 | 11/14/2026 | New Mexico State | Missouri State | 3:00 PM | ESPN+ | Robert W. Plaster Stadium, Springfield, MO |  |  |  |
@@ -41,28 +31,28 @@ _All times ET_
 | 11/14/2026 | Missouri | Georgia | 3:30 PM | ABC, ABC/Disney+, Disney+ | Sanford Stadium, Athens, GA |  |  |  |
 | 11/14/2026 | Boston College | **Notre Dame** | 3:30 PM | NBC | Notre Dame Stadium, Notre Dame, IN |  |  |  |
 | 11/14/2026 | USC | **Indiana** | 3:30 PM | CBS | Memorial Stadium (Bloomington, IN), Bloomington, IN |  |  |  |
-| 11/14/2026 | Baylor | BYU | 3:30 PM | Fox | LaVell Edwards Stadium, Provo, UT |  |  |  |
 | 11/14/2026 | Michigan | Oregon | 3:30 PM | FS1 | Autzen Stadium, Eugene, OR |  |  |  |
-| 11/14/2026 | Arizona State | UCF | 3:30 PM | ESPN2 | Acrisure Bounce House, Orlando, FL |  |  |  |
+| 11/14/2026 | Kansas | West Virginia | 3:30 PM | ESPN2 | Milan Puskar Stadium, Morgantown, WV |  |  |  |
 | 11/14/2026 | California | Virginia | 3:30 PM | ACC Network | Scott Stadium, Charlottesville, VA |  |  |  |
-| 11/14/2026 | Florida Atlantic | Tulsa | 3:30 PM | ESPN+ | H. A. Chapman Stadium, Tulsa, OK |  |  |  |
 | 11/14/2026 | Nevada | Northern Illinois | 3:30 PM | MW+ | Huskie Stadium, Dekalb, IL |  |  |  |
 | 11/14/2026 | Georgia Southern | Georgia State | 3:30 PM | ESPN+ | Center Parc Stadium, Atlanta, GA |  |  |  |
 | 11/14/2026 | Jacksonville State | Western Kentucky | 3:30 PM | ESPN+ | Houchens Industries-L.T. Smith Stadium, Bowling Green, KY |  |  |  |
 | 11/14/2026 | Middle Tennessee | Liberty | 3:30 PM | CBSSN | Williams Stadium (VA), Lynchburg, VA |  |  |  |
 | 11/14/2026 | Fresno State | Texas State | 4:00 PM | CW | UFCU Stadium, San Marcos, TX |  |  |  |
-| 11/14/2026 | Ole Miss | Oklahoma | 4:15 PM | SEC Network | Memorial Stadium (Norman, OK), Norman, OK |  |  |  |
-| 11/14/2026 | Washington | Michigan State | 4:15 PM | BTN | Spartan Stadium, East Lansing, MI |  |  |  |
+| 11/14/2026 | Auburn | Mississippi State | 4:15 PM | SEC Network | Davis Wade Stadium, Starkville, MS |  |  |  |
+| 11/14/2026 | Tulane | Rice | 4:30 PM | ESPN+ | First Community Stadium, Houston, TX |  |  |  |
 | 11/14/2026 | Southern Miss | Louisiana Tech | 5:00 PM | ESPN+ | Joe Aillet Stadium, Ruston, LA |  |  |  |
-| 11/14/2026 | Kansas | West Virginia | 5:30 PM | ESPNU | Milan Puskar Stadium, Morgantown, WV |  |  |  |
+| 11/14/2026 | Arizona State | UCF | 5:30 PM | ESPNU | Acrisure Bounce House, Orlando, FL |  |  |  |
+| 11/14/2026 | Washington | Michigan State | 5:30 PM | BTN | Spartan Stadium, East Lansing, MI |  |  |  |
 | 11/14/2026 | Oregon State | Boise State | 6:00 PM | USA Net | Albertsons Stadium, Boise, ID |  |  |  |
 | 11/14/2026 | App State | Marshall | 6:00 PM | ESPN+ | Joan C. Edwards Stadium, Huntington, WV |  |  |  |
 | 11/14/2026 | Florida | Kentucky | 6:15 PM | ESPN | Kroger Field, Lexington, KY |  |  |  |
+| 11/14/2026 | Baylor | BYU | 7:00 PM | Fox | LaVell Edwards Stadium, Provo, UT |  |  |  |
 | 11/14/2026 | Louisville | North Carolina | 7:00 PM | ESPN2 | Kenan Stadium, Chapel Hill, NC |  |  |  |
 | 11/14/2026 | **Minnesota** | Penn State | 7:00 PM | FS1 | Beaver Stadium, University Park, PA |  |  |  |
 | 11/14/2026 | San José State | Air Force | 7:00 PM | CBSSN | Falcon Stadium, USAF Academy, CO |  |  |  |
 | 11/14/2026 | Troy | South Alabama | 7:00 PM | ESPN+ | Hancock Whitney Stadium, Mobile, AL |  |  |  |
-| 11/14/2026 | Utah | Arizona | 7:30 PM | Fox | Casino Del Sol Stadium, Tucson, AZ |  |  |  |
+| 11/14/2026 | Florida Atlantic | Tulsa | 7:15 PM | ESPN+ | H. A. Chapman Stadium, Tulsa, OK |  |  |  |
 | 11/14/2026 | Texas | LSU | 7:30 PM | ABC | Tiger Stadium (LA), Baton Rouge, LA |  |  |  |
 | 11/14/2026 | Purdue | Iowa | 7:30 PM | NBC | Kinnick Stadium, Iowa City, IA |  |  |  |
 | 11/14/2026 | Stanford | Virginia Tech | 7:30 PM | ACC Network | Lane Stadium, Blacksburg, VA |  |  |  |
@@ -72,8 +62,15 @@ _All times ET_
 | 11/14/2026 | Texas Tech | Oklahoma State | 9:30 PM | ESPN | Boone Pickens Stadium, Stillwater, OK |  |  |  |
 | 11/14/2026 | Utah State | San Diego State | 9:30 PM | USA Net | Snapdragon Stadium, San Diego, CA |  |  |  |
 | 11/14/2026 | Wyoming | UTEP | 10:00 PM | FS1 | Sun Bowl, El Paso, TX |  |  |  |
+| 11/14/2026 | Utah | Arizona | 10:30 PM | Fox | Casino Del Sol Stadium, Tucson, AZ |  |  |  |
 | 11/14/2026 | Colorado State | Washington State | 10:30 PM | CBSSN | Martin Stadium, Pullman, WA |  |  |  |
 | 11/14/2026 | North Dakota State | Hawai'i | 11:00 PM | CW | Clarence T.C. Ching Athletics Complex, Honolulu, HI |  |  |  |
+
+### Sunday November 15th
+
+| Date | Away | Home | Kick (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11/15/2026 | Ole Miss | Oklahoma | 1:00 PM | SEC Network | Memorial Stadium (Norman, OK), Norman, OK |  |  |  |
 
 ## NFL — Upcoming Week
 2026-11-11 to 2026-11-17  
@@ -103,32 +100,14 @@ _All times ET_
 | 11/16/2026 | Los Angeles Chargers | Baltimore Ravens | 8:15 PM | ESPN | M&T Bank Stadium, Baltimore, MD |  |  |  |
 
 ## College Basketball — Upcoming Week
-2026-11-13 to 2026-11-19  
+2026-11-14 to 2026-11-20  
 _All times ET_  
-
-### Friday November 13th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/13/2026 | North Alabama | Miami | 5:00 PM | ACC Network | Watsco Center, Coral Gables, FL |  |  |  |
-| 11/13/2026 | Merrimack | Florida | 7:00 PM | SEC Network | Tower Hill Arena, Gainesville, FL |  |  |  |
-| 11/13/2026 | Sam Houston | **Illinois** | 7:00 PM | B1G+ | State Farm Center, Champaign, IL |  |  |  |
-| 11/13/2026 | Northern Iowa | Michigan State | 7:00 PM | FS1 | Breslin Center, East Lansing, MI |  |  |  |
-| 11/13/2026 | Tennessee State | Tennessee | 7:00 PM | SECN+ | Food City Center, Knoxville, TN |  |  |  |
-| 11/13/2026 | Prairie View A&M | Vanderbilt | 7:00 PM | SECN+ | Memorial Gymnasium (TN), Nashville, TN |  |  |  |
-| 11/13/2026 | Northern Arizona | Kentucky | 7:00 PM | SECN+ | Rupp Arena, Lexington, KY |  |  |  |
-| 11/13/2026 | Ohio State | UConn | 7:30 PM | TNT | PeoplesBank Arena, Hartford, CT |  |  |  |
-| 11/13/2026 | SIU Edwardsville | Duke | 8:00 PM | CW | Cameron Indoor Stadium, Durham, NC |  |  |  |
-| 11/13/2026 | Virginia | Maryland | 8:00 PM | Peacock | XFINITY Center, College Park, MD |  |  |  |
-| 11/13/2026 | Central Arkansas | Arkansas | 8:00 PM | SECN+ | Bud Walton Arena, Fayetteville, AR |  |  |  |
-| 11/13/2026 | Arizona | Auburn | 9:00 PM | ESPN2 | Neville Arena, Auburn, AL |  |  |  |
-| 11/13/2026 | Seton Hall | Alabama | 9:00 PM | SEC Network | Coleman Coliseum, Tuscaloosa, AL |  |  |  |
 
 ### Saturday November 14th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/14/2026 | Stonehill | Texas Tech | 1:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX |  |  |  |
+| 11/14/2026 | Stonehill | Texas Tech | 2:00 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX |  |  |  |
 | 11/14/2026 | LSU | Gonzaga | 3:30 PM | USA Net | Spokane Numerica Veterans Arena, Spokane, WA |  |  |  |
 
 ### Sunday November 15th
@@ -184,23 +163,21 @@ _All times ET_
 | 11/19/2026 | Stetson | Louisville | 8:00 PM | ACC Network | KFC Yum! Center, Louisville, KY |  |  |  |
 | 11/19/2026 | Tarleton State | USC | 11:00 PM | BTN | Galen Center, Los Angeles, CA |  |  |  |
 
-## NBA — Upcoming Week
-2026-11-13 to 2026-11-19  
-_All times ET_  
-
-### Friday November 13th
+### Friday November 20th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/13/2026 | New York Knicks | **Indiana Pacers** | 7:00 PM | Prime Video | Gainbridge Fieldhouse, Indianapolis, IN |  |  |  |
-| 11/13/2026 | Milwaukee Bucks | Orlando Magic | 7:00 PM | Bucks App, MyMi | Kia Center, Orlando, FL |  |  |  |
-| 11/13/2026 | Cleveland Cavaliers | Miami Heat | 8:00 PM | DAZN CLE | Kaseya Center, Miami, FL |  |  |  |
-| 11/13/2026 | Atlanta Hawks | Chicago Bulls | 8:00 PM |  | United Center, Chicago, IL |  |  |  |
-| 11/13/2026 | Memphis Grizzlies | New Orleans Pelicans | 8:00 PM | DAZN MEM, GCSEN, Pelicans.com | Smoothie King Center, New Orleans, LA |  |  |  |
-| 11/13/2026 | Utah Jazz | Houston Rockets | 8:30 PM | Jazz+, KJZZ-TV | Toyota Center (Houston), Houston, TX |  |  |  |
-| 11/13/2026 | Golden State Warriors | San Antonio Spurs | 9:30 PM | Prime Video | Frost Bank Center, San Antonio, TX |  |  |  |
-| 11/13/2026 | Portland Trail Blazers | Sacramento Kings | 10:00 PM | BlazerVision, KUNP 16 | Golden 1 Center, Sacramento, CA |  |  |  |
-| 11/13/2026 | Oklahoma City Thunder | LA Clippers | 10:30 PM | ClipperVision, KSBI, KTLA, Thunder App | Intuit Dome, Inglewood, CA |  |  |  |
+| 11/20/2026 | Manhattan | Miami | 5:00 PM | ACC Network | Watsco Center, Coral Gables, FL |  |  |  |
+| 11/20/2026 | Loyola Maryland | Virginia | 7:00 PM | ACC Network | John Paul Jones Arena, Charlottesville, VA |  |  |  |
+| 11/20/2026 | Coastal Carolina | Tennessee | 7:00 PM | SECN+ | Food City Center, Knoxville, TN |  |  |  |
+| 11/20/2026 | Mississippi Valley State | Arkansas | 8:00 PM | SECN+ | Bud Walton Arena, Fayetteville, AR |  |  |  |
+| 11/20/2026 | UCF | Vanderbilt | 8:00 PM | SECN+ | Memorial Gymnasium (TN), Nashville, TN |  |  |  |
+| 11/20/2026 | Kentucky | **Indiana** | 8:00 PM | CBS | Lucas Oil Stadium, Indianapolis, IN |  |  |  |
+| 11/20/2026 | Eastern Illinois | **Illinois** | 9:00 PM | BTN | State Farm Center, Champaign, IL |  |  |  |
+
+## NBA — Upcoming Week
+2026-11-14 to 2026-11-20  
+_All times ET_  
 
 ### Saturday November 14th
 
@@ -275,8 +252,22 @@ _All times ET_
 | 11/19/2026 | New York Knicks | Minnesota Timberwolves | 8:00 PM | DAZN MIN, NBA TV | Target Center, Minneapolis, MN |  |  |  |
 | 11/19/2026 | LA Clippers | San Antonio Spurs | 8:00 PM | ClipperVision, DAZN SAS, KTLA | Frost Bank Center, San Antonio, TX |  |  |  |
 
+### Friday November 20th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11/20/2026 | Charlotte Hornets | Atlanta Hawks | 7:00 PM |  | State Farm Arena, Atlanta, GA |  |  |  |
+| 11/20/2026 | Orlando Magic | Brooklyn Nets | 7:30 PM | DAZN (YES) | Barclays Center, Brooklyn, NY |  |  |  |
+| 11/20/2026 | **Indiana Pacers** | Cleveland Cavaliers | 7:30 PM | DAZN CLE | Rocket Arena, Cleveland, OH |  |  |  |
+| 11/20/2026 | Toronto Raptors | Detroit Pistons | 7:30 PM | Prime Video | Little Caesars Arena, Detroit, MI |  |  |  |
+| 11/20/2026 | Washington Wizards | Chicago Bulls | 8:00 PM | MNMT | United Center, Chicago, IL |  |  |  |
+| 11/20/2026 | New Orleans Pelicans | Oklahoma City Thunder | 8:00 PM | GCSEN, KSBI, Pelicans.com, Thunder App | Paycom Center, Oklahoma City, OK |  |  |  |
+| 11/20/2026 | Phoenix Suns | Utah Jazz | 9:30 PM | Arizona's Family 3TV, Jazz+, KJZZ-TV, Suns Live | Delta Center, Salt Lake City, UT |  |  |  |
+| 11/20/2026 | Houston Rockets | Denver Nuggets | 10:00 PM | Prime Video | Ball Arena, Denver, CO |  |  |  |
+| 11/20/2026 | Sacramento Kings | Los Angeles Lakers | 10:00 PM | Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA |  |  |  |
+
 ## MLS — Upcoming Week
-2026-11-13 to 2026-11-19  
+2026-11-14 to 2026-11-20  
 _All times ET_  
 
 ### Thursday November 19th
@@ -287,24 +278,8 @@ _All times ET_
 | 11/19/2026 | Real Salt Lake | Seattle Sounders FC | 10:00 PM | Apple TV | Lumen Field, Seattle, Washington |  |  |  |
 
 ## FIFA International Friendlies — Upcoming Week
-2026-11-13 to 2026-11-19  
+2026-11-14 to 2026-11-20  
 _All times ET_  
-
-### Friday November 13th
-
-| Date | Away | Home | Match Time (ET) | TV | Venue | SXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/13/2026 | Paraguay | Singapore | 7:00 AM |  | Singapore National Stadium, Singapore |  |  |  |
-| 11/13/2026 | Honduras | United Arab Emirates | 9:10 AM |  | Mohammed bin Zayed Stadium, Abu Dhabi |  |  |  |
-| 11/13/2026 | South Korea | Saudi Arabia | 9:30 AM |  | Jassim Bin Hamad Stadium, Doha |  |  |  |
-| 11/13/2026 | Australia | Qatar | 9:45 AM |  | Abdullah bin Khalifa Stadium, Ar-Rayyan |  |  |  |
-| 11/13/2026 | Lebanon | Iraq | 10:00 AM |  | Basra International Stadium, Basra |  |  |  |
-| 11/13/2026 | Syria | Kuwait | 11:30 AM |  | Al-Sadaqua Walsalam Stadium, Jaber Al-Ahmad International Stadium |  |  |  |
-| 11/13/2026 | Indonesia | Jordan | 3:00 PM |  | Amman International Stadium, Amman |  |  |  |
-| 11/13/2026 | Uruguay | Argentina | 6:00 PM |  | Alberto José Armando (La Bombonera), Buenos Aires |  |  |  |
-| 11/13/2026 | Chile | Colombia | 7:00 PM |  | Pascual Guerrero, Cali |  |  |  |
-| 11/13/2026 | Costa Rica | Ecuador | 7:00 PM |  | Estadio Olímpico Atahualpa, Quito |  |  |  |
-| 11/13/2026 | Bolivia | Peru | 8:00 PM |  | Estadio Alejandro Villanueva, Lima |  |  |  |
 
 ### Saturday November 14th
 
@@ -316,7 +291,7 @@ _All times ET_
 | 11/14/2026 | Malaysia | China | 7:00 AM |  | Zhaoqing New District Sports Center Stadium, Zhaoqing |  |  |  |
 | 11/14/2026 | Kyrgyz Republic | Chinese Taipei | 7:00 AM |  | Thien Truong Stadium, Nam Dinh |  |  |  |
 | 11/14/2026 | Iran | Palestine | 10:00 AM |  | Basra International Stadium, Basra |  |  |  |
-| 11/14/2026 | India | New Zealand | 10:00 PM |  | One New Zealand Stadium, Christchurch |  |  |  |
+| 11/14/2026 | India | New Zealand | 10:10 PM |  | One New Zealand Stadium, Christchurch |  |  |  |
 
 ### Sunday November 15th
 
