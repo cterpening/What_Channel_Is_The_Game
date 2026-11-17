@@ -1,6 +1,6 @@
 # Sports Schedules
 
-_Last updated: 2026-11-17 11:04 EST_
+_Last updated: 2026-11-17 11:14 EST_
 
 ## College Football — Upcoming Week
 2026-11-16 to 2026-11-22  
