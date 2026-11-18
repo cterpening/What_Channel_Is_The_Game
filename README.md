@@ -1,18 +1,10 @@
 # Sports Schedules
 
-_Last updated: 2026-11-17 14:00 EST_
+_Last updated: 2026-11-18 13:43 EST_
 
 ## College Football — Upcoming Week
 2026-11-16 to 2026-11-22  
 _All times ET_  
-
-### Tuesday November 17th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SiriusXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/17/2026 | Eastern Michigan | Western Michigan | 6:00 PM | ESPN2 | Waldo Stadium, Kalamazoo, MI | Home ONLINE; Away ONLINE |  |  |
-| 11/17/2026 | **Ball State** | Ohio | 7:00 PM | CBSSN | Peden Stadium, Athens, OH | Home ONLINE |  |  |
-| 11/17/2026 | Miami (OH) | Kent State | 7:00 PM | ESPNU | Zoeller Field at Dix Stadium, Kent, OH | Home ONLINE |  |  |
 
 ### Wednesday November 18th
 
@@ -44,9 +36,9 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/21/2026 | BYU | Kansas | 12:00 PM | ABC | David Booth Kansas Memorial Stadium, Lawrence, KS | Home 85; Away 166 |  |  |
 | 11/21/2026 | Wake Forest | Georgia Tech | 12:00 PM | ESPN | Bobby Dodd Stadium, Atlanta, GA | Home 235; Away 83 |  |  |
-| 11/21/2026 | Wofford | Ole Miss | 12:00 PM | SECN+ | Vaught-Hemingway Stadium, Oxford, MS | Home 81 |  |  |
 | 11/21/2026 | Ohio State | Nebraska | 12:00 PM | Fox | Memorial Stadium (Lincoln, NE), Lincoln, NE | Home 84 / 80; Away 82 / 80 |  |  |
 | 11/21/2026 | Vanderbilt | Florida | 12:00 PM | SEC Network | Ben Hill Griffin Stadium, Gainesville, FL | Home 229; Away 256 |  |  |
+| 11/21/2026 | Wofford | Ole Miss | 12:00 PM | SECN+ | Vaught-Hemingway Stadium, Oxford, MS | Home 81 |  |  |
 | 11/21/2026 | Colorado | Cincinnati | 12:00 PM | ESPN+ | Nippert Stadium, Cincinnati, OH | Home 237; Away 262 |  |  |
 | 11/21/2026 | Syracuse | Boston College | 12:00 PM | ACC Network | Alumni Stadium (Chestnut Hill, MA), Chestnut Hill, MA | Home 234; Away 258 |  |  |
 | 11/21/2026 | Northwestern | **Minnesota** | 12:00 PM | FS1 | Huntington Bank Stadium, Minneapolis, MN | Away 257 |  |  |
@@ -70,8 +62,8 @@ _All times ET_
 | 11/21/2026 | Florida International | Kennesaw State | 3:00 PM | ESPN+ | Walens Family Field at Fifth Third Stadium, Kennesaw, GA | Home ONLINE |  |  |
 | 11/21/2026 | UCLA | Michigan | 3:30 PM | CBS | Michigan Stadium, Ann Arbor, MI | Home 250 / 80; Away 85 / 80 |  |  |
 | 11/21/2026 | Arkansas | Texas | 3:30 PM | Disney+, ESPN, ESPN/Disney+ | DKR-Texas Memorial Stadium, Austin, TX | Home 81; Away 270 |  |  |
-| 11/21/2026 | LSU | Tennessee | 3:30 PM | ABC | Neyland Stadium, Knoxville, TN | Home 84; Away 228 |  |  |
 | 11/21/2026 | **Indiana** | Washington | 3:30 PM | Peacock | Husky Stadium, Seattle, WA | Home 232; Away 167 |  |  |
+| 11/21/2026 | LSU | Tennessee | 3:30 PM | ABC | Neyland Stadium, Knoxville, TN | Home 84; Away 228 |  |  |
 | 11/21/2026 | Texas Tech | Baylor | 3:30 PM | Fox | McLane Stadium, Waco, TX | Home 237; Away 83 |  |  |
 | 11/21/2026 | Samford | Auburn | 3:30 PM | SEC Network | Jordan-Hare Stadium, Auburn, AL | Home 256 |  |  |
 | 11/21/2026 | NC State | Florida State | 3:30 PM | ACC Network | Doak Campbell Stadium, Tallahassee, FL | Home 234; Away 258 |  |  |
@@ -134,31 +126,17 @@ _All times ET_
 | 11/23/2026 | Cincinnati Bengals | Washington Commanders | 8:15 PM | ESPN | Northwest Stadium, Landover, MD | Home 192 / 88; Away 193 / 88 |  |  |
 
 ## College Basketball — Upcoming Week
-2026-11-17 to 2026-11-23  
+2026-11-18 to 2026-11-24  
 _All times ET_  
-
-### Tuesday November 17th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/17/2026 | Rutgers | Houston | 2:00 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV | Home 247 |  |  |
-| 11/17/2026 | **Notre Dame** | Florida | 4:30 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV | Home 247; Away 258 |  |  |
-| 11/17/2026 | **Illinois** | Duke | 7:00 PM | ESPN | Cameron Indoor Stadium, Durham, NC |  |  |  |
-| 11/17/2026 | Rider | Miami | 7:00 PM | ACCNX | Watsco Center, Coral Gables, FL | Home 167 |  |  |
-| 11/17/2026 | Kennesaw State | Alabama | 7:30 PM | SECN+ | Coleman Coliseum, Tuscaloosa, AL |  |  |  |
-| 11/17/2026 | Arkansas | **Indiana** | 7:30 PM | Peacock | Madison Square Garden, New York, NY |  |  |  |
-| 11/17/2026 | Eastern Illinois | Vanderbilt | 8:00 PM | SECN+ | Memorial Gymnasium (TN), Nashville, TN | Home 230 |  |  |
-| 11/17/2026 | Michigan State | Tennessee | 9:00 PM | ESPN2 | Food City Center, Knoxville, TN | Home 81; Away 85 |  |  |
-| 11/17/2026 | Old Dominion | Virginia | 9:00 PM | ACC Network | John Paul Jones Arena, Charlottesville, VA | Home 234 |  |  |
-| 11/17/2026 | UNLV | Kansas | 9:30 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV | Home 247 |  |  |
-| 11/17/2026 | Montana State | Gonzaga | 11:00 PM | CBSSN | McCarthey Athletic Center, Spokane, WA | Home 85 |  |  |
 
 ### Wednesday November 18th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11/18/2026 | Houston | Florida | 4:30 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
 | 11/18/2026 | Siena | St. John's | 7:00 PM | truTV | Carnesecca Arena, Queens, NY | Home 84 |  |  |
 | 11/18/2026 | LSU New Orleans | Texas Tech | 7:30 PM | ESPN+ | United Supermarkets Arena, Lubbock, TX | Home 167 |  |  |
+| 11/18/2026 | Kansas | West Virginia | 7:30 PM | ESPN2 | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
 | 11/18/2026 | UL Monroe | LSU | 8:00 PM | SECN+ | Pete Maravich Assembly Center, Baton Rouge, LA | Home 270 |  |  |
 | 11/18/2026 | South Dakota | Nebraska | 8:30 PM | BTN | Pinnacle Bank Arena, Lincoln, NE | Home 257 |  |  |
 | 11/18/2026 | UConn | Arizona | 9:00 PM | FS1 | McKale Center at ALKEME Arena, Tucson, AZ | Home 83; Away 84 |  |  |
@@ -189,15 +167,15 @@ _All times ET_
 | Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/21/2026 | Detroit Mercy | Michigan State | 12:00 PM | BTN | Breslin Center, East Lansing, MI | Home ONLINE |  |  |
+| 11/21/2026 | Queens University | LSU | 1:00 PM | SECN+ | Pete Maravich Assembly Center, Baton Rouge, LA | Home ONLINE |  |  |
 | 11/21/2026 | Michigan | Villanova | 7:00 PM | Fox | Xfinity Mobile Arena, Philadelphia, PA | Home ONLINE; Away 257 |  |  |
-| 11/21/2026 | Queens University | LSU | 8:00 PM | SECN+ | Pete Maravich Assembly Center, Baton Rouge, LA | Home ONLINE |  |  |
 | 11/21/2026 | Washington State | Duke | 11:00 PM | ESPN2 | Acrisure Arena, Palm Springs, CA |  |  |  |
 
 ### Sunday November 22nd
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/22/2026 | Butler | Nebraska | 12:00 PM | FS1 | Credit Union 1 Arena, Chicago, IL | Home 257; Away 271 |  |  |
+| 11/22/2026 | Nebraska | Butler | 1:00 PM | FS1 | Credit Union 1 Arena, Chicago, IL |  |  |  |
 | 11/22/2026 | Southern Indiana | Texas | 3:00 PM | SECN+ | Moody Center, Austin, TX | Home 84 |  |  |
 | 11/22/2026 | Delaware | UCLA | 7:00 PM | B1G+ | Pauley Pavilion, Los Angeles, CA | Home 83 |  |  |
 | 11/22/2026 | Louisiana | USC | 8:00 PM | B1G+ | Galen Center, Los Angeles, CA | Home 84 |  |  |
@@ -211,19 +189,28 @@ _All times ET_
 | 11/23/2026 | Denver | Kansas | 8:00 PM | ESPN+ | Allen Fieldhouse, Lawrence, KS | Home 85 |  |  |
 | 11/23/2026 | Colorado State | Arizona | 11:30 PM | ESPN2 | Lahaina Civic Center, Maui, HI | Home 84; Away 262 |  |  |
 
-## NBA — Upcoming Week
-2026-11-17 to 2026-11-23  
-_All times ET_  
-
-### Tuesday November 17th
+### Tuesday November 24th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/17/2026 | New York Knicks | Toronto Raptors | 7:30 PM |  | Scotiabank Arena, Toronto, ON | Home 160; Away ONLINE |  |  |
-| 11/17/2026 | Portland Trail Blazers | Minnesota Timberwolves | 8:00 PM | BlazerVision, DAZN MIN | Target Center, Minneapolis, MN | Home 218; Away ONLINE |  |  |
-| 11/17/2026 | Detroit Pistons | San Antonio Spurs | 8:00 PM | NBC | Frost Bank Center, San Antonio, TX | Home 86; Away 170 |  |  |
-| 11/17/2026 | Utah Jazz | LA Clippers | 10:30 PM | ClipperVision, Jazz+, KJZZ-TV | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
-| 11/17/2026 | Charlotte Hornets | Los Angeles Lakers | 11:00 PM | NBC, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 217 / 86; Away ONLINE |  |  |
+| 11/24/2026 | Tennessee | Maryland | 3:00 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
+| 11/24/2026 | Miami | TCU | 3:00 PM | ESPNU | T-Mobile Arena, Las Vegas, NV |  |  |  |
+| 11/24/2026 | Creighton | Michigan | 5:30 PM | ESPN | T-Mobile Arena, Las Vegas, NV |  |  |  |
+| 11/24/2026 | Milwaukee | Florida | 7:00 PM | SECN+ | Tower Hill Arena, Gainesville, FL | Home 167 |  |  |
+| 11/24/2026 | Vanderbilt | Ohio State | 7:00 PM | Peacock | Schottenstein Center, Columbus, OH | Home 257; Away 81 |  |  |
+| 11/24/2026 | Texas Tech | Louisville | 8:00 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
+| 11/24/2026 | Baylor | Alabama | 10:00 PM | ESPN2 | T-Mobile Arena, Las Vegas, NV |  |  |  |
+| 11/24/2026 | Oregon | St. John's | 10:30 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
+
+### Wednesday November 25th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11/25/2026 | Gonzaga | Kansas State | 12:30 AM | ESPN | T-Mobile Arena, Las Vegas, NV |  |  |  |
+
+## NBA — Upcoming Week
+2026-11-18 to 2026-11-24  
+_All times ET_  
 
 ### Wednesday November 18th
 
@@ -237,8 +224,8 @@ _All times ET_
 | 11/18/2026 | Washington Wizards | Toronto Raptors | 7:30 PM | MNMT | Scotiabank Arena, Toronto, ON | Home 160; Away ONLINE |  |  |
 | 11/18/2026 | Detroit Pistons | New Orleans Pelicans | 8:00 PM | GCSEN, Pelicans.com | Smoothie King Center, New Orleans, LA | Home 221; Away ONLINE |  |  |
 | 11/18/2026 | Atlanta Hawks | Oklahoma City Thunder | 8:00 PM | KSBI, Thunder App | Paycom Center, Oklahoma City, OK | Home 222; Away ONLINE |  |  |
-| 11/18/2026 | Golden State Warriors | Dallas Mavericks | 8:00 PM | KFAA-TV, MavsTV | American Airlines Center, Dallas, TX | Home 86; Away 171 |  |  |
-| 11/18/2026 | Boston Celtics | Denver Nuggets | 9:30 PM | ESPN | Ball Arena, Denver, CO | Home 81; Away ONLINE |  |  |
+| 11/18/2026 | Golden State Warriors | Dallas Mavericks | 8:00 PM | KFAA-TV, MavsTV | American Airlines Center, Dallas, TX | Home 81; Away 171 |  |  |
+| 11/18/2026 | Boston Celtics | Denver Nuggets | 9:30 PM | ESPN | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
 | 11/18/2026 | Utah Jazz | Los Angeles Lakers | 10:00 PM | Jazz+, KJZZ-TV, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 218; Away ONLINE |  |  |
 | 11/18/2026 | Phoenix Suns | Sacramento Kings | 10:00 PM | Arizona's Family 3TV, Suns Live | Golden 1 Center, Sacramento, CA | Home 217; Away ONLINE |  |  |
 
@@ -303,8 +290,16 @@ _All times ET_
 | 11/23/2026 | Utah Jazz | Los Angeles Lakers | 10:00 PM | Jazz+, KJZZ-TV, NBA TV, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena, Los Angeles, CA | Home 86; Away ONLINE |  |  |
 | 11/23/2026 | San Antonio Spurs | Sacramento Kings | 10:00 PM | DAZN SAS | Golden 1 Center, Sacramento, CA | Home 217; Away ONLINE |  |  |
 
+### Tuesday November 24th
+
+| Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11/24/2026 | Detroit Pistons | Orlando Magic | 7:00 PM |  | Kia Center, Orlando, FL | Home 86; Away 170 |  |  |
+| 11/24/2026 | Boston Celtics | Washington Wizards | 8:00 PM | NBC | Capital One Arena, Washington, DC | Home 217; Away ONLINE |  |  |
+| 11/24/2026 | Dallas Mavericks | Denver Nuggets | 10:00 PM | KFAA-TV, MavsTV, NBC, Peacock, Peacock/NBC | Ball Arena, Denver, CO | Home 86; Away ONLINE |  |  |
+
 ## MLS — Upcoming Week
-2026-11-17 to 2026-11-23  
+2026-11-18 to 2026-11-24  
 _All times ET_  
 
 ### Thursday November 19th
@@ -336,58 +331,37 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/23/2026 | LAFC | St. Louis CITY SC | 8:00 PM | Apple TV, FS1 | Energizer Park, St. Louis, Missouri | Home 188 |  |  |
 
+### Tuesday November 24th
+
+| Date | Away | Home | Match Time (ET) | TV | Venue | SiriusXM | Spread | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11/24/2026 | Houston Dynamo FC | San Jose Earthquakes | 10:00 PM | Apple TV, FS1 | PayPal Park, San Jose, California |  |  |  |
+
 ## Premier League — Upcoming Week
-2026-11-17 to 2026-11-23  
+2026-11-18 to 2026-11-24  
 _All times ET_  
 
 ### Saturday November 21st
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/21/2026 | Fulham | Manchester City | 7:30 AM |  | Etihad Stadium, Manchester | Home 188; Away 188 |  |  |
-| 11/21/2026 | Nottingham Forest | AFC Bournemouth | 10:00 AM |  | Vitality Stadium, Bournemouth |  |  |  |
-| 11/21/2026 | Sunderland | Aston Villa | 10:00 AM |  | Villa Park, Birmingham |  |  |  |
-| 11/21/2026 | Leeds United | Chelsea | 10:00 AM |  | Stamford Bridge, London | Home 188; Away 188 |  |  |
-| 11/21/2026 | Crystal Palace | Coventry City | 10:00 AM |  | Coventry Building Society Arena, Coventry |  |  |  |
-| 11/21/2026 | Ipswich Town | Tottenham Hotspur | 10:00 AM |  | Tottenham Hotspur Stadium, London | Home 247; Away 247 |  |  |
-| 11/21/2026 | Arsenal | Newcastle United | 12:30 PM |  | St. James' Park, Newcastle-upon-Tyne | Home 188; Away 188 |  |  |
+| 11/21/2026 | Fulham | Manchester City | 7:30 AM | USA Net, Universo | Etihad Stadium, Manchester | Home 188; Away 188 |  |  |
+| 11/21/2026 | Nottingham Forest | AFC Bournemouth | 10:00 AM | Peacock | Vitality Stadium, Bournemouth |  |  |  |
+| 11/21/2026 | Sunderland | Aston Villa | 10:00 AM | Peacock | Villa Park, Birmingham |  |  |  |
+| 11/21/2026 | Leeds United | Chelsea | 10:00 AM | Peacock | Stamford Bridge, London | Home 188; Away 188 |  |  |
+| 11/21/2026 | Crystal Palace | Coventry City | 10:00 AM | Peacock | Coventry Building Society Arena, Coventry |  |  |  |
+| 11/21/2026 | Ipswich Town | Tottenham Hotspur | 10:00 AM | USA Net, Universo | Tottenham Hotspur Stadium, London | Home 247; Away 247 |  |  |
+| 11/21/2026 | Arsenal | Newcastle United | 12:30 PM | Tele, USA Net | St. James' Park, Newcastle-upon-Tyne | Home 188; Away 188 |  |  |
 
 ### Sunday November 22nd
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/22/2026 | Brighton & Hove Albion | Hull City | 9:00 AM |  | The MKM Stadium, Hull | Home 188; Away 188 |  |  |
-| 11/22/2026 | Manchester United | Liverpool | 11:30 AM |  | Anfield, Liverpool | Home 188; Away 188 |  |  |
+| 11/22/2026 | Brighton & Hove Albion | Hull City | 9:00 AM | Tele, USA Net | The MKM Stadium, Hull | Home 188; Away 188 |  |  |
+| 11/22/2026 | Manchester United | Liverpool | 11:30 AM | Tele, USA Net | Anfield, Liverpool | Home 188; Away 188 |  |  |
 
 ### Monday November 23rd
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/23/2026 | Everton | Brentford | 3:00 PM |  | Gtech Community Stadium, Brentford | Home 188; Away 188 |  |  |
-
-## FIFA International Friendlies — Upcoming Week
-2026-11-17 to 2026-11-23  
-_All times ET_  
-
-### Tuesday November 17th
-
-| Date | Away | Home | Match Time (ET) | TV | Venue | SiriusXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/17/2026 | Cook Islands | Tahiti | 12:30 AM |  | Stade Louis Ganivet |  |  |  |
-| 11/17/2026 | Yemen | Malaysia | 1:00 AM |  | Zhaoqing New District Sports Center Stadium, Zhaoqing |  |  |  |
-| 11/17/2026 | Brazil | Singapore | 5:00 AM |  | Singapore National Stadium, Singapore |  |  |  |
-| 11/17/2026 | Bahrain | China | 7:00 AM |  | Zhaoqing New District Sports Center Stadium, Zhaoqing |  |  |  |
-| 11/17/2026 | Vietnam | Kyrgyz Republic | 7:00 AM |  | Thien Truong Stadium, Nam Dinh |  |  |  |
-| 11/17/2026 | Palestine | Lebanon | 8:00 AM |  | Basra International Stadium, Basra |  |  |  |
-| 11/17/2026 | Paraguay | Japan | 8:10 AM |  | Singapore National Stadium, Singapore |  |  |  |
-| 11/17/2026 | South Korea | Qatar | 9:00 AM |  | Abdullah bin Khalifa Stadium, Ar-Rayyan |  |  |  |
-| 11/17/2026 | Syria | United Arab Emirates | 9:10 AM |  | Hazza Bin Zayed Stadium, Al Ain |  |  |  |
-| 11/17/2026 | Uzbekistan | Saudi Arabia | 10:30 AM |  | Jassim Bin Hamad Stadium, Doha |  |  |  |
-| 11/17/2026 | Australia | Jordan | 11:00 AM |  | Suheim bin Hamad Stadium, Ar-Rayyan |  |  |  |
-| 11/17/2026 | Venezuela | Russia | 11:00 AM |  | Krasnodar Stadium, Krasnodar |  |  |  |
-| 11/17/2026 | Iran | Iraq | 11:15 AM |  | Basra International Stadium, Basra |  |  |  |
-| 11/17/2026 | Honduras | Kuwait | 11:30 AM |  | Al-Sadaqua Walsalam Stadium, Jaber Al-Ahmad International Stadium |  |  |  |
-| 11/17/2026 | Costa Rica | Argentina | 6:00 PM |  | Mario Alberto Kempes, Córdoba |  |  |  |
-| 11/17/2026 | Colombia | Chile | 6:00 PM |  | Estadio Monumental David Arellano, Santiago |  |  |  |
-| 11/17/2026 | Bolivia | Ecuador | 6:30 PM |  | Estadio Banco Pichincha, Quito |  |  |  |
-| 11/17/2026 | Dominican Republic | Uruguay | 6:30 PM |  | Estadio Domingo Burgueño Miguel, Maldonado |  |  |  |
+| 11/23/2026 | Everton | Brentford | 3:00 PM | USA Net | Gtech Community Stadium, Brentford | Home 188; Away 188 |  |  |
