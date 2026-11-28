@@ -1,28 +1,10 @@
 # Sports Schedules
 
-_Last updated: 2026-11-27 14:23 EST_
+_Last updated: 2026-11-28 13:00 EST_
 
 ## College Football — Upcoming Week
 2026-11-23 to 2026-11-29  
 _All times ET_  
-
-### Friday November 27th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SiriusXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/27/2026 | Mississippi State | Ole Miss | 12:00 PM | ABC | Vaught-Hemingway Stadium, Oxford, MS | Home 84; Away 81 |  |  |
-| 11/27/2026 | Tulsa | UTSA | 12:00 PM | ESPN | Alamodome, San Antonio, TX |  |  |  |
-| 11/27/2026 | Buffalo | Akron | 12:00 PM | CBSSN | InfoCision Stadium, Akron, OH |  |  |  |
-| 11/27/2026 | Toledo | Ohio | 12:00 PM | ESPNU | Peden Stadium, Athens, OH | Home ONLINE; Away ONLINE |  |  |
-| 11/27/2026 | Nebraska | Iowa | 12:08 PM | CBS | Kinnick Stadium, Iowa City, IA | Home 83; Away 257 |  |  |
-| 11/27/2026 | App State | South Alabama | 3:00 PM | ESPN+ | Hancock Whitney Stadium, Mobile, AL | Home ONLINE |  |  |
-| 11/27/2026 | Florida | Florida State | 3:30 PM | ABC | Doak Campbell Stadium, Tallahassee, FL | Home 84; Away 81 |  |  |
-| 11/27/2026 | Temple | Memphis | 3:30 PM | ESPN | Simmons Bank Liberty Stadium, Memphis, TN | Home ONLINE |  |  |
-| 11/27/2026 | North Dakota State | San José State | 3:30 PM | CBSSN | CEFCU Stadium, San Jose, CA |  |  |  |
-| 11/27/2026 | Air Force | New Mexico | 4:30 PM | CW | University Stadium (NM), Albuquerque, NM | Home 273; Away 272 |  |  |
-| 11/27/2026 | Texas | Texas A&M | 7:30 PM | ABC | Kyle Field, College Station, TX | Home 84 / 80; Away 81 / 80 |  |  |
-| 11/27/2026 | **Minnesota** | Wisconsin | 7:30 PM | NBC | Camp Randall Stadium, Madison, WI | Home 85 |  |  |
-| 11/27/2026 | West Virginia | Utah | 9:00 PM | Fox | Rice-Eccles Stadium, Salt Lake City, UT | Away 83 |  |  |
 
 ### Saturday November 28th
 
@@ -86,12 +68,6 @@ _All times ET_
 2026-11-25 to 2026-12-01  
 _All times ET_  
 
-### Friday November 27th
-
-| Date | Away | Home | Kick (ET) | TV | Venue | SiriusXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/27/2026 | Denver Broncos | Pittsburgh Steelers | 3:00 PM | Prime Video | Acrisure Stadium, Pittsburgh, PA | Home 193 / 88; Away 192 / 88 |  |  |
-
 ### Sunday November 29th
 
 | Date | Away | Home | Kick (ET) | TV | Venue | SiriusXM | Spread | Total |
@@ -105,7 +81,7 @@ _All times ET_
 | 11/29/2026 | New England Patriots | Los Angeles Chargers | 4:05 PM | CBS | SoFi Stadium, Inglewood, CA | Home 198 / 99; Away 267 / 99 |  |  |
 | 11/29/2026 | Washington Commanders | Arizona Cardinals | 4:25 PM | Fox | State Farm Stadium, Glendale, AZ | Home 192; Away 261 |  |  |
 | 11/29/2026 | Seattle Seahawks | San Francisco 49ers | 4:25 PM | Fox | Levi's Stadium, Santa Clara, CA | Home 193; Away 262 |  |  |
-| 11/29/2026 | Las Vegas Raiders | Cleveland Browns | 8:20 PM | NBC | Huntington Bank Field, Cleveland, OH | Home 172 / 88; Away 193 / 88 |  |  |
+| 11/29/2026 | Las Vegas Raiders | Cleveland Browns | 8:20 PM | NBC | Huntington Bank Field, Cleveland, OH | Home 192 / 88; Away 193 / 88 |  |  |
 
 ### Monday November 30th
 
@@ -114,108 +90,14 @@ _All times ET_
 | 11/30/2026 | Carolina Panthers | Tampa Bay Buccaneers | 8:15 PM | ESPN | Raymond James Stadium, Tampa, FL | Home 192 / 88; Away 193 / 88 |  |  |
 
 ## College Basketball — Upcoming Week
-2026-11-27 to 2026-12-03  
+2026-11-28 to 2026-12-04  
 _All times ET_  
-
-### Friday November 27th
-
-| Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/27/2026 | Iowa State | St. John's | 1:00 PM | ESPN2 | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
-| 11/27/2026 | Memphis | Wake Forest | 1:30 PM | ACC Network | Imperial Arena, Nassau, Bahamas | Home 265 |  |  |
-| 11/27/2026 | Virginia | **Xavier** | 11:00 AM | ESPN2 | Imperial Arena, Nassau, Bahamas |  |  |  |
-| 11/27/2026 | Southern | Vanderbilt | 2:00 PM | SECN+ | Memorial Gymnasium (TN), Nashville, TN | Home 271 |  |  |
-| 11/27/2026 | Georgetown | UCLA | 2:30 PM | Fox | Jenny Craig Pavilion, San Diego, CA | Home 264; Away 263 |  |  |
-| 11/27/2026 | Texas | Saint Mary's | 5:00 PM | Fox | Jenny Craig Pavilion, San Diego, CA |  |  |  |
-| 11/27/2026 | Villanova | Kansas | 5:00 PM | ESPN2 | Allen Fieldhouse, Lawrence, KS | Home 271; Away ONLINE |  |  |
-| 11/27/2026 | Western Kentucky | **Illinois** | 6:00 PM | FS1 | State Farm Center, Champaign, IL |  |  |  |
-| 11/27/2026 | Bowling Green | **Indiana** | 6:00 PM | BTN | Simon Skjodt Assembly Hall, Bloomington, IN | Home 270 |  |  |
-| 11/27/2026 | Oakland | Houston | 7:30 PM | CBSSN | Fertitta Center, Houston, TX | Home 237 |  |  |
-| 11/27/2026 | Miami | Alabama | 8:30 PM | ESPNU | T-Mobile Arena, Las Vegas, NV |  |  |  |
-| 11/27/2026 | Tennessee | Louisville | 9:00 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
-| 11/27/2026 | Creighton | Gonzaga | 11:00 PM | ESPN | T-Mobile Arena, Las Vegas, NV |  |  |  |
-| 11/27/2026 | San Diego State | Texas Tech | 11:30 PM | ESPN2 | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
 
 ### Saturday November 28th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/28/2026 | Siena | Seton Hall | 12:00 PM | ESPN+ | Prudential Center, Newark, NJ | Home ONLINE |  |  |
-| 11/28/2026 | Princeton | St. Thomas | 12:00 PM |  | Trask Coliseum, Wilmington, NC |  |  |  |
-| 11/28/2026 | Elon | NC State | 12:00 PM | ACCNX | Lenovo Center, Raleigh, NC | Home ONLINE |  |  |
-| 11/28/2026 | Robert Morris | Northern Iowa | 1:00 PM | ESPN+ | McLeod Center, Cedar Falls, IA |  |  |  |
-| 11/28/2026 | IU Columbus | Indiana State | 1:00 PM | ESPN+ | Hulman Center, Terre Haute, IN |  |  |  |
-| 11/28/2026 | Wofford | Purdue Fort Wayne | 1:00 PM | ESPN+ | Memorial Coliseum (IN), Fort Wayne, IN |  |  |  |
-| 11/28/2026 | Hampton | Radford | 1:00 PM |  | Bender Arena, Washington, DC |  |  |  |
-| 11/28/2026 | Vermont | Colgate | 1:00 PM | FloSports | David S. Mack Sports and Exhibition Complex, Hempstead, NY |  |  |  |
-| 11/28/2026 | Alcorn State | Georgia Tech | 1:00 PM | ACCNX | McCamish Pavilion, Atlanta, GA | Home ONLINE |  |  |
-| 11/28/2026 | North Carolina Central | Gardner-Webb | 1:00 PM | ESPN+ | Paul Porter Arena, Boiling Springs, NC |  |  |  |
-| 11/28/2026 | Lehigh | Pepperdine | 1:30 PM |  | Gilbert Arena, Thousand Oaks, CA |  |  |  |
-| 11/28/2026 | Clinton | Winthrop | 2:00 PM | ESPN+ | Winthrop Coliseum, Rock Hill, SC |  |  |  |
-| 11/28/2026 | Manhattan | Morgan State | 2:00 PM |  | Hill Field House, Baltimore, MD |  |  |  |
-| 11/28/2026 | New College | Stetson | 2:00 PM | ESPN+ | Insight Credit Union Arena at Edmunds Center, DeLand, FL |  |  |  |
-| 11/28/2026 | North Florida | Columbia | 2:00 PM | ESPN+ | Levien Gymnasium, New York, NY |  |  |  |
-| 11/28/2026 | Central Connecticut | Navy | 2:00 PM | ESPN+, Patriot League TV | Leo D. Mahoney Arena, Fairfield, CT |  |  |  |
-| 11/28/2026 | Delaware State | North Carolina A&T | 2:00 PM |  | Ellis Corbett Sports Center, Greensboro, NC |  |  |  |
-| 11/28/2026 | Georgia Southern | UNC Asheville | 2:00 PM | ESPN+ | Kimmel Arena, Asheville, NC |  |  |  |
-| 11/28/2026 | Troy | Chattanooga | 2:00 PM |  | McKenzie Arena, Chattanooga, TN |  |  |  |
-| 11/28/2026 | Prairie View A&M | Iowa | 2:00 PM | B1G+ | Carver-Hawkeye Arena, Iowa City, IA | Home ONLINE |  |  |
-| 11/28/2026 | The Citadel | High Point | 2:00 PM | ESPN+ | Qubein Center, High Point, NC |  |  |  |
-| 11/28/2026 | Sacramento State | Presbyterian | 2:00 PM | ESPN+ | Templeton Center, Clinton, SC |  |  |  |
-| 11/28/2026 | Marist | George Mason | 2:00 PM | ESPN+ | EagleBank Arena, Fairfax, VA |  |  |  |
-| 11/28/2026 | Le Moyne | Niagara | 2:00 PM | ESPN+ | Kirby Sports Center, Easton, PA |  |  |  |
-| 11/28/2026 | Chicago State | Bradley | 2:00 PM | ESPN+ | Carver Arena, Peoria, IL |  |  |  |
-| 11/28/2026 | Southwestern Christian U | Central Arkansas | 2:00 PM | ESPN+ | Farris Center, Conway, AR |  |  |  |
-| 11/28/2026 | Fordham | Harvard | 2:00 PM | ESPN+ | Lavietes Pavilion, Cambridge, MA |  |  |  |
-| 11/28/2026 | Ball State | Southern Indiana | 2:00 PM | ESPN+ | Liberty Arena (IN), Evansville, IN |  |  |  |
-| 11/28/2026 | Western Illinois | Coastal Carolina | 3:00 PM | ESPN+ | The HTC Center, Conway, SC |  |  |  |
-| 11/28/2026 | Toledo | Valparaiso | 3:00 PM | ESPN+ | Athletics-Recreation Center, Valparaiso, IN |  |  |  |
-| 11/28/2026 | Liberty | UNC Wilmington | 3:00 PM | FloSports | Trask Coliseum, Wilmington, NC |  |  |  |
-| 11/28/2026 | Kentucky Christian | UT Martin | 3:00 PM | ESPN+ | Kathleen and Tom Elam Center, Martin, TN |  |  |  |
-| 11/28/2026 | Denver | New Mexico State | 3:00 PM | ESPN+ | Pan American Center, Las Cruces, NM |  |  |  |
-| 11/28/2026 | UT Rio Grande Valley | UNLV | 3:00 PM | MW+ | Thomas & Mack Center, Las Vegas, NV |  |  |  |
-| 11/28/2026 | Southeast Missouri State | Kansas City | 3:00 PM | Midco Sports Plus, Summit League Network | Swinney Center, Kansas City, MO |  |  |  |
-| 11/28/2026 | Northern Illinois | Eastern Illinois | 3:00 PM | ESPN+ | Groniger Arena, Charleston, IL |  |  |  |
-| 11/28/2026 | Brown | Air Force | 3:00 PM | MW+ | Clune Arena, Colorado Springs, CO |  |  |  |
-| 11/28/2026 | North Texas | Boise State | 3:30 PM | USA Net | Mountain America Center, Idaho Falls, ID |  |  |  |
-| 11/28/2026 | Paul Quinn | Sam Houston | 3:30 PM | ESPN+ | Bernard G. Johnson Coliseum, Huntsville, TX |  |  |  |
-| 11/28/2026 | Merrimack | Hofstra | 3:30 PM | FloSports | David S. Mack Sports and Exhibition Complex, Hempstead, NY |  |  |  |
-| 11/28/2026 | Buffalo | Towson | 3:30 PM | ESPN+ | The Palestra, Philadelphia, PA |  |  |  |
-| 11/28/2026 | Tennessee Tech | Eastern Kentucky | 4:00 PM | ESPN+ | Baptist Health Arena, Richmond, KY |  |  |  |
-| 11/28/2026 | McNeese | Louisiana | 4:00 PM | ESPN+ | Cajundome, Lafayette, LA |  |  |  |
-| 11/28/2026 | Azusa Pacific | Idaho State | 4:00 PM | ESPN+ | Reed Gym, Pocatello, ID |  |  |  |
-| 11/28/2026 | Drexel | Mount St. Mary's | 4:00 PM | ESPN+ | Knott Arena, Emmitsburg, MD |  |  |  |
-| 11/28/2026 | Delaware | Stony Brook | 4:00 PM | FloSports, SNY | Stony Brook Arena, Stony Brook, NY |  |  |  |
-| 11/28/2026 | East Texas A&M | Marshall | 4:00 PM | ESPN+ | Cam Henderson Center, Huntington, WV |  |  |  |
-| 11/28/2026 | San José State | Utah Valley | 4:00 PM | ESPN+ | UCCU Center, Orem, UT |  |  |  |
-| 11/28/2026 | Austin Peay | Furman | 4:00 PM | ESPN+ | Timmons Arena, Greenville, SC |  |  |  |
-| 11/28/2026 | Northern Colorado | San Diego | 4:00 PM | ESPN+ | Jenny Craig Pavilion, San Diego, CA |  |  |  |
-| 11/28/2026 | UMass Lowell | American University | 4:00 PM | ESPN+ | Bender Arena, Washington, DC |  |  |  |
-| 11/28/2026 | Maine | Lafayette | 4:30 PM | ESPN+ | Kirby Sports Center, Easton, PA |  |  |  |
-| 11/28/2026 | Lincoln (CA) | UC Riverside | 5:00 PM | ESPN+ | SRC Arena, Riverside, CA |  |  |  |
-| 11/28/2026 | Weber State | Cal State Fullerton | 5:00 PM | ESPN+ | Titan Gym, Fullerton, CA |  |  |  |
-| 11/28/2026 | Northern Arizona | Cal State Bakersfield | 5:00 PM | ESPN+ | Icardo Center, Bakersfield, CA |  |  |  |
-| 11/28/2026 | UC Irvine | Seattle U | 5:00 PM | ESPN+ | Redhawk Center, Seattle, WA |  |  |  |
-| 11/28/2026 | Cal Poly Humboldt | Nevada | 5:00 PM | MW+ | Lawlor Events Center, Reno, NV |  |  |  |
-| 11/28/2026 | South Alabama | South Dakota State | 6:00 PM | YouTube | Convocation Center (LA), New Orleans, LA |  |  |  |
-| 11/28/2026 | Drake | North Dakota State | 6:00 PM | YouTube | Mountain America Center, Idaho Falls, ID |  |  |  |
-| 11/28/2026 | Bucknell | Pennsylvania | 6:00 PM | ESPN+ | The Palestra, Philadelphia, PA |  |  |  |
-| 11/28/2026 | Trinity College of Jacksonville | Jacksonville | 6:00 PM | ESPN+ | Swisher Gymnasium, Jacksonville, FL |  |  |  |
-| 11/28/2026 | VMI | Richmond | 6:00 PM | ESPN+ | Robins Center, Richmond, VA |  |  |  |
-| 11/28/2026 | Toccoa Falls | Middle Tennessee | 6:30 PM | ESPN+ | Murphy Center, Murfreesboro, TN |  |  |  |
-| 11/28/2026 | St. Lawrence | Cornell | 7:00 PM | ESPN+ | Newman Arena, Ithaca, NY |  |  |  |
-| 11/28/2026 | Bethune-Cookman | San Francisco | 7:00 PM | ESPN+ | The Sobrato Center, San Francisco, CA |  |  |  |
-| 11/28/2026 | Portland State | Southern Illinois | 7:00 PM | ESPN+ | Banterra Center, Carbondale, IL |  |  |  |
-| 11/28/2026 | Saint Joseph's | Monmouth | 7:00 PM | FloSports, NBC Sports Phil | Hackensack Meridian Athletic Center, West Long Branch, NJ |  |  |  |
-| 11/28/2026 | Utah Tech | Santa Clara | 7:00 PM | ESPN+ | Leavey Center, Santa Clara, CA |  |  |  |
-| 11/28/2026 | Rider | Army | 7:00 PM | ESPN+ | Christl Arena, West Point, NY |  |  |  |
-| 11/28/2026 | Morehead State | Charleston Southern | 7:00 PM |  | Freedom Hall (TN), Johnson City, TN |  |  |  |
-| 11/28/2026 | South Carolina State | Duquesne | 7:30 PM | ESPN+ | UPMC Cooper Fieldhouse, Pittsburgh, PA |  |  |  |
-| 11/28/2026 | Stonehill | **Notre Dame** | 8:00 PM | ACCNX | Purcell Pavilion, South Bend, IN | Home ONLINE |  |  |
-| 11/28/2026 | Dallas | Abilene Christian | 8:00 PM | ESPN+ | Moody Coliseum (Abilene), Abilene, TX |  |  |  |
-| 11/28/2026 | California | Minnesota | 8:00 PM | BTN | Sanford Pentagon, Sioux Falls, SD |  |  |  |
-| 11/28/2026 | Loyola Marymount | UC San Diego | 10:00 PM | ESPN+ | LionTree Arena, San Diego, CA |  |  |  |
-| 11/28/2026 | TBD | TBD | 10:30 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
+| 11/28/2026 | Louisville | Creighton | 10:30 PM | ESPN | Michelob ULTRA Arena, Las Vegas, NV |  |  |  |
 
 ### Sunday November 29th
 
@@ -264,25 +146,16 @@ _All times ET_
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12/3/2026 | Western Illinois | **Indiana** | 6:00 PM | BTN | Simon Skjodt Assembly Hall, Bloomington, IN | Home 257 |  |  |
 
-## NBA — Upcoming Week
-2026-11-27 to 2026-12-03  
-_All times ET_  
-
-### Friday November 27th
+### Friday December 4th
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/27/2026 | Miami Heat | New York Knicks | 7:00 PM | Prime Video | Madison Square Garden, New York, NY | Home 86; Away ONLINE |  |  |
-| 11/27/2026 | Milwaukee Bucks | Detroit Pistons | 7:30 PM | Bucks App, MyMi | Little Caesars Arena, Detroit, MI | Home 217; Away ONLINE |  |  |
-| 11/27/2026 | Philadelphia 76ers | **Indiana Pacers** | 7:30 PM |  | Gainbridge Fieldhouse, Indianapolis, IN | Home 218; Away ONLINE |  |  |
-| 11/27/2026 | Brooklyn Nets | Toronto Raptors | 7:30 PM | DAZN (YES) | Scotiabank Arena, Toronto, ON | Home 160; Away 94 |  |  |
-| 11/27/2026 | Atlanta Hawks | Boston Celtics | 8:00 PM |  | TD Garden, Boston, MA | Home 219; Away ONLINE |  |  |
-| 11/27/2026 | Memphis Grizzlies | Minnesota Timberwolves | 8:30 PM | DAZN MEM, DAZN MIN | Target Center, Minneapolis, MN | Home 220; Away ONLINE |  |  |
-| 11/27/2026 | Dallas Mavericks | Phoenix Suns | 9:00 PM | Arizona's Family 3TV, KFAA-TV, MavsTV, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 221; Away 99 |  |  |
-| 11/27/2026 | Los Angeles Lakers | San Antonio Spurs | 9:30 PM | Prime Video | Frost Bank Center, San Antonio, TX | Home 86; Away 95 |  |  |
-| 11/27/2026 | Denver Nuggets | Utah Jazz | 9:30 PM | Jazz+, KJZZ-TV | Delta Center, Salt Lake City, UT | Home 167; Away ONLINE |  |  |
-| 11/27/2026 | New Orleans Pelicans | LA Clippers | 9:30 PM | ClipperVision, GCSEN, Pelicans.com | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
-| 11/27/2026 | Golden State Warriors | Portland Trail Blazers | 9:30 PM | BlazerVision, KUNP 16 | Moda Center, Portland, OR | Home 247; Away 171 |  |  |
+| 12/4/2026 | UConn | **Illinois** | 7:00 PM | Fox | United Center, Chicago, IL | Away 248 |  |  |
+| 12/4/2026 | Harvard | Duke | 7:00 PM | ESPN2 | Cameron Indoor Stadium, Durham, NC |  |  |  |
+
+## NBA — Upcoming Week
+2026-11-28 to 2026-12-04  
+_All times ET_  
 
 ### Saturday November 28th
 
@@ -345,6 +218,8 @@ _All times ET_
 | 12/2/2026 | New York Knicks | Milwaukee Bucks | 8:00 PM | Bucks App, MyMi | Fiserv Forum, Milwaukee, WI | Home 220; Away ONLINE |  |  |
 | 12/2/2026 | Los Angeles Lakers | New Orleans Pelicans | 8:00 PM | GCSEN, Pelicans.com, Spectrum Sports Net, Spectrum Sports Net + | Smoothie King Center, New Orleans, LA | Home 221; Away 95 |  |  |
 | 12/2/2026 | Brooklyn Nets | Oklahoma City Thunder | 8:00 PM | DAZN (YES), KSBI, Thunder App | Paycom Center, Oklahoma City, OK | Home 222; Away 94 |  |  |
+| 12/2/2026 | **Indiana Pacers** | Atlanta Hawks | 8:00 PM |  | State Farm Arena, Atlanta, GA |  |  |  |
+| 12/2/2026 | Toronto Raptors | San Antonio Spurs | 8:00 PM |  | Frost Bank Center, San Antonio, TX |  |  |  |
 | 12/2/2026 | Sacramento Kings | Phoenix Suns | 9:00 PM | Arizona's Family 3TV, Suns Live | Mortgage Matchup Center, Phoenix, AZ | Home 248; Away ONLINE |  |  |
 | 12/2/2026 | Minnesota Timberwolves | LA Clippers | 10:30 PM | ClipperVision, DAZN MIN, NBA TV | Intuit Dome, Inglewood, CA | Away ONLINE |  |  |
 
@@ -352,22 +227,20 @@ _All times ET_
 
 | Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12/3/2026 | **Indiana Pacers** | Atlanta Hawks | 7:00 PM |  | State Farm Arena, Atlanta, GA | Home 86; Away ONLINE |  |  |
 | 12/3/2026 | Washington Wizards | Miami Heat | 7:30 PM | MNMT | Kaseya Center, Miami, FL | Home 217; Away ONLINE |  |  |
 | 12/3/2026 | Cleveland Cavaliers | Chicago Bulls | 8:00 PM | DAZN CLE, NBA TV | United Center, Chicago, IL | Home 218; Away ONLINE |  |  |
-| 12/3/2026 | Toronto Raptors | San Antonio Spurs | 8:00 PM |  | Frost Bank Center, San Antonio, TX | Home 160; Away ONLINE |  |  |
 | 12/3/2026 | Utah Jazz | Portland Trail Blazers | 10:00 PM | BlazerVision, Jazz+, KJZZ-TV, KUNP 16 | Moda Center, Portland, OR | Home 86; Away ONLINE |  |  |
 
-## MLS — Upcoming Week
-2026-11-27 to 2026-12-03  
-_All times ET_  
+### Friday December 4th
 
-### Friday November 27th
-
-| Date | Away | Home | Match Time (ET) | TV | Venue | SiriusXM | Spread | Total |
+| Date | Away | Home | Tip (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/27/2026 | Inter Miami CF | Columbus Crew | 8:00 PM | Apple TV, FS1 | ScottsMiracle-Gro Field, Columbus, Ohio | Home 188; Away ONLINE |  |  |
-| 11/27/2026 | Vancouver Whitecaps | Real Salt Lake | 10:00 PM | Apple TV, FS1 | America First Field, Sandy, Utah | Home 188 |  |  |
+| 12/4/2026 | Philadelphia 76ers | Atlanta Hawks | 7:00 PM | Prime Video | State Farm Arena, Atlanta, GA |  |  |  |
+| 12/4/2026 | San Antonio Spurs | Dallas Mavericks | 9:30 PM | DAZN SAS, Prime Video | American Airlines Center, Dallas, TX |  |  |  |
+
+## MLS — Upcoming Week
+2026-11-28 to 2026-12-04  
+_All times ET_  
 
 ### Saturday November 28th
 
@@ -394,21 +267,15 @@ _All times ET_
 | 12/2/2026 | Houston Dynamo FC | San Jose Earthquakes | 10:00 PM | Apple TV | PayPal Park, San Jose, California |  |  |  |
 
 ## Premier League — Upcoming Week
-2026-11-27 to 2026-12-03  
+2026-11-28 to 2026-12-04  
 _All times ET_  
-
-### Friday November 27th
-
-| Date | Away | Home | Match Time (ET) | TV | Venue | SiriusXM | Spread | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11/27/2026 | Chelsea | Nottingham Forest | 3:00 PM | USA Net, Universo | The City Ground, Nottingham | Home 188; Away 188 |  |  |
 
 ### Saturday November 28th
 
 | Date | Away | Home | Match Time (ET) | TV | Venue | SiriusXM | Spread | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11/28/2026 | Coventry City | Leeds United | 10:00 AM | USA Net, Universo | Elland Road, Leeds |  |  |  |
-| 11/28/2026 | Brentford | Manchester United | 10:00 AM | Peacock | Old Trafford, Manchester | Home 188; Away 188 |  |  |
+| 11/28/2026 | Brentford | Manchester United | 10:00 AM | Peacock | Old Trafford, Manchester |  |  |  |
 | 11/28/2026 | Aston Villa | Ipswich Town | 12:30 PM | Tele, USA Net | Portman Road, Ipswich | Home 188; Away 188 |  |  |
 
 ### Sunday November 29th
